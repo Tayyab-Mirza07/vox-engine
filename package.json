@@ -5,7 +5,8 @@
   "scripts": {
     "timings": "node scripts/build-timings.mjs",
     "studio": "remotion studio src/index.tsx",
-    "render": "remotion render src/index.tsx Short out/reform-school-billionaire.mp4 --codec=h264 --crf=18"
+    "render": "remotion render src/index.tsx Short out/reform-school-billionaire.mp4 --codec=h264 --crf=18",
+    "master": "ffmpeg -y -i out/reform-school-billionaire.mp4 -c:v copy -af loudnorm=I=-14:TP=-1.5:LRA=11 -ar 48000 -c:a aac -b:a 192k -movflags +faststart out/reform-school-billionaire-final.mp4"
   },
   "repository": {
     "type": "git",
