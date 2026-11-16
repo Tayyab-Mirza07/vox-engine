@@ -1,5 +1,5 @@
 import React from 'react';
-import {AbsoluteFill, useCurrentFrame} from 'remotion';
+import {AbsoluteFill, Img, staticFile, useCurrentFrame} from 'remotion';
 import {BODY, C, DISPLAY, FPS, H, LINES, W, f, p, rnd, slam, lerp} from './lib';
 
 export const Background: React.FC<{tint?: string; warmth?: number}> = ({tint = C.green, warmth = 0}) => {
@@ -321,3 +321,54 @@ export const Figure: React.FC<{x: number; y: number; h: number; color: string; s
     </g>
   );
 };
+
+/** Framed photo with a slow push-in and the required photo credit. */
+export const Photo: React.FC<{src: string; width: number; height: number; zoom?: number; gray?: number; focus?: string}> = ({
+  src,
+  width,
+  height,
+  zoom = 1,
+  gray = 0,
+  focus = '50% 20%',
+}) => (
+  <div
+    style={{
+      position: 'relative',
+      width,
+      height,
+      borderRadius: 28,
+      overflow: 'hidden',
+      border: `6px solid ${C.green}`,
+      boxShadow: `0 0 70px ${C.green}55, 0 30px 80px #000`,
+      background: C.panel,
+    }}
+  >
+    <Img
+      src={staticFile(`photos/${src}`)}
+      style={{
+        width: '100%',
+        height: '100%',
+        objectFit: 'cover',
+        objectPosition: focus,
+        transform: `scale(${zoom})`,
+        transformOrigin: focus,
+        filter: `grayscale(${gray}) contrast(${1.05 + gray * 0.2})`,
+      }}
+    />
+    <div style={{position: 'absolute', inset: 0, background: 'linear-gradient(to bottom, transparent 62%, #000000cc 100%)'}} />
+    <div
+      style={{
+        position: 'absolute',
+        left: 18,
+        bottom: 12,
+        fontFamily: BODY,
+        fontWeight: 800,
+        fontSize: 20,
+        letterSpacing: 1,
+        color: '#ffffffb0',
+      }}
+    >
+      Photo: Anders Eidesvik · CC BY 4.0
+    </div>
+  </div>
+);

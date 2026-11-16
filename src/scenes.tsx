@@ -2,7 +2,7 @@ import React from 'react';
 import {AbsoluteFill, interpolate, useCurrentFrame} from 'remotion';
 import {Globe, PLACES, USMap, LonLat} from './geo';
 import {BODY, C, Cues, DISPLAY, H, W, inOut, lerp, p, rnd, slam} from './lib';
-import {Background, Chip, Figure, Headline, Stamp, Tag} from './ui';
+import {Background, Chip, Figure, Headline, Photo, Stamp, Tag} from './ui';
 
 type SceneProps = {cue: Cues};
 const clamp = {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'} as const;
@@ -24,36 +24,17 @@ export const Hook: React.FC<SceneProps> = ({cue}) => {
       <Headline at={0} size={104} y={210}>
         The <span style={{color: C.green}}>trillion-dollar</span> CEO
       </Headline>
-      <Center top={470} style={{transform: `scale(${zoom})`}}>
-        <svg width={700} height={780} viewBox="0 0 700 780">
-          <defs>
-            <linearGradient id="rim" x1="0" x2="1">
-              <stop offset="0%" stopColor={C.green} />
-              <stop offset="45%" stopColor="#1a2129" />
-              <stop offset="100%" stopColor="#0c1014" />
-            </linearGradient>
-          </defs>
-          {/* anonymous bust silhouette in a jacket */}
-          <circle cx={350} cy={230} r={150} fill="url(#rim)" />
-          <path d="M 60 780 Q 70 470 250 420 L 350 520 L 450 420 Q 630 470 640 780 Z" fill="url(#rim)" />
-          <path d="M 250 420 L 350 520 L 300 640 L 215 470 Z" fill="#05070a" opacity={0.75} />
-          <path d="M 450 420 L 350 520 L 400 640 L 485 470 Z" fill="#05070a" opacity={0.75} />
-          <text x={350} y={285} textAnchor="middle" fontFamily={DISPLAY} fontSize={170} fill={C.bg} opacity={0.9}>
-            ?
-          </text>
-        </svg>
+      <Center top={450}>
+        <Photo src="close.jpg" width={720} height={780} zoom={zoom * lerp(1, 1.08, frame / cue.dur)} gray={frame >= stampAt ? 1 : 0.15} focus="50% 20%" />
       </Center>
-      <Stamp at={stampAt} y={860} size={128}>
+      <Stamp at={stampAt} y={1010} size={128}>
         Reform school
       </Stamp>
       {frame >= mistakeAt ? (
-        <Center top={1050} style={{opacity: m.opacity, transform: `scale(${m.scale})`}}>
+        <Center top={1120} style={{opacity: m.opacity, transform: `scale(${m.scale})`}}>
           <div style={{fontFamily: DISPLAY, fontSize: 150, color: C.white, letterSpacing: 4, textShadow: '0 8px 40px #000'}}>BY MISTAKE.</div>
         </Center>
       ) : null}
-      <Center top={1250} style={{opacity: p(frame, mistakeAt + 8, 6)}}>
-        <Tag color={C.white}>Sent away at age 9</Tag>
-      </Center>
     </AbsoluteFill>
   );
 };
@@ -63,11 +44,13 @@ export const Setup: React.FC<SceneProps> = ({cue}) => {
   const frame = useCurrentFrame();
   const rewindAt = cue.s(1) - 4;
   const rewinding = frame >= rewindAt;
-  const chipIn = slam(frame, 2, 1.8);
+  const chipAt = cue.w('company');
+  const chipIn = slam(frame, chipAt, 1.8);
+  const photoOut = p(frame, chipAt - 4, 8);
   const nodes = Array.from({length: 14}, (_, i) => {
     const a = (i / 14) * Math.PI * 2 + 0.3;
     const r = 330 + rnd(i) * 130;
-    return {x: 540 + Math.cos(a) * r, y: 720 + Math.sin(a) * r * 0.85, d: 14 + i * 4};
+    return {x: 540 + Math.cos(a) * r, y: 720 + Math.sin(a) * r * 0.85, d: chipAt + 4 + i * 3};
   });
   const chart = Array.from({length: 40}, (_, i) => {
     const t = i / 39;
@@ -82,7 +65,15 @@ export const Setup: React.FC<SceneProps> = ({cue}) => {
     <AbsoluteFill>
       <Background />
       <AbsoluteFill style={{filter: `grayscale(${gray}) brightness(${1 - gray * 0.55})`, transform: `translateX(${jitter}px)`}}>
-        <Headline at={4} until={rewindAt + 200} size={84} y={200}>
+        <Headline at={2} until={chipAt - 1} size={110} y={200}>
+          Jensen <span style={{color: C.green}}>Huang</span>
+        </Headline>
+        {frame < chipAt + 6 ? (
+          <Center top={400} style={{opacity: 1 - photoOut, transform: `scale(${lerp(1, 0.8, photoOut)})`}}>
+            <Photo src="talk.jpg" width={760} height={880} zoom={lerp(1.12, 1, p(frame, 0, 60))} focus="50% 15%" />
+          </Center>
+        ) : null}
+        <Headline at={chipAt} until={rewindAt + 200} size={84} y={200}>
           Powering nearly <span style={{color: C.green}}>every AI</span> on Earth
         </Headline>
         <svg width={W} height={H} style={{position: 'absolute'}}>
@@ -95,14 +86,16 @@ export const Setup: React.FC<SceneProps> = ({cue}) => {
               </g>
             );
           })}
-          <polyline points={shown.map((q) => q.join(',')).join(' ')} fill="none" stroke={C.green} strokeWidth={10} strokeLinejoin="round" strokeLinecap="round" />
-          <circle cx={shown[shown.length - 1][0]} cy={shown[shown.length - 1][1]} r={16} fill={C.white} />
+          <g opacity={chartP > 0 ? 1 : 0}>
+            <polyline points={shown.map((q) => q.join(',')).join(' ')} fill="none" stroke={C.green} strokeWidth={10} strokeLinejoin="round" strokeLinecap="round" />
+            <circle cx={shown[shown.length - 1][0]} cy={shown[shown.length - 1][1]} r={16} fill={C.white} />
+          </g>
         </svg>
-        <Center top={520} style={{opacity: chipIn.opacity, transform: `scale(${chipIn.scale})`}}>
+        <Center top={520} style={{opacity: frame >= chipAt ? chipIn.opacity : 0, transform: `scale(${chipIn.scale})`}}>
           <Chip size={400} label="AI" glow={1 + Math.sin(frame / 5) * 0.4} />
         </Center>
-        <Center top={1010} style={{opacity: p(frame, 10, 8)}}>
-          <Tag>Jensen Huang · CEO, Nvidia</Tag>
+        <Center top={1300} style={{opacity: p(frame, 6, 8)}}>
+          <Tag>CEO, Nvidia</Tag>
         </Center>
       </AbsoluteFill>
       {rewinding ? (
@@ -572,6 +565,9 @@ export const Payoff: React.FC<SceneProps> = ({cue}) => {
             <circle cx={last[0]} cy={last[1]} r={20} fill={C.white} />
             <line x1={90} x2={990} y1={1200} y2={1200} stroke={C.line} strokeWidth={4} />
           </svg>
+          <div style={{position: 'absolute', top: 470, left: 90, opacity: p(frame, 2, 8)}}>
+            <Photo src="seated.jpg" width={470} height={600} zoom={lerp(1.1, 1, p(frame, 0, 50))} focus="50% 10%" />
+          </div>
         </>
       ) : null}
       {frame >= secretAt && frame < toiletsAt ? (
