@@ -9,6 +9,8 @@ Remotion project that turns a script into vertical shorts for the owner's YouTub
   (targets -14 LUFS integrated, -1.5 dBTP) and deliver the mastered file.
 - Show real, properly licensed photos/video of the person the video is about (e.g. Wikimedia Commons CC BY),
   keep the on-screen credit, and record sources in `public/photos/CREDITS.md`. Not just silhouettes/graphics.
+- Voiceover: generate with the owner's ElevenLabs connector (they have a paid ElevenLabs plan). Only fall back to
+  vidIQ voiceover (limited credits) if ElevenLabs is not connected, and say so.
 - The owner writes in Roman Urdu/Hinglish; reply in the same.
 
 ## Commands
