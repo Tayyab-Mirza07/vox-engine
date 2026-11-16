@@ -1,0 +1,43 @@
+{
+  "name": "vox-engine",
+  "version": "1.0.0",
+  "description": "AI-powered Vox-style documentary engine built with Claude + Remotion. Script -> Research -> Fact-check -> Map/Chart animations -> Auto-synced video.",
+  "scripts": {
+    "timings": "node scripts/build-timings.mjs",
+    "studio": "remotion studio src/index.tsx",
+    "render": "remotion render src/index.tsx Short out/reform-school-billionaire.mp4 --codec=h264 --crf=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tayyab-Mirza07/vox-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tayyab-Mirza07/vox-engine/issues"
+  },
+  "homepage": "https://github.com/Tayyab-Mirza07/vox-engine#readme",
+  "dependencies": {
+    "@fontsource/anton": "^5.3.0",
+    "@fontsource/inter": "^5.3.0",
+    "@remotion/bundler": "^4.0.544",
+    "@remotion/cli": "^4.0.544",
+    "@remotion/renderer": "^4.0.544",
+    "@types/react": "^19.3.0",
+    "d3-geo": "^3.1.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.544",
+    "topojson-client": "^3.1.0",
+    "typescript": "^7.0.2",
+    "us-atlas": "^3.0.1",
+    "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.1",
+    "@types/react-dom": "^19.3.0",
+    "@types/topojson-client": "^3.1.5"
+  },
+  "private": true
+}
