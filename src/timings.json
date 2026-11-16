@@ -1,73 +1,73 @@
 {
- "total": 80.185,
+ "total": 82.432,
  "lines": [
   {
    "index": 0,
    "file": "vo/line0.mp3",
    "start": 0.25,
-   "dur": 5.068,
+   "dur": 4.989,
    "sentences": [
     {
      "text": "This trillion-dollar CEO was sent to reform school.",
      "start": 0.25,
-     "end": 3.756,
+     "end": 3.722,
      "words": [
       {
        "w": "This",
        "start": 0.25,
-       "end": 0.607
+       "end": 0.604
       },
       {
        "w": "trillion-dollar",
-       "start": 0.607,
-       "end": 1.614
+       "start": 0.604,
+       "end": 1.6
       },
       {
        "w": "CEO",
-       "start": 1.614,
-       "end": 1.906
+       "start": 1.6,
+       "end": 1.89
       },
       {
        "w": "was",
-       "start": 1.906,
-       "end": 2.198
+       "start": 1.89,
+       "end": 2.179
       },
       {
        "w": "sent",
-       "start": 2.198,
-       "end": 2.555
+       "start": 2.179,
+       "end": 2.532
       },
       {
        "w": "to",
-       "start": 2.555,
-       "end": 2.782
+       "start": 2.532,
+       "end": 2.758
       },
       {
        "w": "reform",
-       "start": 2.782,
-       "end": 3.269
+       "start": 2.758,
+       "end": 3.24
       },
       {
        "w": "school.",
-       "start": 3.269,
-       "end": 3.756
+       "start": 3.24,
+       "end": 3.722
       }
      ]
     },
     {
      "text": "By mistake.",
-     "start": 4.282,
-     "end": 5.086,
+     "start": 4.277,
+     "end": 5.042,
      "words": [
       {
        "w": "By",
-       "start": 4.282,
-       "end": 4.516
+       "start": 4.277,
+       "end": 4.5
       },
       {
        "w": "mistake.",
-       "start": 4.516,
-       "end": 5.086
+       "start": 4.5,
+       "end": 5.042
       }
      ]
     }
@@ -76,140 +76,140 @@
   {
    "index": 1,
    "file": "vo/line1.mp3",
-   "start": 5.668,
-   "dur": 8.986,
+   "start": 5.589,
+   "dur": 9.561,
    "sentences": [
     {
      "text": "Jensen Huang runs Nvidia, the company powering nearly every AI on Earth.",
-     "start": 5.668,
-     "end": 10.738,
+     "start": 5.589,
+     "end": 10.915,
      "words": [
       {
        "w": "Jensen",
-       "start": 5.668,
-       "end": 6.177
+       "start": 5.589,
+       "end": 6.133
       },
       {
        "w": "Huang",
-       "start": 6.177,
-       "end": 6.618
+       "start": 6.133,
+       "end": 6.604
       },
       {
        "w": "runs",
-       "start": 6.618,
-       "end": 6.991
+       "start": 6.604,
+       "end": 7.003
       },
       {
        "w": "Nvidia,",
-       "start": 6.991,
-       "end": 7.5
+       "start": 7.003,
+       "end": 7.547
       },
       {
        "w": "the",
-       "start": 7.918,
-       "end": 8.172
+       "start": 7.907,
+       "end": 8.178
       },
       {
        "w": "company",
-       "start": 8.172,
-       "end": 8.651
+       "start": 8.178,
+       "end": 8.69
       },
       {
        "w": "powering",
-       "start": 8.651,
-       "end": 9.187
+       "start": 8.69,
+       "end": 9.261
       },
       {
        "w": "nearly",
-       "start": 9.187,
-       "end": 9.61
+       "start": 9.261,
+       "end": 9.712
       },
       {
        "w": "every",
-       "start": 9.61,
-       "end": 9.977
+       "start": 9.712,
+       "end": 10.103
       },
       {
        "w": "AI",
-       "start": 9.977,
-       "end": 10.174
+       "start": 10.103,
+       "end": 10.314
       },
       {
        "w": "on",
-       "start": 10.174,
-       "end": 10.371
+       "start": 10.314,
+       "end": 10.524
       },
       {
        "w": "Earth.",
-       "start": 10.371,
-       "end": 10.738
+       "start": 10.524,
+       "end": 10.915
       }
      ]
     },
     {
      "text": "But his story starts with a mistake that should have broken him.",
-     "start": 11.371,
-     "end": 14.398,
+     "start": 11.456,
+     "end": 14.877,
      "words": [
       {
        "w": "But",
-       "start": 11.371,
-       "end": 11.565
+       "start": 11.456,
+       "end": 11.676
       },
       {
        "w": "his",
-       "start": 11.565,
-       "end": 11.76
+       "start": 11.676,
+       "end": 11.896
       },
       {
        "w": "story",
-       "start": 11.76,
-       "end": 12.041
+       "start": 11.896,
+       "end": 12.213
       },
       {
        "w": "starts",
-       "start": 12.041,
-       "end": 12.365
+       "start": 12.213,
+       "end": 12.58
       },
       {
        "w": "with",
-       "start": 12.365,
-       "end": 12.603
+       "start": 12.58,
+       "end": 12.849
       },
       {
        "w": "a",
-       "start": 12.603,
-       "end": 12.711
+       "start": 12.849,
+       "end": 12.971
       },
       {
        "w": "mistake",
-       "start": 12.711,
-       "end": 13.079
+       "start": 12.971,
+       "end": 13.387
       },
       {
        "w": "that",
-       "start": 13.079,
-       "end": 13.317
+       "start": 13.387,
+       "end": 13.655
       },
       {
        "w": "should",
-       "start": 13.317,
-       "end": 13.641
+       "start": 13.655,
+       "end": 14.022
       },
       {
        "w": "have",
-       "start": 13.641,
-       "end": 13.879
+       "start": 14.022,
+       "end": 14.291
       },
       {
        "w": "broken",
-       "start": 13.879,
-       "end": 14.203
+       "start": 14.291,
+       "end": 14.657
       },
       {
        "w": "him.",
-       "start": 14.203,
-       "end": 14.398
+       "start": 14.657,
+       "end": 14.877
       }
      ]
     }
@@ -218,179 +218,179 @@
   {
    "index": 2,
    "file": "vo/line2.mp3",
-   "start": 15.004,
-   "dur": 10.762,
+   "start": 15.5,
+   "dur": 11.546,
    "sentences": [
     {
      "text": "Born in Taiwan.",
-     "start": 15.004,
-     "end": 16.1,
+     "start": 15.5,
+     "end": 16.745,
      "words": [
       {
        "w": "Born",
-       "start": 15.004,
-       "end": 15.369
+       "start": 15.5,
+       "end": 15.915
       },
       {
        "w": "in",
-       "start": 15.369,
-       "end": 15.602
+       "start": 15.915,
+       "end": 16.179
       },
       {
        "w": "Taiwan.",
-       "start": 15.602,
-       "end": 16.1
+       "start": 16.179,
+       "end": 16.745
       }
      ]
     },
     {
      "text": "Raised in Thailand.",
-     "start": 16.639,
-     "end": 17.662,
+     "start": 17.246,
+     "end": 18.443,
      "words": [
       {
        "w": "Raised",
-       "start": 16.639,
-       "end": 17.014
+       "start": 17.246,
+       "end": 17.684
       },
       {
        "w": "in",
-       "start": 17.014,
-       "end": 17.188
+       "start": 17.684,
+       "end": 17.888
       },
       {
        "w": "Thailand.",
-       "start": 17.188,
-       "end": 17.662
+       "start": 17.888,
+       "end": 18.443
       }
      ]
     },
     {
      "text": "At nine, his parents send him and his brother to America, alone.",
-     "start": 18.251,
-     "end": 22.19,
+     "start": 19.031,
+     "end": 23.103,
      "words": [
       {
        "w": "At",
-       "start": 18.251,
-       "end": 18.454
+       "start": 19.031,
+       "end": 19.287
       },
       {
        "w": "nine,",
-       "start": 18.454,
-       "end": 18.772
+       "start": 19.287,
+       "end": 19.691
       },
       {
        "w": "his",
-       "start": 18.772,
-       "end": 18.99
+       "start": 19.886,
+       "end": 20.094
       },
       {
        "w": "parents",
-       "start": 18.99,
-       "end": 19.401
+       "start": 20.094,
+       "end": 20.487
       },
       {
        "w": "send",
-       "start": 19.401,
-       "end": 19.667
+       "start": 20.487,
+       "end": 20.742
       },
       {
        "w": "him",
-       "start": 19.667,
-       "end": 19.885
+       "start": 20.742,
+       "end": 20.95
       },
       {
        "w": "and",
-       "start": 19.885,
-       "end": 20.102
+       "start": 20.95,
+       "end": 21.159
       },
       {
        "w": "his",
-       "start": 20.102,
-       "end": 20.32
+       "start": 21.159,
+       "end": 21.367
       },
       {
        "w": "brother",
-       "start": 20.32,
-       "end": 20.731
+       "start": 21.367,
+       "end": 21.76
       },
       {
        "w": "to",
-       "start": 20.731,
-       "end": 20.9
+       "start": 21.76,
+       "end": 21.922
       },
       {
        "w": "America,",
-       "start": 20.9,
-       "end": 21.311
+       "start": 21.922,
+       "end": 22.316
       },
       {
        "w": "alone.",
-       "start": 21.717,
-       "end": 22.19
+       "start": 22.681,
+       "end": 23.103
       }
      ]
     },
     {
      "text": "His uncle picks what he thinks is an elite boarding school.",
-     "start": 22.818,
-     "end": 25.492,
+     "start": 23.703,
+     "end": 26.801,
      "words": [
       {
        "w": "His",
-       "start": 22.818,
-       "end": 23.005
+       "start": 23.703,
+       "end": 23.919
       },
       {
        "w": "uncle",
-       "start": 23.005,
-       "end": 23.274
+       "start": 23.919,
+       "end": 24.231
       },
       {
        "w": "picks",
-       "start": 23.274,
-       "end": 23.543
+       "start": 24.231,
+       "end": 24.544
       },
       {
        "w": "what",
-       "start": 23.543,
-       "end": 23.771
+       "start": 24.544,
+       "end": 24.808
       },
       {
        "w": "he",
-       "start": 23.771,
-       "end": 23.916
+       "start": 24.808,
+       "end": 24.976
       },
       {
        "w": "thinks",
-       "start": 23.916,
-       "end": 24.227
+       "start": 24.976,
+       "end": 25.336
       },
       {
        "w": "is",
-       "start": 24.227,
-       "end": 24.372
+       "start": 25.336,
+       "end": 25.504
       },
       {
        "w": "an",
-       "start": 24.372,
-       "end": 24.517
+       "start": 25.504,
+       "end": 25.672
       },
       {
        "w": "elite",
-       "start": 24.517,
-       "end": 24.787
+       "start": 25.672,
+       "end": 25.984
       },
       {
        "w": "boarding",
-       "start": 24.787,
-       "end": 25.181
+       "start": 25.984,
+       "end": 26.441
       },
       {
        "w": "school.",
-       "start": 25.181,
-       "end": 25.492
+       "start": 26.441,
+       "end": 26.801
       }
      ]
     }
@@ -399,198 +399,198 @@
   {
    "index": 3,
    "file": "vo/line3.mp3",
-   "start": 26.116,
-   "dur": 14.211,
+   "start": 27.396,
+   "dur": 14.446,
    "sentences": [
     {
      "text": "It wasn't.",
-     "start": 26.116,
-     "end": 26.903,
+     "start": 27.396,
+     "end": 28.11,
      "words": [
       {
        "w": "It",
-       "start": 26.116,
-       "end": 26.392
+       "start": 27.396,
+       "end": 27.646
       },
       {
        "w": "wasn't.",
-       "start": 26.392,
-       "end": 26.903
+       "start": 27.646,
+       "end": 28.11
       }
      ]
     },
     {
      "text": "Oneida Baptist Institute was a reform school in rural Kentucky.",
-     "start": 27.489,
-     "end": 31.154,
+     "start": 28.795,
+     "end": 32.571,
      "words": [
       {
        "w": "Oneida",
-       "start": 27.489,
-       "end": 27.893
+       "start": 28.795,
+       "end": 29.211
       },
       {
        "w": "Baptist",
-       "start": 27.893,
-       "end": 28.351
+       "start": 29.211,
+       "end": 29.683
       },
       {
        "w": "Institute",
-       "start": 28.351,
-       "end": 28.917
+       "start": 29.683,
+       "end": 30.266
       },
       {
        "w": "was",
-       "start": 28.917,
-       "end": 29.16
+       "start": 30.266,
+       "end": 30.516
       },
       {
        "w": "a",
-       "start": 29.16,
-       "end": 29.295
+       "start": 30.516,
+       "end": 30.655
       },
       {
        "w": "reform",
-       "start": 29.295,
-       "end": 29.699
+       "start": 30.655,
+       "end": 31.072
       },
       {
        "w": "school",
-       "start": 29.699,
-       "end": 30.103
+       "start": 31.072,
+       "end": 31.488
       },
       {
        "w": "in",
-       "start": 30.103,
-       "end": 30.292
+       "start": 31.488,
+       "end": 31.682
       },
       {
        "w": "rural",
-       "start": 30.292,
-       "end": 30.642
+       "start": 31.682,
+       "end": 32.043
       },
       {
        "w": "Kentucky.",
-       "start": 30.642,
-       "end": 31.154
+       "start": 32.043,
+       "end": 32.571
       }
      ]
     },
     {
      "text": "His roommate was seventeen, covered in tattoos and knife scars.",
-     "start": 31.773,
-     "end": 35.606,
+     "start": 33.174,
+     "end": 37.07,
      "words": [
       {
        "w": "His",
-       "start": 31.773,
-       "end": 32.006
+       "start": 33.174,
+       "end": 33.405
       },
       {
        "w": "roommate",
-       "start": 32.006,
-       "end": 32.496
+       "start": 33.405,
+       "end": 33.891
       },
       {
        "w": "was",
-       "start": 32.496,
-       "end": 32.728
+       "start": 33.891,
+       "end": 34.122
       },
       {
        "w": "seventeen,",
-       "start": 32.728,
-       "end": 33.27
+       "start": 34.122,
+       "end": 34.66
       },
       {
        "w": "covered",
-       "start": 33.65,
-       "end": 34.088
+       "start": 34.911,
+       "end": 35.394
       },
       {
        "w": "in",
-       "start": 34.088,
-       "end": 34.268
+       "start": 35.394,
+       "end": 35.593
       },
       {
        "w": "tattoos",
-       "start": 34.268,
-       "end": 34.705
+       "start": 35.593,
+       "end": 36.076
       },
       {
        "w": "and",
-       "start": 34.705,
-       "end": 34.937
+       "start": 36.076,
+       "end": 36.332
       },
       {
        "w": "knife",
-       "start": 34.937,
-       "end": 35.271
+       "start": 36.332,
+       "end": 36.701
       },
       {
        "w": "scars.",
-       "start": 35.271,
-       "end": 35.606
+       "start": 36.701,
+       "end": 37.07
       }
      ]
     },
     {
      "text": "Jensen's job?",
-     "start": 36.218,
-     "end": 37.022,
+     "start": 37.595,
+     "end": 38.351,
      "words": [
       {
        "w": "Jensen's",
-       "start": 36.218,
-       "end": 36.744
+       "start": 37.595,
+       "end": 38.09
       },
       {
        "w": "job?",
-       "start": 36.744,
-       "end": 37.022
+       "start": 38.09,
+       "end": 38.351
       }
      ]
     },
     {
      "text": "Cleaning the toilets.",
-     "start": 37.497,
-     "end": 38.483,
+     "start": 38.861,
+     "end": 39.93,
      "words": [
       {
        "w": "Cleaning",
-       "start": 37.497,
-       "end": 37.913
+       "start": 38.861,
+       "end": 39.312
       },
       {
        "w": "the",
-       "start": 37.913,
-       "end": 38.111
+       "start": 39.312,
+       "end": 39.526
       },
       {
        "w": "toilets.",
-       "start": 38.111,
-       "end": 38.483
+       "start": 39.526,
+       "end": 39.93
       }
      ]
     },
     {
      "text": "Every single day.",
-     "start": 38.9,
-     "end": 40.032,
+     "start": 40.412,
+     "end": 41.557,
      "words": [
       {
        "w": "Every",
-       "start": 38.9,
-       "end": 39.298
+       "start": 40.412,
+       "end": 40.815
       },
       {
        "w": "single",
-       "start": 39.298,
-       "end": 39.757
+       "start": 40.815,
+       "end": 41.279
       },
       {
        "w": "day.",
-       "start": 39.757,
-       "end": 40.032
+       "start": 41.279,
+       "end": 41.557
       }
      ]
     }
@@ -599,164 +599,164 @@
   {
    "index": 4,
    "file": "vo/line4.mp3",
-   "start": 40.677,
-   "dur": 9.717,
+   "start": 42.192,
+   "dur": 9.718,
    "sentences": [
     {
      "text": "But he didn't break.",
-     "start": 40.677,
-     "end": 41.885,
+     "start": 42.192,
+     "end": 43.428,
      "words": [
       {
        "w": "But",
-       "start": 40.677,
-       "end": 40.936
+       "start": 42.192,
+       "end": 42.457
       },
       {
        "w": "he",
-       "start": 40.936,
-       "end": 41.137
+       "start": 42.457,
+       "end": 42.663
       },
       {
        "w": "didn't",
-       "start": 41.137,
-       "end": 41.511
+       "start": 42.663,
+       "end": 43.046
       },
       {
        "w": "break.",
-       "start": 41.511,
-       "end": 41.885
+       "start": 43.046,
+       "end": 43.428
       }
      ]
     },
     {
      "text": "He taught that roommate to read.",
-     "start": 42.413,
-     "end": 44.118,
+     "start": 44.021,
+     "end": 45.562,
      "words": [
       {
        "w": "He",
-       "start": 42.413,
-       "end": 42.583
+       "start": 44.021,
+       "end": 44.175
       },
       {
        "w": "taught",
-       "start": 42.583,
-       "end": 42.949
+       "start": 44.175,
+       "end": 44.505
       },
       {
        "w": "that",
-       "start": 42.949,
-       "end": 43.217
+       "start": 44.505,
+       "end": 44.747
       },
       {
        "w": "roommate",
-       "start": 43.217,
-       "end": 43.679
+       "start": 44.747,
+       "end": 45.166
       },
       {
        "w": "to",
-       "start": 43.679,
-       "end": 43.85
+       "start": 45.166,
+       "end": 45.32
       },
       {
        "w": "read.",
-       "start": 43.85,
-       "end": 44.118
+       "start": 45.32,
+       "end": 45.562
       }
      ]
     },
     {
      "text": "In return, the roommate taught him to lift.",
-     "start": 44.697,
-     "end": 47.108,
+     "start": 46.142,
+     "end": 48.553,
      "words": [
       {
        "w": "In",
-       "start": 44.697,
-       "end": 44.932
+       "start": 46.142,
+       "end": 46.344
       },
       {
        "w": "return,",
-       "start": 44.932,
-       "end": 45.436
+       "start": 46.344,
+       "end": 46.776
       },
       {
        "w": "the",
-       "start": 45.722,
-       "end": 45.9
+       "start": 47.026,
+       "end": 47.222
       },
       {
        "w": "roommate",
-       "start": 45.9,
-       "end": 46.276
+       "start": 47.222,
+       "end": 47.637
       },
       {
        "w": "taught",
-       "start": 46.276,
-       "end": 46.573
+       "start": 47.637,
+       "end": 47.964
       },
       {
        "w": "him",
-       "start": 46.573,
-       "end": 46.752
+       "start": 47.964,
+       "end": 48.16
       },
       {
        "w": "to",
-       "start": 46.752,
-       "end": 46.89
+       "start": 48.16,
+       "end": 48.313
       },
       {
        "w": "lift.",
-       "start": 46.89,
-       "end": 47.108
+       "start": 48.313,
+       "end": 48.553
       }
      ]
     },
     {
      "text": "Later, he said those years made him tough.",
-     "start": 47.716,
-     "end": 50.169,
+     "start": 49.115,
+     "end": 51.622,
      "words": [
       {
        "w": "Later,",
-       "start": 47.716,
-       "end": 48.07
+       "start": 49.115,
+       "end": 49.512
       },
       {
        "w": "he",
-       "start": 48.07,
-       "end": 48.261
+       "start": 49.813,
+       "end": 49.978
       },
       {
        "w": "said",
-       "start": 48.261,
-       "end": 48.561
+       "start": 49.978,
+       "end": 50.236
       },
       {
        "w": "those",
-       "start": 48.561,
-       "end": 48.915
+       "start": 50.236,
+       "end": 50.541
       },
       {
        "w": "years",
-       "start": 48.915,
-       "end": 49.27
+       "start": 50.541,
+       "end": 50.847
       },
       {
        "w": "made",
-       "start": 49.27,
-       "end": 49.57
+       "start": 50.847,
+       "end": 51.105
       },
       {
        "w": "him",
-       "start": 49.57,
-       "end": 49.815
+       "start": 51.105,
+       "end": 51.317
       },
       {
        "w": "tough.",
-       "start": 49.815,
-       "end": 50.169
+       "start": 51.317,
+       "end": 51.622
       }
      ]
     }
@@ -765,145 +765,145 @@
   {
    "index": 5,
    "file": "vo/line5.mp3",
-   "start": 50.744,
-   "dur": 9.717,
+   "start": 52.26,
+   "dur": 9.874,
    "sentences": [
     {
      "text": "At fifteen, he's washing dishes at a Denny's in Oregon.",
-     "start": 50.744,
-     "end": 54.104,
+     "start": 52.26,
+     "end": 55.609,
      "words": [
       {
        "w": "At",
-       "start": 50.744,
-       "end": 51.034
+       "start": 52.26,
+       "end": 52.52
       },
       {
        "w": "fifteen,",
-       "start": 51.034,
-       "end": 51.739
+       "start": 52.52,
+       "end": 53.151
       },
       {
        "w": "he's",
-       "start": 51.946,
-       "end": 52.162
+       "start": 53.385,
+       "end": 53.608
       },
       {
        "w": "washing",
-       "start": 52.162,
-       "end": 52.569
+       "start": 53.608,
+       "end": 54.028
       },
       {
        "w": "dishes",
-       "start": 52.569,
-       "end": 52.929
+       "start": 54.028,
+       "end": 54.398
       },
       {
        "w": "at",
-       "start": 52.929,
-       "end": 53.097
+       "start": 54.398,
+       "end": 54.571
       },
       {
        "w": "a",
-       "start": 53.097,
-       "end": 53.217
+       "start": 54.571,
+       "end": 54.695
       },
       {
        "w": "Denny's",
-       "start": 53.217,
-       "end": 53.576
+       "start": 54.695,
+       "end": 55.065
       },
       {
        "w": "in",
-       "start": 53.576,
-       "end": 53.744
+       "start": 55.065,
+       "end": 55.238
       },
       {
        "w": "Oregon.",
-       "start": 53.744,
-       "end": 54.104
+       "start": 55.238,
+       "end": 55.609
       }
      ]
     },
     {
      "text": "In 1993, in a Denny's booth in San Jose, he and two friends start Nvidia.",
-     "start": 54.702,
-     "end": 60.233,
+     "start": 56.121,
+     "end": 61.832,
      "words": [
       {
        "w": "In",
-       "start": 54.702,
-       "end": 55.223
+       "start": 56.121,
+       "end": 56.617
       },
       {
        "w": "1993,",
-       "start": 55.223,
-       "end": 56.042
+       "start": 56.617,
+       "end": 57.398
       },
       {
        "w": "in",
-       "start": 56.247,
-       "end": 56.431
+       "start": 57.59,
+       "end": 57.773
       },
       {
        "w": "a",
-       "start": 56.431,
-       "end": 56.562
+       "start": 57.773,
+       "end": 57.903
       },
       {
        "w": "Denny's",
-       "start": 56.562,
-       "end": 56.956
+       "start": 57.903,
+       "end": 58.293
       },
       {
        "w": "booth",
-       "start": 56.956,
-       "end": 57.297
+       "start": 58.293,
+       "end": 58.632
       },
       {
        "w": "in",
-       "start": 57.297,
-       "end": 57.481
+       "start": 58.632,
+       "end": 58.814
       },
       {
        "w": "San",
-       "start": 57.481,
-       "end": 57.717
+       "start": 58.814,
+       "end": 59.048
       },
       {
        "w": "Jose,",
-       "start": 57.717,
-       "end": 58.006
+       "start": 59.048,
+       "end": 59.335
       },
       {
        "w": "he",
-       "start": 58.365,
-       "end": 58.552
+       "start": 59.735,
+       "end": 59.944
       },
       {
        "w": "and",
-       "start": 58.552,
-       "end": 58.792
+       "start": 59.944,
+       "end": 60.214
       },
       {
        "w": "two",
-       "start": 58.792,
-       "end": 59.032
+       "start": 60.214,
+       "end": 60.484
       },
       {
        "w": "friends",
-       "start": 59.032,
-       "end": 59.486
+       "start": 60.484,
+       "end": 60.993
       },
       {
        "w": "start",
-       "start": 59.486,
-       "end": 59.833
+       "start": 60.993,
+       "end": 61.382
       },
       {
        "w": "Nvidia.",
-       "start": 59.833,
-       "end": 60.233
+       "start": 61.382,
+       "end": 61.832
       }
      ]
     }
@@ -912,154 +912,154 @@
   {
    "index": 6,
    "file": "vo/line6.mp3",
-   "start": 60.812,
-   "dur": 9.717,
+   "start": 62.484,
+   "dur": 10.031,
    "sentences": [
     {
      "text": "Three years later, the first chip flops.",
-     "start": 60.812,
-     "end": 63.474,
+     "start": 62.484,
+     "end": 65.192,
      "words": [
       {
        "w": "Three",
-       "start": 60.812,
-       "end": 61.171
+       "start": 62.484,
+       "end": 62.815
       },
       {
        "w": "years",
-       "start": 61.171,
-       "end": 61.53
+       "start": 62.815,
+       "end": 63.146
       },
       {
        "w": "later,",
-       "start": 61.53,
-       "end": 61.889
+       "start": 63.146,
+       "end": 63.477
       },
       {
        "w": "the",
-       "start": 62.165,
-       "end": 62.421
+       "start": 63.751,
+       "end": 64.033
       },
       {
        "w": "first",
-       "start": 62.421,
-       "end": 62.791
+       "start": 64.033,
+       "end": 64.44
       },
       {
        "w": "chip",
-       "start": 62.791,
-       "end": 63.104
+       "start": 64.44,
+       "end": 64.785
       },
       {
        "w": "flops.",
-       "start": 63.104,
-       "end": 63.474
+       "start": 64.785,
+       "end": 65.192
       }
      ]
     },
     {
      "text": "Half the staff is gone.",
-     "start": 63.913,
-     "end": 65.248,
+     "start": 65.687,
+     "end": 67.091,
      "words": [
       {
        "w": "Half",
-       "start": 63.913,
-       "end": 64.201
+       "start": 65.687,
+       "end": 65.99
       },
       {
        "w": "the",
-       "start": 64.201,
-       "end": 64.437
+       "start": 65.99,
+       "end": 66.238
       },
       {
        "w": "staff",
-       "start": 64.437,
-       "end": 64.777
+       "start": 66.238,
+       "end": 66.596
       },
       {
        "w": "is",
-       "start": 64.777,
-       "end": 64.961
+       "start": 66.596,
+       "end": 66.788
       },
       {
        "w": "gone.",
-       "start": 64.961,
-       "end": 65.248
+       "start": 66.788,
+       "end": 67.091
       }
      ]
     },
     {
      "text": "Nvidia is about thirty days from dying.",
-     "start": 65.835,
-     "end": 68.091,
+     "start": 67.555,
+     "end": 70.032,
      "words": [
       {
        "w": "Nvidia",
-       "start": 65.835,
-       "end": 66.233
+       "start": 67.555,
+       "end": 67.992
       },
       {
        "w": "is",
-       "start": 66.233,
-       "end": 66.419
+       "start": 67.992,
+       "end": 68.196
       },
       {
        "w": "about",
-       "start": 66.419,
-       "end": 66.764
+       "start": 68.196,
+       "end": 68.575
       },
       {
        "w": "thirty",
-       "start": 66.764,
-       "end": 67.162
+       "start": 68.575,
+       "end": 69.012
       },
       {
        "w": "days",
-       "start": 67.162,
-       "end": 67.454
+       "start": 69.012,
+       "end": 69.332
       },
       {
        "w": "from",
-       "start": 67.454,
-       "end": 67.746
+       "start": 69.332,
+       "end": 69.653
       },
       {
        "w": "dying.",
-       "start": 67.746,
-       "end": 68.091
+       "start": 69.653,
+       "end": 70.032
       }
      ]
     },
     {
      "text": "One last chip saves it.",
-     "start": 68.727,
-     "end": 70.268,
+     "start": 70.595,
+     "end": 72.249,
      "words": [
       {
        "w": "One",
-       "start": 68.727,
-       "end": 68.999
+       "start": 70.595,
+       "end": 70.887
       },
       {
        "w": "last",
-       "start": 68.999,
-       "end": 69.331
+       "start": 70.887,
+       "end": 71.243
       },
       {
        "w": "chip",
-       "start": 69.331,
-       "end": 69.664
+       "start": 71.243,
+       "end": 71.6
       },
       {
        "w": "saves",
-       "start": 69.664,
-       "end": 70.056
+       "start": 71.6,
+       "end": 72.022
       },
       {
        "w": "it.",
-       "start": 70.056,
-       "end": 70.268
+       "start": 72.022,
+       "end": 72.249
       }
      ]
     }
@@ -1068,127 +1068,127 @@
   {
    "index": 7,
    "file": "vo/line7.mp3",
-   "start": 70.879,
-   "dur": 7.706,
+   "start": 72.865,
+   "dur": 7.967,
    "sentences": [
     {
      "text": "Today it's worth trillions.",
-     "start": 70.879,
-     "end": 72.932,
+     "start": 72.865,
+     "end": 74.939,
      "words": [
       {
        "w": "Today",
-       "start": 70.879,
-       "end": 71.356
+       "start": 72.865,
+       "end": 73.346
       },
       {
        "w": "it's",
-       "start": 71.356,
-       "end": 71.686
+       "start": 73.346,
+       "end": 73.68
       },
       {
        "w": "worth",
-       "start": 71.686,
-       "end": 72.162
+       "start": 73.68,
+       "end": 74.161
       },
       {
        "w": "trillions.",
-       "start": 72.162,
-       "end": 72.932
+       "start": 74.161,
+       "end": 74.939
       }
      ]
     },
     {
      "text": "So his biggest secret isn't a chip.",
-     "start": 73.434,
-     "end": 75.448,
+     "start": 75.498,
+     "end": 77.665,
      "words": [
       {
        "w": "So",
-       "start": 73.434,
-       "end": 73.622
+       "start": 75.498,
+       "end": 75.7
       },
       {
        "w": "his",
-       "start": 73.622,
-       "end": 73.864
+       "start": 75.7,
+       "end": 75.96
       },
       {
        "w": "biggest",
-       "start": 73.864,
-       "end": 74.32
+       "start": 75.96,
+       "end": 76.451
       },
       {
        "w": "secret",
-       "start": 74.32,
-       "end": 74.723
+       "start": 76.451,
+       "end": 76.884
       },
       {
        "w": "isn't",
-       "start": 74.723,
-       "end": 75.018
+       "start": 76.884,
+       "end": 77.202
       },
       {
        "w": "a",
-       "start": 75.018,
-       "end": 75.153
+       "start": 77.202,
+       "end": 77.347
       },
       {
        "w": "chip.",
-       "start": 75.153,
-       "end": 75.448
+       "start": 77.347,
+       "end": 77.665
       }
      ]
     },
     {
      "text": "It's that he scrubbed toilets before he got here.",
-     "start": 75.976,
-     "end": 78.38,
+     "start": 78.179,
+     "end": 80.569,
      "words": [
       {
        "w": "It's",
-       "start": 75.976,
-       "end": 76.183
+       "start": 78.179,
+       "end": 78.384
       },
       {
        "w": "that",
-       "start": 76.183,
-       "end": 76.434
+       "start": 78.384,
+       "end": 78.635
       },
       {
        "w": "he",
-       "start": 76.434,
-       "end": 76.595
+       "start": 78.635,
+       "end": 78.794
       },
       {
        "w": "scrubbed",
-       "start": 76.595,
-       "end": 77.029
+       "start": 78.794,
+       "end": 79.226
       },
       {
        "w": "toilets",
-       "start": 77.029,
-       "end": 77.419
+       "start": 79.226,
+       "end": 79.613
       },
       {
        "w": "before",
-       "start": 77.419,
-       "end": 77.762
+       "start": 79.613,
+       "end": 79.954
       },
       {
        "w": "he",
-       "start": 77.762,
-       "end": 77.922
+       "start": 79.954,
+       "end": 80.114
       },
       {
        "w": "got",
-       "start": 77.922,
-       "end": 78.128
+       "start": 80.114,
+       "end": 80.319
       },
       {
        "w": "here.",
-       "start": 78.128,
-       "end": 78.38
+       "start": 80.319,
+       "end": 80.569
       }
      ]
     }
