@@ -9,7 +9,13 @@ export const MIX = {
 };
 
 /** Ducking helpers driven by when the narrator is actually speaking. */
-export const createMix = (lines: Line[], totalFrames: number, opts: {dips?: number[]; intensity?: (frame: number) => number} = {}) => {
+export const createMix = (
+  lines: Line[],
+  totalFrames: number,
+  opts: {dips?: number[]; intensity?: (frame: number) => number; musicGain?: number; musicUnderVoice?: number} = {},
+) => {
+  const musicGain = opts.musicGain ?? MIX.musicGain;
+  const musicUnderVoice = opts.musicUnderVoice ?? MIX.musicUnderVoice;
   const n = totalFrames + 1;
   const raw = new Float32Array(n);
   for (const l of lines)
@@ -44,6 +50,6 @@ export const createMix = (lines: Line[], totalFrames: number, opts: {dips?: numb
   return {
     speech,
     fx: (base: number, f: number) => base * MIX.fxGain * (1 - speech(f) * (1 - MIX.fxUnderVoice)),
-    music: (f: number) => Math.max(0, MIX.musicGain * (opts.intensity?.(f) ?? 1) * dip(f) * fade(f) * (1 - speech(f) * (1 - MIX.musicUnderVoice))),
+    music: (f: number) => Math.min(1, Math.max(0, musicGain * (opts.intensity?.(f) ?? 1) * dip(f) * fade(f) * (1 - speech(f) * (1 - musicUnderVoice)))),
   };
 };

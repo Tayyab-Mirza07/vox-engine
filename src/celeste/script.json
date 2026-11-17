@@ -1,0 +1,46 @@
+{
+  "title": "The Ghost Ship: Mary Celeste",
+  "voice": {"provider": "elevenlabs", "voice_id": "uFIXVu9mmnDZ7dTKCBTX", "model": "eleven_v4"},
+  "gap": 0.25,
+  "tail": 1.0,
+  "spoken": {
+    "1872": "eighteen seventy two",
+    "1,701": "seventeen hundred and one",
+    "25th": "twenty fifth",
+    "2006": "two thousand six",
+    "$200,000": "two hundred thousand dollars",
+    "two-year-old": "two year old"
+  },
+  "lines": [
+    "December 1872. Sailors spot a ship drifting in the middle of the Atlantic. Her sails are up. Her cargo is untouched. There's food on board for six months. But there's not a single person on board.",
+    "Ten people had set sail on the Mary Celeste, including the captain's wife and their two-year-old daughter. None of them were ever seen again.",
+    "So what makes a captain abandon a perfectly good ship, in the middle of the ocean, with his own family? To find out, we go back one month.",
+    "November 1872. New York. Captain Benjamin Briggs, a careful and experienced sailor, sets out for Genoa, Italy. In the hold: 1,701 barrels of industrial alcohol.",
+    "The voyage is calm. On November 25th, the last entry in the ship's log notes an island in the Azores. Nothing unusual. Then, the log goes silent.",
+    "Nine days later, another ship, the Dei Gratia, finds her drifting between the Azores and Portugal. Her crew climbs aboard.",
+    "Below deck, everything is damp, but in order. The crew's boots and pipes are still there. Their belongings are untouched. But the only lifeboat is gone.",
+    "No sign of a storm. No sign of a fight. Nothing stolen. So why would ten people leave the safest place in the ocean, for a tiny open boat?",
+    "You might have heard the tea was still warm on the table. That's a myth. It comes from a story written by a young Arthur Conan Doyle, before he created Sherlock Holmes.",
+    "The real clues were stranger. The hatches were open. And when the cargo was unloaded in Italy, nine of the barrels were empty. That may be the key to everything.",
+    "One theory: fumes from those barrels built up below deck. If Briggs smelled them, or heard a rumble from the hold, he may have feared the ship was about to explode.",
+    "So he got everyone into the lifeboat, still tied to the ship by a long rope, and waited.",
+    "In 2006, a chemist recreated that scenario in a lab. The alcohol vapor exploded in a flash of flame, but left no scorch marks. Just like the empty ship.",
+    "And if that rope snapped, the Mary Celeste would have sailed on without them. Ten people, alone in a tiny boat, in the middle of the Atlantic.",
+    "As for the ship? Thirteen years later, her last captain ran her onto a reef in Haiti, on purpose, for the insurance money.",
+    "If you love mysteries like this, watch the man who jumped from a plane with $200,000 and vanished. Or the killer who called the police on himself. Both are on this channel. Tap and watch next."
+  ],
+  "structure": {
+    "hook (tension)": [0],
+    "release + new tension": [1],
+    "rehook 1 (question: why?)": [2],
+    "build: who / when / where / what": [3, 4, 5],
+    "rising tension": [6],
+    "rehook 2 (question)": [7],
+    "release (myth busted) + new tension": [8],
+    "rehook 3 (clue)": [9],
+    "payoff (the theory)": [10, 11, 12],
+    "release (the sad answer)": [13],
+    "twist ending": [14],
+    "CTA → past Shorts (D.B. Cooper, Edmund Kemper)": [15]
+  }
+}
