@@ -42,17 +42,32 @@ export const Hook: React.FC<SceneProps> = ({cue}) => {
   const fall = p(frame, jumpAt, 80, (t) => t * t);
   const cashIn = slam(frame, cash, 2.2);
   const count = Math.round(interpolate(frame, [cash, cash + 22], [0, 200000], clamp) / 1000) * 1000;
+  // Camera: push in on the rear stairs as "a man…" is spoken, follow him out of the jet, pull back for "At night."
+  const zoomIn = p(frame, cue.w('man') - 6, jumpAt - cue.w('man') + 2, inOut);
+  const zoomOut = p(frame, night - 16, 20, inOut);
+  const k = zoomIn * (1 - zoomOut);
+  const z = lerp(1, 2.7, k);
+  const fallX = jetX + 90 - fall * 90;
+  const fallY = jetY + 190 + fall * 900;
+  const follow = p(frame, jumpAt + 2, 24, inOut);
+  const fx = lerp(jetX + 150, fallX + 55, follow);
+  const fy = lerp(jetY + 185, fallY + 55, follow);
+  const sx = lerp(fx, 560, k);
+  const sy = lerp(fy, 820, k);
+  const shake = frame >= jumpAt && frame < jumpAt + 8 ? (rnd(frame) - 0.5) * 12 : 0;
   return (
     <AbsoluteFill>
-      <NightSky rain={p(frame, storm, 12)} flashAt={[storm, storm + 26, gone + 4]} />
-      <div style={{position: 'absolute', left: jetX, top: jetY, transform: 'rotate(-2deg)'}}>
-        <Jet width={900} color="#2c3e59" stairs={p(frame, jumpAt - 14, 12)} />
-      </div>
-      {frame >= jumpAt && fall < 1 ? (
-        <div style={{position: 'absolute', left: jetX + 90 - fall * 90, top: jetY + 190 + fall * 900, opacity: 1 - p(frame, jumpAt + 60, 20)}}>
-          <Faller size={110} spin={fall * 300} />
+      <NightSky rain={p(frame, storm, 12)} flashAt={[jumpAt, storm, storm + 26, gone + 4]} />
+      <AbsoluteFill style={{transformOrigin: '0 0', transform: `translate(${sx - fx * z + shake}px, ${sy - fy * z}px) scale(${z})`}}>
+        <div style={{position: 'absolute', left: jetX, top: jetY, transform: 'rotate(-2deg)'}}>
+          <Jet width={900} color="#2c3e59" stairs={p(frame, jumpAt - 20, 14)} />
         </div>
-      ) : null}
+        {frame >= jumpAt && fall < 1 ? (
+          <div style={{position: 'absolute', left: fallX, top: fallY, opacity: 1 - p(frame, jumpAt + 60, 20)}}>
+            <Faller size={110} color="#d9e2ee" spin={fall * 300} />
+          </div>
+        ) : null}
+      </AbsoluteFill>
       <div style={{position: 'absolute', bottom: 0, left: 0}}>
         <Forest width={W} height={380} />
       </div>

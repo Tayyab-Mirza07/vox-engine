@@ -17,7 +17,12 @@ type Sfx = {scene: number; at: (c: Cues) => number; file: string; vol: number; u
 const SFX: Sfx[] = [
   // 0 · hook: jet, jump, storm, cash, vanished
   {scene: 0, at: () => 0, file: 'jet', vol: 0.5, until: (c) => c.s(4)},
-  {scene: 0, at: (c) => c.w('jumped'), file: 'wind', vol: 0.7},
+  {scene: 0, at: (c) => c.w('man') - 6, file: 'riser', vol: 0.3},
+  {scene: 0, at: (c) => c.w('jumped') - 20, file: 'wind', vol: 0.5},
+  {scene: 0, at: (c) => c.w('jumped'), file: 'impact', vol: 0.7},
+  {scene: 0, at: (c) => c.w('jumped'), file: 'thunder', vol: 0.6},
+  {scene: 0, at: (c) => c.w('jumped') + 2, file: 'wind', vol: 0.8},
+  {scene: 0, at: (c) => c.s(1) - 16, file: 'whoosh2', vol: 0.5},
   {scene: 0, at: (c) => c.s(1), file: 'hit', vol: 0.7},
   {scene: 0, at: (c) => c.s(2), file: 'thunder', vol: 0.9},
   {scene: 0, at: (c) => c.s(2), file: 'rain', vol: 0.45, until: (c) => c.dur},
