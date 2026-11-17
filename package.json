@@ -8,7 +8,9 @@
     "render": "remotion render src/index.tsx Short out/reform-school-billionaire.mp4 --codec=h264 --crf=18",
     "master": "ffmpeg -y -i out/reform-school-billionaire.mp4 -c:v copy -af loudnorm=I=-14:TP=-1.5:LRA=11,alimiter=limit=0.79:level=false -ar 48000 -c:a aac -b:a 192k -movflags +faststart out/reform-school-billionaire-final.mp4",
     "render:dbcooper": "remotion render src/index.tsx DBCooper out/db-cooper.mp4 --codec=h264 --crf=18",
-    "master:dbcooper": "ffmpeg -y -i out/db-cooper.mp4 -c:v copy -af loudnorm=I=-14:TP=-1.5:LRA=11,alimiter=limit=0.79:level=false -ar 48000 -c:a aac -b:a 192k -movflags +faststart out/db-cooper-final.mp4"
+    "master:dbcooper": "ffmpeg -y -i out/db-cooper.mp4 -c:v copy -af loudnorm=I=-14:TP=-1.5:LRA=11,alimiter=limit=0.79:level=false -ar 48000 -c:a aac -b:a 192k -movflags +faststart out/db-cooper-final.mp4",
+    "render:kemper": "remotion render src/index.tsx Kemper out/kemper.mp4 --codec=h264 --crf=18",
+    "master:kemper": "ffmpeg -y -i out/kemper.mp4 -c:v copy -af loudnorm=I=-14:TP=-1.5:LRA=11,alimiter=limit=0.79:level=false -ar 48000 -c:a aac -b:a 192k -movflags +faststart out/kemper-final.mp4"
   },
   "repository": {
     "type": "git",

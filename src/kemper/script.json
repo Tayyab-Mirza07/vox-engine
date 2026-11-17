@@ -1,0 +1,27 @@
+{
+  "title": "The Killer Who Called the Cops: Edmund Kemper",
+  "voice": {"provider": "elevenlabs", "voice_id": "uFIXVu9mmnDZ7dTKCBTX", "model": "eleven_v4"},
+  "spoken": {
+    "1973": "nineteen seventy three",
+    "1948": "nineteen forty eight",
+    "1964": "nineteen sixty four",
+    "1972": "nineteen seventy two",
+    "twenty-one": "twenty one"
+  },
+  "lines": [
+    "April 1973. A giant of a man steps into a phone booth in Colorado. He calls the police, a thousand miles away, and confesses to eight murders. They think it's a prank. They tell him to call back later.",
+    "Because those officers know him. He drinks with them. They call him Big Ed. They have no idea who he really is.",
+    "Edmund Kemper was born in California in 1948. By age ten, he towered over every kid in his class. His mother made him sleep in a locked basement. Soon after, the family cat turned up dead.",
+    "At fifteen, he was sent to live with his grandparents on a remote ranch. One August afternoon in 1964, he shot them both. His reason? He just wanted to see what it felt like.",
+    "He was locked away in a state hospital. Doctors tested his IQ. It was genius level. So he studied the doctors, memorized their tests, and gave them every right answer.",
+    "At twenty-one, against his doctors' advice, he walked free. Into the care of the one person he hated most. His mother.",
+    "Now he stood six foot nine. He spent his evenings at a bar full of police officers, and dreamed of becoming a cop. But at night, he drove the highways around Santa Cruz, picking up young women who were hitchhiking.",
+    "Between 1972 and 1973, six young women got into his car. None of them came home. Newspapers started calling Santa Cruz the murder capital of the world.",
+    "And here's the most chilling part. The day after one of those murders, he sat down with two psychiatrists. They declared him safe. He later said the evidence was in the trunk of his car.",
+    "Easter weekend, 1973. He walked into his mother's bedroom while she slept, and killed her. Then he invited her friend over, and killed her too.",
+    "Then he got in his car and drove. More than a thousand miles, all the way to Pueblo, Colorado. He pulled over at a phone booth, and dialed the Santa Cruz police.",
+    "When they laughed it off, he called again. And again. Until someone finally believed him. Then he waited in the phone booth for the police to come and get him.",
+    "In court, he asked to be executed. Instead, he got life in prison. Years later, FBI agents interviewed him for hours, and what he told them helped build modern criminal profiling. The man who fooled the doctors became the man who taught the FBI how killers think."
+  ],
+  "notes": "Deliberately leaves out the most graphic details (dismemberment, necrophilia) to stay advertiser-friendly. No victim photos or names."
+}

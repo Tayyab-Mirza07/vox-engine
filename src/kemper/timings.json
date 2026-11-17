@@ -1,0 +1,2535 @@
+{
+ "total": 164.822,
+ "lines": [
+  {
+   "index": 0,
+   "file": "kemper/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 14.759,
+   "sentences": [
+    {
+     "text": "April 1973.",
+     "start": 0.25,
+     "end": 2.163,
+     "words": [
+      {
+       "w": "April",
+       "start": 0.25,
+       "end": 0.694
+      },
+      {
+       "w": "1973.",
+       "start": 0.694,
+       "end": 2.163
+      }
+     ]
+    },
+    {
+     "text": "A giant of a man steps into a phone booth in Colorado.",
+     "start": 2.625,
+     "end": 5.884,
+     "words": [
+      {
+       "w": "A",
+       "start": 2.625,
+       "end": 2.76
+      },
+      {
+       "w": "giant",
+       "start": 2.76,
+       "end": 3.114
+      },
+      {
+       "w": "of",
+       "start": 3.114,
+       "end": 3.304
+      },
+      {
+       "w": "a",
+       "start": 3.304,
+       "end": 3.439
+      },
+      {
+       "w": "man",
+       "start": 3.439,
+       "end": 3.684
+      },
+      {
+       "w": "steps",
+       "start": 3.684,
+       "end": 4.037
+      },
+      {
+       "w": "into",
+       "start": 4.037,
+       "end": 4.336
+      },
+      {
+       "w": "a",
+       "start": 4.336,
+       "end": 4.471
+      },
+      {
+       "w": "phone",
+       "start": 4.471,
+       "end": 4.825
+      },
+      {
+       "w": "booth",
+       "start": 4.825,
+       "end": 5.178
+      },
+      {
+       "w": "in",
+       "start": 5.178,
+       "end": 5.368
+      },
+      {
+       "w": "Colorado.",
+       "start": 5.368,
+       "end": 5.884
+      }
+     ]
+    },
+    {
+     "text": "He calls the police, a thousand miles away, and confesses to eight murders.",
+     "start": 6.398,
+     "end": 11.088,
+     "words": [
+      {
+       "w": "He",
+       "start": 6.398,
+       "end": 6.803
+      },
+      {
+       "w": "calls",
+       "start": 6.803,
+       "end": 7.555
+      },
+      {
+       "w": "the",
+       "start": 7.555,
+       "end": 8.076
+      },
+      {
+       "w": "police,",
+       "start": 8.076,
+       "end": 8.944
+      },
+      {
+       "w": "a",
+       "start": 9.178,
+       "end": 9.27
+      },
+      {
+       "w": "thousand",
+       "start": 9.27,
+       "end": 9.623
+      },
+      {
+       "w": "miles",
+       "start": 9.623,
+       "end": 9.864
+      },
+      {
+       "w": "away,",
+       "start": 9.864,
+       "end": 10.069
+      },
+      {
+       "w": "and",
+       "start": 10.239,
+       "end": 10.354
+      },
+      {
+       "w": "confesses",
+       "start": 10.354,
+       "end": 10.62
+      },
+      {
+       "w": "to",
+       "start": 10.62,
+       "end": 10.708
+      },
+      {
+       "w": "eight",
+       "start": 10.708,
+       "end": 10.873
+      },
+      {
+       "w": "murders.",
+       "start": 10.873,
+       "end": 11.088
+      }
+     ]
+    },
+    {
+     "text": "They think it's a prank.",
+     "start": 11.969,
+     "end": 12.946,
+     "words": [
+      {
+       "w": "They",
+       "start": 11.969,
+       "end": 12.179
+      },
+      {
+       "w": "think",
+       "start": 12.179,
+       "end": 12.429
+      },
+      {
+       "w": "it's",
+       "start": 12.429,
+       "end": 12.601
+      },
+      {
+       "w": "a",
+       "start": 12.601,
+       "end": 12.697
+      },
+      {
+       "w": "prank.",
+       "start": 12.697,
+       "end": 12.946
+      }
+     ]
+    },
+    {
+     "text": "They tell him to call back later.",
+     "start": 13.495,
+     "end": 14.771,
+     "words": [
+      {
+       "w": "They",
+       "start": 13.495,
+       "end": 13.687
+      },
+      {
+       "w": "tell",
+       "start": 13.687,
+       "end": 13.879
+      },
+      {
+       "w": "him",
+       "start": 13.879,
+       "end": 14.037
+      },
+      {
+       "w": "to",
+       "start": 14.037,
+       "end": 14.159
+      },
+      {
+       "w": "call",
+       "start": 14.159,
+       "end": 14.351
+      },
+      {
+       "w": "back",
+       "start": 14.351,
+       "end": 14.544
+      },
+      {
+       "w": "later.",
+       "start": 14.544,
+       "end": 14.771
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "kemper/vo/line1.mp3",
+   "start": 15.359,
+   "dur": 7.889,
+   "sentences": [
+    {
+     "text": "Because those officers know him.",
+     "start": 15.359,
+     "end": 17.03,
+     "words": [
+      {
+       "w": "Because",
+       "start": 15.359,
+       "end": 15.771
+      },
+      {
+       "w": "those",
+       "start": 15.771,
+       "end": 16.086
+      },
+      {
+       "w": "officers",
+       "start": 16.086,
+       "end": 16.546
+      },
+      {
+       "w": "know",
+       "start": 16.546,
+       "end": 16.812
+      },
+      {
+       "w": "him.",
+       "start": 16.812,
+       "end": 17.03
+      }
+     ]
+    },
+    {
+     "text": "He drinks with them.",
+     "start": 17.556,
+     "end": 18.296,
+     "words": [
+      {
+       "w": "He",
+       "start": 17.556,
+       "end": 17.674
+      },
+      {
+       "w": "drinks",
+       "start": 17.674,
+       "end": 17.926
+      },
+      {
+       "w": "with",
+       "start": 17.926,
+       "end": 18.111
+      },
+      {
+       "w": "them.",
+       "start": 18.111,
+       "end": 18.296
+      }
+     ]
+    },
+    {
+     "text": "They call him Big Ed.",
+     "start": 18.884,
+     "end": 20.14,
+     "words": [
+      {
+       "w": "They",
+       "start": 18.884,
+       "end": 19.178
+      },
+      {
+       "w": "call",
+       "start": 19.178,
+       "end": 19.472
+      },
+      {
+       "w": "him",
+       "start": 19.472,
+       "end": 19.712
+      },
+      {
+       "w": "Big",
+       "start": 19.712,
+       "end": 19.953
+      },
+      {
+       "w": "Ed.",
+       "start": 19.953,
+       "end": 20.14
+      }
+     ]
+    },
+    {
+     "text": "They have no idea who he really is.",
+     "start": 20.765,
+     "end": 22.992,
+     "words": [
+      {
+       "w": "They",
+       "start": 20.765,
+       "end": 21.079
+      },
+      {
+       "w": "have",
+       "start": 21.079,
+       "end": 21.393
+      },
+      {
+       "w": "no",
+       "start": 21.393,
+       "end": 21.593
+      },
+      {
+       "w": "idea",
+       "start": 21.593,
+       "end": 21.907
+      },
+      {
+       "w": "who",
+       "start": 21.907,
+       "end": 22.164
+      },
+      {
+       "w": "he",
+       "start": 22.164,
+       "end": 22.364
+      },
+      {
+       "w": "really",
+       "start": 22.364,
+       "end": 22.792
+      },
+      {
+       "w": "is.",
+       "start": 22.792,
+       "end": 22.992
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "kemper/vo/line2.mp3",
+   "start": 23.598,
+   "dur": 14.211,
+   "sentences": [
+    {
+     "text": "Edmund Kemper was born in California in 1948.",
+     "start": 23.598,
+     "end": 27.164,
+     "words": [
+      {
+       "w": "Edmund",
+       "start": 23.598,
+       "end": 24.023
+      },
+      {
+       "w": "Kemper",
+       "start": 24.023,
+       "end": 24.447
+      },
+      {
+       "w": "was",
+       "start": 24.447,
+       "end": 24.702
+      },
+      {
+       "w": "born",
+       "start": 24.702,
+       "end": 25.013
+      },
+      {
+       "w": "in",
+       "start": 25.013,
+       "end": 25.211
+      },
+      {
+       "w": "California",
+       "start": 25.211,
+       "end": 25.862
+      },
+      {
+       "w": "in",
+       "start": 25.862,
+       "end": 26.06
+      },
+      {
+       "w": "1948.",
+       "start": 26.06,
+       "end": 27.164
+      }
+     ]
+    },
+    {
+     "text": "By age ten, he towered over every kid in his class.",
+     "start": 27.71,
+     "end": 31.284,
+     "words": [
+      {
+       "w": "By",
+       "start": 27.71,
+       "end": 27.964
+      },
+      {
+       "w": "age",
+       "start": 27.964,
+       "end": 28.291
+      },
+      {
+       "w": "ten,",
+       "start": 28.291,
+       "end": 28.617
+      },
+      {
+       "w": "he",
+       "start": 28.874,
+       "end": 29.07
+      },
+      {
+       "w": "towered",
+       "start": 29.07,
+       "end": 29.546
+      },
+      {
+       "w": "over",
+       "start": 29.546,
+       "end": 29.854
+      },
+      {
+       "w": "every",
+       "start": 29.854,
+       "end": 30.219
+      },
+      {
+       "w": "kid",
+       "start": 30.219,
+       "end": 30.471
+      },
+      {
+       "w": "in",
+       "start": 30.471,
+       "end": 30.667
+      },
+      {
+       "w": "his",
+       "start": 30.667,
+       "end": 30.919
+      },
+      {
+       "w": "class.",
+       "start": 30.919,
+       "end": 31.284
+      }
+     ]
+    },
+    {
+     "text": "His mother made him sleep in a locked basement.",
+     "start": 31.81,
+     "end": 34.209,
+     "words": [
+      {
+       "w": "His",
+       "start": 31.81,
+       "end": 32.02
+      },
+      {
+       "w": "mother",
+       "start": 32.02,
+       "end": 32.369
+      },
+      {
+       "w": "made",
+       "start": 32.369,
+       "end": 32.625
+      },
+      {
+       "w": "him",
+       "start": 32.625,
+       "end": 32.835
+      },
+      {
+       "w": "sleep",
+       "start": 32.835,
+       "end": 33.138
+      },
+      {
+       "w": "in",
+       "start": 33.138,
+       "end": 33.301
+      },
+      {
+       "w": "a",
+       "start": 33.301,
+       "end": 33.417
+      },
+      {
+       "w": "locked",
+       "start": 33.417,
+       "end": 33.767
+      },
+      {
+       "w": "basement.",
+       "start": 33.767,
+       "end": 34.209
+      }
+     ]
+    },
+    {
+     "text": "Soon after, the family cat turned up dead.",
+     "start": 34.599,
+     "end": 37.809,
+     "words": [
+      {
+       "w": "Soon",
+       "start": 34.599,
+       "end": 34.999
+      },
+      {
+       "w": "after,",
+       "start": 34.999,
+       "end": 35.471
+      },
+      {
+       "w": "the",
+       "start": 35.767,
+       "end": 36.045
+      },
+      {
+       "w": "family",
+       "start": 36.045,
+       "end": 36.509
+      },
+      {
+       "w": "cat",
+       "start": 36.509,
+       "end": 36.788
+      },
+      {
+       "w": "turned",
+       "start": 36.788,
+       "end": 37.252
+      },
+      {
+       "w": "up",
+       "start": 37.252,
+       "end": 37.468
+      },
+      {
+       "w": "dead.",
+       "start": 37.468,
+       "end": 37.809
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "kemper/vo/line3.mp3",
+   "start": 38.159,
+   "dur": 13.479,
+   "sentences": [
+    {
+     "text": "At fifteen, he was sent to live with his grandparents on a remote ranch.",
+     "start": 38.159,
+     "end": 42.287,
+     "words": [
+      {
+       "w": "At",
+       "start": 38.159,
+       "end": 38.427
+      },
+      {
+       "w": "fifteen,",
+       "start": 38.427,
+       "end": 39.077
+      },
+      {
+       "w": "he",
+       "start": 39.366,
+       "end": 39.521
+      },
+      {
+       "w": "was",
+       "start": 39.521,
+       "end": 39.72
+      },
+      {
+       "w": "sent",
+       "start": 39.72,
+       "end": 39.964
+      },
+      {
+       "w": "to",
+       "start": 39.964,
+       "end": 40.119
+      },
+      {
+       "w": "live",
+       "start": 40.119,
+       "end": 40.362
+      },
+      {
+       "w": "with",
+       "start": 40.362,
+       "end": 40.605
+      },
+      {
+       "w": "his",
+       "start": 40.605,
+       "end": 40.804
+      },
+      {
+       "w": "grandparents",
+       "start": 40.804,
+       "end": 41.402
+      },
+      {
+       "w": "on",
+       "start": 41.402,
+       "end": 41.557
+      },
+      {
+       "w": "a",
+       "start": 41.557,
+       "end": 41.667
+      },
+      {
+       "w": "remote",
+       "start": 41.667,
+       "end": 41.999
+      },
+      {
+       "w": "ranch.",
+       "start": 41.999,
+       "end": 42.287
+      }
+     ]
+    },
+    {
+     "text": "One August afternoon in 1964, he shot them both.",
+     "start": 42.906,
+     "end": 47.058,
+     "words": [
+      {
+       "w": "One",
+       "start": 42.906,
+       "end": 43.174
+      },
+      {
+       "w": "August",
+       "start": 43.174,
+       "end": 43.62
+      },
+      {
+       "w": "afternoon",
+       "start": 43.62,
+       "end": 44.245
+      },
+      {
+       "w": "in",
+       "start": 44.245,
+       "end": 44.454
+      },
+      {
+       "w": "1964,",
+       "start": 44.454,
+       "end": 45.555
+      },
+      {
+       "w": "he",
+       "start": 46.027,
+       "end": 46.207
+      },
+      {
+       "w": "shot",
+       "start": 46.207,
+       "end": 46.491
+      },
+      {
+       "w": "them",
+       "start": 46.491,
+       "end": 46.775
+      },
+      {
+       "w": "both.",
+       "start": 46.775,
+       "end": 47.058
+      }
+     ]
+    },
+    {
+     "text": "His reason?",
+     "start": 47.736,
+     "end": 48.295,
+     "words": [
+      {
+       "w": "His",
+       "start": 47.736,
+       "end": 47.946
+      },
+      {
+       "w": "reason?",
+       "start": 47.946,
+       "end": 48.295
+      }
+     ]
+    },
+    {
+     "text": "He just wanted to see what it felt like.",
+     "start": 48.978,
+     "end": 51.361,
+     "words": [
+      {
+       "w": "He",
+       "start": 48.978,
+       "end": 49.166
+      },
+      {
+       "w": "just",
+       "start": 49.166,
+       "end": 49.46
+      },
+      {
+       "w": "wanted",
+       "start": 49.46,
+       "end": 49.862
+      },
+      {
+       "w": "to",
+       "start": 49.862,
+       "end": 50.049
+      },
+      {
+       "w": "see",
+       "start": 50.049,
+       "end": 50.29
+      },
+      {
+       "w": "what",
+       "start": 50.29,
+       "end": 50.585
+      },
+      {
+       "w": "it",
+       "start": 50.585,
+       "end": 50.772
+      },
+      {
+       "w": "felt",
+       "start": 50.772,
+       "end": 51.067
+      },
+      {
+       "w": "like.",
+       "start": 51.067,
+       "end": 51.361
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "kemper/vo/line4.mp3",
+   "start": 51.988,
+   "dur": 12.042,
+   "sentences": [
+    {
+     "text": "He was locked away in a state hospital.",
+     "start": 51.988,
+     "end": 54.124,
+     "words": [
+      {
+       "w": "He",
+       "start": 51.988,
+       "end": 52.162
+      },
+      {
+       "w": "was",
+       "start": 52.162,
+       "end": 52.385
+      },
+      {
+       "w": "locked",
+       "start": 52.385,
+       "end": 52.758
+      },
+      {
+       "w": "away",
+       "start": 52.758,
+       "end": 53.031
+      },
+      {
+       "w": "in",
+       "start": 53.031,
+       "end": 53.205
+      },
+      {
+       "w": "a",
+       "start": 53.205,
+       "end": 53.329
+      },
+      {
+       "w": "state",
+       "start": 53.329,
+       "end": 53.652
+      },
+      {
+       "w": "hospital.",
+       "start": 53.652,
+       "end": 54.124
+      }
+     ]
+    },
+    {
+     "text": "Doctors tested his IQ.",
+     "start": 54.694,
+     "end": 56.274,
+     "words": [
+      {
+       "w": "Doctors",
+       "start": 54.694,
+       "end": 55.254
+      },
+      {
+       "w": "tested",
+       "start": 55.254,
+       "end": 55.748
+      },
+      {
+       "w": "his",
+       "start": 55.748,
+       "end": 56.044
+      },
+      {
+       "w": "IQ.",
+       "start": 56.044,
+       "end": 56.274
+      }
+     ]
+    },
+    {
+     "text": "It was genius level.",
+     "start": 56.762,
+     "end": 58.083,
+     "words": [
+      {
+       "w": "It",
+       "start": 56.762,
+       "end": 56.973
+      },
+      {
+       "w": "was",
+       "start": 56.973,
+       "end": 57.243
+      },
+      {
+       "w": "genius",
+       "start": 57.243,
+       "end": 57.693
+      },
+      {
+       "w": "level.",
+       "start": 57.693,
+       "end": 58.083
+      }
+     ]
+    },
+    {
+     "text": "So he studied the doctors, memorized their tests, and gave them every right answer.",
+     "start": 58.587,
+     "end": 63.723,
+     "words": [
+      {
+       "w": "So",
+       "start": 58.587,
+       "end": 58.628
+      },
+      {
+       "w": "he",
+       "start": 58.628,
+       "end": 58.669
+      },
+      {
+       "w": "studied",
+       "start": 58.669,
+       "end": 58.769
+      },
+      {
+       "w": "the",
+       "start": 58.769,
+       "end": 58.822
+      },
+      {
+       "w": "doctors,",
+       "start": 58.822,
+       "end": 58.921
+      },
+      {
+       "w": "memorized",
+       "start": 59.089,
+       "end": 59.61
+      },
+      {
+       "w": "their",
+       "start": 59.61,
+       "end": 59.933
+      },
+      {
+       "w": "tests,",
+       "start": 59.933,
+       "end": 60.255
+      },
+      {
+       "w": "and",
+       "start": 60.457,
+       "end": 60.866
+      },
+      {
+       "w": "gave",
+       "start": 60.866,
+       "end": 61.364
+      },
+      {
+       "w": "them",
+       "start": 61.364,
+       "end": 61.863
+      },
+      {
+       "w": "every",
+       "start": 61.863,
+       "end": 62.453
+      },
+      {
+       "w": "right",
+       "start": 62.453,
+       "end": 63.042
+      },
+      {
+       "w": "answer.",
+       "start": 63.042,
+       "end": 63.723
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "kemper/vo/line5.mp3",
+   "start": 64.38,
+   "dur": 9.482,
+   "sentences": [
+    {
+     "text": "At twenty-one, against his doctors' advice, he walked free.",
+     "start": 64.38,
+     "end": 68.287,
+     "words": [
+      {
+       "w": "At",
+       "start": 64.38,
+       "end": 64.615
+      },
+      {
+       "w": "twenty-one,",
+       "start": 64.615,
+       "end": 65.32
+      },
+      {
+       "w": "against",
+       "start": 65.683,
+       "end": 66.155
+      },
+      {
+       "w": "his",
+       "start": 66.155,
+       "end": 66.404
+      },
+      {
+       "w": "doctors'",
+       "start": 66.404,
+       "end": 66.875
+      },
+      {
+       "w": "advice,",
+       "start": 66.875,
+       "end": 67.291
+      },
+      {
+       "w": "he",
+       "start": 67.512,
+       "end": 67.676
+      },
+      {
+       "w": "walked",
+       "start": 67.676,
+       "end": 68.029
+      },
+      {
+       "w": "free.",
+       "start": 68.029,
+       "end": 68.287
+      }
+     ]
+    },
+    {
+     "text": "Into the care of the one person he hated most.",
+     "start": 68.864,
+     "end": 71.922,
+     "words": [
+      {
+       "w": "Into",
+       "start": 68.864,
+       "end": 69.194
+      },
+      {
+       "w": "the",
+       "start": 69.194,
+       "end": 69.464
+      },
+      {
+       "w": "care",
+       "start": 69.464,
+       "end": 69.794
+      },
+      {
+       "w": "of",
+       "start": 69.794,
+       "end": 70.004
+      },
+      {
+       "w": "the",
+       "start": 70.004,
+       "end": 70.273
+      },
+      {
+       "w": "one",
+       "start": 70.273,
+       "end": 70.543
+      },
+      {
+       "w": "person",
+       "start": 70.543,
+       "end": 70.993
+      },
+      {
+       "w": "he",
+       "start": 70.993,
+       "end": 71.203
+      },
+      {
+       "w": "hated",
+       "start": 71.203,
+       "end": 71.593
+      },
+      {
+       "w": "most.",
+       "start": 71.593,
+       "end": 71.922
+      }
+     ]
+    },
+    {
+     "text": "His mother.",
+     "start": 73.035,
+     "end": 73.575,
+     "words": [
+      {
+       "w": "His",
+       "start": 73.035,
+       "end": 73.237
+      },
+      {
+       "w": "mother.",
+       "start": 73.237,
+       "end": 73.575
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "kemper/vo/line6.mp3",
+   "start": 74.213,
+   "dur": 13.322,
+   "sentences": [
+    {
+     "text": "Now he stood six foot nine.",
+     "start": 74.213,
+     "end": 76.272,
+     "words": [
+      {
+       "w": "Now",
+       "start": 74.213,
+       "end": 74.522
+      },
+      {
+       "w": "he",
+       "start": 74.522,
+       "end": 74.762
+      },
+      {
+       "w": "stood",
+       "start": 74.762,
+       "end": 75.208
+      },
+      {
+       "w": "six",
+       "start": 75.208,
+       "end": 75.517
+      },
+      {
+       "w": "foot",
+       "start": 75.517,
+       "end": 75.895
+      },
+      {
+       "w": "nine.",
+       "start": 75.895,
+       "end": 76.272
+      }
+     ]
+    },
+    {
+     "text": "He spent his evenings at a bar full of police officers, and dreamed of becoming a cop.",
+     "start": 76.834,
+     "end": 81.619,
+     "words": [
+      {
+       "w": "He",
+       "start": 76.834,
+       "end": 77.008
+      },
+      {
+       "w": "spent",
+       "start": 77.008,
+       "end": 77.332
+      },
+      {
+       "w": "his",
+       "start": 77.332,
+       "end": 77.557
+      },
+      {
+       "w": "evenings",
+       "start": 77.557,
+       "end": 78.03
+      },
+      {
+       "w": "at",
+       "start": 78.03,
+       "end": 78.205
+      },
+      {
+       "w": "a",
+       "start": 78.205,
+       "end": 78.33
+      },
+      {
+       "w": "bar",
+       "start": 78.33,
+       "end": 78.554
+      },
+      {
+       "w": "full",
+       "start": 78.554,
+       "end": 78.828
+      },
+      {
+       "w": "of",
+       "start": 78.828,
+       "end": 79.003
+      },
+      {
+       "w": "police",
+       "start": 79.003,
+       "end": 79.377
+      },
+      {
+       "w": "officers,",
+       "start": 79.377,
+       "end": 79.851
+      },
+      {
+       "w": "and",
+       "start": 80.022,
+       "end": 80.24
+      },
+      {
+       "w": "dreamed",
+       "start": 80.24,
+       "end": 80.651
+      },
+      {
+       "w": "of",
+       "start": 80.651,
+       "end": 80.82
+      },
+      {
+       "w": "becoming",
+       "start": 80.82,
+       "end": 81.28
+      },
+      {
+       "w": "a",
+       "start": 81.28,
+       "end": 81.401
+      },
+      {
+       "w": "cop.",
+       "start": 81.401,
+       "end": 81.619
+      }
+     ]
+    },
+    {
+     "text": "But at night, he drove the highways around Santa Cruz, picking up young women who were hitchhiking.",
+     "start": 82.153,
+     "end": 87.244,
+     "words": [
+      {
+       "w": "But",
+       "start": 82.153,
+       "end": 82.323
+      },
+      {
+       "w": "at",
+       "start": 82.323,
+       "end": 82.456
+      },
+      {
+       "w": "night,",
+       "start": 82.456,
+       "end": 82.702
+      },
+      {
+       "w": "he",
+       "start": 83.041,
+       "end": 83.209
+      },
+      {
+       "w": "drove",
+       "start": 83.209,
+       "end": 83.52
+      },
+      {
+       "w": "the",
+       "start": 83.52,
+       "end": 83.736
+      },
+      {
+       "w": "highways",
+       "start": 83.736,
+       "end": 84.191
+      },
+      {
+       "w": "around",
+       "start": 84.191,
+       "end": 84.55
+      },
+      {
+       "w": "Santa",
+       "start": 84.55,
+       "end": 84.862
+      },
+      {
+       "w": "Cruz,",
+       "start": 84.862,
+       "end": 85.125
+      },
+      {
+       "w": "picking",
+       "start": 85.405,
+       "end": 85.734
+      },
+      {
+       "w": "up",
+       "start": 85.734,
+       "end": 85.869
+      },
+      {
+       "w": "young",
+       "start": 85.869,
+       "end": 86.121
+      },
+      {
+       "w": "women",
+       "start": 86.121,
+       "end": 86.373
+      },
+      {
+       "w": "who",
+       "start": 86.373,
+       "end": 86.547
+      },
+      {
+       "w": "were",
+       "start": 86.547,
+       "end": 86.76
+      },
+      {
+       "w": "hitchhiking.",
+       "start": 86.76,
+       "end": 87.244
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "kemper/vo/line7.mp3",
+   "start": 87.885,
+   "dur": 12.121,
+   "sentences": [
+    {
+     "text": "Between 1972 and 1973, six young women got into his car.",
+     "start": 87.885,
+     "end": 93.414,
+     "words": [
+      {
+       "w": "Between",
+       "start": 87.885,
+       "end": 88.387
+      },
+      {
+       "w": "1972",
+       "start": 88.387,
+       "end": 89.54
+      },
+      {
+       "w": "and",
+       "start": 89.54,
+       "end": 89.805
+      },
+      {
+       "w": "1973,",
+       "start": 89.805,
+       "end": 91.076
+      },
+      {
+       "w": "six",
+       "start": 91.398,
+       "end": 91.647
+      },
+      {
+       "w": "young",
+       "start": 91.647,
+       "end": 92.006
+      },
+      {
+       "w": "women",
+       "start": 92.006,
+       "end": 92.365
+      },
+      {
+       "w": "got",
+       "start": 92.365,
+       "end": 92.613
+      },
+      {
+       "w": "into",
+       "start": 92.613,
+       "end": 92.917
+      },
+      {
+       "w": "his",
+       "start": 92.917,
+       "end": 93.165
+      },
+      {
+       "w": "car.",
+       "start": 93.165,
+       "end": 93.414
+      }
+     ]
+    },
+    {
+     "text": "None of them came home.",
+     "start": 94.08,
+     "end": 95.184,
+     "words": [
+      {
+       "w": "None",
+       "start": 94.08,
+       "end": 94.318
+      },
+      {
+       "w": "of",
+       "start": 94.318,
+       "end": 94.47
+      },
+      {
+       "w": "them",
+       "start": 94.47,
+       "end": 94.708
+      },
+      {
+       "w": "came",
+       "start": 94.708,
+       "end": 94.946
+      },
+      {
+       "w": "home.",
+       "start": 94.946,
+       "end": 95.184
+      }
+     ]
+    },
+    {
+     "text": "Newspapers started calling Santa Cruz the murder capital of the world.",
+     "start": 95.77,
+     "end": 99.698,
+     "words": [
+      {
+       "w": "Newspapers",
+       "start": 95.77,
+       "end": 96.368
+      },
+      {
+       "w": "started",
+       "start": 96.368,
+       "end": 96.81
+      },
+      {
+       "w": "calling",
+       "start": 96.81,
+       "end": 97.252
+      },
+      {
+       "w": "Santa",
+       "start": 97.252,
+       "end": 97.59
+      },
+      {
+       "w": "Cruz",
+       "start": 97.59,
+       "end": 97.877
+      },
+      {
+       "w": "the",
+       "start": 97.877,
+       "end": 98.111
+      },
+      {
+       "w": "murder",
+       "start": 98.111,
+       "end": 98.501
+      },
+      {
+       "w": "capital",
+       "start": 98.501,
+       "end": 98.943
+      },
+      {
+       "w": "of",
+       "start": 98.943,
+       "end": 99.125
+      },
+      {
+       "w": "the",
+       "start": 99.125,
+       "end": 99.359
+      },
+      {
+       "w": "world.",
+       "start": 99.359,
+       "end": 99.698
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "kemper/vo/line8.mp3",
+   "start": 100.356,
+   "dur": 12.121,
+   "sentences": [
+    {
+     "text": "And here's the most chilling part.",
+     "start": 100.356,
+     "end": 102.173,
+     "words": [
+      {
+       "w": "And",
+       "start": 100.356,
+       "end": 100.583
+      },
+      {
+       "w": "here's",
+       "start": 100.583,
+       "end": 100.911
+      },
+      {
+       "w": "the",
+       "start": 100.911,
+       "end": 101.138
+      },
+      {
+       "w": "most",
+       "start": 101.138,
+       "end": 101.416
+      },
+      {
+       "w": "chilling",
+       "start": 101.416,
+       "end": 101.896
+      },
+      {
+       "w": "part.",
+       "start": 101.896,
+       "end": 102.173
+      }
+     ]
+    },
+    {
+     "text": "The day after one of those murders, he sat down with two psychiatrists.",
+     "start": 102.775,
+     "end": 107.159,
+     "words": [
+      {
+       "w": "The",
+       "start": 102.775,
+       "end": 102.995
+      },
+      {
+       "w": "day",
+       "start": 102.995,
+       "end": 103.215
+      },
+      {
+       "w": "after",
+       "start": 103.215,
+       "end": 103.533
+      },
+      {
+       "w": "one",
+       "start": 103.533,
+       "end": 103.753
+      },
+      {
+       "w": "of",
+       "start": 103.753,
+       "end": 103.924
+      },
+      {
+       "w": "those",
+       "start": 103.924,
+       "end": 104.242
+      },
+      {
+       "w": "murders,",
+       "start": 104.242,
+       "end": 104.658
+      },
+      {
+       "w": "he",
+       "start": 105.018,
+       "end": 105.215
+      },
+      {
+       "w": "sat",
+       "start": 105.215,
+       "end": 105.469
+      },
+      {
+       "w": "down",
+       "start": 105.469,
+       "end": 105.779
+      },
+      {
+       "w": "with",
+       "start": 105.779,
+       "end": 106.088
+      },
+      {
+       "w": "two",
+       "start": 106.088,
+       "end": 106.342
+      },
+      {
+       "w": "psychiatrists.",
+       "start": 106.342,
+       "end": 107.159
+      }
+     ]
+    },
+    {
+     "text": "They declared him safe.",
+     "start": 107.711,
+     "end": 108.904,
+     "words": [
+      {
+       "w": "They",
+       "start": 107.711,
+       "end": 107.973
+      },
+      {
+       "w": "declared",
+       "start": 107.973,
+       "end": 108.427
+      },
+      {
+       "w": "him",
+       "start": 108.427,
+       "end": 108.641
+      },
+      {
+       "w": "safe.",
+       "start": 108.641,
+       "end": 108.904
+      }
+     ]
+    },
+    {
+     "text": "He later said the evidence was in the trunk of his car.",
+     "start": 109.462,
+     "end": 112.252,
+     "words": [
+      {
+       "w": "He",
+       "start": 109.462,
+       "end": 109.622
+      },
+      {
+       "w": "later",
+       "start": 109.622,
+       "end": 109.92
+      },
+      {
+       "w": "said",
+       "start": 109.92,
+       "end": 110.171
+      },
+      {
+       "w": "the",
+       "start": 110.171,
+       "end": 110.377
+      },
+      {
+       "w": "evidence",
+       "start": 110.377,
+       "end": 110.811
+      },
+      {
+       "w": "was",
+       "start": 110.811,
+       "end": 111.017
+      },
+      {
+       "w": "in",
+       "start": 111.017,
+       "end": 111.177
+      },
+      {
+       "w": "the",
+       "start": 111.177,
+       "end": 111.383
+      },
+      {
+       "w": "trunk",
+       "start": 111.383,
+       "end": 111.68
+      },
+      {
+       "w": "of",
+       "start": 111.68,
+       "end": 111.84
+      },
+      {
+       "w": "his",
+       "start": 111.84,
+       "end": 112.046
+      },
+      {
+       "w": "car.",
+       "start": 112.046,
+       "end": 112.252
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "kemper/vo/line9.mp3",
+   "start": 112.827,
+   "dur": 11.154,
+   "sentences": [
+    {
+     "text": "Easter weekend, 1973.",
+     "start": 112.827,
+     "end": 115.127,
+     "words": [
+      {
+       "w": "Easter",
+       "start": 112.827,
+       "end": 113.249
+      },
+      {
+       "w": "weekend,",
+       "start": 113.249,
+       "end": 113.728
+      },
+      {
+       "w": "1973.",
+       "start": 113.936,
+       "end": 115.127
+      }
+     ]
+    },
+    {
+     "text": "He walked into his mother's bedroom while she slept, and killed her.",
+     "start": 115.786,
+     "end": 119.202,
+     "words": [
+      {
+       "w": "He",
+       "start": 115.786,
+       "end": 115.94
+      },
+      {
+       "w": "walked",
+       "start": 115.94,
+       "end": 116.27
+      },
+      {
+       "w": "into",
+       "start": 116.27,
+       "end": 116.512
+      },
+      {
+       "w": "his",
+       "start": 116.512,
+       "end": 116.709
+      },
+      {
+       "w": "mother's",
+       "start": 116.709,
+       "end": 117.083
+      },
+      {
+       "w": "bedroom",
+       "start": 117.083,
+       "end": 117.457
+      },
+      {
+       "w": "while",
+       "start": 117.457,
+       "end": 117.742
+      },
+      {
+       "w": "she",
+       "start": 117.742,
+       "end": 117.94
+      },
+      {
+       "w": "slept,",
+       "start": 117.94,
+       "end": 118.226
+      },
+      {
+       "w": "and",
+       "start": 118.614,
+       "end": 118.774
+      },
+      {
+       "w": "killed",
+       "start": 118.774,
+       "end": 119.042
+      },
+      {
+       "w": "her.",
+       "start": 119.042,
+       "end": 119.202
+      }
+     ]
+    },
+    {
+     "text": "Then he invited her friend over, and killed her too.",
+     "start": 120.552,
+     "end": 123.714,
+     "words": [
+      {
+       "w": "Then",
+       "start": 120.552,
+       "end": 120.85
+      },
+      {
+       "w": "he",
+       "start": 120.85,
+       "end": 121.04
+      },
+      {
+       "w": "invited",
+       "start": 121.04,
+       "end": 121.501
+      },
+      {
+       "w": "her",
+       "start": 121.501,
+       "end": 121.745
+      },
+      {
+       "w": "friend",
+       "start": 121.745,
+       "end": 122.152
+      },
+      {
+       "w": "over,",
+       "start": 122.152,
+       "end": 122.45
+      },
+      {
+       "w": "and",
+       "start": 122.719,
+       "end": 122.932
+      },
+      {
+       "w": "killed",
+       "start": 122.932,
+       "end": 123.288
+      },
+      {
+       "w": "her",
+       "start": 123.288,
+       "end": 123.501
+      },
+      {
+       "w": "too.",
+       "start": 123.501,
+       "end": 123.714
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "kemper/vo/line10.mp3",
+   "start": 124.331,
+   "dur": 10.449,
+   "sentences": [
+    {
+     "text": "Then he got in his car and drove.",
+     "start": 124.331,
+     "end": 126.391,
+     "words": [
+      {
+       "w": "Then",
+       "start": 124.331,
+       "end": 124.637
+      },
+      {
+       "w": "he",
+       "start": 124.637,
+       "end": 124.832
+      },
+      {
+       "w": "got",
+       "start": 124.832,
+       "end": 125.083
+      },
+      {
+       "w": "in",
+       "start": 125.083,
+       "end": 125.278
+      },
+      {
+       "w": "his",
+       "start": 125.278,
+       "end": 125.528
+      },
+      {
+       "w": "car",
+       "start": 125.528,
+       "end": 125.779
+      },
+      {
+       "w": "and",
+       "start": 125.779,
+       "end": 126.029
+      },
+      {
+       "w": "drove.",
+       "start": 126.029,
+       "end": 126.391
+      }
+     ]
+    },
+    {
+     "text": "More than a thousand miles, all the way to Pueblo, Colorado.",
+     "start": 126.929,
+     "end": 130.73,
+     "words": [
+      {
+       "w": "More",
+       "start": 126.929,
+       "end": 127.227
+      },
+      {
+       "w": "than",
+       "start": 127.227,
+       "end": 127.524
+      },
+      {
+       "w": "a",
+       "start": 127.524,
+       "end": 127.659
+      },
+      {
+       "w": "thousand",
+       "start": 127.659,
+       "end": 128.173
+      },
+      {
+       "w": "miles,",
+       "start": 128.173,
+       "end": 128.524
+      },
+      {
+       "w": "all",
+       "start": 128.921,
+       "end": 129.149
+      },
+      {
+       "w": "the",
+       "start": 129.149,
+       "end": 129.376
+      },
+      {
+       "w": "way",
+       "start": 129.376,
+       "end": 129.604
+      },
+      {
+       "w": "to",
+       "start": 129.604,
+       "end": 129.781
+      },
+      {
+       "w": "Pueblo,",
+       "start": 129.781,
+       "end": 130.161
+      },
+      {
+       "w": "Colorado.",
+       "start": 130.161,
+       "end": 130.73
+      }
+     ]
+    },
+    {
+     "text": "He pulled over at a phone booth, and dialed the Santa Cruz police.",
+     "start": 131.329,
+     "end": 134.521,
+     "words": [
+      {
+       "w": "He",
+       "start": 131.329,
+       "end": 131.486
+      },
+      {
+       "w": "pulled",
+       "start": 131.486,
+       "end": 131.82
+      },
+      {
+       "w": "over",
+       "start": 131.82,
+       "end": 132.066
+      },
+      {
+       "w": "at",
+       "start": 132.066,
+       "end": 132.222
+      },
+      {
+       "w": "a",
+       "start": 132.222,
+       "end": 132.334
+      },
+      {
+       "w": "phone",
+       "start": 132.334,
+       "end": 132.624
+      },
+      {
+       "w": "booth,",
+       "start": 132.624,
+       "end": 132.914
+      },
+      {
+       "w": "and",
+       "start": 132.914,
+       "end": 133.115
+      },
+      {
+       "w": "dialed",
+       "start": 133.115,
+       "end": 133.449
+      },
+      {
+       "w": "the",
+       "start": 133.449,
+       "end": 133.65
+      },
+      {
+       "w": "Santa",
+       "start": 133.65,
+       "end": 133.94
+      },
+      {
+       "w": "Cruz",
+       "start": 133.94,
+       "end": 134.186
+      },
+      {
+       "w": "police.",
+       "start": 134.186,
+       "end": 134.521
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "kemper/vo/line11.mp3",
+   "start": 135.13,
+   "dur": 9.874,
+   "sentences": [
+    {
+     "text": "When they laughed it off, he called again.",
+     "start": 135.13,
+     "end": 137.218,
+     "words": [
+      {
+       "w": "When",
+       "start": 135.13,
+       "end": 135.339
+      },
+      {
+       "w": "they",
+       "start": 135.339,
+       "end": 135.547
+      },
+      {
+       "w": "laughed",
+       "start": 135.547,
+       "end": 135.87
+      },
+      {
+       "w": "it",
+       "start": 135.87,
+       "end": 136.002
+      },
+      {
+       "w": "off,",
+       "start": 136.002,
+       "end": 136.173
+      },
+      {
+       "w": "he",
+       "start": 136.483,
+       "end": 136.63
+      },
+      {
+       "w": "called",
+       "start": 136.63,
+       "end": 136.945
+      },
+      {
+       "w": "again.",
+       "start": 136.945,
+       "end": 137.218
+      }
+     ]
+    },
+    {
+     "text": "And again.",
+     "start": 137.878,
+     "end": 138.722,
+     "words": [
+      {
+       "w": "And",
+       "start": 137.878,
+       "end": 138.224
+      },
+      {
+       "w": "again.",
+       "start": 138.224,
+       "end": 138.722
+      }
+     ]
+    },
+    {
+     "text": "Until someone finally believed him.",
+     "start": 139.231,
+     "end": 141.245,
+     "words": [
+      {
+       "w": "Until",
+       "start": 139.231,
+       "end": 139.58
+      },
+      {
+       "w": "someone",
+       "start": 139.58,
+       "end": 140.037
+      },
+      {
+       "w": "finally",
+       "start": 140.037,
+       "end": 140.493
+      },
+      {
+       "w": "believed",
+       "start": 140.493,
+       "end": 141.004
+      },
+      {
+       "w": "him.",
+       "start": 141.004,
+       "end": 141.245
+      }
+     ]
+    },
+    {
+     "text": "Then he waited in the phone booth for the police to come and get him.",
+     "start": 141.87,
+     "end": 144.679,
+     "words": [
+      {
+       "w": "Then",
+       "start": 141.87,
+       "end": 142.072
+      },
+      {
+       "w": "he",
+       "start": 142.072,
+       "end": 142.2
+      },
+      {
+       "w": "waited",
+       "start": 142.2,
+       "end": 142.476
+      },
+      {
+       "w": "in",
+       "start": 142.476,
+       "end": 142.604
+      },
+      {
+       "w": "the",
+       "start": 142.604,
+       "end": 142.769
+      },
+      {
+       "w": "phone",
+       "start": 142.769,
+       "end": 143.008
+      },
+      {
+       "w": "booth",
+       "start": 143.008,
+       "end": 143.247
+      },
+      {
+       "w": "for",
+       "start": 143.247,
+       "end": 143.412
+      },
+      {
+       "w": "the",
+       "start": 143.412,
+       "end": 143.577
+      },
+      {
+       "w": "police",
+       "start": 143.577,
+       "end": 143.852
+      },
+      {
+       "w": "to",
+       "start": 143.852,
+       "end": 143.981
+      },
+      {
+       "w": "come",
+       "start": 143.981,
+       "end": 144.183
+      },
+      {
+       "w": "and",
+       "start": 144.183,
+       "end": 144.348
+      },
+      {
+       "w": "get",
+       "start": 144.348,
+       "end": 144.513
+      },
+      {
+       "w": "him.",
+       "start": 144.513,
+       "end": 144.679
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "kemper/vo/line12.mp3",
+   "start": 145.354,
+   "dur": 17.868,
+   "sentences": [
+    {
+     "text": "In court, he asked to be executed.",
+     "start": 145.354,
+     "end": 147.785,
+     "words": [
+      {
+       "w": "In",
+       "start": 145.354,
+       "end": 145.576
+      },
+      {
+       "w": "court,",
+       "start": 145.576,
+       "end": 145.986
+      },
+      {
+       "w": "he",
+       "start": 146.278,
+       "end": 146.477
+      },
+      {
+       "w": "asked",
+       "start": 146.477,
+       "end": 146.847
+      },
+      {
+       "w": "to",
+       "start": 146.847,
+       "end": 147.046
+      },
+      {
+       "w": "be",
+       "start": 147.046,
+       "end": 147.245
+      },
+      {
+       "w": "executed.",
+       "start": 147.245,
+       "end": 147.785
+      }
+     ]
+    },
+    {
+     "text": "Instead, he got life in prison.",
+     "start": 148.323,
+     "end": 150.27,
+     "words": [
+      {
+       "w": "Instead,",
+       "start": 148.323,
+       "end": 148.857
+      },
+      {
+       "w": "he",
+       "start": 149.211,
+       "end": 149.362
+      },
+      {
+       "w": "got",
+       "start": 149.362,
+       "end": 149.557
+      },
+      {
+       "w": "life",
+       "start": 149.557,
+       "end": 149.795
+      },
+      {
+       "w": "in",
+       "start": 149.795,
+       "end": 149.946
+      },
+      {
+       "w": "prison.",
+       "start": 149.946,
+       "end": 150.27
+      }
+     ]
+    },
+    {
+     "text": "Years later, FBI agents interviewed him for hours, and what he told them helped build modern criminal profiling.",
+     "start": 150.912,
+     "end": 157.755,
+     "words": [
+      {
+       "w": "Years",
+       "start": 150.912,
+       "end": 151.265
+      },
+      {
+       "w": "later,",
+       "start": 151.265,
+       "end": 151.619
+      },
+      {
+       "w": "FBI",
+       "start": 151.893,
+       "end": 152.167
+      },
+      {
+       "w": "agents",
+       "start": 152.167,
+       "end": 152.624
+      },
+      {
+       "w": "interviewed",
+       "start": 152.624,
+       "end": 153.386
+      },
+      {
+       "w": "him",
+       "start": 153.386,
+       "end": 153.66
+      },
+      {
+       "w": "for",
+       "start": 153.66,
+       "end": 153.934
+      },
+      {
+       "w": "hours,",
+       "start": 153.934,
+       "end": 154.33
+      },
+      {
+       "w": "and",
+       "start": 154.657,
+       "end": 154.868
+      },
+      {
+       "w": "what",
+       "start": 154.868,
+       "end": 155.126
+      },
+      {
+       "w": "he",
+       "start": 155.126,
+       "end": 155.291
+      },
+      {
+       "w": "told",
+       "start": 155.291,
+       "end": 155.549
+      },
+      {
+       "w": "them",
+       "start": 155.549,
+       "end": 155.807
+      },
+      {
+       "w": "helped",
+       "start": 155.807,
+       "end": 156.159
+      },
+      {
+       "w": "build",
+       "start": 156.159,
+       "end": 156.464
+      },
+      {
+       "w": "modern",
+       "start": 156.464,
+       "end": 156.816
+      },
+      {
+       "w": "criminal",
+       "start": 156.816,
+       "end": 157.262
+      },
+      {
+       "w": "profiling.",
+       "start": 157.262,
+       "end": 157.755
+      }
+     ]
+    },
+    {
+     "text": "The man who fooled the doctors became the man who taught the FBI how killers think.",
+     "start": 158.296,
+     "end": 163.039,
+     "words": [
+      {
+       "w": "The",
+       "start": 158.296,
+       "end": 158.53
+      },
+      {
+       "w": "man",
+       "start": 158.53,
+       "end": 158.765
+      },
+      {
+       "w": "who",
+       "start": 158.765,
+       "end": 158.999
+      },
+      {
+       "w": "fooled",
+       "start": 158.999,
+       "end": 159.39
+      },
+      {
+       "w": "the",
+       "start": 159.39,
+       "end": 159.625
+      },
+      {
+       "w": "doctors",
+       "start": 159.625,
+       "end": 160.068
+      },
+      {
+       "w": "became",
+       "start": 160.068,
+       "end": 160.459
+      },
+      {
+       "w": "the",
+       "start": 160.459,
+       "end": 160.693
+      },
+      {
+       "w": "man",
+       "start": 160.693,
+       "end": 160.928
+      },
+      {
+       "w": "who",
+       "start": 160.928,
+       "end": 161.162
+      },
+      {
+       "w": "taught",
+       "start": 161.162,
+       "end": 161.553
+      },
+      {
+       "w": "the",
+       "start": 161.553,
+       "end": 161.788
+      },
+      {
+       "w": "FBI",
+       "start": 161.788,
+       "end": 162.022
+      },
+      {
+       "w": "how",
+       "start": 162.022,
+       "end": 162.257
+      },
+      {
+       "w": "killers",
+       "start": 162.257,
+       "end": 162.7
+      },
+      {
+       "w": "think.",
+       "start": 162.7,
+       "end": 163.039
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
