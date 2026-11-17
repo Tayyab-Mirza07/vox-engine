@@ -11,7 +11,8 @@ Remotion project that turns a script into vertical shorts for the owner's YouTub
   (loudnorm I=-17), duck effects/music under speech (`src/mix.ts`), and build the final audio with `scripts/mix.sh`
   (sidechain compression on voice). Check with `python3 scripts/check-mix.py out/stems/<name>` before delivering.
 - Music: the owner prefers piano-led scores, a bit louder than the first Kemper mix (Mary Celeste settings:
-  `musicGain 0.8, musicUnderVoice 0.65`, `MUSIC_RATIO=4 MUSIC_THRESHOLD=0.03 scripts/mix.sh …`). Still under the voice.
+  `musicGain 0.8, musicUnderVoice 0.65`, `MUSIC_GAIN=0.55 MUSIC_THRESHOLD=0.022 MUSIC_RATIO=7 scripts/mix.sh …` → music ≈23 dB under the voice
+  while speaking, ≈13 dB in gaps). Ratio 4 / threshold 0.03 made the piano louder than the voice — don't use it.
 - Every script uses a strong hook, re-hooks (roughly every 40–60 s, e.g. a question or "what he did next…"),
   tension → release, a clear payoff, and ends with a CTA that sends viewers to earlier Shorts on the channel
   (show their thumbnails; stills taken from our own rendered videos). 5W1H covered. Record the structure in the episode's `script.json` (`structure` key).
