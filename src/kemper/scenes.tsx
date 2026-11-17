@@ -795,3 +795,117 @@ export const Ending: React.FC<SceneProps> = ({cue}) => {
     </AbsoluteFill>
   );
 };
+
+// ───────────────────────── Re-hooks ─────────────────────────
+/** Re-hook 1: "So how did the cops' favorite drinking buddy become a killer?" */
+export const RehookHow: React.FC<SceneProps> = ({cue}) => {
+  const frame = useCurrentFrame();
+  const started = cue.s(1);
+  const q = slam(frame, 2, 2.4);
+  const turn = p(frame, cue.w('killer') - 4, 10, inOut);
+  return (
+    <AbsoluteFill>
+      <Background tint={RED} />
+      {frame < started ? (
+        <>
+          <Center top={260} style={{opacity: q.opacity, transform: `scale(${q.scale})`}}>
+            <Big size={380} color={RED}>
+              ?
+            </Big>
+          </Center>
+          <Center top={760}>
+            <div style={{position: 'relative', width: 900, height: 200}}>
+              <Big size={150} style={{position: 'absolute', inset: 0, opacity: 1 - turn, transform: `translateY(${-turn * 40}px)`}}>
+                <S>Drinking buddy</S>
+              </Big>
+              <Big size={170} color={RED} style={{position: 'absolute', inset: 0, opacity: turn, transform: `translateY(${(1 - turn) * 40}px)`}}>
+                Killer
+              </Big>
+            </div>
+          </Center>
+        </>
+      ) : (
+        <>
+          <Headline at={started} size={110} y={200}>
+            It started in his <R>childhood</R>
+          </Headline>
+          <Center top={560} style={{opacity: p(frame, started, 10)}}>
+            <Big size={300} color={STEEL} style={{letterSpacing: 10, transform: `scale(${lerp(1.3, 1, p(frame, started, 30, inOut))})`, filter: `blur(${lerp(8, 0, p(frame, started, 20))}px)`}}>
+              1948
+            </Big>
+          </Center>
+        </>
+      )}
+    </AbsoluteFill>
+  );
+};
+
+/** Re-hook 2: "And what he did next turned a quiet college town into a nightmare." */
+export const RehookNightmare: React.FC<SceneProps> = ({cue}) => {
+  const frame = useCurrentFrame();
+  const night = cue.w('nightmare') - 4;
+  const dark = p(frame, night, 12, inOut);
+  return (
+    <AbsoluteFill>
+      <NightSky moon={dark < 0.5} flashAt={[night + 2]} />
+      <AbsoluteFill style={{background: RED, opacity: dark * 0.18}} />
+      <Headline at={2} until={night - 1} size={100} y={220}>
+        A quiet <S>college town</S>
+      </Headline>
+      <Headline at={night} size={150} y={200} color={RED}>
+        A nightmare
+      </Headline>
+      <svg width={W} height={600} style={{position: 'absolute', top: 820}}>
+        {Array.from({length: 14}, (_, i) => {
+          const h = 140 + rnd(i + 3) * 260;
+          const x = i * 80;
+          return (
+            <g key={i}>
+              <rect x={x} y={600 - h} width={76} height={h} fill="#0b0f15" stroke="#1c2633" strokeWidth={3} />
+              {Array.from({length: 4}, (_, k) => (
+                <rect key={k} x={x + 14 + (k % 2) * 28} y={600 - h + 24 + Math.floor(k / 2) * 46} width={18} height={24} fill="#f3d27a" opacity={(rnd(i * 7 + k) > 0.4 ? 0.6 : 0) * (1 - p(frame, night + ((i * 3 + k) % 9), 4))} />
+              ))}
+            </g>
+          );
+        })}
+      </svg>
+    </AbsoluteFill>
+  );
+};
+
+/** Re-hook 3: "But he wasn't running away. He had one more call to make." */
+export const RehookCall: React.FC<SceneProps> = ({cue}) => {
+  const frame = useCurrentFrame();
+  const call = cue.s(1);
+  const ring = frame >= call ? Math.sin(frame * 1.6) * 10 * (Math.floor((frame - call) / 18) % 2 === 0 ? 1 : 0) : 0;
+  return (
+    <AbsoluteFill>
+      <NightSky moon={false} />
+      <Headline at={2} until={call - 1} size={110} y={220}>
+        He wasn't <S>running</S>
+      </Headline>
+      {frame < call ? (
+        <Center top={640} style={{opacity: p(frame, 2, 8)}}>
+          <svg width={900} height={400} viewBox="0 0 900 400">
+            <line x1={0} y1={300} x2={900} y2={300} stroke="#3a4a5c" strokeWidth={6} />
+            {Array.from({length: 8}, (_, i) => (
+              <rect key={i} x={((i * 130 - frame * 14) % 1040 + 1040) % 1040 - 70} y={292} width={60} height={14} fill="#f3d27a" opacity={0.6} />
+            ))}
+            <path d="M 300 260 Q 310 200 380 190 L 430 140 L 560 140 L 620 190 Q 680 200 690 260 Z" fill="#141c26" stroke="#3a4a5c" strokeWidth={6} />
+            <circle cx={380} cy={265} r={30} fill="#05080d" />
+            <circle cx={610} cy={265} r={30} fill="#05080d" />
+          </svg>
+        </Center>
+      ) : (
+        <>
+          <Headline at={call} size={120} y={200}>
+            One more <R>call</R>
+          </Headline>
+          <Center top={520} style={{transform: `rotate(${ring}deg)`, opacity: p(frame, call, 8)}}>
+            <div style={{fontSize: 420, lineHeight: 1, filter: `drop-shadow(0 0 40px ${RED})`}}>☎</div>
+          </Center>
+        </>
+      )}
+    </AbsoluteFill>
+  );
+};

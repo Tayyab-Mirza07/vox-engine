@@ -11,8 +11,8 @@ const voDir = ep ? `${ep}/vo` : 'vo';
 const script = JSON.parse(readFileSync(`${srcDir}/script.json`, 'utf8'));
 const spoken = script.spoken ?? {};
 const LEAD = 0.25; // silence before the first line
-const GAP = 0.35; // breathing room between lines
-const TAIL = 1.6; // hold after the last line
+const GAP = script.gap ?? 0.35; // breathing room between lines
+const TAIL = script.tail ?? 1.6; // hold after the last line
 
 const duration = (file) =>
   parseFloat(execFileSync('ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', file]).toString());
