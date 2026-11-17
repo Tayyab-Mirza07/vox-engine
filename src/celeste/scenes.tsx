@@ -345,7 +345,17 @@ export const BelowDeck: React.FC<SceneProps> = ({cue}) => {
           {frame >= belongings ? (
             <Center top={800} style={{opacity: p(frame, belongings, 8)}}>
               <div style={{textAlign: 'center'}}>
-                <Photo src={PHOTO('desk.jpg')} width={560} height={420} zoom={lerp(1.1, 1, p(frame, belongings, 40))} focus="50% 50%" credit="Captain Briggs's lap desk · photo CC0" accent={TEAL} />
+                <svg width={520} height={340} viewBox="0 0 260 170">
+                  <path d="M 20 60 Q 130 10 240 60 L 240 75 L 20 75 Z" fill="#7a5230" stroke="#3d2814" strokeWidth={4} />
+                  <rect x={20} y={75} width={220} height={85} fill="#5c3c22" stroke="#3d2814" strokeWidth={4} />
+                  {[60, 130, 200].map((x) => (
+                    <rect key={x} x={x - 6} y={40} width={12} height={120} fill="#c9a227" opacity={0.8} />
+                  ))}
+                  <rect x={118} y={92} width={24} height={30} rx={4} fill="#c9a227" />
+                </svg>
+                <div style={{marginTop: 10}}>
+                  <Tag color={TEAL}>Belongings untouched</Tag>
+                </div>
               </div>
             </Center>
           ) : null}
@@ -670,12 +680,12 @@ export const Fate: React.FC<SceneProps> = ({cue}) => {
         </Center>
       ) : (
         <>
+          <div style={{position: 'absolute', top: 330, left: 40, transform: `translate(${shake}px, ${-shake}px)`}}>
+            <Globe width={1000} height={680} center={[-72.5, 19.5]} scale={2600} frame={frame} highlight={["Haiti"]} routes={[]} pins={[{at: PLACE.haiti, label: 'THE REEF', show: p(frame, crash - 6, 8), align: 'left'}]} />
+          </div>
           <Headline at={reef} size={96} y={170}>
             <T>1885</T> · Haiti
           </Headline>
-          <div style={{position: 'absolute', top: 290, left: 40, transform: `translate(${shake}px, ${-shake}px)`}}>
-            <Globe width={1000} height={680} center={[-72.5, 19.5]} scale={2600} frame={frame} highlight={["Haiti"]} routes={[]} pins={[{at: PLACE.haiti, label: 'THE REEF', show: p(frame, crash - 6, 8), align: 'left'}]} />
-          </div>
           <Stamp at={cue.w('insurance') - 4} y={1120} size={120}>
             Insurance fraud
           </Stamp>
@@ -715,7 +725,7 @@ export const CallToAction: React.FC<SceneProps> = ({cue}) => {
         {card('celeste/cta/kemper.jpg', 'THE KILLER WHO CALLED THE COPS', kemper, frame >= kemper && frame < both)}
       </div>
       {frame >= both ? (
-        <Center top={1090} style={{opacity: p(frame, both, 8)}}>
+        <Center top={1010} style={{opacity: p(frame, both, 8)}}>
           <div style={{textAlign: 'center'}}>
             <div style={{fontFamily: BODY, fontWeight: 800, fontSize: 36, color: C.dim, letterSpacing: 5}}>BOTH ON THIS CHANNEL</div>
             <div style={{fontFamily: DISPLAY, fontSize: 96, color: C.white, letterSpacing: 3, marginTop: 6}}>CHRONOS GALAXY</div>
@@ -723,8 +733,8 @@ export const CallToAction: React.FC<SceneProps> = ({cue}) => {
         </Center>
       ) : null}
       {frame >= tap ? (
-        <Center top={1250} style={{transform: `scale(${pulse})`}}>
-          <div style={{fontFamily: DISPLAY, fontSize: 70, color: '#07090c', background: TEAL, padding: '14px 40px', borderRadius: 18, letterSpacing: 2}}>TAP · FOLLOW · WATCH NEXT</div>
+        <Center top={1215} style={{transform: `scale(${pulse})`}}>
+          <div style={{fontFamily: DISPLAY, fontSize: 62, color: '#07090c', background: TEAL, padding: '14px 40px', borderRadius: 18, letterSpacing: 2}}>TAP · FOLLOW · WATCH NEXT</div>
         </Center>
       ) : null}
     </AbsoluteFill>
