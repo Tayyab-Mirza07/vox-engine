@@ -337,7 +337,11 @@ export const Hospital: React.FC<SceneProps> = ({cue}) => {
       <Headline at={studied} size={92} y={150}>
         He <R>learned the test</R>
       </Headline>
-      {frame < studied ? (
+      {frame < iq - 4 ? (
+        <Center top={420} style={{opacity: p(frame, 2, 8)}}>
+          <Photo src={PHOTO('mug1964.jpg')} width={960} height={760} gray={1} zoom={lerp(1, 1.08, p(frame, 2, 60))} focus="50% 40%" credit="Atascadero State Hospital, 1964 · public domain" accent={STEEL} fit="contain" />
+        </Center>
+      ) : frame < studied ? (
         <Center top={460} style={{opacity: p(frame, iq - 4, 8)}}>
           <Gauge size={620} label={frame >= genius ? 'GENIUS LEVEL' : 'IQ TEST'} value={String(Math.round(lerp(80, 136, needle)))} unit="IQ SCORE" amount={lerp(0.1, 0.95, needle)} show={p(frame, iq - 4, 8)} />
         </Center>
@@ -652,7 +656,7 @@ export const Drive: React.FC<SceneProps> = ({cue}) => {
           width={1000}
           height={640}
           frame={frame}
-          zoom={1.9}
+          zoom={1.35}
           focus={[-113.5, 38.6]}
           routes={[{from: PLACE.santaCruz, to: PLACE.pueblo, progress: route}]}
           pins={[
