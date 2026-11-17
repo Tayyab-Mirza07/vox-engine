@@ -1,6 +1,6 @@
-import React from 'react';
+import React, {useMemo} from 'react';
 import {AbsoluteFill, Img, staticFile, useCurrentFrame} from 'remotion';
-import {BODY, C, DISPLAY, FPS, H, LINES, W, f, p, rnd, slam, lerp} from './lib';
+import {BODY, C, DISPLAY, FPS, H, LINES, Line, W, f, p, rnd, slam, lerp} from './lib';
 
 export const Background: React.FC<{tint?: string; warmth?: number}> = ({tint = C.green, warmth = 0}) => {
   const frame = useCurrentFrame();
@@ -135,7 +135,7 @@ export const Stamp: React.FC<{
 };
 
 /** White flash + scanline glitch at the start of every scene. */
-export const CutFlash: React.FC = () => {
+export const CutFlash: React.FC<{accent?: string}> = ({accent = C.green}) => {
   const frame = useCurrentFrame();
   if (frame > 7) return null;
   const o = lerp(0.75, 0, frame / 7);
@@ -151,7 +151,7 @@ export const CutFlash: React.FC = () => {
             right: 0,
             top: rnd(frame * 7 + i) * H,
             height: 30 + rnd(frame + i * 3) * 120,
-            background: i === 1 ? C.green : C.white,
+            background: i === 1 ? accent : C.white,
             opacity: o * 0.5,
             transform: `translateX(${(rnd(frame + i) - 0.5) * 120}px)`,
           }}
@@ -164,27 +164,29 @@ export const CutFlash: React.FC = () => {
 type Chunk = {start: number; end: number; words: {w: string; start: number; end: number}[]};
 
 // Break the narration into 1–3 word caption chunks, splitting at punctuation.
-const CHUNKS: Chunk[] = LINES.flatMap((line) =>
-  line.sentences.flatMap((s) => {
-    const chunks: Chunk[] = [];
-    let cur: Chunk['words'] = [];
-    const flush = () => {
-      if (cur.length) chunks.push({start: cur[0].start, end: cur[cur.length - 1].end, words: cur});
-      cur = [];
-    };
-    s.words.forEach((w) => {
-      cur.push(w);
-      const chars = cur.reduce((a, x) => a + x.w.length, 0);
-      if (/[,.?!]$/.test(w.w) || cur.length === 3 || chars > 15) flush();
-    });
-    flush();
-    return chunks;
-  }),
-);
+const chunkLines = (lines: Line[]): Chunk[] =>
+  lines.flatMap((line) =>
+    line.sentences.flatMap((s) => {
+      const chunks: Chunk[] = [];
+      let cur: Chunk['words'] = [];
+      const flush = () => {
+        if (cur.length) chunks.push({start: cur[0].start, end: cur[cur.length - 1].end, words: cur});
+        cur = [];
+      };
+      s.words.forEach((w) => {
+        cur.push(w);
+        const chars = cur.reduce((a, x) => a + x.w.length, 0);
+        if (/[,.?!:]$/.test(w.w) || cur.length === 3 || chars > 15) flush();
+      });
+      flush();
+      return chunks;
+    }),
+  );
 
 /** Word-by-word captions with the active word highlighted. */
-export const Captions: React.FC = () => {
+export const Captions: React.FC<{lines?: Line[]; accent?: string}> = ({lines = LINES, accent = C.green}) => {
   const frame = useCurrentFrame();
+  const CHUNKS = useMemo(() => chunkLines(lines), [lines]);
   const t = frame / FPS;
   const idx = CHUNKS.findIndex((c, i) => t >= c.start - 0.04 && t < (CHUNKS[i + 1]?.start ?? c.end + 0.5) - 0.04);
   if (idx < 0) return null;
@@ -217,7 +219,7 @@ export const Captions: React.FC = () => {
           <span
             key={i}
             style={{
-              color: active ? C.green : C.white,
+              color: active ? accent : C.white,
               opacity: active || spoken ? 1 : 0.55,
               transform: `scale(${active ? 1.08 : 1})`,
               display: 'inline-block',
@@ -235,10 +237,10 @@ export const Captions: React.FC = () => {
 };
 
 /** Progress bar along the top edge — a small retention device. */
-export const ProgressBar: React.FC<{total: number}> = ({total}) => {
+export const ProgressBar: React.FC<{total: number; color?: string}> = ({total, color = C.green}) => {
   const frame = useCurrentFrame();
   return (
-    <div style={{position: 'absolute', top: 0, left: 0, height: 10, width: `${(frame / total) * 100}%`, background: C.green}} />
+    <div style={{position: 'absolute', top: 0, left: 0, height: 10, width: `${(frame / total) * 100}%`, background: color}} />
   );
 };
 
@@ -323,13 +325,26 @@ export const Figure: React.FC<{x: number; y: number; h: number; color: string; s
 };
 
 /** Framed photo with a slow push-in and the required photo credit. */
-export const Photo: React.FC<{src: string; width: number; height: number; zoom?: number; gray?: number; focus?: string}> = ({
+export const Photo: React.FC<{
+  src: string;
+  width: number;
+  height: number;
+  zoom?: number;
+  gray?: number;
+  focus?: string;
+  credit?: string;
+  accent?: string;
+  fit?: 'cover' | 'contain';
+}> = ({
   src,
   width,
   height,
   zoom = 1,
   gray = 0,
   focus = '50% 20%',
+  credit = 'Photo: Anders Eidesvik · CC BY 4.0',
+  accent = C.green,
+  fit = 'cover',
 }) => (
   <div
     style={{
@@ -338,17 +353,17 @@ export const Photo: React.FC<{src: string; width: number; height: number; zoom?:
       height,
       borderRadius: 28,
       overflow: 'hidden',
-      border: `6px solid ${C.green}`,
-      boxShadow: `0 0 70px ${C.green}55, 0 30px 80px #000`,
+      border: `6px solid ${accent}`,
+      boxShadow: `0 0 70px ${accent}55, 0 30px 80px #000`,
       background: C.panel,
     }}
   >
     <Img
-      src={staticFile(`photos/${src}`)}
+      src={staticFile(src.includes('/') ? src : `photos/${src}`)}
       style={{
         width: '100%',
         height: '100%',
-        objectFit: 'cover',
+        objectFit: fit,
         objectPosition: focus,
         transform: `scale(${zoom})`,
         transformOrigin: focus,
@@ -368,7 +383,7 @@ export const Photo: React.FC<{src: string; width: number; height: number; zoom?:
         color: '#ffffffb0',
       }}
     >
-      Photo: Anders Eidesvik · CC BY 4.0
+      {credit}
     </div>
   </div>
 );
