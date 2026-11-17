@@ -27,7 +27,7 @@ export const Jet: React.FC<{
           <circle cx={550.5} cy={164} r={7} />
         </g>
         {/* aft airstair, hinged under the tail */}
-        <g transform={`rotate(${stairs * 52}, 150, 128)`} opacity={stairs > 0 ? 1 : 0}>
+        <g transform={`rotate(${stairs * -50}, 150, 128)`} opacity={stairs > 0 ? 1 : 0}>
           <path d="M 150 124 L 62 128 L 62 136 L 150 134 Z" />
         </g>
         {/* fuselage */}

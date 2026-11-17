@@ -46,7 +46,7 @@ export const Hook: React.FC<SceneProps> = ({cue}) => {
     <AbsoluteFill>
       <NightSky rain={p(frame, storm, 12)} flashAt={[storm, storm + 26, gone + 4]} />
       <div style={{position: 'absolute', left: jetX, top: jetY, transform: 'rotate(-2deg)'}}>
-        <Jet width={900} stairs={p(frame, jumpAt - 14, 12)} />
+        <Jet width={900} color="#2c3e59" stairs={p(frame, jumpAt - 14, 12)} />
       </div>
       {frame >= jumpAt && fall < 1 ? (
         <div style={{position: 'absolute', left: jetX + 90 - fall * 90, top: jetY + 190 + fall * 900, opacity: 1 - p(frame, jumpAt + 60, 20)}}>
@@ -173,6 +173,7 @@ export const Portland: React.FC<SceneProps> = ({cue}) => {
           height={640}
           frame={frame}
           highlight={frame < fly ? 'Oregon' : 'Washington'}
+          highlightAmount={0.1}
           zoom={zoom}
           focus={[-121.2, 46.5]}
           routes={[{from: PLACE.portland, to: PLACE.seattle, progress: route}]}
@@ -182,13 +183,13 @@ export const Portland: React.FC<SceneProps> = ({cue}) => {
           ]}
         />
       </MapBox>
-      <Headline at={2} until={fly - 1} size={92} y={130}>
+      <Headline at={2} until={fly - 1} size={84} y={110}>
         The day before <A>Thanksgiving</A>
       </Headline>
-      <Headline at={fly} until={name - 1} size={92} y={130}>
+      <Headline at={fly} until={name - 1} size={84} y={110}>
         A quiet man in a <A>black tie</A>
       </Headline>
-      <Headline at={name} size={92} y={130}>
+      <Headline at={name} size={84} y={110}>
         The name he gives
       </Headline>
       {frame < name ? (
@@ -408,7 +409,7 @@ export const Seattle: React.FC<SceneProps> = ({cue}) => {
     <AbsoluteFill>
       <Background tint={frame >= free ? C.green : AMBER} />
       <MapBox>
-        <USMap width={1000} height={640} frame={frame} highlight="Washington" zoom={6.5} focus={[-122.0, 47.3]} pins={[{at: PLACE.seattle, label: 'SEATTLE', show: 1, align: 'right'}]} />
+        <USMap width={1000} height={640} frame={frame} highlight="Washington" highlightAmount={0.1} zoom={6.5} focus={[-122.0, 47.3]} pins={[{at: PLACE.seattle, label: 'SEATTLE', show: 1, align: 'right'}]} />
         {/* circling jet */}
         <div style={{position: 'absolute', left: 390 + Math.cos(a) * 250, top: 300 + Math.sin(a) * 190, transform: `rotate(${(a * 180) / Math.PI + 90}deg)`}}>
           <svg width={70} height={70} viewBox="-35 -35 70 70">
@@ -419,13 +420,13 @@ export const Seattle: React.FC<SceneProps> = ({cue}) => {
           <ellipse cx={425} cy={335} rx={250} ry={190} fill="none" stroke={AMBER} strokeWidth={4} strokeDasharray="14 14" opacity={0.6} />
         </svg>
       </MapBox>
-      <Headline at={2} until={word - 1} size={92} y={130}>
+      <Headline at={2} until={word - 1} size={84} y={110}>
         Circling for <A>{Math.floor(hours / 60)}:{String(Math.floor(hours % 60)).padStart(2, '0')}</A> hours
       </Headline>
-      <Headline at={word} until={free - 1} size={92} y={130}>
+      <Headline at={word} until={free - 1} size={84} y={110}>
         He keeps his word
       </Headline>
-      <Headline at={free} size={92} y={130}>
+      <Headline at={free} size={84} y={110}>
         <span style={{color: C.green}}>36 passengers</span> walk free
       </Headline>
       {frame < free ? (
@@ -470,10 +471,10 @@ export const Orders: React.FC<SceneProps> = ({cue}) => {
         </Center>
       ) : (
         <>
-          <Headline at={orders} until={low - 1} size={92} y={130}>
+          <Headline at={orders} until={low - 1} size={84} y={110}>
             Next stop: <A>Mexico City</A>
           </Headline>
-          <Headline at={low} size={92} y={130}>
+          <Headline at={low} size={84} y={110}>
             Strange <A>instructions</A>
           </Headline>
           <MapBox>
@@ -481,8 +482,8 @@ export const Orders: React.FC<SceneProps> = ({cue}) => {
               width={1000}
               height={640}
               frame={frame}
-              zoom={3}
-              focus={[-118.5, 42.6]}
+              zoom={2.5}
+              focus={[-119.2, 43.6]}
               routes={[{from: PLACE.seattle, to: PLACE.reno, progress: route}]}
               pins={[
                 {at: PLACE.seattle, label: 'SEATTLE', show: 1, align: 'right'},
@@ -526,7 +527,7 @@ export const Jump: React.FC<SceneProps> = ({cue}) => {
         </div>
       </Center>
       <div style={{position: 'absolute', left: 100, top: 520, transform: `rotate(${-1 + bump}deg)`, transformOrigin: '70% 50%'}}>
-        <Jet width={900} stairs={p(frame, stairsAt - 6, 30, inOut)} gear={1} />
+        <Jet width={900} color="#2c3e59" stairs={p(frame, stairsAt - 6, 30, inOut)} gear={1} />
       </div>
       {frame < stairsAt + 20 ? (
         <Center top={900} style={{opacity: p(frame, cue.w('warning') - 4, 6)}}>
@@ -567,11 +568,11 @@ export const Reno: React.FC<SceneProps> = ({cue}) => {
       <Background tint={frame < empty ? (siren ? C.red : '#2f6bff') : AMBER} />
       {frame < left ? (
         <>
-          <Headline at={2} until={empty - 1} size={96} y={130}>
+          <Headline at={2} until={empty - 1} size={84} y={110}>
             Agents storm the <R>cabin</R>
           </Headline>
           <MapBox opacity={frame >= empty ? 0.25 : 1}>
-            <USMap width={1000} height={640} frame={frame} highlight="Nevada" zoom={3.4} focus={[-119.2, 40.6]} pins={[{at: PLACE.reno, label: 'RENO, NEVADA', show: p(frame, 4, 8), align: 'right'}]} />
+            <USMap width={1000} height={640} frame={frame} highlight="Nevada" highlightAmount={0.15} zoom={3.4} focus={[-119.2, 40.6]} pins={[{at: PLACE.reno, label: 'RENO, NEVADA', show: p(frame, 4, 8), align: 'right'}]} />
           </MapBox>
           {frame >= empty ? (
             <Center top={480} style={{opacity: e.opacity, transform: `scale(${e.scale})`}}>
@@ -632,15 +633,15 @@ export const Search: React.FC<SceneProps> = ({cue}) => {
   return (
     <AbsoluteFill>
       <Background tint={frame >= susp ? C.red : AMBER} />
-      <Headline at={2} until={susp - 1} size={92} y={130}>
+      <Headline at={2} until={susp - 1} size={84} y={110}>
         Weeks of <A>searching</A>
       </Headline>
-      <Headline at={susp} size={100} y={130}>
+      <Headline at={susp} size={88} y={110}>
         <R>{count}+</R> suspects
       </Headline>
       {frame < susp ? (
         <MapBox>
-          <USMap width={1000} height={640} frame={frame} highlight="Washington" zoom={7} focus={[-121.9, 46.2]} pins={[{at: PLACE.ariel, label: 'SEARCH ZONE', show: p(frame, 8, 8), align: 'right'}]} />
+          <USMap width={1000} height={640} frame={frame} highlight="Washington" highlightAmount={0.1} zoom={7} focus={[-121.9, 46.2]} pins={[{at: PLACE.ariel, label: 'SEARCH ZONE', show: p(frame, 8, 8), align: 'right'}]} />
           <svg width={1000} height={640} style={{position: 'absolute', left: 0, top: 0}}>
             {Array.from({length: 9}, (_, i) => (
               <line key={`v${i}`} x1={i * 125} x2={i * 125} y1={0} y2={640} stroke={AMBER} strokeWidth={1.5} opacity={0.25} />
@@ -691,21 +692,21 @@ export const Money: React.FC<SceneProps> = ({cue}) => {
   return (
     <AbsoluteFill>
       <Background tint={AMBER} />
-      <Headline at={2} until={found - 1} size={100} y={130}>
+      <Headline at={2} until={found - 1} size={88} y={110}>
         <A>1980</A> · nine years later
       </Headline>
-      <Headline at={found} until={serial - 1} size={92} y={130}>
+      <Headline at={found} until={serial - 1} size={84} y={110}>
         Rotting <A>$20 bills</A>
       </Headline>
-      <Headline at={serial} until={only - 1} size={92} y={130}>
+      <Headline at={serial} until={only - 1} size={84} y={110}>
         Serial numbers: <span style={{color: C.green}}>match</span>
       </Headline>
-      <Headline at={only} size={88} y={130}>
+      <Headline at={only} size={84} y={110}>
         The only money <A>ever found</A>
       </Headline>
       {frame < found ? (
         <MapBox>
-          <USMap width={1000} height={640} frame={frame} highlight="Washington" zoom={7} focus={[-121.9, 46.2]} pins={[{at: PLACE.tenaBar, label: 'COLUMBIA RIVER', show: p(frame, cue.w('riverbank') - 10, 8), align: 'right'}]} />
+          <USMap width={1000} height={640} frame={frame} highlight="Washington" highlightAmount={0.1} zoom={7} focus={[-121.9, 46.2]} pins={[{at: PLACE.tenaBar, label: 'COLUMBIA RIVER', show: p(frame, cue.w('riverbank') - 10, 8), align: 'right'}]} />
         </MapBox>
       ) : (
         <Center top={320} style={{opacity: p(frame, found, 8)}}>
@@ -829,7 +830,7 @@ export const Question: React.FC<SceneProps> = ({cue}) => {
       ) : null}
       {frame >= endAt ? (
         <Center top={150} style={{opacity: cta.opacity, transform: `scale(${cta.scale})`}}>
-          <div style={{fontFamily: DISPLAY, fontSize: 92, color: C.bg, background: AMBER, padding: '18px 40px', borderRadius: 18, letterSpacing: 3}}>FOLLOW FOR THE NEXT CASE</div>
+          <div style={{fontFamily: DISPLAY, fontSize: 78, color: C.bg, background: AMBER, padding: '16px 34px', borderRadius: 18, letterSpacing: 2, whiteSpace: 'nowrap'}}>FOLLOW FOR THE NEXT CASE</div>
         </Center>
       ) : null}
     </AbsoluteFill>
