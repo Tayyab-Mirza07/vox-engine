@@ -17,7 +17,23 @@ Remotion project that turns a script into vertical shorts for the owner's YouTub
   then give the GitHub link.
 - The owner writes in Roman Urdu/Hinglish; reply in the same.
 
+## Episodes
+
+Channel: "Chronos Galaxy" (YouTube + Facebook), US audience, 3-minute-max vertical mystery/history documentaries.
+Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should sound like a storyteller
+(Eleven v4 audio tags such as `[whispers]`, `[softly]`, kept out of the caption text).
+
+- `Short` — first reel (Jensen Huang); files at the top level of `src/` and `public/vo`, `public/photos`.
+- `DBCooper` — episode 1 of the mystery series; `src/dbcooper/`, `public/dbcooper/{vo,photos}`.
+  New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.
+
 ## Commands
+
+- `node scripts/build-timings.mjs <ep>` — rebuild an episode's caption timings (no argument = first reel)
+- `npm run render:dbcooper` then `npm run master:dbcooper` — render and master `out/db-cooper-final.mp4`
+- A 3-minute render takes ~12 minutes: run it in the background.
+- Wikimedia rate-limits this environment hard (HTTP 429): fetch files one at a time via
+  `commons.wikimedia.org/wiki/Special:FilePath/<name>` with long pauses.
 
 - `npm run timings` — rebuild caption timings from the voiceover in `public/vo/`
 - `npm run render` — render `out/reform-school-billionaire.mp4`
