@@ -1,0 +1,48 @@
+{
+  "title": "The Last Words of the Edmund Fitzgerald",
+  "voice": {"provider": "elevenlabs", "voice_id": "uFIXVu9mmnDZ7dTKCBTX", "model": "eleven_v4"},
+  "gap": 0.25,
+  "tail": 1.0,
+  "spoken": {
+    "10th,": "tenth",
+    "1975.": "nineteen seventy five",
+    "7:10": "seven ten",
+    "29": "twenty nine",
+    "9th.": "ninth",
+    "26,000": "twenty six thousand",
+    "530": "five hundred thirty"
+  },
+  "lines": [
+    "November 10th, 1975. A ship longer than two football fields sails into a storm on Lake Superior. At 7:10 PM, her captain radios a calm message: \"We are holding our own.\" Minutes later, she was gone. All 29 men with her.",
+    "No mayday. No distress call. Just silence on the radio, and an empty spot on the radar.",
+    "So how does a ship that big disappear in minutes, on a lake? To find out, we go back one day.",
+    "November 9th. Superior, Wisconsin. The Edmund Fitzgerald leaves port with 26,000 tons of iron ore, bound for Detroit. Her captain, Ernest McSorley, has sailed these lakes for decades.",
+    "But a powerful November gale is sweeping toward the lake. Another freighter, the Arthur M. Anderson, sails a few miles behind her.",
+    "By the next afternoon, the storm hits. Winds near hurricane force. Waves more than twenty feet high crash over the deck.",
+    "Then the Fitzgerald reports trouble. A railing is down. Two vents are torn away. She's starting to lean. And both of her radars are dead.",
+    "Now she's sailing blind, through one of the worst storms in years. Her only eyes are the ship behind her.",
+    "The Anderson guides her by radio. At 7:10 PM, they ask how she's doing. The captain answers: \"We are holding our own.\"",
+    "Soon after, a snow squall clears. The Anderson's crew looks ahead. The Fitzgerald's lights are gone. And so is her blip on the radar.",
+    "Days later, the Navy finds the wreck, 530 feet down, broken in two. None of the 29 men were ever recovered.",
+    "But what sank her so fast that no one had time to call for help?",
+    "Investigators blamed leaky cargo hatches, slowly flooding the hold. Others believe she scraped a shallow shoal earlier that day. And some sailors describe three giant waves, striking one after another.",
+    "The truth is, no one knows for sure. Whatever happened, it happened so fast that the crew never sent a single call for help.",
+    "A year later, Gordon Lightfoot turned her story into a hit song. And every November 10th, a bell rings 29 times at Whitefish Point. Once for every man aboard.",
+    "If you love mysteries of the sea, watch the ghost ship that was found with no one on board. Or the man who jumped from a plane and vanished. Both are on this channel. Tap and watch next."
+  ],
+  "structure": {
+    "hook (tension: last words, then gone)": [0],
+    "release + new tension (no mayday)": [1],
+    "rehook 1 (question: how?)": [2],
+    "build: who / when / where / what": [3, 4],
+    "rising tension (storm, damage)": [5, 6],
+    "rehook 2 (sailing blind)": [7],
+    "climax (callback to the hook's last words, then gone)": [8, 9],
+    "release (wreck found)": [10],
+    "rehook 3 (question: what sank her?)": [11],
+    "payoff (three theories)": [12, 13],
+    "emotional ending (song, bell 29 times)": [14],
+    "CTA → past Shorts (Mary Celeste, D.B. Cooper)": [15]
+  },
+  "notes": "Real people died: respectful tone, no crew photos, no dramatised deaths."
+}

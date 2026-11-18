@@ -1,0 +1,2464 @@
+{
+ "total": 163.563,
+ "lines": [
+  {
+   "index": 0,
+   "file": "fitz/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 18.207,
+   "sentences": [
+    {
+     "text": "November 10th, 1975.",
+     "start": 0.25,
+     "end": 2.784,
+     "words": [
+      {
+       "w": "November",
+       "start": 0.25,
+       "end": 1.424
+      },
+      {
+       "w": "10th,",
+       "start": 1.424,
+       "end": 2.104
+      },
+      {
+       "w": "1975.",
+       "start": 2.104,
+       "end": 2.784
+      }
+     ]
+    },
+    {
+     "text": "A ship longer than two football fields sails into a storm on Lake Superior.",
+     "start": 3.269,
+     "end": 7.696,
+     "words": [
+      {
+       "w": "A",
+       "start": 3.269,
+       "end": 3.404
+      },
+      {
+       "w": "ship",
+       "start": 3.404,
+       "end": 3.701
+      },
+      {
+       "w": "longer",
+       "start": 3.701,
+       "end": 4.105
+      },
+      {
+       "w": "than",
+       "start": 4.105,
+       "end": 4.402
+      },
+      {
+       "w": "two",
+       "start": 4.402,
+       "end": 4.645
+      },
+      {
+       "w": "football",
+       "start": 4.645,
+       "end": 5.158
+      },
+      {
+       "w": "fields",
+       "start": 5.158,
+       "end": 5.563
+      },
+      {
+       "w": "sails",
+       "start": 5.563,
+       "end": 5.914
+      },
+      {
+       "w": "into",
+       "start": 5.914,
+       "end": 6.211
+      },
+      {
+       "w": "a",
+       "start": 6.211,
+       "end": 6.346
+      },
+      {
+       "w": "storm",
+       "start": 6.346,
+       "end": 6.697
+      },
+      {
+       "w": "on",
+       "start": 6.697,
+       "end": 6.886
+      },
+      {
+       "w": "Lake",
+       "start": 6.886,
+       "end": 7.183
+      },
+      {
+       "w": "Superior.",
+       "start": 7.183,
+       "end": 7.696
+      }
+     ]
+    },
+    {
+     "text": "At 7:10 PM, her captain radios a calm message: \"We are holding our own.",
+     "start": 8.199,
+     "end": 13.198,
+     "words": [
+      {
+       "w": "At",
+       "start": 8.199,
+       "end": 8.447
+      },
+      {
+       "w": "7:10",
+       "start": 8.447,
+       "end": 9.12
+      },
+      {
+       "w": "PM,",
+       "start": 9.12,
+       "end": 9.368
+      },
+      {
+       "w": "her",
+       "start": 9.6,
+       "end": 9.857
+      },
+      {
+       "w": "captain",
+       "start": 9.857,
+       "end": 10.344
+      },
+      {
+       "w": "radios",
+       "start": 10.344,
+       "end": 10.773
+      },
+      {
+       "w": "a",
+       "start": 10.773,
+       "end": 10.916
+      },
+      {
+       "w": "calm",
+       "start": 10.916,
+       "end": 11.231
+      },
+      {
+       "w": "message:",
+       "start": 11.231,
+       "end": 11.717
+      },
+      {
+       "w": "\"We",
+       "start": 12.18,
+       "end": 12.319
+      },
+      {
+       "w": "are",
+       "start": 12.319,
+       "end": 12.499
+      },
+      {
+       "w": "holding",
+       "start": 12.499,
+       "end": 12.839
+      },
+      {
+       "w": "our",
+       "start": 12.839,
+       "end": 13.019
+      },
+      {
+       "w": "own.",
+       "start": 13.019,
+       "end": 13.198
+      }
+     ]
+    },
+    {
+     "text": "\" Minutes later, she was gone.",
+     "start": 14.288,
+     "end": 16.038,
+     "words": [
+      {
+       "w": "\"",
+       "start": 14.288,
+       "end": 14.357
+      },
+      {
+       "w": "Minutes",
+       "start": 14.357,
+       "end": 14.749
+      },
+      {
+       "w": "later,",
+       "start": 14.749,
+       "end": 15.049
+      },
+      {
+       "w": "she",
+       "start": 15.33,
+       "end": 15.55
+      },
+      {
+       "w": "was",
+       "start": 15.55,
+       "end": 15.77
+      },
+      {
+       "w": "gone.",
+       "start": 15.77,
+       "end": 16.038
+      }
+     ]
+    },
+    {
+     "text": "All 29 men with her.",
+     "start": 16.605,
+     "end": 18.157,
+     "words": [
+      {
+       "w": "All",
+       "start": 16.605,
+       "end": 16.834
+      },
+      {
+       "w": "29",
+       "start": 16.834,
+       "end": 17.419
+      },
+      {
+       "w": "men",
+       "start": 17.419,
+       "end": 17.649
+      },
+      {
+       "w": "with",
+       "start": 17.649,
+       "end": 17.928
+      },
+      {
+       "w": "her.",
+       "start": 17.928,
+       "end": 18.157
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "fitz/vo/line1.mp3",
+   "start": 18.707,
+   "dur": 6.609,
+   "sentences": [
+    {
+     "text": "No mayday.",
+     "start": 18.707,
+     "end": 19.492,
+     "words": [
+      {
+       "w": "No",
+       "start": 18.707,
+       "end": 18.957
+      },
+      {
+       "w": "mayday.",
+       "start": 18.957,
+       "end": 19.492
+      }
+     ]
+    },
+    {
+     "text": "No distress call.",
+     "start": 20.036,
+     "end": 20.962,
+     "words": [
+      {
+       "w": "No",
+       "start": 20.036,
+       "end": 20.211
+      },
+      {
+       "w": "distress",
+       "start": 20.211,
+       "end": 20.687
+      },
+      {
+       "w": "call.",
+       "start": 20.687,
+       "end": 20.962
+      }
+     ]
+    },
+    {
+     "text": "Just silence on the radio, and an empty spot on the radar.",
+     "start": 21.565,
+     "end": 25.074,
+     "words": [
+      {
+       "w": "Just",
+       "start": 21.565,
+       "end": 21.862
+      },
+      {
+       "w": "silence",
+       "start": 21.862,
+       "end": 22.32
+      },
+      {
+       "w": "on",
+       "start": 22.32,
+       "end": 22.508
+      },
+      {
+       "w": "the",
+       "start": 22.508,
+       "end": 22.751
+      },
+      {
+       "w": "radio,",
+       "start": 22.751,
+       "end": 23.101
+      },
+      {
+       "w": "and",
+       "start": 23.497,
+       "end": 23.703
+      },
+      {
+       "w": "an",
+       "start": 23.703,
+       "end": 23.863
+      },
+      {
+       "w": "empty",
+       "start": 23.863,
+       "end": 24.16
+      },
+      {
+       "w": "spot",
+       "start": 24.16,
+       "end": 24.411
+      },
+      {
+       "w": "on",
+       "start": 24.411,
+       "end": 24.571
+      },
+      {
+       "w": "the",
+       "start": 24.571,
+       "end": 24.777
+      },
+      {
+       "w": "radar.",
+       "start": 24.777,
+       "end": 25.074
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "fitz/vo/line2.mp3",
+   "start": 25.566,
+   "dur": 7.471,
+   "sentences": [
+    {
+     "text": "So how does a ship that big disappear in minutes, on a lake?",
+     "start": 25.566,
+     "end": 29.912,
+     "words": [
+      {
+       "w": "So",
+       "start": 25.566,
+       "end": 25.668
+      },
+      {
+       "w": "how",
+       "start": 25.668,
+       "end": 25.799
+      },
+      {
+       "w": "does",
+       "start": 25.799,
+       "end": 25.959
+      },
+      {
+       "w": "a",
+       "start": 25.959,
+       "end": 26.031
+      },
+      {
+       "w": "ship",
+       "start": 26.031,
+       "end": 26.191
+      },
+      {
+       "w": "that",
+       "start": 26.191,
+       "end": 26.351
+      },
+      {
+       "w": "big",
+       "start": 26.351,
+       "end": 26.482
+      },
+      {
+       "w": "disappear",
+       "start": 26.482,
+       "end": 26.787
+      },
+      {
+       "w": "in",
+       "start": 26.787,
+       "end": 26.889
+      },
+      {
+       "w": "minutes,",
+       "start": 26.889,
+       "end": 27.136
+      },
+      {
+       "w": "on",
+       "start": 27.332,
+       "end": 28.117
+      },
+      {
+       "w": "a",
+       "start": 28.117,
+       "end": 28.678
+      },
+      {
+       "w": "lake?",
+       "start": 28.678,
+       "end": 29.912
+      }
+     ]
+    },
+    {
+     "text": "To find out, we go back one day.",
+     "start": 30.607,
+     "end": 32.832,
+     "words": [
+      {
+       "w": "To",
+       "start": 30.607,
+       "end": 30.809
+      },
+      {
+       "w": "find",
+       "start": 30.809,
+       "end": 31.125
+      },
+      {
+       "w": "out,",
+       "start": 31.125,
+       "end": 31.383
+      },
+      {
+       "w": "we",
+       "start": 31.649,
+       "end": 31.842
+      },
+      {
+       "w": "go",
+       "start": 31.842,
+       "end": 32.034
+      },
+      {
+       "w": "back",
+       "start": 32.034,
+       "end": 32.337
+      },
+      {
+       "w": "one",
+       "start": 32.337,
+       "end": 32.584
+      },
+      {
+       "w": "day.",
+       "start": 32.584,
+       "end": 32.832
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "fitz/vo/line3.mp3",
+   "start": 33.287,
+   "dur": 13.714,
+   "sentences": [
+    {
+     "text": "November 9th.",
+     "start": 33.287,
+     "end": 34.301,
+     "words": [
+      {
+       "w": "November",
+       "start": 33.287,
+       "end": 33.975
+      },
+      {
+       "w": "9th.",
+       "start": 33.975,
+       "end": 34.301
+      }
+     ]
+    },
+    {
+     "text": "Superior, Wisconsin.",
+     "start": 34.694,
+     "end": 36.038,
+     "words": [
+      {
+       "w": "Superior,",
+       "start": 34.694,
+       "end": 35.333
+      },
+      {
+       "w": "Wisconsin.",
+       "start": 35.333,
+       "end": 36.038
+      }
+     ]
+    },
+    {
+     "text": "The Edmund Fitzgerald leaves port with 26,000 tons of iron ore, bound for Detroit.",
+     "start": 36.568,
+     "end": 42.16,
+     "words": [
+      {
+       "w": "The",
+       "start": 36.568,
+       "end": 36.823
+      },
+      {
+       "w": "Edmund",
+       "start": 36.823,
+       "end": 37.247
+      },
+      {
+       "w": "Fitzgerald",
+       "start": 37.247,
+       "end": 37.898
+      },
+      {
+       "w": "leaves",
+       "start": 37.898,
+       "end": 38.322
+      },
+      {
+       "w": "port",
+       "start": 38.322,
+       "end": 38.633
+      },
+      {
+       "w": "with",
+       "start": 38.633,
+       "end": 38.944
+      },
+      {
+       "w": "26,000",
+       "start": 38.944,
+       "end": 39.991
+      },
+      {
+       "w": "tons",
+       "start": 39.991,
+       "end": 40.302
+      },
+      {
+       "w": "of",
+       "start": 40.302,
+       "end": 40.5
+      },
+      {
+       "w": "iron",
+       "start": 40.5,
+       "end": 40.811
+      },
+      {
+       "w": "ore,",
+       "start": 40.811,
+       "end": 41.066
+      },
+      {
+       "w": "bound",
+       "start": 41.264,
+       "end": 41.563
+      },
+      {
+       "w": "for",
+       "start": 41.563,
+       "end": 41.769
+      },
+      {
+       "w": "Detroit.",
+       "start": 41.769,
+       "end": 42.16
+      }
+     ]
+    },
+    {
+     "text": "Her captain, Ernest McSorley, has sailed these lakes for decades.",
+     "start": 42.75,
+     "end": 46.755,
+     "words": [
+      {
+       "w": "Her",
+       "start": 42.75,
+       "end": 42.977
+      },
+      {
+       "w": "captain,",
+       "start": 42.977,
+       "end": 43.406
+      },
+      {
+       "w": "Ernest",
+       "start": 43.581,
+       "end": 44.01
+      },
+      {
+       "w": "McSorley,",
+       "start": 44.01,
+       "end": 44.552
+      },
+      {
+       "w": "has",
+       "start": 44.778,
+       "end": 45.012
+      },
+      {
+       "w": "sailed",
+       "start": 45.012,
+       "end": 45.402
+      },
+      {
+       "w": "these",
+       "start": 45.402,
+       "end": 45.741
+      },
+      {
+       "w": "lakes",
+       "start": 45.741,
+       "end": 46.079
+      },
+      {
+       "w": "for",
+       "start": 46.079,
+       "end": 46.313
+      },
+      {
+       "w": "decades.",
+       "start": 46.313,
+       "end": 46.755
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "fitz/vo/line4.mp3",
+   "start": 47.252,
+   "dur": 8.359,
+   "sentences": [
+    {
+     "text": "But a powerful November gale is sweeping toward the lake.",
+     "start": 47.252,
+     "end": 50.645,
+     "words": [
+      {
+       "w": "But",
+       "start": 47.252,
+       "end": 47.498
+      },
+      {
+       "w": "a",
+       "start": 47.498,
+       "end": 47.635
+      },
+      {
+       "w": "powerful",
+       "start": 47.635,
+       "end": 48.155
+      },
+      {
+       "w": "November",
+       "start": 48.155,
+       "end": 48.675
+      },
+      {
+       "w": "gale",
+       "start": 48.675,
+       "end": 48.976
+      },
+      {
+       "w": "is",
+       "start": 48.976,
+       "end": 49.168
+      },
+      {
+       "w": "sweeping",
+       "start": 49.168,
+       "end": 49.688
+      },
+      {
+       "w": "toward",
+       "start": 49.688,
+       "end": 50.098
+      },
+      {
+       "w": "the",
+       "start": 50.098,
+       "end": 50.344
+      },
+      {
+       "w": "lake.",
+       "start": 50.344,
+       "end": 50.645
+      }
+     ]
+    },
+    {
+     "text": "Another freighter, the Arthur M. Anderson, sails a few miles behind her.",
+     "start": 51.171,
+     "end": 55.406,
+     "words": [
+      {
+       "w": "Another",
+       "start": 51.171,
+       "end": 51.534
+      },
+      {
+       "w": "freighter,",
+       "start": 51.534,
+       "end": 51.983
+      },
+      {
+       "w": "the",
+       "start": 52.21,
+       "end": 52.47
+      },
+      {
+       "w": "Arthur",
+       "start": 52.47,
+       "end": 52.904
+      },
+      {
+       "w": "M.",
+       "start": 52.904,
+       "end": 53.049
+      },
+      {
+       "w": "Anderson,",
+       "start": 53.049,
+       "end": 53.599
+      },
+      {
+       "w": "sails",
+       "start": 53.599,
+       "end": 53.966
+      },
+      {
+       "w": "a",
+       "start": 53.966,
+       "end": 54.107
+      },
+      {
+       "w": "few",
+       "start": 54.107,
+       "end": 54.361
+      },
+      {
+       "w": "miles",
+       "start": 54.361,
+       "end": 54.728
+      },
+      {
+       "w": "behind",
+       "start": 54.728,
+       "end": 55.152
+      },
+      {
+       "w": "her.",
+       "start": 55.152,
+       "end": 55.406
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "fitz/vo/line5.mp3",
+   "start": 55.861,
+   "dur": 8.751,
+   "sentences": [
+    {
+     "text": "By the next afternoon, the storm hits.",
+     "start": 55.861,
+     "end": 58.361,
+     "words": [
+      {
+       "w": "By",
+       "start": 55.861,
+       "end": 56.048
+      },
+      {
+       "w": "the",
+       "start": 56.048,
+       "end": 56.289
+      },
+      {
+       "w": "next",
+       "start": 56.289,
+       "end": 56.583
+      },
+      {
+       "w": "afternoon,",
+       "start": 56.583,
+       "end": 57.144
+      },
+      {
+       "w": "the",
+       "start": 57.333,
+       "end": 57.614
+      },
+      {
+       "w": "storm",
+       "start": 57.614,
+       "end": 58.019
+      },
+      {
+       "w": "hits.",
+       "start": 58.019,
+       "end": 58.361
+      }
+     ]
+    },
+    {
+     "text": "Winds near hurricane force.",
+     "start": 58.87,
+     "end": 60.759,
+     "words": [
+      {
+       "w": "Winds",
+       "start": 58.87,
+       "end": 59.293
+      },
+      {
+       "w": "near",
+       "start": 59.293,
+       "end": 59.652
+      },
+      {
+       "w": "hurricane",
+       "start": 59.652,
+       "end": 60.335
+      },
+      {
+       "w": "force.",
+       "start": 60.335,
+       "end": 60.759
+      }
+     ]
+    },
+    {
+     "text": "Waves more than twenty feet high crash over the deck.",
+     "start": 61.21,
+     "end": 64.415,
+     "words": [
+      {
+       "w": "Waves",
+       "start": 61.21,
+       "end": 61.569
+      },
+      {
+       "w": "more",
+       "start": 61.569,
+       "end": 61.873
+      },
+      {
+       "w": "than",
+       "start": 61.873,
+       "end": 62.177
+      },
+      {
+       "w": "twenty",
+       "start": 62.177,
+       "end": 62.591
+      },
+      {
+       "w": "feet",
+       "start": 62.591,
+       "end": 62.895
+      },
+      {
+       "w": "high",
+       "start": 62.895,
+       "end": 63.199
+      },
+      {
+       "w": "crash",
+       "start": 63.199,
+       "end": 63.558
+      },
+      {
+       "w": "over",
+       "start": 63.558,
+       "end": 63.862
+      },
+      {
+       "w": "the",
+       "start": 63.862,
+       "end": 64.111
+      },
+      {
+       "w": "deck.",
+       "start": 64.111,
+       "end": 64.415
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "fitz/vo/line6.mp3",
+   "start": 64.862,
+   "dur": 9.169,
+   "sentences": [
+    {
+     "text": "Then the Fitzgerald reports trouble.",
+     "start": 64.862,
+     "end": 67.193,
+     "words": [
+      {
+       "w": "Then",
+       "start": 64.862,
+       "end": 65.195
+      },
+      {
+       "w": "the",
+       "start": 65.195,
+       "end": 65.467
+      },
+      {
+       "w": "Fitzgerald",
+       "start": 65.467,
+       "end": 66.164
+      },
+      {
+       "w": "reports",
+       "start": 66.164,
+       "end": 66.679
+      },
+      {
+       "w": "trouble.",
+       "start": 66.679,
+       "end": 67.193
+      }
+     ]
+    },
+    {
+     "text": "A railing is down.",
+     "start": 67.436,
+     "end": 68.54,
+     "words": [
+      {
+       "w": "A",
+       "start": 67.436,
+       "end": 67.574
+      },
+      {
+       "w": "railing",
+       "start": 67.574,
+       "end": 68.043
+      },
+      {
+       "w": "is",
+       "start": 68.043,
+       "end": 68.236
+      },
+      {
+       "w": "down.",
+       "start": 68.236,
+       "end": 68.54
+      }
+     ]
+    },
+    {
+     "text": "Two vents are torn away.",
+     "start": 68.868,
+     "end": 70.116,
+     "words": [
+      {
+       "w": "Two",
+       "start": 68.868,
+       "end": 69.08
+      },
+      {
+       "w": "vents",
+       "start": 69.08,
+       "end": 69.386
+      },
+      {
+       "w": "are",
+       "start": 69.386,
+       "end": 69.598
+      },
+      {
+       "w": "torn",
+       "start": 69.598,
+       "end": 69.857
+      },
+      {
+       "w": "away.",
+       "start": 69.857,
+       "end": 70.116
+      }
+     ]
+    },
+    {
+     "text": "She's starting to lean.",
+     "start": 70.565,
+     "end": 71.721,
+     "words": [
+      {
+       "w": "She's",
+       "start": 70.565,
+       "end": 70.83
+      },
+      {
+       "w": "starting",
+       "start": 70.83,
+       "end": 71.287
+      },
+      {
+       "w": "to",
+       "start": 71.287,
+       "end": 71.456
+      },
+      {
+       "w": "lean.",
+       "start": 71.456,
+       "end": 71.721
+      }
+     ]
+    },
+    {
+     "text": "And both of her radars are dead.",
+     "start": 72.03,
+     "end": 73.795,
+     "words": [
+      {
+       "w": "And",
+       "start": 72.03,
+       "end": 72.253
+      },
+      {
+       "w": "both",
+       "start": 72.253,
+       "end": 72.527
+      },
+      {
+       "w": "of",
+       "start": 72.527,
+       "end": 72.701
+      },
+      {
+       "w": "her",
+       "start": 72.701,
+       "end": 72.925
+      },
+      {
+       "w": "radars",
+       "start": 72.925,
+       "end": 73.298
+      },
+      {
+       "w": "are",
+       "start": 73.298,
+       "end": 73.521
+      },
+      {
+       "w": "dead.",
+       "start": 73.521,
+       "end": 73.795
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "fitz/vo/line7.mp3",
+   "start": 74.281,
+   "dur": 7.393,
+   "sentences": [
+    {
+     "text": "Now she's sailing blind, through one of the worst storms in years.",
+     "start": 74.281,
+     "end": 78.721,
+     "words": [
+      {
+       "w": "Now",
+       "start": 74.281,
+       "end": 74.599
+      },
+      {
+       "w": "she's",
+       "start": 74.599,
+       "end": 74.988
+      },
+      {
+       "w": "sailing",
+       "start": 74.988,
+       "end": 75.589
+      },
+      {
+       "w": "blind,",
+       "start": 75.589,
+       "end": 76.049
+      },
+      {
+       "w": "through",
+       "start": 76.41,
+       "end": 76.846
+      },
+      {
+       "w": "one",
+       "start": 76.846,
+       "end": 77.077
+      },
+      {
+       "w": "of",
+       "start": 77.077,
+       "end": 77.257
+      },
+      {
+       "w": "the",
+       "start": 77.257,
+       "end": 77.488
+      },
+      {
+       "w": "worst",
+       "start": 77.488,
+       "end": 77.822
+      },
+      {
+       "w": "storms",
+       "start": 77.822,
+       "end": 78.208
+      },
+      {
+       "w": "in",
+       "start": 78.208,
+       "end": 78.387
+      },
+      {
+       "w": "years.",
+       "start": 78.387,
+       "end": 78.721
+      }
+     ]
+    },
+    {
+     "text": "Her only eyes are the ship behind her.",
+     "start": 79.121,
+     "end": 81.482,
+     "words": [
+      {
+       "w": "Her",
+       "start": 79.121,
+       "end": 79.374
+      },
+      {
+       "w": "only",
+       "start": 79.374,
+       "end": 79.683
+      },
+      {
+       "w": "eyes",
+       "start": 79.683,
+       "end": 79.992
+      },
+      {
+       "w": "are",
+       "start": 79.992,
+       "end": 80.245
+      },
+      {
+       "w": "the",
+       "start": 80.245,
+       "end": 80.498
+      },
+      {
+       "w": "ship",
+       "start": 80.498,
+       "end": 80.807
+      },
+      {
+       "w": "behind",
+       "start": 80.807,
+       "end": 81.229
+      },
+      {
+       "w": "her.",
+       "start": 81.229,
+       "end": 81.482
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "fitz/vo/line8.mp3",
+   "start": 81.923,
+   "dur": 9.091,
+   "sentences": [
+    {
+     "text": "The Anderson guides her by radio.",
+     "start": 81.923,
+     "end": 83.892,
+     "words": [
+      {
+       "w": "The",
+       "start": 81.923,
+       "end": 82.17
+      },
+      {
+       "w": "Anderson",
+       "start": 82.17,
+       "end": 82.689
+      },
+      {
+       "w": "guides",
+       "start": 82.689,
+       "end": 83.099
+      },
+      {
+       "w": "her",
+       "start": 83.099,
+       "end": 83.346
+      },
+      {
+       "w": "by",
+       "start": 83.346,
+       "end": 83.537
+      },
+      {
+       "w": "radio.",
+       "start": 83.537,
+       "end": 83.892
+      }
+     ]
+    },
+    {
+     "text": "At 7:10 PM, they ask how she's doing.",
+     "start": 84.492,
+     "end": 87.251,
+     "words": [
+      {
+       "w": "At",
+       "start": 84.492,
+       "end": 84.771
+      },
+      {
+       "w": "7:10",
+       "start": 84.771,
+       "end": 85.527
+      },
+      {
+       "w": "PM,",
+       "start": 85.527,
+       "end": 85.806
+      },
+      {
+       "w": "they",
+       "start": 86.078,
+       "end": 86.322
+      },
+      {
+       "w": "ask",
+       "start": 86.322,
+       "end": 86.521
+      },
+      {
+       "w": "how",
+       "start": 86.521,
+       "end": 86.72
+      },
+      {
+       "w": "she's",
+       "start": 86.72,
+       "end": 86.964
+      },
+      {
+       "w": "doing.",
+       "start": 86.964,
+       "end": 87.251
+      }
+     ]
+    },
+    {
+     "text": "The captain answers: \"We are holding our own.",
+     "start": 87.857,
+     "end": 91.014,
+     "words": [
+      {
+       "w": "The",
+       "start": 87.857,
+       "end": 88.065
+      },
+      {
+       "w": "captain",
+       "start": 88.065,
+       "end": 88.457
+      },
+      {
+       "w": "answers:",
+       "start": 88.457,
+       "end": 88.85
+      },
+      {
+       "w": "\"We",
+       "start": 89.361,
+       "end": 89.588
+      },
+      {
+       "w": "are",
+       "start": 89.588,
+       "end": 89.88
+      },
+      {
+       "w": "holding",
+       "start": 89.88,
+       "end": 90.431
+      },
+      {
+       "w": "our",
+       "start": 90.431,
+       "end": 90.722
+      },
+      {
+       "w": "own.",
+       "start": 90.722,
+       "end": 91.014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "fitz/vo/line9.mp3",
+   "start": 91.264,
+   "dur": 10.527,
+   "sentences": [
+    {
+     "text": "Soon after, a snow squall clears.",
+     "start": 91.264,
+     "end": 93.631,
+     "words": [
+      {
+       "w": "Soon",
+       "start": 91.264,
+       "end": 91.623
+      },
+      {
+       "w": "after,",
+       "start": 91.623,
+       "end": 92.048
+      },
+      {
+       "w": "a",
+       "start": 92.273,
+       "end": 92.42
+      },
+      {
+       "w": "snow",
+       "start": 92.42,
+       "end": 92.745
+      },
+      {
+       "w": "squall",
+       "start": 92.745,
+       "end": 93.188
+      },
+      {
+       "w": "clears.",
+       "start": 93.188,
+       "end": 93.631
+      }
+     ]
+    },
+    {
+     "text": "The Anderson's crew looks ahead.",
+     "start": 94.176,
+     "end": 95.879,
+     "words": [
+      {
+       "w": "The",
+       "start": 94.176,
+       "end": 94.405
+      },
+      {
+       "w": "Anderson's",
+       "start": 94.405,
+       "end": 94.938
+      },
+      {
+       "w": "crew",
+       "start": 94.938,
+       "end": 95.218
+      },
+      {
+       "w": "looks",
+       "start": 95.218,
+       "end": 95.548
+      },
+      {
+       "w": "ahead.",
+       "start": 95.548,
+       "end": 95.879
+      }
+     ]
+    },
+    {
+     "text": "The Fitzgerald's lights are gone.",
+     "start": 97.497,
+     "end": 99.361,
+     "words": [
+      {
+       "w": "The",
+       "start": 97.497,
+       "end": 97.74
+      },
+      {
+       "w": "Fitzgerald's",
+       "start": 97.74,
+       "end": 98.415
+      },
+      {
+       "w": "lights",
+       "start": 98.415,
+       "end": 98.82
+      },
+      {
+       "w": "are",
+       "start": 98.82,
+       "end": 99.064
+      },
+      {
+       "w": "gone.",
+       "start": 99.064,
+       "end": 99.361
+      }
+     ]
+    },
+    {
+     "text": "And so is her blip on the radar.",
+     "start": 99.81,
+     "end": 101.508,
+     "words": [
+      {
+       "w": "And",
+       "start": 99.81,
+       "end": 100.022
+      },
+      {
+       "w": "so",
+       "start": 100.022,
+       "end": 100.187
+      },
+      {
+       "w": "is",
+       "start": 100.187,
+       "end": 100.352
+      },
+      {
+       "w": "her",
+       "start": 100.352,
+       "end": 100.564
+      },
+      {
+       "w": "blip",
+       "start": 100.564,
+       "end": 100.824
+      },
+      {
+       "w": "on",
+       "start": 100.824,
+       "end": 100.989
+      },
+      {
+       "w": "the",
+       "start": 100.989,
+       "end": 101.201
+      },
+      {
+       "w": "radar.",
+       "start": 101.201,
+       "end": 101.508
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "fitz/vo/line10.mp3",
+   "start": 102.041,
+   "dur": 9.169,
+   "sentences": [
+    {
+     "text": "Days later, the Navy finds the wreck, 530 feet down, broken in two.",
+     "start": 102.041,
+     "end": 107.885,
+     "words": [
+      {
+       "w": "Days",
+       "start": 102.041,
+       "end": 102.413
+      },
+      {
+       "w": "later,",
+       "start": 102.413,
+       "end": 102.852
+      },
+      {
+       "w": "the",
+       "start": 103.121,
+       "end": 103.344
+      },
+      {
+       "w": "Navy",
+       "start": 103.344,
+       "end": 103.615
+      },
+      {
+       "w": "finds",
+       "start": 103.615,
+       "end": 103.936
+      },
+      {
+       "w": "the",
+       "start": 103.936,
+       "end": 104.158
+      },
+      {
+       "w": "wreck,",
+       "start": 104.158,
+       "end": 104.479
+      },
+      {
+       "w": "530",
+       "start": 104.859,
+       "end": 105.961
+      },
+      {
+       "w": "feet",
+       "start": 105.961,
+       "end": 106.288
+      },
+      {
+       "w": "down,",
+       "start": 106.288,
+       "end": 106.616
+      },
+      {
+       "w": "broken",
+       "start": 107.101,
+       "end": 107.48
+      },
+      {
+       "w": "in",
+       "start": 107.48,
+       "end": 107.657
+      },
+      {
+       "w": "two.",
+       "start": 107.657,
+       "end": 107.885
+      }
+     ]
+    },
+    {
+     "text": "None of the 29 men were ever recovered.",
+     "start": 108.49,
+     "end": 110.956,
+     "words": [
+      {
+       "w": "None",
+       "start": 108.49,
+       "end": 108.756
+      },
+      {
+       "w": "of",
+       "start": 108.756,
+       "end": 108.926
+      },
+      {
+       "w": "the",
+       "start": 108.926,
+       "end": 109.143
+      },
+      {
+       "w": "29",
+       "start": 109.143,
+       "end": 109.699
+      },
+      {
+       "w": "men",
+       "start": 109.699,
+       "end": 109.917
+      },
+      {
+       "w": "were",
+       "start": 109.917,
+       "end": 110.182
+      },
+      {
+       "w": "ever",
+       "start": 110.182,
+       "end": 110.448
+      },
+      {
+       "w": "recovered.",
+       "start": 110.448,
+       "end": 110.956
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "fitz/vo/line11.mp3",
+   "start": 111.46,
+   "dur": 4.127,
+   "sentences": [
+    {
+     "text": "But what sank her so fast that no one had time to call for help?",
+     "start": 111.46,
+     "end": 115.369,
+     "words": [
+      {
+       "w": "But",
+       "start": 111.46,
+       "end": 111.706
+      },
+      {
+       "w": "what",
+       "start": 111.706,
+       "end": 112.007
+      },
+      {
+       "w": "sank",
+       "start": 112.007,
+       "end": 112.308
+      },
+      {
+       "w": "her",
+       "start": 112.308,
+       "end": 112.554
+      },
+      {
+       "w": "so",
+       "start": 112.554,
+       "end": 112.745
+      },
+      {
+       "w": "fast",
+       "start": 112.745,
+       "end": 113.046
+      },
+      {
+       "w": "that",
+       "start": 113.046,
+       "end": 113.346
+      },
+      {
+       "w": "no",
+       "start": 113.346,
+       "end": 113.538
+      },
+      {
+       "w": "one",
+       "start": 113.538,
+       "end": 113.784
+      },
+      {
+       "w": "had",
+       "start": 113.784,
+       "end": 114.03
+      },
+      {
+       "w": "time",
+       "start": 114.03,
+       "end": 114.33
+      },
+      {
+       "w": "to",
+       "start": 114.33,
+       "end": 114.522
+      },
+      {
+       "w": "call",
+       "start": 114.522,
+       "end": 114.822
+      },
+      {
+       "w": "for",
+       "start": 114.822,
+       "end": 115.068
+      },
+      {
+       "w": "help?",
+       "start": 115.068,
+       "end": 115.369
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "fitz/vo/line12.mp3",
+   "start": 115.838,
+   "dur": 13.793,
+   "sentences": [
+    {
+     "text": "Investigators blamed leaky cargo hatches, slowly flooding the hold.",
+     "start": 115.838,
+     "end": 120.236,
+     "words": [
+      {
+       "w": "Investigators",
+       "start": 115.838,
+       "end": 116.742
+      },
+      {
+       "w": "blamed",
+       "start": 116.742,
+       "end": 117.21
+      },
+      {
+       "w": "leaky",
+       "start": 117.21,
+       "end": 117.616
+      },
+      {
+       "w": "cargo",
+       "start": 117.616,
+       "end": 118.021
+      },
+      {
+       "w": "hatches,",
+       "start": 118.021,
+       "end": 118.551
+      },
+      {
+       "w": "slowly",
+       "start": 118.551,
+       "end": 119.019
+      },
+      {
+       "w": "flooding",
+       "start": 119.019,
+       "end": 119.612
+      },
+      {
+       "w": "the",
+       "start": 119.612,
+       "end": 119.893
+      },
+      {
+       "w": "hold.",
+       "start": 119.893,
+       "end": 120.236
+      }
+     ]
+    },
+    {
+     "text": "Others believe she scraped a shallow shoal earlier that day.",
+     "start": 120.787,
+     "end": 124.091,
+     "words": [
+      {
+       "w": "Others",
+       "start": 120.787,
+       "end": 121.168
+      },
+      {
+       "w": "believe",
+       "start": 121.168,
+       "end": 121.6
+      },
+      {
+       "w": "she",
+       "start": 121.6,
+       "end": 121.829
+      },
+      {
+       "w": "scraped",
+       "start": 121.829,
+       "end": 122.261
+      },
+      {
+       "w": "a",
+       "start": 122.261,
+       "end": 122.388
+      },
+      {
+       "w": "shallow",
+       "start": 122.388,
+       "end": 122.82
+      },
+      {
+       "w": "shoal",
+       "start": 122.82,
+       "end": 123.15
+      },
+      {
+       "w": "earlier",
+       "start": 123.15,
+       "end": 123.583
+      },
+      {
+       "w": "that",
+       "start": 123.583,
+       "end": 123.862
+      },
+      {
+       "w": "day.",
+       "start": 123.862,
+       "end": 124.091
+      }
+     ]
+    },
+    {
+     "text": "And some sailors describe three giant waves, striking one after another.",
+     "start": 124.584,
+     "end": 129.63,
+     "words": [
+      {
+       "w": "And",
+       "start": 124.584,
+       "end": 124.881
+      },
+      {
+       "w": "some",
+       "start": 124.881,
+       "end": 125.244
+      },
+      {
+       "w": "sailors",
+       "start": 125.244,
+       "end": 125.805
+      },
+      {
+       "w": "describe",
+       "start": 125.805,
+       "end": 126.431
+      },
+      {
+       "w": "three",
+       "start": 126.431,
+       "end": 126.86
+      },
+      {
+       "w": "giant",
+       "start": 126.86,
+       "end": 127.289
+      },
+      {
+       "w": "waves,",
+       "start": 127.289,
+       "end": 127.718
+      },
+      {
+       "w": "striking",
+       "start": 127.718,
+       "end": 128.344
+      },
+      {
+       "w": "one",
+       "start": 128.344,
+       "end": 128.641
+      },
+      {
+       "w": "after",
+       "start": 128.641,
+       "end": 129.07
+      },
+      {
+       "w": "another.",
+       "start": 129.07,
+       "end": 129.63
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "fitz/vo/line13.mp3",
+   "start": 129.88,
+   "dur": 8.673,
+   "sentences": [
+    {
+     "text": "The truth is, no one knows for sure.",
+     "start": 129.88,
+     "end": 132.52,
+     "words": [
+      {
+       "w": "The",
+       "start": 129.88,
+       "end": 130.226
+      },
+      {
+       "w": "truth",
+       "start": 130.226,
+       "end": 130.724
+      },
+      {
+       "w": "is,",
+       "start": 130.724,
+       "end": 130.993
+      },
+      {
+       "w": "no",
+       "start": 131.251,
+       "end": 131.433
+      },
+      {
+       "w": "one",
+       "start": 131.433,
+       "end": 131.666
+      },
+      {
+       "w": "knows",
+       "start": 131.666,
+       "end": 132.002
+      },
+      {
+       "w": "for",
+       "start": 132.002,
+       "end": 132.235
+      },
+      {
+       "w": "sure.",
+       "start": 132.235,
+       "end": 132.52
+      }
+     ]
+    },
+    {
+     "text": "Whatever happened, it happened so fast that the crew never sent a single call for help.",
+     "start": 133.109,
+     "end": 138.553,
+     "words": [
+      {
+       "w": "Whatever",
+       "start": 133.109,
+       "end": 133.572
+      },
+      {
+       "w": "happened,",
+       "start": 133.572,
+       "end": 134.035
+      },
+      {
+       "w": "it",
+       "start": 134.33,
+       "end": 134.528
+      },
+      {
+       "w": "happened",
+       "start": 134.528,
+       "end": 135.062
+      },
+      {
+       "w": "so",
+       "start": 135.062,
+       "end": 135.259
+      },
+      {
+       "w": "fast",
+       "start": 135.259,
+       "end": 135.569
+      },
+      {
+       "w": "that",
+       "start": 135.569,
+       "end": 135.879
+      },
+      {
+       "w": "the",
+       "start": 135.879,
+       "end": 136.132
+      },
+      {
+       "w": "crew",
+       "start": 136.132,
+       "end": 136.442
+      },
+      {
+       "w": "never",
+       "start": 136.442,
+       "end": 136.808
+      },
+      {
+       "w": "sent",
+       "start": 136.808,
+       "end": 137.117
+      },
+      {
+       "w": "a",
+       "start": 137.117,
+       "end": 137.258
+      },
+      {
+       "w": "single",
+       "start": 137.258,
+       "end": 137.68
+      },
+      {
+       "w": "call",
+       "start": 137.68,
+       "end": 137.99
+      },
+      {
+       "w": "for",
+       "start": 137.99,
+       "end": 138.243
+      },
+      {
+       "w": "help.",
+       "start": 138.243,
+       "end": 138.553
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "fitz/vo/line14.mp3",
+   "start": 138.803,
+   "dur": 11.389,
+   "sentences": [
+    {
+     "text": "A year later, Gordon Lightfoot turned her story into a hit song.",
+     "start": 138.803,
+     "end": 142.806,
+     "words": [
+      {
+       "w": "A",
+       "start": 138.803,
+       "end": 138.945
+      },
+      {
+       "w": "year",
+       "start": 138.945,
+       "end": 139.258
+      },
+      {
+       "w": "later,",
+       "start": 139.258,
+       "end": 139.628
+      },
+      {
+       "w": "Gordon",
+       "start": 139.874,
+       "end": 140.277
+      },
+      {
+       "w": "Lightfoot",
+       "start": 140.277,
+       "end": 140.842
+      },
+      {
+       "w": "turned",
+       "start": 140.842,
+       "end": 141.246
+      },
+      {
+       "w": "her",
+       "start": 141.246,
+       "end": 141.488
+      },
+      {
+       "w": "story",
+       "start": 141.488,
+       "end": 141.837
+      },
+      {
+       "w": "into",
+       "start": 141.837,
+       "end": 142.133
+      },
+      {
+       "w": "a",
+       "start": 142.133,
+       "end": 142.268
+      },
+      {
+       "w": "hit",
+       "start": 142.268,
+       "end": 142.51
+      },
+      {
+       "w": "song.",
+       "start": 142.51,
+       "end": 142.806
+      }
+     ]
+    },
+    {
+     "text": "And every November 10th, a bell rings 29 times at Whitefish Point.",
+     "start": 143.287,
+     "end": 147.765,
+     "words": [
+      {
+       "w": "And",
+       "start": 143.287,
+       "end": 143.532
+      },
+      {
+       "w": "every",
+       "start": 143.532,
+       "end": 143.887
+      },
+      {
+       "w": "November",
+       "start": 143.887,
+       "end": 144.405
+      },
+      {
+       "w": "10th,",
+       "start": 144.405,
+       "end": 144.705
+      },
+      {
+       "w": "a",
+       "start": 144.929,
+       "end": 145.063
+      },
+      {
+       "w": "bell",
+       "start": 145.063,
+       "end": 145.357
+      },
+      {
+       "w": "rings",
+       "start": 145.357,
+       "end": 145.705
+      },
+      {
+       "w": "29",
+       "start": 145.705,
+       "end": 146.32
+      },
+      {
+       "w": "times",
+       "start": 146.32,
+       "end": 146.668
+      },
+      {
+       "w": "at",
+       "start": 146.668,
+       "end": 146.856
+      },
+      {
+       "w": "Whitefish",
+       "start": 146.856,
+       "end": 147.417
+      },
+      {
+       "w": "Point.",
+       "start": 147.417,
+       "end": 147.765
+      }
+     ]
+    },
+    {
+     "text": "Once for every man aboard.",
+     "start": 148.334,
+     "end": 149.919,
+     "words": [
+      {
+       "w": "Once",
+       "start": 148.334,
+       "end": 148.64
+      },
+      {
+       "w": "for",
+       "start": 148.64,
+       "end": 148.89
+      },
+      {
+       "w": "every",
+       "start": 148.89,
+       "end": 149.252
+      },
+      {
+       "w": "man",
+       "start": 149.252,
+       "end": 149.502
+      },
+      {
+       "w": "aboard.",
+       "start": 149.502,
+       "end": 149.919
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "fitz/vo/line15.mp3",
+   "start": 150.442,
+   "dur": 12.121,
+   "sentences": [
+    {
+     "text": "If you love mysteries of the sea, watch the ghost ship that was found with no one on board.",
+     "start": 150.442,
+     "end": 155.889,
+     "words": [
+      {
+       "w": "If",
+       "start": 150.442,
+       "end": 150.632
+      },
+      {
+       "w": "you",
+       "start": 150.632,
+       "end": 150.876
+      },
+      {
+       "w": "love",
+       "start": 150.876,
+       "end": 151.174
+      },
+      {
+       "w": "mysteries",
+       "start": 151.174,
+       "end": 151.743
+      },
+      {
+       "w": "of",
+       "start": 151.743,
+       "end": 151.933
+      },
+      {
+       "w": "the",
+       "start": 151.933,
+       "end": 152.176
+      },
+      {
+       "w": "sea,",
+       "start": 152.176,
+       "end": 152.42
+      },
+      {
+       "w": "watch",
+       "start": 152.741,
+       "end": 153.066
+      },
+      {
+       "w": "the",
+       "start": 153.066,
+       "end": 153.291
+      },
+      {
+       "w": "ghost",
+       "start": 153.291,
+       "end": 153.616
+      },
+      {
+       "w": "ship",
+       "start": 153.616,
+       "end": 153.891
+      },
+      {
+       "w": "that",
+       "start": 153.891,
+       "end": 154.165
+      },
+      {
+       "w": "was",
+       "start": 154.165,
+       "end": 154.39
+      },
+      {
+       "w": "found",
+       "start": 154.39,
+       "end": 154.715
+      },
+      {
+       "w": "with",
+       "start": 154.715,
+       "end": 154.99
+      },
+      {
+       "w": "no",
+       "start": 154.99,
+       "end": 155.165
+      },
+      {
+       "w": "one",
+       "start": 155.165,
+       "end": 155.39
+      },
+      {
+       "w": "on",
+       "start": 155.39,
+       "end": 155.564
+      },
+      {
+       "w": "board.",
+       "start": 155.564,
+       "end": 155.889
+      }
+     ]
+    },
+    {
+     "text": "Or the man who jumped from a plane and vanished.",
+     "start": 156.276,
+     "end": 159.132,
+     "words": [
+      {
+       "w": "Or",
+       "start": 156.276,
+       "end": 156.465
+      },
+      {
+       "w": "the",
+       "start": 156.465,
+       "end": 156.707
+      },
+      {
+       "w": "man",
+       "start": 156.707,
+       "end": 156.95
+      },
+      {
+       "w": "who",
+       "start": 156.95,
+       "end": 157.192
+      },
+      {
+       "w": "jumped",
+       "start": 157.192,
+       "end": 157.596
+      },
+      {
+       "w": "from",
+       "start": 157.596,
+       "end": 157.893
+      },
+      {
+       "w": "a",
+       "start": 157.893,
+       "end": 158.027
+      },
+      {
+       "w": "plane",
+       "start": 158.027,
+       "end": 158.378
+      },
+      {
+       "w": "and",
+       "start": 158.378,
+       "end": 158.62
+      },
+      {
+       "w": "vanished.",
+       "start": 158.62,
+       "end": 159.132
+      }
+     ]
+    },
+    {
+     "text": "Both are on this channel.",
+     "start": 159.437,
+     "end": 160.856,
+     "words": [
+      {
+       "w": "Both",
+       "start": 159.437,
+       "end": 159.721
+      },
+      {
+       "w": "are",
+       "start": 159.721,
+       "end": 159.953
+      },
+      {
+       "w": "on",
+       "start": 159.953,
+       "end": 160.134
+      },
+      {
+       "w": "this",
+       "start": 160.134,
+       "end": 160.418
+      },
+      {
+       "w": "channel.",
+       "start": 160.418,
+       "end": 160.856
+      }
+     ]
+    },
+    {
+     "text": "Tap and watch next.",
+     "start": 161.21,
+     "end": 162.563,
+     "words": [
+      {
+       "w": "Tap",
+       "start": 161.21,
+       "end": 161.5
+      },
+      {
+       "w": "and",
+       "start": 161.5,
+       "end": 161.79
+      },
+      {
+       "w": "watch",
+       "start": 161.79,
+       "end": 162.209
+      },
+      {
+       "w": "next.",
+       "start": 162.209,
+       "end": 162.563
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

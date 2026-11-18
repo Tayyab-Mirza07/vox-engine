@@ -87,7 +87,11 @@ const lines = script.lines.map((text, i) => {
   const speechStart = all.length && all[0].start <= 0.05 ? all[0].end : 0;
   const speechEnd = all.length && all.at(-1).end >= dur - 0.05 ? all.at(-1).start : dur;
 
-  const sentenceTexts = text.match(/[^.?!]+[.?!]+/g).map((s) => s.trim());
+  // Single-letter initials ("Arthur M. Anderson") do not end a sentence.
+  const sentenceTexts = text
+    .replace(/\b([A-Z])\.(?= [A-Z])/g, '$1\u2024')
+    .match(/[^.?!]+[.?!]+/g)
+    .map((s) => s.trim().replace(/\u2024/g, '.'));
   const sentenceWords = sentenceTexts.map((s) => s.split(/\s+/));
   // Estimate where each sentence ends if speech were evenly paced, then snap to pauses.
   const pauseTotal = internal.reduce((a, s) => a + (s.end - s.start), 0);
