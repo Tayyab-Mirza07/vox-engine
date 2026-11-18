@@ -1,6 +1,5 @@
 Images via Wikimedia Commons, public domain.
 
-  before rendering; scenes TheGame and RehookProof use it.
 - clinton.jpg — File:Hillary Rodham Clinton-cropped.jpg (United States Senate official portrait)
 
 No Rockstar artwork, logos, footage or music is used. CTA thumbnails in ../cta are stills from our own episodes.
