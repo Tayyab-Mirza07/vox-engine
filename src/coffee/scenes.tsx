@@ -137,6 +137,32 @@ export const Hook: React.FC<SceneProps> = ({cue}) => {
   );
 };
 
+
+/** Generic black game console with a disc tray (drawn, no trademarked artwork). */
+const Console: React.FC<{width: number; zoom?: number}> = ({width, zoom = 1}) => {
+  const frame = useCurrentFrame();
+  const blink = Math.floor(frame / 20) % 2 ? 1 : 0.35;
+  return (
+    <svg width={width} height={(width * 520) / 900} viewBox="0 0 900 520" style={{transform: `scale(${zoom})`, overflow: 'visible', filter: `drop-shadow(0 30px 60px #000) drop-shadow(0 0 40px ${HOT}33)`}}>
+      <defs>
+        <linearGradient id="cg" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#2a2f38" />
+          <stop offset="100%" stopColor="#0b0d11" />
+        </linearGradient>
+      </defs>
+      <path d="M 80 140 L 820 140 L 860 380 L 40 380 Z" fill="url(#cg)" stroke="#3b4250" strokeWidth={4} />
+      <rect x={40} y={380} width={820} height={70} rx={8} fill="#14171d" stroke="#3b4250" strokeWidth={4} />
+      {Array.from({length: 14}, (_, i) => (
+        <line key={i} x1={120 + i * 48} y1={170} x2={100 + i * 50} y2={350} stroke="#000" strokeOpacity={0.45} strokeWidth={6} />
+      ))}
+      <rect x={90} y={396} width={460} height={18} rx={9} fill="#050608" />
+      <circle cx={700} cy={415} r={16} fill="#050608" stroke="#3b4250" strokeWidth={3} />
+      <circle cx={760} cy={415} r={10} fill={CODE} opacity={blink} style={{filter: `drop-shadow(0 0 10px ${CODE})`}} />
+      <rect x={600} y={404} width={50} height={22} rx={4} fill="#050608" />
+    </svg>
+  );
+};
+
 // ───────────────────────── 1 · The game ─────────────────────────
 export const TheGame: React.FC<SceneProps> = ({cue}) => {
   const frame = useCurrentFrame();
@@ -150,7 +176,7 @@ export const TheGame: React.FC<SceneProps> = ({cue}) => {
             Grand Theft Auto: <H>San Andreas</H>
           </Headline>
           <Center top={470} style={{opacity: p(frame, 4, 8)}}>
-            <Photo src="coffee/photos/ps2.jpg" width={900} height={560} zoom={lerp(1.05, 1, p(frame, 0, 60))} focus="50% 50%" credit="PlayStation 2 · Evan-Amos, public domain" accent={HOT} fit="contain" />
+            <Console width={900} zoom={lerp(1.05, 1, p(frame, 0, 60))} />
           </Center>
           <Center top={1080} style={{opacity: p(frame, cue.w('best-selling') - 4, 8)}}>
             <Tag color={HOT} style={{fontSize: 44, padding: '12px 26px'}}>Best-selling PS2 game</Tag>
@@ -365,7 +391,7 @@ export const RehookProof: React.FC<SceneProps> = ({cue}) => {
         You can't mod a disc <R>in the box</R>
       </Headline>
       <Center top={420} style={{opacity: p(frame, 2, 8)}}>
-        <Photo src="coffee/photos/ps2.jpg" width={900} height={520} zoom={lerp(1.1, 1.25, p(frame, 0, 120))} focus="40% 55%" credit="PlayStation 2 · Evan-Amos, public domain" accent={HOT} />
+        <Console width={900} zoom={lerp(1.1, 1.25, p(frame, 0, 120))} />
       </Center>
       <Center top={980} style={{opacity: p(frame, cue.w('cheat') - 4, 8)}}>
         <div style={{background: '#11161c', border: `4px solid ${CODE}`, borderRadius: 16, padding: '14px 26px', fontFamily: '"Courier New", monospace', fontWeight: 700, fontSize: 44, color: CODE}}>
