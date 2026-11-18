@@ -5,7 +5,7 @@ import {BODY, C, Cues, DISPLAY, W, inOut, lerp, p, rnd, slam} from '../lib';
 import {Background, Headline, Photo, Stamp, Tag} from '../ui';
 import {Paper, Typed} from '../dbcooper/parts';
 import {Sea} from '../celeste/parts';
-import {Freighter, ICE, Radar} from './parts';
+import {Bell, Freighter, ICE, Radar} from './parts';
 
 type SceneProps = {cue: Cues};
 const clamp = {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'} as const;
@@ -248,7 +248,7 @@ export const Gale: React.FC<SceneProps> = ({cue}) => {
       </MapBox>
       {frame >= anderson ? (
         <Center top={1000} style={{opacity: p(frame, anderson, 8)}}>
-          <Photo src="fitz/photos/anderson.jpg" width={760} height={300} zoom={lerp(1.1, 1, p(frame, anderson, 50))} focus="50% 50%" credit="The Arthur M. Anderson today · WSRower, CC0" accent={ICE} />
+          <Photo src="fitz/photos/anderson.jpg" width={760} height={300} zoom={lerp(1.1, 1, p(frame, anderson, 50))} focus="50% 50%" credit="The Arthur M. Anderson, 1988 · Steve Moses, CC BY 2.0" accent={ICE} />
         </Center>
       ) : null}
     </AbsoluteFill>
@@ -587,10 +587,8 @@ export const Memorial: React.FC<SceneProps> = ({cue}) => {
           <Headline at={bell} size={96} y={150}>
             Every <I>November 10th</I>
           </Headline>
-          <Center top={330}>
-            <div style={{transform: `rotate(${swing * 0.25}deg)`, transformOrigin: '50% 0%'}}>
-              <Photo src="fitz/photos/bell.jpg" width={560} height={640} zoom={1.05} focus="50% 45%" credit="The ship's bell, raised in 1995 · Deb Nystrom, CC BY 2.0" accent={ICE} />
-            </div>
+          <Center top={380}>
+            <Bell size={500} swing={swing} />
           </Center>
           <Center top={1000}>
             <div style={{textAlign: 'center'}}>
