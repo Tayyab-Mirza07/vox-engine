@@ -43,7 +43,7 @@ const Clock: React.FC<{text: string; color?: string}> = ({text, color = ICE}) =>
 // ───────────────────────── 0 · Hook ─────────────────────────
 export const Hook: React.FC<SceneProps> = ({cue}) => {
   const frame = useCurrentFrame();
-  const [captain, gone, crew] = [cue.s(2), cue.s(4), cue.s(5)];
+  const [captain, gone, crew] = [cue.s(2), cue.s(3), cue.s(4)];
   const fade = p(frame, gone + 4, 30);
   const bob = Math.sin(frame / 12) * 14;
   const tilt = Math.sin(frame / 18) * 3;
@@ -51,7 +51,7 @@ export const Hook: React.FC<SceneProps> = ({cue}) => {
     <AbsoluteFill>
       <Sea fog={0.6} storm={1} dark={0.4} />
       <Center top={700} style={{transform: `translateY(${bob}px)`, opacity: 1 - fade}}>
-        <Freighter width={940} list={tilt} />
+        <Freighter width={940} list={tilt} color="#2c3e59" />
       </Center>
       <Headline at={0} until={captain - 1} size={130} y={180} color={ICE}>
         November 10, 1975
@@ -289,7 +289,7 @@ export const Storm: React.FC<SceneProps> = ({cue}) => {
         </Center>
       ) : null}
       <Center top={700} style={{transform: `translateY(${bob}px)`}}>
-        <Freighter width={900} list={tilt} />
+        <Freighter width={900} list={tilt} color="#2c3e59" />
       </Center>
       {frame >= waves ? (
         <svg width={W} height={500} style={{position: 'absolute', top: 640}}>
@@ -401,7 +401,7 @@ export const Vanished: React.FC<SceneProps> = ({cue}) => {
       </Headline>
       {frame >= looks && frame < lights ? (
         <Center top={760} style={{opacity: p(frame, looks, 10) * (1 - p(frame, lights - 10, 10))}}>
-          <Freighter width={500} color="#0a1018" />
+          <Freighter width={500} color="#2c3e59" />
         </Center>
       ) : null}
       {frame >= lights ? (

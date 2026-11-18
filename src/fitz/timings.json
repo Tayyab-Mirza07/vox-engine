@@ -107,7 +107,7 @@
      ]
     },
     {
-     "text": "At 7:10 PM, her captain radios a calm message: \"We are holding our own.",
+     "text": "At 7:10 PM, her captain radios a calm message: We are holding our own.",
      "start": 8.199,
      "end": 13.198,
      "words": [
@@ -157,7 +157,7 @@
        "end": 11.717
       },
       {
-       "w": "\"We",
+       "w": "We",
        "start": 12.18,
        "end": 12.319
       },
@@ -184,23 +184,18 @@
      ]
     },
     {
-     "text": "\" Minutes later, she was gone.",
+     "text": "Minutes later, she was gone.",
      "start": 14.288,
      "end": 16.038,
      "words": [
       {
-       "w": "\"",
-       "start": 14.288,
-       "end": 14.357
-      },
-      {
        "w": "Minutes",
-       "start": 14.357,
-       "end": 14.749
+       "start": 14.288,
+       "end": 14.719
       },
       {
        "w": "later,",
-       "start": 14.749,
+       "start": 14.719,
        "end": 15.049
       },
       {
@@ -1318,7 +1313,7 @@
      ]
     },
     {
-     "text": "The captain answers: \"We are holding our own.",
+     "text": "The captain answers: We are holding our own.",
      "start": 87.857,
      "end": 91.014,
      "words": [
@@ -1338,7 +1333,7 @@
        "end": 88.85
       },
       {
-       "w": "\"We",
+       "w": "We",
        "start": 89.361,
        "end": 89.588
       },

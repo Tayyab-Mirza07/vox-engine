@@ -22,7 +22,7 @@ const intensity = (frame: number) => {
 };
 const at = (scene: number, c: (q: Cues) => number) => T.sceneStart(scene) + c(T.cues(scene));
 const DIPS = [
-  at(0, (c) => c.s(4) + 2),
+  at(0, (c) => c.s(3) + 2),
   at(2, (c) => c.w('minutes') - 4),
   at(6, (c) => c.s(4)),
   at(8, (c) => c.w('holding') - 8),
@@ -39,10 +39,10 @@ const SFX: Sfx[] = [
   {scene: 0, at: () => 0, file: 'wind', vol: 0.5},
   {scene: 0, at: (c) => c.s(2), file: 'clock', vol: 0.3, until: (c) => c.w('holding') - 6},
   {scene: 0, at: (c) => c.w('holding') - 6, file: 'type', vol: 0.35, until: (c) => c.w('holding') + 30},
-  {scene: 0, at: (c) => c.s(4) - 14, file: 'riser', vol: 0.35},
-  {scene: 0, at: (c) => c.s(4) + 2, file: 'impact', vol: 0.9},
-  {scene: 0, at: (c) => c.s(4) + 4, file: 'thunder', vol: 0.6},
-  {scene: 0, at: (c) => c.s(5), file: 'hit', vol: 0.6},
+  {scene: 0, at: (c) => c.s(3) - 14, file: 'riser', vol: 0.35},
+  {scene: 0, at: (c) => c.s(3) + 2, file: 'impact', vol: 0.9},
+  {scene: 0, at: (c) => c.s(3) + 4, file: 'thunder', vol: 0.6},
+  {scene: 0, at: (c) => c.s(4), file: 'hit', vol: 0.6},
   // 1 · no mayday
   {scene: 1, at: () => 2, file: 'hit', vol: 0.6},
   {scene: 1, at: (c) => c.s(1), file: 'hit', vol: 0.6},
