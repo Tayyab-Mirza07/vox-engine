@@ -13,6 +13,9 @@ Remotion project that turns a script into vertical shorts for the owner's YouTub
 - Music: the owner prefers piano-led scores, a bit louder than the first Kemper mix (Mary Celeste settings:
   `musicGain 0.8, musicUnderVoice 0.65`, `MUSIC_GAIN=0.55 MUSIC_THRESHOLD=0.022 MUSIC_RATIO=7 scripts/mix.sh …` → music ≈23 dB under the voice
   while speaking, ≈13 dB in gaps). Ratio 4 / threshold 0.03 made the piano louder than the voice — don't use it.
+  Dynamic piano scores (Fitzgerald) also need their peaks tamed first:
+  `MUSIC_PRECOMP=acompressor=threshold=0.08:ratio=6:attack=10:release=250 MUSIC_GAIN=0.85 MUSIC_THRESHOLD=0.02 MUSIC_RATIO=8 MUSIC_RELEASE=600`.
+  Raising the music further made it louder than the narrator in >1% of moments.
 - Every script uses a strong hook, re-hooks (roughly every 40–60 s, e.g. a question or "what he did next…"),
   tension → release, a clear payoff, and ends with a CTA that sends viewers to earlier Shorts on the channel
   (show their thumbnails; stills taken from our own rendered videos). 5W1H covered. Record the structure in the episode's `script.json` (`structure` key).
@@ -37,6 +40,7 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
 
 - `Short` — first reel (Jensen Huang); files at the top level of `src/` and `public/vo`, `public/photos`.
 - `DBCooper` — episode 1 of the mystery series; `src/dbcooper/`, `public/dbcooper/{vo,photos}`.
+- `Fitz` — episode 4 (Edmund Fitzgerald); `src/fitz/`, `public/fitz/{vo,photos,cta,music.mp3}`.
 - `Celeste` — episode 3 (Mary Celeste ghost ship); `src/celeste/`, `public/celeste/{vo,photos,cta,music.mp3}`.
 - `Kemper` — episode 2 (Edmund Kemper); `src/kemper/`, `public/kemper/{vo,photos,music.mp3}`. Leaves out the most
   graphic details and victim photos/names on purpose (advertiser-friendly, respectful).
