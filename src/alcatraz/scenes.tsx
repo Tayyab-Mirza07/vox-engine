@@ -104,44 +104,50 @@ const Icon: React.FC<{show: number; children: React.ReactNode}> = ({show, childr
   </div>
 );
 
-// ───────────────────────── 0 · Hook ─────────────────────────
+// ───────────────────────── 0 · Hook (cold open on the shock) ─────────────────────────
 export const Hook: React.FC<SceneProps> = ({cue}) => {
   const frame = useCurrentFrame();
-  const [head, roll, fake, gone] = [cue.w('head'), cue.w('rolled'), cue.s(1), cue.s(2)];
+  const [rolled, guard, fake, gone, date] = [cue.w('rolled'), cue.s(1), cue.s(2), cue.s(3), cue.s(4)];
+  // Gone: the empty cell, then the date.
   if (frame >= gone) {
     return (
       <AbsoluteFill style={{filter: `brightness(${flicker(frame, gone)})`}}>
-        <Parallax src={pick('cell.jpg', CR.cell, 'cells.jpg', CR.cells)[0]} t={p(frame, gone, cue.dur - gone, (n) => n)} from={{s: 1.25, y: 40}} to={{s: 1.1, y: 0}} gray={0.6} dark={0.5} credit={pick('cell.jpg', CR.cell, 'cells.jpg', CR.cells)[1]} fallback={<Bars close={1} />} />
-        <Searchlight x={980} y={-60} speed={2} intensity={0.7} />
+        <Parallax src={pick('cell.jpg', CR.cell, 'cells.jpg', CR.cells)[0]} t={p(frame, gone, cue.dur - gone, (n) => n)} from={{s: 1.35, y: 40}} to={{s: 1.1, y: 0}} gray={0.6} dark={0.5} credit={pick('cell.jpg', CR.cell, 'cells.jpg', CR.cells)[1]} fallback={<Bars close={1} />} />
+        <Searchlight x={980} y={-60} speed={2} intensity={0.8} />
+        <Tag at={date} top={170}>
+          ALCATRAZ · JUNE 12, 1962
+        </Tag>
       </AbsoluteFill>
     );
   }
-  const fall = p(frame, roll, 22);
+  // The guard's morning count (historic photo) between the shock and the reveal.
+  if (frame >= guard && frame < fake) {
+    return (
+      <AbsoluteFill>
+        <Parallax src={`${PH}count.jpg`} t={p(frame, guard, fake - guard, (n) => n)} from={{s: 1.5, x: 120}} to={{s: 1.8, x: -80}} gray={1} dark={0.45} credit={CR.count} fallback={<Bars close={1} />} />
+        <Searchlight x={1000} y={-80} speed={1.4} intensity={0.6} />
+      </AbsoluteFill>
+    );
+  }
+  // Frame 0: the head is already falling and rolls on "rolled"; after "fake" we push in on it.
+  const fall = p(frame, Math.max(0, rolled - 6), 18);
+  const reveal = frame >= fake;
   return (
     <AbsoluteFill>
-      {frame < head - 4 ? (
-        <Parallax src={`${PH}count.jpg`} t={p(frame, 0, head, (n) => n)} from={{s: 1.5, x: 120}} to={{s: 1.75, x: -80}} gray={1} dark={0.45} credit={CR.count} fallback={<Bars close={1} />} />
-      ) : (
-        <Parallax src={`${PH}cells.jpg`} t={p(frame, head, gone - head, (n) => n)} from={{s: 1.15, x: -30}} to={{s: 1.35, x: 30}} gray={0.5} dark={0.6} credit={CR.cells} fallback={<Bars close={1} />} />
-      )}
-      <Searchlight x={1000} y={-80} speed={1.2} intensity={0.8} />
-      <Tag at={6} until={head - 4}>
-        JUNE 12, 1962 · 7:00 AM
-      </Tag>
-      {frame >= head - 4 ? (
-        <Center top={lerp(440, 760, fall)} style={{opacity: p(frame, head - 4, 6)}}>
-          <TiltCard
-            src={`${PH}dummy.jpg`}
-            width={620}
-            height={660}
-            rx={lerp(18, 0, p(frame, head - 4, 14))}
-            rz={lerp(0, -82, fall)}
-            scale={frame >= fake ? lerp(1, 1.15, p(frame, fake, 30)) : 1}
-            credit={CR.fbi}
-            fallback={<Silhouette />}
-          />
-        </Center>
-      ) : null}
+      <Parallax src={`${PH}cells.jpg`} t={p(frame, 0, gone, (n) => n)} from={{s: 1.25, x: -30}} to={{s: 1.4, x: 30}} gray={0.5} dark={0.65} credit={CR.cells} fallback={<Bars close={1} />} />
+      <Searchlight x={1000} y={-80} speed={1.6} intensity={0.9} />
+      <Center top={reveal ? 380 : lerp(320, 760, fall)} style={{opacity: reveal ? 1 : p(frame, 0, 3)}}>
+        <TiltCard
+          src={`${PH}dummy.jpg`}
+          width={640}
+          height={680}
+          rx={reveal ? lerp(10, 0, p(frame, fake, 14)) : lerp(25, 0, fall)}
+          rz={reveal ? lerp(-20, 0, p(frame, fake, 14)) : lerp(-10, -85, fall)}
+          scale={reveal ? lerp(1, 1.12, p(frame, fake, cue.dur)) : lerp(1.25, 1, fall)}
+          credit={CR.fbi}
+          fallback={<Silhouette />}
+        />
+      </Center>
     </AbsoluteFill>
   );
 };

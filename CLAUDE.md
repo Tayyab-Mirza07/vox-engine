@@ -16,6 +16,8 @@ Remotion project that turns a script into vertical shorts for the owner's YouTub
   Dynamic piano scores (Fitzgerald) also need their peaks tamed first:
   `MUSIC_PRECOMP=acompressor=threshold=0.08:ratio=6:attack=10:release=250 MUSIC_GAIN=0.85 MUSIC_THRESHOLD=0.02 MUSIC_RATIO=8 MUSIC_RELEASE=600`.
   Raising the music further made it louder than the narrator in >1% of moments.
+- Hooks: never whispered. The first 3–4 seconds must land the most shocking image/line at normal-to-intense volume
+  (open cold on the shock, explain after). Whisper tags are fine later in the story.
 - Every script uses a strong hook, re-hooks (roughly every 40–60 s, e.g. a question or "what he did next…"),
   tension → release, a clear payoff, and ends with a CTA that sends viewers to earlier Shorts on the channel
   (show their thumbnails; stills taken from our own rendered videos). 5W1H covered. Record the structure in the episode's `script.json` (`structure` key).

@@ -26,7 +26,7 @@ const intensity = (frame: number) => {
 const at = (scene: number, c: (q: Cues) => number) => T.sceneStart(scene) + c(T.cues(scene));
 // Music drops out just before the big reveals and swells back after.
 const DIPS = [
-  at(0, (c) => c.w('head')),
+  at(0, (c) => c.s(2)),
   at(1, (c) => c.s(1)),
   at(5, (c) => c.s(1)),
   at(9, (c) => c.w('vanished')),
@@ -38,13 +38,14 @@ const MIXER = createMix(T.lines, T.totalFrames, {dips: DIPS, intensity, musicGai
 type Sfx = {scene: number; at: (c: Cues) => number; file: string; vol: number; until?: (c: Cues) => number};
 const SFX: Sfx[] = [
   // 0 · hook
+  {scene: 0, at: () => 0, file: 'impact', vol: 0.9},
+  {scene: 0, at: (c) => c.w('rolled') + 6, file: 'hit', vol: 0.8},
   {scene: 0, at: () => 0, file: 'bed', vol: 0.25, until: (c) => c.dur},
-  {scene: 0, at: (c) => c.w('guard'), file: 'clock', vol: 0.25, until: (c) => c.w('head')},
-  {scene: 0, at: (c) => c.w('head') - 4, file: 'whoosh', vol: 0.5},
-  {scene: 0, at: (c) => c.w('rolled') + 8, file: 'hit', vol: 0.8},
-  {scene: 0, at: (c) => c.s(1), file: 'heartbeat', vol: 0.3, until: (c) => c.s(2)},
-  {scene: 0, at: (c) => c.s(2), file: 'siren', vol: 0.3, until: (c) => c.dur},
-  {scene: 0, at: (c) => c.s(2), file: 'impact', vol: 0.85},
+  {scene: 0, at: (c) => c.s(1), file: 'clock', vol: 0.25, until: (c) => c.s(2)},
+  {scene: 0, at: (c) => c.s(2) - 4, file: 'whoosh', vol: 0.5},
+  {scene: 0, at: (c) => c.s(2), file: 'heartbeat', vol: 0.3, until: (c) => c.s(3)},
+  {scene: 0, at: (c) => c.s(3), file: 'siren', vol: 0.3, until: (c) => c.dur},
+  {scene: 0, at: (c) => c.s(3), file: 'impact', vol: 0.85},
   // 1 · the rock
   {scene: 1, at: () => 0, file: 'wind', vol: 0.3, until: (c) => c.dur},
   {scene: 1, at: (c) => c.w('freezing'), file: 'rain', vol: 0.15, until: (c) => c.dur},
