@@ -11,10 +11,12 @@ type SceneProps = {cue: Cues};
 const PH = 'alcatraz/photos/';
 const CR = {
   fbi: 'FBI · public domain',
-  island: 'Photo: Ralf Baechle · CC BY-SA 4.0',
-  corridor: 'Photo: Grendelkhan · CC BY-SA 4.0',
+  island: 'NPS photo · public domain',
+  corridor: 'NPS photo · public domain',
+  utility: 'Photo: Grendelkhan · CC BY-SA 4.0',
+  count: 'National Archives / Golden Gate NRA Park Archives',
   cell: 'Photo: Supercarwaar · CC BY-SA 4.0',
-  cells: 'Photo: William Warby · CC BY 2.0',
+  cells: 'NPS photo · public domain',
   vent: 'Photo: Benlechlitner · public domain',
   nara: 'National Archives · public domain',
 };
@@ -33,6 +35,8 @@ const Tag: React.FC<{at: number; until?: number; children: React.ReactNode; top?
     </Center>
   );
 };
+/** Use the preferred photo if it downloaded, else a related one we already have (with its own credit). */
+const pick = (a: string, ca: string, b: string, cb: string): [string, string] => (has(`${PH}${a}`) ? [`${PH}${a}`, ca] : [`${PH}${b}`, cb]);
 const flicker = (frame: number, start: number) => (frame - start < 14 ? (rnd(frame) > 0.45 ? 1 : 0.35) : 1);
 
 // ── drawn props ─────────────────────────────────────────────
@@ -107,7 +111,7 @@ export const Hook: React.FC<SceneProps> = ({cue}) => {
   if (frame >= gone) {
     return (
       <AbsoluteFill style={{filter: `brightness(${flicker(frame, gone)})`}}>
-        <Parallax src={`${PH}cell.jpg`} t={p(frame, gone, cue.dur - gone, (n) => n)} from={{s: 1.25, y: 40}} to={{s: 1.1, y: 0}} gray={0.6} dark={0.5} credit={CR.cell} fallback={<Bars close={1} />} />
+        <Parallax src={pick('cell.jpg', CR.cell, 'cells.jpg', CR.cells)[0]} t={p(frame, gone, cue.dur - gone, (n) => n)} from={{s: 1.25, y: 40}} to={{s: 1.1, y: 0}} gray={0.6} dark={0.5} credit={pick('cell.jpg', CR.cell, 'cells.jpg', CR.cells)[1]} fallback={<Bars close={1} />} />
         <Searchlight x={980} y={-60} speed={2} intensity={0.7} />
       </AbsoluteFill>
     );
@@ -115,7 +119,11 @@ export const Hook: React.FC<SceneProps> = ({cue}) => {
   const fall = p(frame, roll, 22);
   return (
     <AbsoluteFill>
-      <Parallax src={`${PH}cells.jpg`} t={p(frame, 0, gone, (n) => n)} from={{s: 1.15, x: -30}} to={{s: 1.35, x: 30}} gray={0.5} dark={0.55} credit={CR.cells} fallback={<Bars close={1} />} />
+      {frame < head - 4 ? (
+        <Parallax src={`${PH}count.jpg`} t={p(frame, 0, head, (n) => n)} from={{s: 1.5, x: 120}} to={{s: 1.75, x: -80}} gray={1} dark={0.45} credit={CR.count} fallback={<Bars close={1} />} />
+      ) : (
+        <Parallax src={`${PH}cells.jpg`} t={p(frame, head, gone - head, (n) => n)} from={{s: 1.15, x: -30}} to={{s: 1.35, x: 30}} gray={0.5} dark={0.6} credit={CR.cells} fallback={<Bars close={1} />} />
+      )}
       <Searchlight x={1000} y={-80} speed={1.2} intensity={0.8} />
       <Tag at={6} until={head - 4}>
         JUNE 12, 1962 · 7:00 AM
@@ -220,14 +228,14 @@ export const Digging: React.FC<SceneProps> = ({cue}) => {
   return (
     <AbsoluteFill>
       <Parallax
-        src={`${PH}vent.jpg`}
+        src={pick('vent.jpg', CR.vent, 'grid.jpg', CR.fbi)[0]}
         t={p(frame, 0, cue.dur, (n) => n)}
         from={{s: 1.1}}
         to={{s: 1.45, y: 60}}
         gray={0.4}
         dark={0.35}
         fog={0.2}
-        credit={CR.vent}
+        credit={pick('vent.jpg', CR.vent, 'grid.jpg', CR.fbi)[1]}
         fallback={
           <svg width={W} height={1920}>
             <rect width={W} height={1920} fill="#5a5e60" />
@@ -318,7 +326,7 @@ export const Heads: React.FC<SceneProps> = ({cue}) => {
       <Parallax src={`${PH}dummy.jpg`} t={p(frame, 0, cue.dur, (n) => n)} from={{s: 1.05, y: 0}} to={{s: 1.3, y: -40}} gray={0.3} dark={0.3} fog={0.2} credit={CR.fbi} fallback={<Silhouette />} />
       {frame >= barber - 4 ? (
         <Center top={300} style={{opacity: p(frame, barber - 4, 10)}}>
-          <TiltCard src={`${PH}dummies.jpg`} width={900} height={560} ry={lerp(60, 6, p(frame, barber - 4, 18))} rz={-2} credit={CR.fbi} fallback={<Silhouette />} />
+          <TiltCard src={pick('dummies.jpg', CR.fbi, 'dummy.jpg', CR.fbi)[0]} width={900} height={560} ry={lerp(60, 6, p(frame, barber - 4, 18))} rz={-2} credit={CR.fbi} fallback={<Silhouette />} />
         </Center>
       ) : null}
       <div style={{position: 'absolute', top: 1060, left: 0, right: 0, display: 'flex', justifyContent: 'center', gap: 22}}>
@@ -338,7 +346,7 @@ export const TheRaft: React.FC<SceneProps> = ({cue}) => {
   const [coats, above] = [cue.w('raincoats'), cue.w('above')];
   return (
     <AbsoluteFill>
-      <Parallax src={`${PH}utility.jpg`} t={p(frame, 0, cue.dur, (n) => n)} from={{s: 1.1, y: 40}} to={{s: 1.3, y: -40}} gray={0.5} dark={0.6} fog={0.3} credit={CR.corridor} fallback={<Bars close={1} />} />
+      <Parallax src={pick('utility.jpg', CR.utility, 'corridor.jpg', CR.corridor)[0]} t={p(frame, 0, cue.dur, (n) => n)} from={{s: 1.1, y: 40}} to={{s: 1.3, y: -40}} gray={0.5} dark={0.6} fog={0.3} credit={pick('utility.jpg', CR.utility, 'corridor.jpg', CR.corridor)[1]} fallback={<Bars close={1} />} />
       <Center top={lerp(700, 560, p(frame, above, 20))} style={{transform: `scale(${lerp(1, 0.8, p(frame, above, 20))})`}}>
         <Raft width={900} built={p(frame, coats - 6, cue.dur * 0.55, (n) => n)} />
       </Center>
@@ -472,7 +480,7 @@ export const Verdict: React.FC<SceneProps> = ({cue}) => {
   if (frame >= closed) {
     return (
       <AbsoluteFill>
-        <Parallax src={`${PH}island1934.jpg`} t={p(frame, closed, cue.dur - closed, (n) => n)} from={{s: 1.1}} to={{s: 1.3}} gray={1} dark={0.4} fog={0.6} credit={CR.nara} fallback={<Water top={1000} />} />
+        <Parallax src={pick('island1934.jpg', CR.nara, 'island.jpg', CR.island)[0]} t={p(frame, closed, cue.dur - closed, (n) => n)} from={{s: 1.1}} to={{s: 1.3}} gray={1} dark={0.4} fog={0.6} credit={pick('island1934.jpg', CR.nara, 'island.jpg', CR.island)[1]} fallback={<Water top={1000} />} />
         <Tag at={closed + 10} top={180}>
           MARCH 21, 1963
         </Tag>
@@ -484,7 +492,7 @@ export const Verdict: React.FC<SceneProps> = ({cue}) => {
     <AbsoluteFill style={{background: '#0b0f14'}}>
       <Fog amount={0.5} />
       <Center top={300}>
-        <TiltCard src={`${PH}wanted.jpg`} width={820} height={900} rx={lerp(30, 4, p(frame, 0, 20))} ry={lerp(-20, 4, p(frame, 0, cue.dur))} credit={CR.fbi} gray={0.6} fit="contain" fallback={<Silhouette />} />
+        <TiltCard src={pick('wanted.jpg', CR.fbi, 'morris.jpg', CR.fbi)[0]} width={820} height={900} rx={lerp(30, 4, p(frame, 0, 20))} ry={lerp(-20, 4, p(frame, 0, cue.dur))} credit={CR.fbi} gray={0.6} fit="contain" fallback={<Silhouette />} />
       </Center>
       <Stamp at={drowned + 4} y={760} size={110} rotate={-8}>
         Presumed drowned
