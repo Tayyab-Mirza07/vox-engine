@@ -4,7 +4,7 @@ import {AbsoluteFill, Easing, interpolate, useCurrentFrame} from 'remotion';
 /** How many frames two scenes overlap during a transition. */
 export const TRANSITION_FRAMES = 14;
 
-export type TransitionKind = 'zoom' | 'slide' | 'wipe' | 'whip' | 'fade';
+export type TransitionKind = 'zoom' | 'slide' | 'wipe' | 'whip' | 'fade' | 'tilt';
 
 const ease = Easing.inOut(Easing.cubic);
 
@@ -30,6 +30,10 @@ export const EnterTransition: React.FC<{kind: TransitionKind; children: React.Re
       break;
     case 'whip':
       style = {transform: `translateX(${(1 - t) * 100}%) skewX(${(1 - t) * -8}deg)`, filter: `blur(${(1 - t) * 18}px)`};
+      break;
+    case 'tilt':
+      // Page tilt: the new scene swings in like a turning page, hinged on the right edge.
+      style = {transform: `perspective(1600px) rotateY(${(1 - t) * -70}deg) scale(${1 - 0.08 * (1 - t)})`, transformOrigin: '100% 50%', opacity: Math.min(1, t * 2.5)};
       break;
     case 'fade':
     default:

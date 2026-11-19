@@ -1,0 +1,2370 @@
+{
+ "total": 157.693,
+ "lines": [
+  {
+   "index": 0,
+   "file": "alcatraz/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 13.714,
+   "sentences": [
+    {
+     "text": "On the morning of June 12th, 1962, a guard at Alcatraz reached into a cell to wake a sleeping prisoner, and his head rolled onto the floor.",
+     "start": 0.25,
+     "end": 10.09,
+     "words": [
+      {
+       "w": "On",
+       "start": 0.25,
+       "end": 0.48
+      },
+      {
+       "w": "the",
+       "start": 0.48,
+       "end": 0.777
+      },
+      {
+       "w": "morning",
+       "start": 0.777,
+       "end": 1.336
+      },
+      {
+       "w": "of",
+       "start": 1.336,
+       "end": 1.566
+      },
+      {
+       "w": "June",
+       "start": 1.566,
+       "end": 1.928
+      },
+      {
+       "w": "12th,",
+       "start": 1.928,
+       "end": 2.29
+      },
+      {
+       "w": "1962,",
+       "start": 2.29,
+       "end": 2.652
+      },
+      {
+       "w": "a",
+       "start": 2.652,
+       "end": 2.822
+      },
+      {
+       "w": "guard",
+       "start": 2.822,
+       "end": 3.264
+      },
+      {
+       "w": "at",
+       "start": 3.264,
+       "end": 3.502
+      },
+      {
+       "w": "Alcatraz",
+       "start": 3.502,
+       "end": 4.147
+      },
+      {
+       "w": "reached",
+       "start": 4.147,
+       "end": 4.724
+      },
+      {
+       "w": "into",
+       "start": 4.724,
+       "end": 5.098
+      },
+      {
+       "w": "a",
+       "start": 5.098,
+       "end": 5.268
+      },
+      {
+       "w": "cell",
+       "start": 5.268,
+       "end": 5.642
+      },
+      {
+       "w": "to",
+       "start": 5.642,
+       "end": 5.879
+      },
+      {
+       "w": "wake",
+       "start": 5.879,
+       "end": 6.253
+      },
+      {
+       "w": "a",
+       "start": 6.253,
+       "end": 6.423
+      },
+      {
+       "w": "sleeping",
+       "start": 6.423,
+       "end": 7.068
+      },
+      {
+       "w": "prisoner,",
+       "start": 7.068,
+       "end": 7.714
+      },
+      {
+       "w": "and",
+       "start": 8.192,
+       "end": 8.414
+      },
+      {
+       "w": "his",
+       "start": 8.414,
+       "end": 8.636
+      },
+      {
+       "w": "head",
+       "start": 8.636,
+       "end": 8.907
+      },
+      {
+       "w": "rolled",
+       "start": 8.907,
+       "end": 9.277
+      },
+      {
+       "w": "onto",
+       "start": 9.277,
+       "end": 9.548
+      },
+      {
+       "w": "the",
+       "start": 9.548,
+       "end": 9.769
+      },
+      {
+       "w": "floor.",
+       "start": 9.769,
+       "end": 10.09
+      }
+     ]
+    },
+    {
+     "text": "It wasn't a real head.",
+     "start": 10.929,
+     "end": 12.082,
+     "words": [
+      {
+       "w": "It",
+       "start": 10.929,
+       "end": 11.101
+      },
+      {
+       "w": "wasn't",
+       "start": 11.101,
+       "end": 11.42
+      },
+      {
+       "w": "a",
+       "start": 11.42,
+       "end": 11.542
+      },
+      {
+       "w": "real",
+       "start": 11.542,
+       "end": 11.812
+      },
+      {
+       "w": "head.",
+       "start": 11.812,
+       "end": 12.082
+      }
+     ]
+    },
+    {
+     "text": "And the man was gone.",
+     "start": 12.561,
+     "end": 13.75,
+     "words": [
+      {
+       "w": "And",
+       "start": 12.561,
+       "end": 12.789
+      },
+      {
+       "w": "the",
+       "start": 12.789,
+       "end": 13.016
+      },
+      {
+       "w": "man",
+       "start": 13.016,
+       "end": 13.244
+      },
+      {
+       "w": "was",
+       "start": 13.244,
+       "end": 13.472
+      },
+      {
+       "w": "gone.",
+       "start": 13.472,
+       "end": 13.75
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "alcatraz/vo/line1.mp3",
+   "start": 14.164,
+   "dur": 8.673,
+   "sentences": [
+    {
+     "text": "Alcatraz sat on a rock in San Francisco Bay, surrounded by freezing water and deadly currents.",
+     "start": 14.164,
+     "end": 20.298,
+     "words": [
+      {
+       "w": "Alcatraz",
+       "start": 14.164,
+       "end": 14.731
+      },
+      {
+       "w": "sat",
+       "start": 14.731,
+       "end": 15
+      },
+      {
+       "w": "on",
+       "start": 15,
+       "end": 15.209
+      },
+      {
+       "w": "a",
+       "start": 15.209,
+       "end": 15.358
+      },
+      {
+       "w": "rock",
+       "start": 15.358,
+       "end": 15.687
+      },
+      {
+       "w": "in",
+       "start": 15.687,
+       "end": 15.895
+      },
+      {
+       "w": "San",
+       "start": 15.895,
+       "end": 16.164
+      },
+      {
+       "w": "Francisco",
+       "start": 16.164,
+       "end": 16.791
+      },
+      {
+       "w": "Bay,",
+       "start": 16.791,
+       "end": 17.06
+      },
+      {
+       "w": "surrounded",
+       "start": 17.32,
+       "end": 17.973
+      },
+      {
+       "w": "by",
+       "start": 17.973,
+       "end": 18.171
+      },
+      {
+       "w": "freezing",
+       "start": 18.171,
+       "end": 18.71
+      },
+      {
+       "w": "water",
+       "start": 18.71,
+       "end": 19.078
+      },
+      {
+       "w": "and",
+       "start": 19.078,
+       "end": 19.334
+      },
+      {
+       "w": "deadly",
+       "start": 19.334,
+       "end": 19.759
+      },
+      {
+       "w": "currents.",
+       "start": 19.759,
+       "end": 20.298
+      }
+     ]
+    },
+    {
+     "text": "They called it escape-proof.",
+     "start": 20.77,
+     "end": 22.545,
+     "words": [
+      {
+       "w": "They",
+       "start": 20.77,
+       "end": 21.107
+      },
+      {
+       "w": "called",
+       "start": 21.107,
+       "end": 21.566
+      },
+      {
+       "w": "it",
+       "start": 21.566,
+       "end": 21.78
+      },
+      {
+       "w": "escape-proof.",
+       "start": 21.78,
+       "end": 22.545
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "alcatraz/vo/line2.mp3",
+   "start": 23.037,
+   "dur": 12.748,
+   "sentences": [
+    {
+     "text": "Dozens of men had tried to break out.",
+     "start": 23.037,
+     "end": 25.225,
+     "words": [
+      {
+       "w": "Dozens",
+       "start": 23.037,
+       "end": 23.437
+      },
+      {
+       "w": "of",
+       "start": 23.437,
+       "end": 23.624
+      },
+      {
+       "w": "men",
+       "start": 23.624,
+       "end": 23.864
+      },
+      {
+       "w": "had",
+       "start": 23.864,
+       "end": 24.104
+      },
+      {
+       "w": "tried",
+       "start": 24.104,
+       "end": 24.451
+      },
+      {
+       "w": "to",
+       "start": 24.451,
+       "end": 24.638
+      },
+      {
+       "w": "break",
+       "start": 24.638,
+       "end": 24.985
+      },
+      {
+       "w": "out.",
+       "start": 24.985,
+       "end": 25.225
+      }
+     ]
+    },
+    {
+     "text": "None officially made it.",
+     "start": 25.76,
+     "end": 27.236,
+     "words": [
+      {
+       "w": "None",
+       "start": 25.76,
+       "end": 26.072
+      },
+      {
+       "w": "officially",
+       "start": 26.072,
+       "end": 26.725
+      },
+      {
+       "w": "made",
+       "start": 26.725,
+       "end": 27.038
+      },
+      {
+       "w": "it.",
+       "start": 27.038,
+       "end": 27.236
+      }
+     ]
+    },
+    {
+     "text": "Then came Frank Morris, a quiet genius, and two bank-robbing brothers, John and Clarence Anglin.",
+     "start": 28.698,
+     "end": 35.571,
+     "words": [
+      {
+       "w": "Then",
+       "start": 28.698,
+       "end": 29.048
+      },
+      {
+       "w": "came",
+       "start": 29.048,
+       "end": 29.398
+      },
+      {
+       "w": "Frank",
+       "start": 29.398,
+       "end": 29.811
+      },
+      {
+       "w": "Morris,",
+       "start": 29.811,
+       "end": 30.288
+      },
+      {
+       "w": "a",
+       "start": 30.535,
+       "end": 30.724
+      },
+      {
+       "w": "quiet",
+       "start": 30.724,
+       "end": 31.214
+      },
+      {
+       "w": "genius,",
+       "start": 31.214,
+       "end": 31.78
+      },
+      {
+       "w": "and",
+       "start": 32.14,
+       "end": 32.367
+      },
+      {
+       "w": "two",
+       "start": 32.367,
+       "end": 32.593
+      },
+      {
+       "w": "bank-robbing",
+       "start": 32.593,
+       "end": 33.223
+      },
+      {
+       "w": "brothers,",
+       "start": 33.223,
+       "end": 33.701
+      },
+      {
+       "w": "John",
+       "start": 33.941,
+       "end": 34.273
+      },
+      {
+       "w": "and",
+       "start": 34.273,
+       "end": 34.544
+      },
+      {
+       "w": "Clarence",
+       "start": 34.544,
+       "end": 35.118
+      },
+      {
+       "w": "Anglin.",
+       "start": 35.118,
+       "end": 35.571
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "alcatraz/vo/line3.mp3",
+   "start": 35.985,
+   "dur": 7.706,
+   "sentences": [
+    {
+     "text": "For months, they chipped at the damp concrete around the vents under their sinks, with sharpened spoons and a homemade drill.",
+     "start": 35.985,
+     "end": 43.439,
+     "words": [
+      {
+       "w": "For",
+       "start": 35.985,
+       "end": 36.313
+      },
+      {
+       "w": "months,",
+       "start": 36.313,
+       "end": 36.859
+      },
+      {
+       "w": "they",
+       "start": 37.035,
+       "end": 37.282
+      },
+      {
+       "w": "chipped",
+       "start": 37.282,
+       "end": 37.663
+      },
+      {
+       "w": "at",
+       "start": 37.663,
+       "end": 37.82
+      },
+      {
+       "w": "the",
+       "start": 37.82,
+       "end": 38.021
+      },
+      {
+       "w": "damp",
+       "start": 38.021,
+       "end": 38.268
+      },
+      {
+       "w": "concrete",
+       "start": 38.268,
+       "end": 38.694
+      },
+      {
+       "w": "around",
+       "start": 38.694,
+       "end": 39.03
+      },
+      {
+       "w": "the",
+       "start": 39.03,
+       "end": 39.231
+      },
+      {
+       "w": "vents",
+       "start": 39.231,
+       "end": 39.523
+      },
+      {
+       "w": "under",
+       "start": 39.523,
+       "end": 39.814
+      },
+      {
+       "w": "their",
+       "start": 39.814,
+       "end": 40.105
+      },
+      {
+       "w": "sinks,",
+       "start": 40.105,
+       "end": 40.397
+      },
+      {
+       "w": "with",
+       "start": 40.904,
+       "end": 41.204
+      },
+      {
+       "w": "sharpened",
+       "start": 41.204,
+       "end": 41.776
+      },
+      {
+       "w": "spoons",
+       "start": 41.776,
+       "end": 42.185
+      },
+      {
+       "w": "and",
+       "start": 42.185,
+       "end": 42.431
+      },
+      {
+       "w": "a",
+       "start": 42.431,
+       "end": 42.567
+      },
+      {
+       "w": "homemade",
+       "start": 42.567,
+       "end": 43.085
+      },
+      {
+       "w": "drill.",
+       "start": 43.085,
+       "end": 43.439
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "alcatraz/vo/line4.mp3",
+   "start": 43.891,
+   "dur": 6.269,
+   "sentences": [
+    {
+     "text": "They worked during music hour, when the noise covered them, and hid the holes behind fake cardboard grilles.",
+     "start": 43.891,
+     "end": 49.954,
+     "words": [
+      {
+       "w": "They",
+       "start": 43.891,
+       "end": 44.165
+      },
+      {
+       "w": "worked",
+       "start": 44.165,
+       "end": 44.539
+      },
+      {
+       "w": "during",
+       "start": 44.539,
+       "end": 44.913
+      },
+      {
+       "w": "music",
+       "start": 44.913,
+       "end": 45.237
+      },
+      {
+       "w": "hour,",
+       "start": 45.237,
+       "end": 45.511
+      },
+      {
+       "w": "when",
+       "start": 45.709,
+       "end": 45.935
+      },
+      {
+       "w": "the",
+       "start": 45.935,
+       "end": 46.12
+      },
+      {
+       "w": "noise",
+       "start": 46.12,
+       "end": 46.387
+      },
+      {
+       "w": "covered",
+       "start": 46.387,
+       "end": 46.737
+      },
+      {
+       "w": "them,",
+       "start": 46.737,
+       "end": 46.963
+      },
+      {
+       "w": "and",
+       "start": 47.314,
+       "end": 47.542
+      },
+      {
+       "w": "hid",
+       "start": 47.542,
+       "end": 47.771
+      },
+      {
+       "w": "the",
+       "start": 47.771,
+       "end": 47.999
+      },
+      {
+       "w": "holes",
+       "start": 47.999,
+       "end": 48.329
+      },
+      {
+       "w": "behind",
+       "start": 48.329,
+       "end": 48.71
+      },
+      {
+       "w": "fake",
+       "start": 48.71,
+       "end": 48.99
+      },
+      {
+       "w": "cardboard",
+       "start": 48.99,
+       "end": 49.523
+      },
+      {
+       "w": "grilles.",
+       "start": 49.523,
+       "end": 49.954
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "alcatraz/vo/line5.mp3",
+   "start": 50.36,
+   "dur": 7.001,
+   "sentences": [
+    {
+     "text": "But a hole wasn't enough.",
+     "start": 50.36,
+     "end": 52.134,
+     "words": [
+      {
+       "w": "But",
+       "start": 50.36,
+       "end": 50.661
+      },
+      {
+       "w": "a",
+       "start": 50.661,
+       "end": 50.829
+      },
+      {
+       "w": "hole",
+       "start": 50.829,
+       "end": 51.197
+      },
+      {
+       "w": "wasn't",
+       "start": 51.197,
+       "end": 51.632
+      },
+      {
+       "w": "enough.",
+       "start": 51.632,
+       "end": 52.134
+      }
+     ]
+    },
+    {
+     "text": "They needed to fool the guards, and to cross the bay.",
+     "start": 53.484,
+     "end": 57.092,
+     "words": [
+      {
+       "w": "They",
+       "start": 53.484,
+       "end": 53.777
+      },
+      {
+       "w": "needed",
+       "start": 53.777,
+       "end": 54.176
+      },
+      {
+       "w": "to",
+       "start": 54.176,
+       "end": 54.362
+      },
+      {
+       "w": "fool",
+       "start": 54.362,
+       "end": 54.655
+      },
+      {
+       "w": "the",
+       "start": 54.655,
+       "end": 54.895
+      },
+      {
+       "w": "guards,",
+       "start": 54.895,
+       "end": 55.294
+      },
+      {
+       "w": "and",
+       "start": 55.745,
+       "end": 56.003
+      },
+      {
+       "w": "to",
+       "start": 56.003,
+       "end": 56.204
+      },
+      {
+       "w": "cross",
+       "start": 56.204,
+       "end": 56.576
+      },
+      {
+       "w": "the",
+       "start": 56.576,
+       "end": 56.834
+      },
+      {
+       "w": "bay.",
+       "start": 56.834,
+       "end": 57.092
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "alcatraz/vo/line6.mp3",
+   "start": 57.561,
+   "dur": 8.908,
+   "sentences": [
+    {
+     "text": "So they built heads, from soap, toilet paper and concrete dust, painted to look like skin, with real hair from the prison barbershop.",
+     "start": 57.561,
+     "end": 66.271,
+     "words": [
+      {
+       "w": "So",
+       "start": 57.561,
+       "end": 57.622
+      },
+      {
+       "w": "they",
+       "start": 57.622,
+       "end": 57.718
+      },
+      {
+       "w": "built",
+       "start": 57.718,
+       "end": 57.832
+      },
+      {
+       "w": "heads,",
+       "start": 57.832,
+       "end": 57.945
+      },
+      {
+       "w": "from",
+       "start": 58.097,
+       "end": 58.526
+      },
+      {
+       "w": "soap,",
+       "start": 58.526,
+       "end": 58.955
+      },
+      {
+       "w": "toilet",
+       "start": 59.394,
+       "end": 59.543
+      },
+      {
+       "w": "paper",
+       "start": 59.543,
+       "end": 59.672
+      },
+      {
+       "w": "and",
+       "start": 59.672,
+       "end": 59.762
+      },
+      {
+       "w": "concrete",
+       "start": 59.762,
+       "end": 59.95
+      },
+      {
+       "w": "dust,",
+       "start": 59.95,
+       "end": 60.059
+      },
+      {
+       "w": "painted",
+       "start": 60.286,
+       "end": 60.843
+      },
+      {
+       "w": "to",
+       "start": 60.843,
+       "end": 61.073
+      },
+      {
+       "w": "look",
+       "start": 61.073,
+       "end": 61.433
+      },
+      {
+       "w": "like",
+       "start": 61.433,
+       "end": 61.794
+      },
+      {
+       "w": "skin,",
+       "start": 61.794,
+       "end": 62.154
+      },
+      {
+       "w": "with",
+       "start": 62.408,
+       "end": 62.875
+      },
+      {
+       "w": "real",
+       "start": 62.875,
+       "end": 63.342
+      },
+      {
+       "w": "hair",
+       "start": 63.342,
+       "end": 63.809
+      },
+      {
+       "w": "from",
+       "start": 63.809,
+       "end": 64.276
+      },
+      {
+       "w": "the",
+       "start": 64.276,
+       "end": 64.658
+      },
+      {
+       "w": "prison",
+       "start": 64.658,
+       "end": 65.295
+      },
+      {
+       "w": "barbershop.",
+       "start": 65.295,
+       "end": 66.271
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "alcatraz/vo/line7.mp3",
+   "start": 66.669,
+   "dur": 6.531,
+   "sentences": [
+    {
+     "text": "Then they glued more than fifty stolen raincoats into life vests and a raft, hidden above their cells.",
+     "start": 66.669,
+     "end": 73.199,
+     "words": [
+      {
+       "w": "Then",
+       "start": 66.669,
+       "end": 66.99
+      },
+      {
+       "w": "they",
+       "start": 66.99,
+       "end": 67.311
+      },
+      {
+       "w": "glued",
+       "start": 67.311,
+       "end": 67.69
+      },
+      {
+       "w": "more",
+       "start": 67.69,
+       "end": 68.011
+      },
+      {
+       "w": "than",
+       "start": 68.011,
+       "end": 68.332
+      },
+      {
+       "w": "fifty",
+       "start": 68.332,
+       "end": 68.712
+      },
+      {
+       "w": "stolen",
+       "start": 68.712,
+       "end": 69.15
+      },
+      {
+       "w": "raincoats",
+       "start": 69.15,
+       "end": 69.762
+      },
+      {
+       "w": "into",
+       "start": 69.762,
+       "end": 70.084
+      },
+      {
+       "w": "life",
+       "start": 70.084,
+       "end": 70.405
+      },
+      {
+       "w": "vests",
+       "start": 70.405,
+       "end": 70.784
+      },
+      {
+       "w": "and",
+       "start": 70.784,
+       "end": 71.047
+      },
+      {
+       "w": "a",
+       "start": 71.047,
+       "end": 71.193
+      },
+      {
+       "w": "raft,",
+       "start": 71.193,
+       "end": 71.514
+      },
+      {
+       "w": "hidden",
+       "start": 71.75,
+       "end": 72.153
+      },
+      {
+       "w": "above",
+       "start": 72.153,
+       "end": 72.501
+      },
+      {
+       "w": "their",
+       "start": 72.501,
+       "end": 72.85
+      },
+      {
+       "w": "cells.",
+       "start": 72.85,
+       "end": 73.199
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "alcatraz/vo/line8.mp3",
+   "start": 73.399,
+   "dur": 8.673,
+   "sentences": [
+    {
+     "text": "On the night of June 11th, they put the heads in their beds and crawled out.",
+     "start": 73.399,
+     "end": 77.522,
+     "words": [
+      {
+       "w": "On",
+       "start": 73.399,
+       "end": 73.57
+      },
+      {
+       "w": "the",
+       "start": 73.57,
+       "end": 73.79
+      },
+      {
+       "w": "night",
+       "start": 73.79,
+       "end": 74.108
+      },
+      {
+       "w": "of",
+       "start": 74.108,
+       "end": 74.279
+      },
+      {
+       "w": "June",
+       "start": 74.279,
+       "end": 74.547
+      },
+      {
+       "w": "11th,",
+       "start": 74.547,
+       "end": 74.816
+      },
+      {
+       "w": "they",
+       "start": 75.129,
+       "end": 75.372
+      },
+      {
+       "w": "put",
+       "start": 75.372,
+       "end": 75.572
+      },
+      {
+       "w": "the",
+       "start": 75.572,
+       "end": 75.771
+      },
+      {
+       "w": "heads",
+       "start": 75.771,
+       "end": 76.059
+      },
+      {
+       "w": "in",
+       "start": 76.059,
+       "end": 76.214
+      },
+      {
+       "w": "their",
+       "start": 76.214,
+       "end": 76.502
+      },
+      {
+       "w": "beds",
+       "start": 76.502,
+       "end": 76.746
+      },
+      {
+       "w": "and",
+       "start": 76.746,
+       "end": 76.946
+      },
+      {
+       "w": "crawled",
+       "start": 76.946,
+       "end": 77.322
+      },
+      {
+       "w": "out.",
+       "start": 77.322,
+       "end": 77.522
+      }
+     ]
+    },
+    {
+     "text": "The fourth man, Allen West, couldn't get out of his cell in time.",
+     "start": 78.127,
+     "end": 81.859,
+     "words": [
+      {
+       "w": "The",
+       "start": 78.127,
+       "end": 78.369
+      },
+      {
+       "w": "fourth",
+       "start": 78.369,
+       "end": 78.771
+      },
+      {
+       "w": "man,",
+       "start": 78.771,
+       "end": 79.013
+      },
+      {
+       "w": "Allen",
+       "start": 79.267,
+       "end": 79.704
+      },
+      {
+       "w": "West,",
+       "start": 79.704,
+       "end": 80.074
+      },
+      {
+       "w": "couldn't",
+       "start": 80.341,
+       "end": 80.663
+      },
+      {
+       "w": "get",
+       "start": 80.663,
+       "end": 80.834
+      },
+      {
+       "w": "out",
+       "start": 80.834,
+       "end": 81.005
+      },
+      {
+       "w": "of",
+       "start": 81.005,
+       "end": 81.138
+      },
+      {
+       "w": "his",
+       "start": 81.138,
+       "end": 81.309
+      },
+      {
+       "w": "cell",
+       "start": 81.309,
+       "end": 81.517
+      },
+      {
+       "w": "in",
+       "start": 81.517,
+       "end": 81.65
+      },
+      {
+       "w": "time.",
+       "start": 81.65,
+       "end": 81.859
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "alcatraz/vo/line9.mp3",
+   "start": 82.272,
+   "dur": 10.527,
+   "sentences": [
+    {
+     "text": "The others climbed to the roof, slid down a fifty-foot pipe, scaled two fences, and around ten PM, pushed the raft into the black water, and vanished.",
+     "start": 82.272,
+     "end": 92.395,
+     "words": [
+      {
+       "w": "The",
+       "start": 82.272,
+       "end": 82.477
+      },
+      {
+       "w": "others",
+       "start": 82.477,
+       "end": 82.818
+      },
+      {
+       "w": "climbed",
+       "start": 82.818,
+       "end": 83.205
+      },
+      {
+       "w": "to",
+       "start": 83.205,
+       "end": 83.364
+      },
+      {
+       "w": "the",
+       "start": 83.364,
+       "end": 83.569
+      },
+      {
+       "w": "roof,",
+       "start": 83.569,
+       "end": 83.82
+      },
+      {
+       "w": "slid",
+       "start": 84.07,
+       "end": 84.415
+      },
+      {
+       "w": "down",
+       "start": 84.415,
+       "end": 84.759
+      },
+      {
+       "w": "a",
+       "start": 84.759,
+       "end": 84.916
+      },
+      {
+       "w": "fifty-foot",
+       "start": 84.916,
+       "end": 85.574
+      },
+      {
+       "w": "pipe,",
+       "start": 85.574,
+       "end": 85.919
+      },
+      {
+       "w": "scaled",
+       "start": 86.153,
+       "end": 86.684
+      },
+      {
+       "w": "two",
+       "start": 86.684,
+       "end": 87.003
+      },
+      {
+       "w": "fences,",
+       "start": 87.003,
+       "end": 87.534
+      },
+      {
+       "w": "and",
+       "start": 87.841,
+       "end": 88.105
+      },
+      {
+       "w": "around",
+       "start": 88.105,
+       "end": 88.547
+      },
+      {
+       "w": "ten",
+       "start": 88.547,
+       "end": 88.811
+      },
+      {
+       "w": "PM,",
+       "start": 88.811,
+       "end": 89.017
+      },
+      {
+       "w": "pushed",
+       "start": 89.175,
+       "end": 89.535
+      },
+      {
+       "w": "the",
+       "start": 89.535,
+       "end": 89.751
+      },
+      {
+       "w": "raft",
+       "start": 89.751,
+       "end": 90.015
+      },
+      {
+       "w": "into",
+       "start": 90.015,
+       "end": 90.279
+      },
+      {
+       "w": "the",
+       "start": 90.279,
+       "end": 90.495
+      },
+      {
+       "w": "black",
+       "start": 90.495,
+       "end": 90.807
+      },
+      {
+       "w": "water,",
+       "start": 90.807,
+       "end": 91.12
+      },
+      {
+       "w": "and",
+       "start": 91.525,
+       "end": 91.804
+      },
+      {
+       "w": "vanished.",
+       "start": 91.804,
+       "end": 92.395
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "alcatraz/vo/line10.mp3",
+   "start": 92.999,
+   "dur": 4.206,
+   "sentences": [
+    {
+     "text": "So did they make it?",
+     "start": 92.999,
+     "end": 94.339,
+     "words": [
+      {
+       "w": "So",
+       "start": 92.999,
+       "end": 93.208
+      },
+      {
+       "w": "did",
+       "start": 93.208,
+       "end": 93.476
+      },
+      {
+       "w": "they",
+       "start": 93.476,
+       "end": 93.803
+      },
+      {
+       "w": "make",
+       "start": 93.803,
+       "end": 94.131
+      },
+      {
+       "w": "it?",
+       "start": 94.131,
+       "end": 94.339
+      }
+     ]
+    },
+    {
+     "text": "Or did the bay take them?",
+     "start": 95.418,
+     "end": 96.996,
+     "words": [
+      {
+       "w": "Or",
+       "start": 95.418,
+       "end": 95.615
+      },
+      {
+       "w": "did",
+       "start": 95.615,
+       "end": 95.869
+      },
+      {
+       "w": "the",
+       "start": 95.869,
+       "end": 96.122
+      },
+      {
+       "w": "bay",
+       "start": 96.122,
+       "end": 96.376
+      },
+      {
+       "w": "take",
+       "start": 96.376,
+       "end": 96.686
+      },
+      {
+       "w": "them?",
+       "start": 96.686,
+       "end": 96.996
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "alcatraz/vo/line11.mp3",
+   "start": 97.405,
+   "dur": 7.236,
+   "sentences": [
+    {
+     "text": "Searchers found a paddle, scraps of raincoat, and a sealed packet of the Anglins' family photos, floating in the bay.",
+     "start": 97.405,
+     "end": 104.377,
+     "words": [
+      {
+       "w": "Searchers",
+       "start": 97.405,
+       "end": 97.967
+      },
+      {
+       "w": "found",
+       "start": 97.967,
+       "end": 98.314
+      },
+      {
+       "w": "a",
+       "start": 98.314,
+       "end": 98.448
+      },
+      {
+       "w": "paddle,",
+       "start": 98.448,
+       "end": 98.849
+      },
+      {
+       "w": "scraps",
+       "start": 99.065,
+       "end": 99.473
+      },
+      {
+       "w": "of",
+       "start": 99.473,
+       "end": 99.663
+      },
+      {
+       "w": "raincoat,",
+       "start": 99.663,
+       "end": 100.179
+      },
+      {
+       "w": "and",
+       "start": 100.421,
+       "end": 100.657
+      },
+      {
+       "w": "a",
+       "start": 100.657,
+       "end": 100.788
+      },
+      {
+       "w": "sealed",
+       "start": 100.788,
+       "end": 101.181
+      },
+      {
+       "w": "packet",
+       "start": 101.181,
+       "end": 101.575
+      },
+      {
+       "w": "of",
+       "start": 101.575,
+       "end": 101.758
+      },
+      {
+       "w": "the",
+       "start": 101.758,
+       "end": 101.994
+      },
+      {
+       "w": "Anglins'",
+       "start": 101.994,
+       "end": 102.44
+      },
+      {
+       "w": "family",
+       "start": 102.44,
+       "end": 102.834
+      },
+      {
+       "w": "photos,",
+       "start": 102.834,
+       "end": 103.227
+      },
+      {
+       "w": "floating",
+       "start": 103.438,
+       "end": 103.844
+      },
+      {
+       "w": "in",
+       "start": 103.844,
+       "end": 103.993
+      },
+      {
+       "w": "the",
+       "start": 103.993,
+       "end": 104.185
+      },
+      {
+       "w": "bay.",
+       "start": 104.185,
+       "end": 104.377
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "alcatraz/vo/line12.mp3",
+   "start": 104.841,
+   "dur": 10.031,
+   "sentences": [
+    {
+     "text": "The FBI concluded they most likely drowned.",
+     "start": 104.841,
+     "end": 107.633,
+     "words": [
+      {
+       "w": "The",
+       "start": 104.841,
+       "end": 105.111
+      },
+      {
+       "w": "FBI",
+       "start": 105.111,
+       "end": 105.381
+      },
+      {
+       "w": "concluded",
+       "start": 105.381,
+       "end": 106.012
+      },
+      {
+       "w": "they",
+       "start": 106.012,
+       "end": 106.342
+      },
+      {
+       "w": "most",
+       "start": 106.342,
+       "end": 106.672
+      },
+      {
+       "w": "likely",
+       "start": 106.672,
+       "end": 107.123
+      },
+      {
+       "w": "drowned.",
+       "start": 107.123,
+       "end": 107.633
+      }
+     ]
+    },
+    {
+     "text": "But no bodies were ever found.",
+     "start": 108.206,
+     "end": 109.976,
+     "words": [
+      {
+       "w": "But",
+       "start": 108.206,
+       "end": 108.447
+      },
+      {
+       "w": "no",
+       "start": 108.447,
+       "end": 108.635
+      },
+      {
+       "w": "bodies",
+       "start": 108.635,
+       "end": 109.037
+      },
+      {
+       "w": "were",
+       "start": 109.037,
+       "end": 109.332
+      },
+      {
+       "w": "ever",
+       "start": 109.332,
+       "end": 109.628
+      },
+      {
+       "w": "found.",
+       "start": 109.628,
+       "end": 109.976
+      }
+     ]
+    },
+    {
+     "text": "Less than a year later, Alcatraz closed for good.",
+     "start": 111.43,
+     "end": 114.653,
+     "words": [
+      {
+       "w": "Less",
+       "start": 111.43,
+       "end": 111.699
+      },
+      {
+       "w": "than",
+       "start": 111.699,
+       "end": 111.968
+      },
+      {
+       "w": "a",
+       "start": 111.968,
+       "end": 112.091
+      },
+      {
+       "w": "year",
+       "start": 112.091,
+       "end": 112.36
+      },
+      {
+       "w": "later,",
+       "start": 112.36,
+       "end": 112.679
+      },
+      {
+       "w": "Alcatraz",
+       "start": 113.02,
+       "end": 113.594
+      },
+      {
+       "w": "closed",
+       "start": 113.594,
+       "end": 114.048
+      },
+      {
+       "w": "for",
+       "start": 114.048,
+       "end": 114.32
+      },
+      {
+       "w": "good.",
+       "start": 114.32,
+       "end": 114.653
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "alcatraz/vo/line13.mp3",
+   "start": 115.072,
+   "dur": 10.266,
+   "sentences": [
+    {
+     "text": "Then the clues kept coming.",
+     "start": 115.072,
+     "end": 116.991,
+     "words": [
+      {
+       "w": "Then",
+       "start": 115.072,
+       "end": 115.43
+      },
+      {
+       "w": "the",
+       "start": 115.43,
+       "end": 115.723
+      },
+      {
+       "w": "clues",
+       "start": 115.723,
+       "end": 116.146
+      },
+      {
+       "w": "kept",
+       "start": 116.146,
+       "end": 116.503
+      },
+      {
+       "w": "coming.",
+       "start": 116.503,
+       "end": 116.991
+      }
+     ]
+    },
+    {
+     "text": "Christmas cards arrived for the Anglin family.",
+     "start": 117.489,
+     "end": 119.77,
+     "words": [
+      {
+       "w": "Christmas",
+       "start": 117.489,
+       "end": 117.973
+      },
+      {
+       "w": "cards",
+       "start": 117.973,
+       "end": 118.273
+      },
+      {
+       "w": "arrived",
+       "start": 118.273,
+       "end": 118.664
+      },
+      {
+       "w": "for",
+       "start": 118.664,
+       "end": 118.872
+      },
+      {
+       "w": "the",
+       "start": 118.872,
+       "end": 119.079
+      },
+      {
+       "w": "Anglin",
+       "start": 119.079,
+       "end": 119.424
+      },
+      {
+       "w": "family.",
+       "start": 119.424,
+       "end": 119.77
+      }
+     ]
+    },
+    {
+     "text": "A photo surfaced, said to show the brothers in Brazil in 1975.",
+     "start": 120.218,
+     "end": 125.146,
+     "words": [
+      {
+       "w": "A",
+       "start": 120.218,
+       "end": 120.374
+      },
+      {
+       "w": "photo",
+       "start": 120.374,
+       "end": 120.777
+      },
+      {
+       "w": "surfaced,",
+       "start": 120.777,
+       "end": 121.367
+      },
+      {
+       "w": "said",
+       "start": 121.678,
+       "end": 122.071
+      },
+      {
+       "w": "to",
+       "start": 122.071,
+       "end": 122.321
+      },
+      {
+       "w": "show",
+       "start": 122.321,
+       "end": 122.715
+      },
+      {
+       "w": "the",
+       "start": 122.715,
+       "end": 123.037
+      },
+      {
+       "w": "brothers",
+       "start": 123.037,
+       "end": 123.716
+      },
+      {
+       "w": "in",
+       "start": 123.716,
+       "end": 123.966
+      },
+      {
+       "w": "Brazil",
+       "start": 123.966,
+       "end": 124.503
+      },
+      {
+       "w": "in",
+       "start": 124.503,
+       "end": 124.753
+      },
+      {
+       "w": "1975.",
+       "start": 124.753,
+       "end": 125.146
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "alcatraz/vo/line14.mp3",
+   "start": 125.538,
+   "dur": 17.162,
+   "sentences": [
+    {
+     "text": "And in 2013, San Francisco police received a letter.",
+     "start": 125.538,
+     "end": 129.301,
+     "words": [
+      {
+       "w": "And",
+       "start": 125.538,
+       "end": 125.974
+      },
+      {
+       "w": "in",
+       "start": 125.974,
+       "end": 126.313
+      },
+      {
+       "w": "2013,",
+       "start": 126.313,
+       "end": 126.846
+      },
+      {
+       "w": "San",
+       "start": 127.103,
+       "end": 127.338
+      },
+      {
+       "w": "Francisco",
+       "start": 127.338,
+       "end": 127.888
+      },
+      {
+       "w": "police",
+       "start": 127.888,
+       "end": 128.281
+      },
+      {
+       "w": "received",
+       "start": 128.281,
+       "end": 128.778
+      },
+      {
+       "w": "a",
+       "start": 128.778,
+       "end": 128.909
+      },
+      {
+       "w": "letter.",
+       "start": 128.909,
+       "end": 129.301
+      }
+     ]
+    },
+    {
+     "text": "My name is John Anglin.",
+     "start": 129.712,
+     "end": 131.066,
+     "words": [
+      {
+       "w": "My",
+       "start": 129.712,
+       "end": 129.898
+      },
+      {
+       "w": "name",
+       "start": 129.898,
+       "end": 130.19
+      },
+      {
+       "w": "is",
+       "start": 130.19,
+       "end": 130.376
+      },
+      {
+       "w": "John",
+       "start": 130.376,
+       "end": 130.668
+      },
+      {
+       "w": "Anglin.",
+       "start": 130.668,
+       "end": 131.066
+      }
+     ]
+    },
+    {
+     "text": "I escaped from Alcatraz in June 1962.",
+     "start": 131.535,
+     "end": 134.562,
+     "words": [
+      {
+       "w": "I",
+       "start": 131.535,
+       "end": 131.722
+      },
+      {
+       "w": "escaped",
+       "start": 131.722,
+       "end": 132.357
+      },
+      {
+       "w": "from",
+       "start": 132.357,
+       "end": 132.768
+      },
+      {
+       "w": "Alcatraz",
+       "start": 132.768,
+       "end": 133.478
+      },
+      {
+       "w": "in",
+       "start": 133.478,
+       "end": 133.74
+      },
+      {
+       "w": "June",
+       "start": 133.74,
+       "end": 134.151
+      },
+      {
+       "w": "1962.",
+       "start": 134.151,
+       "end": 134.562
+      }
+     ]
+    },
+    {
+     "text": "Yes, we all made it that night, but barely.",
+     "start": 135.118,
+     "end": 138.031,
+     "words": [
+      {
+       "w": "Yes,",
+       "start": 135.118,
+       "end": 135.657
+      },
+      {
+       "w": "we",
+       "start": 135.86,
+       "end": 135.995
+      },
+      {
+       "w": "all",
+       "start": 135.995,
+       "end": 136.169
+      },
+      {
+       "w": "made",
+       "start": 136.169,
+       "end": 136.382
+      },
+      {
+       "w": "it",
+       "start": 136.382,
+       "end": 136.517
+      },
+      {
+       "w": "that",
+       "start": 136.517,
+       "end": 136.73
+      },
+      {
+       "w": "night,",
+       "start": 136.73,
+       "end": 136.982
+      },
+      {
+       "w": "but",
+       "start": 137.394,
+       "end": 137.632
+      },
+      {
+       "w": "barely.",
+       "start": 137.632,
+       "end": 138.031
+      }
+     ]
+    },
+    {
+     "text": "The FBI tested it.",
+     "start": 139.103,
+     "end": 140.282,
+     "words": [
+      {
+       "w": "The",
+       "start": 139.103,
+       "end": 139.368
+      },
+      {
+       "w": "FBI",
+       "start": 139.368,
+       "end": 139.634
+      },
+      {
+       "w": "tested",
+       "start": 139.634,
+       "end": 140.076
+      },
+      {
+       "w": "it.",
+       "start": 140.076,
+       "end": 140.282
+      }
+     ]
+    },
+    {
+     "text": "The results were inconclusive.",
+     "start": 140.79,
+     "end": 142.465,
+     "words": [
+      {
+       "w": "The",
+       "start": 140.79,
+       "end": 141.025
+      },
+      {
+       "w": "results",
+       "start": 141.025,
+       "end": 141.47
+      },
+      {
+       "w": "were",
+       "start": 141.47,
+       "end": 141.758
+      },
+      {
+       "w": "inconclusive.",
+       "start": 141.758,
+       "end": 142.465
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "alcatraz/vo/line15.mp3",
+   "start": 142.901,
+   "dur": 13.793,
+   "sentences": [
+    {
+     "text": "The case is still open with the US Marshals.",
+     "start": 142.901,
+     "end": 145.507,
+     "words": [
+      {
+       "w": "The",
+       "start": 142.901,
+       "end": 143.142
+      },
+      {
+       "w": "case",
+       "start": 143.142,
+       "end": 143.438
+      },
+      {
+       "w": "is",
+       "start": 143.438,
+       "end": 143.626
+      },
+      {
+       "w": "still",
+       "start": 143.626,
+       "end": 143.975
+      },
+      {
+       "w": "open",
+       "start": 143.975,
+       "end": 144.271
+      },
+      {
+       "w": "with",
+       "start": 144.271,
+       "end": 144.566
+      },
+      {
+       "w": "the",
+       "start": 144.566,
+       "end": 144.808
+      },
+      {
+       "w": "US",
+       "start": 144.808,
+       "end": 144.996
+      },
+      {
+       "w": "Marshals.",
+       "start": 144.996,
+       "end": 145.507
+      }
+     ]
+    },
+    {
+     "text": "Did they make it?",
+     "start": 145.985,
+     "end": 146.534,
+     "words": [
+      {
+       "w": "Did",
+       "start": 145.985,
+       "end": 146.115
+      },
+      {
+       "w": "they",
+       "start": 146.115,
+       "end": 146.274
+      },
+      {
+       "w": "make",
+       "start": 146.274,
+       "end": 146.433
+      },
+      {
+       "w": "it?",
+       "start": 146.433,
+       "end": 146.534
+      }
+     ]
+    },
+    {
+     "text": "Tell me what you think.",
+     "start": 147,
+     "end": 147.792,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 147,
+       "end": 147.171
+      },
+      {
+       "w": "me",
+       "start": 147.171,
+       "end": 147.28
+      },
+      {
+       "w": "what",
+       "start": 147.28,
+       "end": 147.45
+      },
+      {
+       "w": "you",
+       "start": 147.45,
+       "end": 147.59
+      },
+      {
+       "w": "think.",
+       "start": 147.59,
+       "end": 147.792
+      }
+     ]
+    },
+    {
+     "text": "And if you love people who vanished without a trace, watch the man who jumped from a plane, and the hikers on Dead Mountain, both on this channel.",
+     "start": 148.282,
+     "end": 156.476,
+     "words": [
+      {
+       "w": "And",
+       "start": 148.282,
+       "end": 148.483
+      },
+      {
+       "w": "if",
+       "start": 148.483,
+       "end": 148.639
+      },
+      {
+       "w": "you",
+       "start": 148.639,
+       "end": 148.84
+      },
+      {
+       "w": "love",
+       "start": 148.84,
+       "end": 149.085
+      },
+      {
+       "w": "people",
+       "start": 149.085,
+       "end": 149.419
+      },
+      {
+       "w": "who",
+       "start": 149.419,
+       "end": 149.62
+      },
+      {
+       "w": "vanished",
+       "start": 149.62,
+       "end": 150.044
+      },
+      {
+       "w": "without",
+       "start": 150.044,
+       "end": 150.423
+      },
+      {
+       "w": "a",
+       "start": 150.423,
+       "end": 150.534
+      },
+      {
+       "w": "trace,",
+       "start": 150.534,
+       "end": 150.824
+      },
+      {
+       "w": "watch",
+       "start": 151.142,
+       "end": 151.459
+      },
+      {
+       "w": "the",
+       "start": 151.459,
+       "end": 151.679
+      },
+      {
+       "w": "man",
+       "start": 151.679,
+       "end": 151.899
+      },
+      {
+       "w": "who",
+       "start": 151.899,
+       "end": 152.118
+      },
+      {
+       "w": "jumped",
+       "start": 152.118,
+       "end": 152.485
+      },
+      {
+       "w": "from",
+       "start": 152.485,
+       "end": 152.753
+      },
+      {
+       "w": "a",
+       "start": 152.753,
+       "end": 152.875
+      },
+      {
+       "w": "plane,",
+       "start": 152.875,
+       "end": 153.193
+      },
+      {
+       "w": "and",
+       "start": 153.356,
+       "end": 153.589
+      },
+      {
+       "w": "the",
+       "start": 153.589,
+       "end": 153.822
+      },
+      {
+       "w": "hikers",
+       "start": 153.822,
+       "end": 154.211
+      },
+      {
+       "w": "on",
+       "start": 154.211,
+       "end": 154.392
+      },
+      {
+       "w": "Dead",
+       "start": 154.392,
+       "end": 154.677
+      },
+      {
+       "w": "Mountain,",
+       "start": 154.677,
+       "end": 155.169
+      },
+      {
+       "w": "both",
+       "start": 155.396,
+       "end": 155.654
+      },
+      {
+       "w": "on",
+       "start": 155.654,
+       "end": 155.818
+      },
+      {
+       "w": "this",
+       "start": 155.818,
+       "end": 156.077
+      },
+      {
+       "w": "channel.",
+       "start": 156.077,
+       "end": 156.476
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

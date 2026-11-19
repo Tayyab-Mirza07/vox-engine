@@ -1,0 +1,35 @@
+{
+  "title": "The Only Men Who May Have Escaped Alcatraz",
+  "voice": {"provider": "elevenlabs", "voice_id": "uFIXVu9mmnDZ7dTKCBTX", "model": "eleven_v4"},
+  "gap": 0.2,
+  "tail": 1.0,
+  "spoken": {"12th,": "twelfth", "1962,": "nineteen sixty two", "1962.": "nineteen sixty two", "11th,": "eleventh", "1975.": "nineteen seventy five", "2013,": "twenty thirteen", "fifty-foot": "fifty foot", "US": "U S", "PM,": "P M"},
+  "lines": [
+    "On the morning of June 12th, 1962, a guard at Alcatraz reached into a cell to wake a sleeping prisoner, and his head rolled onto the floor. It wasn't a real head. And the man was gone.",
+    "Alcatraz sat on a rock in San Francisco Bay, surrounded by freezing water and deadly currents. They called it escape-proof.",
+    "Dozens of men had tried to break out. None officially made it. Then came Frank Morris, a quiet genius, and two bank-robbing brothers, John and Clarence Anglin.",
+    "For months, they chipped at the damp concrete around the vents under their sinks, with sharpened spoons and a homemade drill.",
+    "They worked during music hour, when the noise covered them, and hid the holes behind fake cardboard grilles.",
+    "But a hole wasn't enough. They needed to fool the guards, and to cross the bay.",
+    "So they built heads, from soap, toilet paper and concrete dust, painted to look like skin, with real hair from the prison barbershop.",
+    "Then they glued more than fifty stolen raincoats into life vests and a raft, hidden above their cells.",
+    "On the night of June 11th, they put the heads in their beds and crawled out. The fourth man, Allen West, couldn't get out of his cell in time.",
+    "The others climbed to the roof, slid down a fifty-foot pipe, scaled two fences, and around ten PM, pushed the raft into the black water, and vanished.",
+    "So did they make it? Or did the bay take them?",
+    "Searchers found a paddle, scraps of raincoat, and a sealed packet of the Anglins' family photos, floating in the bay.",
+    "The FBI concluded they most likely drowned. But no bodies were ever found. Less than a year later, Alcatraz closed for good.",
+    "Then the clues kept coming. Christmas cards arrived for the Anglin family. A photo surfaced, said to show the brothers in Brazil in 1975.",
+    "And in 2013, San Francisco police received a letter. My name is John Anglin. I escaped from Alcatraz in June 1962. Yes, we all made it that night, but barely. The FBI tested it. The results were inconclusive.",
+    "The case is still open with the US Marshals. Did they make it? Tell me what you think. And if you love people who vanished without a trace, watch the man who jumped from a plane, and the hikers on Dead Mountain, both on this channel."
+  ],
+  "structure": {
+    "hook": "line 0: guard touches a sleeping prisoner, the head rolls off; the man is gone",
+    "5W1H": "who (Frank Morris, John and Clarence Anglin, Allen West), what (escape), when (night of June 11, 1962), where (Alcatraz, San Francisco Bay), how (lines 3-9), why it matters / outcome (lines 11-15)",
+    "rehooks": ["line 5: a hole wasn't enough", "line 10: did they make it, or did the bay take them?", "line 13: the clues kept coming"],
+    "tension": "lines 3-9: months of digging, heads, raft, West left behind, launch into the black water",
+    "release_payoff": "lines 11-14: evidence in the bay, FBI verdict, Alcatraz closes, Christmas cards, Brazil photo, 2013 letter (inconclusive)",
+    "cta": "line 15: question + D.B. Cooper and Dyatlov Pass Shorts with thumbnails"
+  },
+  "visual_notes": "Owner asked: animation that follows the narration, page-tilt and parallax effects, real photos with motion, and NOT text everywhere (headlines only at key dates/names).",
+  "notes": "Facts: FBI case closed 1979 (likely drowned); U.S. Marshals case open. 2013 letter quote condensed; FBI analysis inconclusive. Brazil photo 'said to show' (History channel 2015)."
+}
