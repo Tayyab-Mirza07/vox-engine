@@ -1,0 +1,34 @@
+{
+  "title": "Nine Hikers Cut Their Way Out Into -30°",
+  "voice": {"provider": "elevenlabs", "voice_id": "uFIXVu9mmnDZ7dTKCBTX", "model": "eleven_v4"},
+  "gap": 0.25,
+  "tail": 1.0,
+  "spoken": {"1959,": "nineteen fifty nine", "1959.": "nineteen fifty nine", "2021,": "twenty twenty one", "-30°": "thirty below"},
+  "lines": [
+    "In 1959, nine hikers cut their way out of their own tent and ran into a frozen night at thirty below. None of them came back. And for sixty years, nobody could explain why.",
+    "It's February 1959, in the Ural Mountains of the Soviet Union. Nine experienced hikers, most of them students, led by twenty-three-year-old Igor Dyatlov, are skiing toward a peak called Otorten.",
+    "A tenth man, Yuri Yudin, gets sick on the way and turns back. That fever saves his life.",
+    "On February first, the group pitches their tent on a bare slope the local Mansi people call Kholat Syakhl. Dead Mountain.",
+    "So what could make nine trained hikers run from their only shelter, in the dark, without their boots?",
+    "When they don't return, a search team climbs the mountain. On February twenty-sixth, they find the tent. Half buried in snow. And slashed open from the inside.",
+    "Boots, coats and food are all left behind. Outside, footprints. Some in socks. Some barefoot. All walking calmly downhill, toward the forest a mile away.",
+    "At the edge of the trees, under a tall cedar, searchers find the first two hikers, beside the ashes of a small fire. Barely dressed.",
+    "Three more lie on the slope between the cedar and the tent. They died trying to get back.",
+    "But the last four weren't found until May. And what investigators saw made this case famous.",
+    "Buried deep in a snowy ravine, they had crushing injuries. Broken ribs. A fractured skull. Force like a car crash, yet almost no wounds on the skin.",
+    "And some of their clothing tested positive for radiation.",
+    "The Soviet investigators closed the case with one strange line. The hikers died from a compelling natural force. Then the files were locked away.",
+    "For decades, people blamed everything. Secret weapon tests. Strange lights in the sky. Even the Yeti.",
+    "Then in 2021, Swiss scientists ran computer models and found a likely answer. Wind had piled heavy snow above the tent, and a small slab avalanche broke loose. Small enough to leave few traces. Heavy enough to crush. The hikers fled, expecting worse. The cold did the rest.",
+    "Today, that slope is called Dyatlov Pass. But not everyone believes the snow did it. What do you think? And if you love mysteries that never quite close, watch the ghost ship with no one on board, and the freighter that vanished on Lake Superior, both on this channel."
+  ],
+  "structure": {
+    "hook": "line 0: tent cut from inside, -30, nobody came back, 60 years unexplained",
+    "5W1H": "who (9 hikers, Igor Dyatlov, Yuri Yudin), what (fled tent and died), when (Feb 1-2 1959), where (Kholat Syakhl, northern Urals, USSR), why/how (lines 10-14)",
+    "rehooks": ["line 4: what makes trained hikers flee without boots?", "line 9: last four found in May", "line 13: theories"],
+    "tension": "lines 5-12: slashed tent, footprints, cedar, ravine injuries, radiation, sealed files",
+    "release_payoff": "line 14: 2021 slab-avalanche model (Gaume & Puzrin, Communications Earth & Environment)",
+    "cta": "line 15: question + Mary Celeste and Edmund Fitzgerald Shorts with thumbnails"
+  },
+  "notes": "Respectful: no body/autopsy photos and no graphic details beyond 'crushing injuries'. Facts: Russian prosecutors (2020) and Gaume & Puzrin (2021) favour a slab avalanche; debated."
+}
