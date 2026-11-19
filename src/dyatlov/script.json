@@ -1,7 +1,7 @@
 {
   "title": "Nine Hikers Cut Their Way Out Into -30°",
   "voice": {"provider": "elevenlabs", "voice_id": "uFIXVu9mmnDZ7dTKCBTX", "model": "eleven_v4"},
-  "gap": 0.25,
+  "gap": 0.2,
   "tail": 1.0,
   "spoken": {"1959,": "nineteen fifty nine", "1959.": "nineteen fifty nine", "2021,": "twenty twenty one", "-30°": "thirty below"},
   "lines": [

@@ -1,0 +1,2487 @@
+{
+ "total": 172.975,
+ "lines": [
+  {
+   "index": 0,
+   "file": "dyatlov/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 13.949,
+   "sentences": [
+    {
+     "text": "In 1959, nine hikers cut their way out of their own tent and ran into a frozen night at thirty below.",
+     "start": 0.25,
+     "end": 8.223,
+     "words": [
+      {
+       "w": "In",
+       "start": 0.25,
+       "end": 0.503
+      },
+      {
+       "w": "1959,",
+       "start": 0.503,
+       "end": 0.899
+      },
+      {
+       "w": "nine",
+       "start": 0.899,
+       "end": 1.296
+      },
+      {
+       "w": "hikers",
+       "start": 1.296,
+       "end": 1.837
+      },
+      {
+       "w": "cut",
+       "start": 1.837,
+       "end": 2.162
+      },
+      {
+       "w": "their",
+       "start": 2.162,
+       "end": 2.631
+      },
+      {
+       "w": "way",
+       "start": 2.631,
+       "end": 2.956
+      },
+      {
+       "w": "out",
+       "start": 2.956,
+       "end": 3.28
+      },
+      {
+       "w": "of",
+       "start": 3.28,
+       "end": 3.533
+      },
+      {
+       "w": "their",
+       "start": 3.533,
+       "end": 4.002
+      },
+      {
+       "w": "own",
+       "start": 4.002,
+       "end": 4.327
+      },
+      {
+       "w": "tent",
+       "start": 4.327,
+       "end": 4.724
+      },
+      {
+       "w": "and",
+       "start": 4.724,
+       "end": 5.048
+      },
+      {
+       "w": "ran",
+       "start": 5.048,
+       "end": 5.373
+      },
+      {
+       "w": "into",
+       "start": 5.373,
+       "end": 5.77
+      },
+      {
+       "w": "a",
+       "start": 5.77,
+       "end": 5.95
+      },
+      {
+       "w": "frozen",
+       "start": 5.95,
+       "end": 6.491
+      },
+      {
+       "w": "night",
+       "start": 6.491,
+       "end": 6.96
+      },
+      {
+       "w": "at",
+       "start": 6.96,
+       "end": 7.213
+      },
+      {
+       "w": "thirty",
+       "start": 7.213,
+       "end": 7.754
+      },
+      {
+       "w": "below.",
+       "start": 7.754,
+       "end": 8.223
+      }
+     ]
+    },
+    {
+     "text": "None of them came back.",
+     "start": 9.213,
+     "end": 10.387,
+     "words": [
+      {
+       "w": "None",
+       "start": 9.213,
+       "end": 9.467
+      },
+      {
+       "w": "of",
+       "start": 9.467,
+       "end": 9.628
+      },
+      {
+       "w": "them",
+       "start": 9.628,
+       "end": 9.881
+      },
+      {
+       "w": "came",
+       "start": 9.881,
+       "end": 10.134
+      },
+      {
+       "w": "back.",
+       "start": 10.134,
+       "end": 10.387
+      }
+     ]
+    },
+    {
+     "text": "And for sixty years, nobody could explain why.",
+     "start": 10.932,
+     "end": 13.923,
+     "words": [
+      {
+       "w": "And",
+       "start": 10.932,
+       "end": 11.186
+      },
+      {
+       "w": "for",
+       "start": 11.186,
+       "end": 11.441
+      },
+      {
+       "w": "sixty",
+       "start": 11.441,
+       "end": 11.809
+      },
+      {
+       "w": "years,",
+       "start": 11.809,
+       "end": 12.176
+      },
+      {
+       "w": "nobody",
+       "start": 12.497,
+       "end": 12.893
+      },
+      {
+       "w": "could",
+       "start": 12.893,
+       "end": 13.236
+      },
+      {
+       "w": "explain",
+       "start": 13.236,
+       "end": 13.685
+      },
+      {
+       "w": "why.",
+       "start": 13.685,
+       "end": 13.923
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "dyatlov/vo/line1.mp3",
+   "start": 14.399,
+   "dur": 13.558,
+   "sentences": [
+    {
+     "text": "It's February 1959, in the Ural Mountains of the Soviet Union.",
+     "start": 14.399,
+     "end": 18.974,
+     "words": [
+      {
+       "w": "It's",
+       "start": 14.399,
+       "end": 14.895
+      },
+      {
+       "w": "February",
+       "start": 14.895,
+       "end": 15.943
+      },
+      {
+       "w": "1959,",
+       "start": 15.943,
+       "end": 16.549
+      },
+      {
+       "w": "in",
+       "start": 16.787,
+       "end": 16.953
+      },
+      {
+       "w": "the",
+       "start": 16.953,
+       "end": 17.167
+      },
+      {
+       "w": "Ural",
+       "start": 17.167,
+       "end": 17.429
+      },
+      {
+       "w": "Mountains",
+       "start": 17.429,
+       "end": 17.928
+      },
+      {
+       "w": "of",
+       "start": 17.928,
+       "end": 18.094
+      },
+      {
+       "w": "the",
+       "start": 18.094,
+       "end": 18.308
+      },
+      {
+       "w": "Soviet",
+       "start": 18.308,
+       "end": 18.665
+      },
+      {
+       "w": "Union.",
+       "start": 18.665,
+       "end": 18.974
+      }
+     ]
+    },
+    {
+     "text": "Nine experienced hikers, most of them students, led by twenty-three-year-old Igor Dyatlov, are skiing toward a peak called Otorten.",
+     "start": 19.52,
+     "end": 27.759,
+     "words": [
+      {
+       "w": "Nine",
+       "start": 19.52,
+       "end": 19.894
+      },
+      {
+       "w": "experienced",
+       "start": 19.894,
+       "end": 20.745
+      },
+      {
+       "w": "hikers,",
+       "start": 20.745,
+       "end": 21.255
+      },
+      {
+       "w": "most",
+       "start": 21.43,
+       "end": 21.661
+      },
+      {
+       "w": "of",
+       "start": 21.661,
+       "end": 21.807
+      },
+      {
+       "w": "them",
+       "start": 21.807,
+       "end": 22.038
+      },
+      {
+       "w": "students,",
+       "start": 22.038,
+       "end": 22.437
+      },
+      {
+       "w": "led",
+       "start": 22.775,
+       "end": 23.045
+      },
+      {
+       "w": "by",
+       "start": 23.045,
+       "end": 23.256
+      },
+      {
+       "w": "twenty-three-year-old",
+       "start": 23.256,
+       "end": 24.429
+      },
+      {
+       "w": "Igor",
+       "start": 24.429,
+       "end": 24.76
+      },
+      {
+       "w": "Dyatlov,",
+       "start": 24.76,
+       "end": 25.272
+      },
+      {
+       "w": "are",
+       "start": 25.484,
+       "end": 25.72
+      },
+      {
+       "w": "skiing",
+       "start": 25.72,
+       "end": 26.112
+      },
+      {
+       "w": "toward",
+       "start": 26.112,
+       "end": 26.504
+      },
+      {
+       "w": "a",
+       "start": 26.504,
+       "end": 26.635
+      },
+      {
+       "w": "peak",
+       "start": 26.635,
+       "end": 26.922
+      },
+      {
+       "w": "called",
+       "start": 26.922,
+       "end": 27.314
+      },
+      {
+       "w": "Otorten.",
+       "start": 27.314,
+       "end": 27.759
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "dyatlov/vo/line2.mp3",
+   "start": 28.157,
+   "dur": 6.609,
+   "sentences": [
+    {
+     "text": "A tenth man, Yuri Yudin, gets sick on the way and turns back.",
+     "start": 28.157,
+     "end": 32.301,
+     "words": [
+      {
+       "w": "A",
+       "start": 28.157,
+       "end": 28.316
+      },
+      {
+       "w": "tenth",
+       "start": 28.316,
+       "end": 28.73
+      },
+      {
+       "w": "man,",
+       "start": 28.73,
+       "end": 29.017
+      },
+      {
+       "w": "Yuri",
+       "start": 29.227,
+       "end": 29.476
+      },
+      {
+       "w": "Yudin,",
+       "start": 29.476,
+       "end": 29.77
+      },
+      {
+       "w": "gets",
+       "start": 29.77,
+       "end": 30.118
+      },
+      {
+       "w": "sick",
+       "start": 30.118,
+       "end": 30.466
+      },
+      {
+       "w": "on",
+       "start": 30.466,
+       "end": 30.688
+      },
+      {
+       "w": "the",
+       "start": 30.688,
+       "end": 30.973
+      },
+      {
+       "w": "way",
+       "start": 30.973,
+       "end": 31.257
+      },
+      {
+       "w": "and",
+       "start": 31.257,
+       "end": 31.542
+      },
+      {
+       "w": "turns",
+       "start": 31.542,
+       "end": 31.953
+      },
+      {
+       "w": "back.",
+       "start": 31.953,
+       "end": 32.301
+      }
+     ]
+    },
+    {
+     "text": "That fever saves his life.",
+     "start": 32.836,
+     "end": 34.507,
+     "words": [
+      {
+       "w": "That",
+       "start": 32.836,
+       "end": 33.158
+      },
+      {
+       "w": "fever",
+       "start": 33.158,
+       "end": 33.539
+      },
+      {
+       "w": "saves",
+       "start": 33.539,
+       "end": 33.92
+      },
+      {
+       "w": "his",
+       "start": 33.92,
+       "end": 34.184
+      },
+      {
+       "w": "life.",
+       "start": 34.184,
+       "end": 34.507
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "dyatlov/vo/line3.mp3",
+   "start": 34.966,
+   "dur": 8.124,
+   "sentences": [
+    {
+     "text": "On February first, the group pitches their tent on a bare slope the local Mansi people call Kholat Syakhl.",
+     "start": 34.966,
+     "end": 41.515,
+     "words": [
+      {
+       "w": "On",
+       "start": 34.966,
+       "end": 35.19
+      },
+      {
+       "w": "February",
+       "start": 35.19,
+       "end": 35.798
+      },
+      {
+       "w": "first,",
+       "start": 35.798,
+       "end": 36.215
+      },
+      {
+       "w": "the",
+       "start": 36.462,
+       "end": 36.701
+      },
+      {
+       "w": "group",
+       "start": 36.701,
+       "end": 37.047
+      },
+      {
+       "w": "pitches",
+       "start": 37.047,
+       "end": 37.499
+      },
+      {
+       "w": "their",
+       "start": 37.499,
+       "end": 37.845
+      },
+      {
+       "w": "tent",
+       "start": 37.845,
+       "end": 38.137
+      },
+      {
+       "w": "on",
+       "start": 38.137,
+       "end": 38.324
+      },
+      {
+       "w": "a",
+       "start": 38.324,
+       "end": 38.457
+      },
+      {
+       "w": "bare",
+       "start": 38.457,
+       "end": 38.749
+      },
+      {
+       "w": "slope",
+       "start": 38.749,
+       "end": 39.095
+      },
+      {
+       "w": "the",
+       "start": 39.095,
+       "end": 39.334
+      },
+      {
+       "w": "local",
+       "start": 39.334,
+       "end": 39.68
+      },
+      {
+       "w": "Mansi",
+       "start": 39.68,
+       "end": 40.026
+      },
+      {
+       "w": "people",
+       "start": 40.026,
+       "end": 40.425
+      },
+      {
+       "w": "call",
+       "start": 40.425,
+       "end": 40.717
+      },
+      {
+       "w": "Kholat",
+       "start": 40.717,
+       "end": 41.116
+      },
+      {
+       "w": "Syakhl.",
+       "start": 41.116,
+       "end": 41.515
+      }
+     ]
+    },
+    {
+     "text": "Dead Mountain.",
+     "start": 41.997,
+     "end": 42.871,
+     "words": [
+      {
+       "w": "Dead",
+       "start": 41.997,
+       "end": 42.317
+      },
+      {
+       "w": "Mountain.",
+       "start": 42.317,
+       "end": 42.871
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "dyatlov/vo/line4.mp3",
+   "start": 43.29,
+   "dur": 7.001,
+   "sentences": [
+    {
+     "text": "So what could make nine trained hikers run from their only shelter, in the dark, without their boots?",
+     "start": 43.29,
+     "end": 50.095,
+     "words": [
+      {
+       "w": "So",
+       "start": 43.29,
+       "end": 43.493
+      },
+      {
+       "w": "what",
+       "start": 43.493,
+       "end": 43.811
+      },
+      {
+       "w": "could",
+       "start": 43.811,
+       "end": 44.187
+      },
+      {
+       "w": "make",
+       "start": 44.187,
+       "end": 44.506
+      },
+      {
+       "w": "nine",
+       "start": 44.506,
+       "end": 44.824
+      },
+      {
+       "w": "trained",
+       "start": 44.824,
+       "end": 45.316
+      },
+      {
+       "w": "hikers",
+       "start": 45.316,
+       "end": 45.75
+      },
+      {
+       "w": "run",
+       "start": 45.75,
+       "end": 46.011
+      },
+      {
+       "w": "from",
+       "start": 46.011,
+       "end": 46.329
+      },
+      {
+       "w": "their",
+       "start": 46.329,
+       "end": 46.706
+      },
+      {
+       "w": "only",
+       "start": 46.706,
+       "end": 47.024
+      },
+      {
+       "w": "shelter,",
+       "start": 47.024,
+       "end": 47.516
+      },
+      {
+       "w": "in",
+       "start": 47.876,
+       "end": 48.069
+      },
+      {
+       "w": "the",
+       "start": 48.069,
+       "end": 48.317
+      },
+      {
+       "w": "dark,",
+       "start": 48.317,
+       "end": 48.62
+      },
+      {
+       "w": "without",
+       "start": 49.029,
+       "end": 49.451
+      },
+      {
+       "w": "their",
+       "start": 49.451,
+       "end": 49.773
+      },
+      {
+       "w": "boots?",
+       "start": 49.773,
+       "end": 50.095
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "dyatlov/vo/line5.mp3",
+   "start": 50.491,
+   "dur": 12.199,
+   "sentences": [
+    {
+     "text": "When they don't return, a search team climbs the mountain.",
+     "start": 50.491,
+     "end": 53.606,
+     "words": [
+      {
+       "w": "When",
+       "start": 50.491,
+       "end": 50.757
+      },
+      {
+       "w": "they",
+       "start": 50.757,
+       "end": 51.024
+      },
+      {
+       "w": "don't",
+       "start": 51.024,
+       "end": 51.29
+      },
+      {
+       "w": "return,",
+       "start": 51.29,
+       "end": 51.654
+      },
+      {
+       "w": "a",
+       "start": 51.923,
+       "end": 52.037
+      },
+      {
+       "w": "search",
+       "start": 52.037,
+       "end": 52.378
+      },
+      {
+       "w": "team",
+       "start": 52.378,
+       "end": 52.628
+      },
+      {
+       "w": "climbs",
+       "start": 52.628,
+       "end": 52.969
+      },
+      {
+       "w": "the",
+       "start": 52.969,
+       "end": 53.174
+      },
+      {
+       "w": "mountain.",
+       "start": 53.174,
+       "end": 53.606
+      }
+     ]
+    },
+    {
+     "text": "On February twenty-sixth, they find the tent.",
+     "start": 54.286,
+     "end": 58.717,
+     "words": [
+      {
+       "w": "On",
+       "start": 54.286,
+       "end": 54.486
+      },
+      {
+       "w": "February",
+       "start": 54.486,
+       "end": 55.031
+      },
+      {
+       "w": "twenty-sixth,",
+       "start": 55.031,
+       "end": 55.747
+      },
+      {
+       "w": "they",
+       "start": 55.955,
+       "end": 56.679
+      },
+      {
+       "w": "find",
+       "start": 56.679,
+       "end": 57.402
+      },
+      {
+       "w": "the",
+       "start": 57.402,
+       "end": 57.994
+      },
+      {
+       "w": "tent.",
+       "start": 57.994,
+       "end": 58.717
+      }
+     ]
+    },
+    {
+     "text": "Half buried in snow.",
+     "start": 59.809,
+     "end": 60.926,
+     "words": [
+      {
+       "w": "Half",
+       "start": 59.809,
+       "end": 60.088
+      },
+      {
+       "w": "buried",
+       "start": 60.088,
+       "end": 60.469
+      },
+      {
+       "w": "in",
+       "start": 60.469,
+       "end": 60.646
+      },
+      {
+       "w": "snow.",
+       "start": 60.646,
+       "end": 60.926
+      }
+     ]
+    },
+    {
+     "text": "And slashed open from the inside.",
+     "start": 61.45,
+     "end": 62.415,
+     "words": [
+      {
+       "w": "And",
+       "start": 61.45,
+       "end": 61.571
+      },
+      {
+       "w": "slashed",
+       "start": 61.571,
+       "end": 61.799
+      },
+      {
+       "w": "open",
+       "start": 61.799,
+       "end": 61.946
+      },
+      {
+       "w": "from",
+       "start": 61.946,
+       "end": 62.094
+      },
+      {
+       "w": "the",
+       "start": 62.094,
+       "end": 62.214
+      },
+      {
+       "w": "inside.",
+       "start": 62.214,
+       "end": 62.415
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "dyatlov/vo/line6.mp3",
+   "start": 62.89,
+   "dur": 12.121,
+   "sentences": [
+    {
+     "text": "Boots, coats and food are all left behind.",
+     "start": 62.89,
+     "end": 66.098,
+     "words": [
+      {
+       "w": "Boots,",
+       "start": 62.89,
+       "end": 63.414
+      },
+      {
+       "w": "coats",
+       "start": 63.58,
+       "end": 64.006
+      },
+      {
+       "w": "and",
+       "start": 64.006,
+       "end": 64.3
+      },
+      {
+       "w": "food",
+       "start": 64.3,
+       "end": 64.66
+      },
+      {
+       "w": "are",
+       "start": 64.66,
+       "end": 64.954
+      },
+      {
+       "w": "all",
+       "start": 64.954,
+       "end": 65.248
+      },
+      {
+       "w": "left",
+       "start": 65.248,
+       "end": 65.608
+      },
+      {
+       "w": "behind.",
+       "start": 65.608,
+       "end": 66.098
+      }
+     ]
+    },
+    {
+     "text": "Outside, footprints.",
+     "start": 66.641,
+     "end": 67.228,
+     "words": [
+      {
+       "w": "Outside,",
+       "start": 66.641,
+       "end": 66.891
+      },
+      {
+       "w": "footprints.",
+       "start": 66.891,
+       "end": 67.228
+      }
+     ]
+    },
+    {
+     "text": "Some in socks.",
+     "start": 67.589,
+     "end": 68.264,
+     "words": [
+      {
+       "w": "Some",
+       "start": 67.589,
+       "end": 67.828
+      },
+      {
+       "w": "in",
+       "start": 67.828,
+       "end": 67.981
+      },
+      {
+       "w": "socks.",
+       "start": 67.981,
+       "end": 68.264
+      }
+     ]
+    },
+    {
+     "text": "Some barefoot.",
+     "start": 68.664,
+     "end": 70.61,
+     "words": [
+      {
+       "w": "Some",
+       "start": 68.664,
+       "end": 69.377
+      },
+      {
+       "w": "barefoot.",
+       "start": 69.377,
+       "end": 70.61
+      }
+     ]
+    },
+    {
+     "text": "All walking calmly downhill, toward the forest a mile away.",
+     "start": 71.05,
+     "end": 74.739,
+     "words": [
+      {
+       "w": "All",
+       "start": 71.05,
+       "end": 71.326
+      },
+      {
+       "w": "walking",
+       "start": 71.326,
+       "end": 71.847
+      },
+      {
+       "w": "calmly",
+       "start": 71.847,
+       "end": 72.306
+      },
+      {
+       "w": "downhill,",
+       "start": 72.306,
+       "end": 72.887
+      },
+      {
+       "w": "toward",
+       "start": 73.06,
+       "end": 73.442
+      },
+      {
+       "w": "the",
+       "start": 73.442,
+       "end": 73.671
+      },
+      {
+       "w": "forest",
+       "start": 73.671,
+       "end": 74.052
+      },
+      {
+       "w": "a",
+       "start": 74.052,
+       "end": 74.18
+      },
+      {
+       "w": "mile",
+       "start": 74.18,
+       "end": 74.459
+      },
+      {
+       "w": "away.",
+       "start": 74.459,
+       "end": 74.739
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "dyatlov/vo/line7.mp3",
+   "start": 75.211,
+   "dur": 9.326,
+   "sentences": [
+    {
+     "text": "At the edge of the trees, under a tall cedar, searchers find the first two hikers, beside the ashes of a small fire.",
+     "start": 75.211,
+     "end": 82.815,
+     "words": [
+      {
+       "w": "At",
+       "start": 75.211,
+       "end": 75.425
+      },
+      {
+       "w": "the",
+       "start": 75.425,
+       "end": 75.699
+      },
+      {
+       "w": "edge",
+       "start": 75.699,
+       "end": 76.035
+      },
+      {
+       "w": "of",
+       "start": 76.035,
+       "end": 76.249
+      },
+      {
+       "w": "the",
+       "start": 76.249,
+       "end": 76.524
+      },
+      {
+       "w": "trees,",
+       "start": 76.524,
+       "end": 76.921
+      },
+      {
+       "w": "under",
+       "start": 76.921,
+       "end": 77.264
+      },
+      {
+       "w": "a",
+       "start": 77.264,
+       "end": 77.396
+      },
+      {
+       "w": "tall",
+       "start": 77.396,
+       "end": 77.686
+      },
+      {
+       "w": "cedar,",
+       "start": 77.686,
+       "end": 78.029
+      },
+      {
+       "w": "searchers",
+       "start": 78.417,
+       "end": 78.985
+      },
+      {
+       "w": "find",
+       "start": 78.985,
+       "end": 79.282
+      },
+      {
+       "w": "the",
+       "start": 79.282,
+       "end": 79.525
+      },
+      {
+       "w": "first",
+       "start": 79.525,
+       "end": 79.876
+      },
+      {
+       "w": "two",
+       "start": 79.876,
+       "end": 80.119
+      },
+      {
+       "w": "hikers,",
+       "start": 80.119,
+       "end": 80.525
+      },
+      {
+       "w": "beside",
+       "start": 80.9,
+       "end": 81.293
+      },
+      {
+       "w": "the",
+       "start": 81.293,
+       "end": 81.529
+      },
+      {
+       "w": "ashes",
+       "start": 81.529,
+       "end": 81.87
+      },
+      {
+       "w": "of",
+       "start": 81.87,
+       "end": 82.054
+      },
+      {
+       "w": "a",
+       "start": 82.054,
+       "end": 82.185
+      },
+      {
+       "w": "small",
+       "start": 82.185,
+       "end": 82.526
+      },
+      {
+       "w": "fire.",
+       "start": 82.526,
+       "end": 82.815
+      }
+     ]
+    },
+    {
+     "text": "Barely dressed.",
+     "start": 83.39,
+     "end": 84.537,
+     "words": [
+      {
+       "w": "Barely",
+       "start": 83.39,
+       "end": 83.928
+      },
+      {
+       "w": "dressed.",
+       "start": 83.928,
+       "end": 84.537
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "dyatlov/vo/line8.mp3",
+   "start": 84.737,
+   "dur": 5.564,
+   "sentences": [
+    {
+     "text": "Three more lie on the slope between the cedar and the tent.",
+     "start": 84.737,
+     "end": 87.976,
+     "words": [
+      {
+       "w": "Three",
+       "start": 84.737,
+       "end": 85.06
+      },
+      {
+       "w": "more",
+       "start": 85.06,
+       "end": 85.335
+      },
+      {
+       "w": "lie",
+       "start": 85.335,
+       "end": 85.559
+      },
+      {
+       "w": "on",
+       "start": 85.559,
+       "end": 85.733
+      },
+      {
+       "w": "the",
+       "start": 85.733,
+       "end": 85.958
+      },
+      {
+       "w": "slope",
+       "start": 85.958,
+       "end": 86.281
+      },
+      {
+       "w": "between",
+       "start": 86.281,
+       "end": 86.705
+      },
+      {
+       "w": "the",
+       "start": 86.705,
+       "end": 86.929
+      },
+      {
+       "w": "cedar",
+       "start": 86.929,
+       "end": 87.253
+      },
+      {
+       "w": "and",
+       "start": 87.253,
+       "end": 87.478
+      },
+      {
+       "w": "the",
+       "start": 87.478,
+       "end": 87.702
+      },
+      {
+       "w": "tent.",
+       "start": 87.702,
+       "end": 87.976
+      }
+     ]
+    },
+    {
+     "text": "They died trying to get back.",
+     "start": 88.503,
+     "end": 90.086,
+     "words": [
+      {
+       "w": "They",
+       "start": 88.503,
+       "end": 88.775
+      },
+      {
+       "w": "died",
+       "start": 88.775,
+       "end": 89.047
+      },
+      {
+       "w": "trying",
+       "start": 89.047,
+       "end": 89.418
+      },
+      {
+       "w": "to",
+       "start": 89.418,
+       "end": 89.591
+      },
+      {
+       "w": "get",
+       "start": 89.591,
+       "end": 89.814
+      },
+      {
+       "w": "back.",
+       "start": 89.814,
+       "end": 90.086
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "dyatlov/vo/line9.mp3",
+   "start": 90.501,
+   "dur": 7.314,
+   "sentences": [
+    {
+     "text": "But the last four weren't found until May.",
+     "start": 90.501,
+     "end": 93.027,
+     "words": [
+      {
+       "w": "But",
+       "start": 90.501,
+       "end": 90.753
+      },
+      {
+       "w": "the",
+       "start": 90.753,
+       "end": 91.006
+      },
+      {
+       "w": "last",
+       "start": 91.006,
+       "end": 91.315
+      },
+      {
+       "w": "four",
+       "start": 91.315,
+       "end": 91.624
+      },
+      {
+       "w": "weren't",
+       "start": 91.624,
+       "end": 92.045
+      },
+      {
+       "w": "found",
+       "start": 92.045,
+       "end": 92.41
+      },
+      {
+       "w": "until",
+       "start": 92.41,
+       "end": 92.775
+      },
+      {
+       "w": "May.",
+       "start": 92.775,
+       "end": 93.027
+      }
+     ]
+    },
+    {
+     "text": "And what investigators saw made this case famous.",
+     "start": 93.862,
+     "end": 97.63,
+     "words": [
+      {
+       "w": "And",
+       "start": 93.862,
+       "end": 94.182
+      },
+      {
+       "w": "what",
+       "start": 94.182,
+       "end": 94.573
+      },
+      {
+       "w": "investigators",
+       "start": 94.573,
+       "end": 95.604
+      },
+      {
+       "w": "saw",
+       "start": 95.604,
+       "end": 95.924
+      },
+      {
+       "w": "made",
+       "start": 95.924,
+       "end": 96.315
+      },
+      {
+       "w": "this",
+       "start": 96.315,
+       "end": 96.706
+      },
+      {
+       "w": "case",
+       "start": 96.706,
+       "end": 97.097
+      },
+      {
+       "w": "famous.",
+       "start": 97.097,
+       "end": 97.63
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "dyatlov/vo/line10.mp3",
+   "start": 98.015,
+   "dur": 11.886,
+   "sentences": [
+    {
+     "text": "Buried deep in a snowy ravine, they had crushing injuries.",
+     "start": 98.015,
+     "end": 102.038,
+     "words": [
+      {
+       "w": "Buried",
+       "start": 98.015,
+       "end": 98.507
+      },
+      {
+       "w": "deep",
+       "start": 98.507,
+       "end": 98.867
+      },
+      {
+       "w": "in",
+       "start": 98.867,
+       "end": 99.097
+      },
+      {
+       "w": "a",
+       "start": 99.097,
+       "end": 99.261
+      },
+      {
+       "w": "snowy",
+       "start": 99.261,
+       "end": 99.687
+      },
+      {
+       "w": "ravine,",
+       "start": 99.687,
+       "end": 100.179
+      },
+      {
+       "w": "they",
+       "start": 100.471,
+       "end": 100.768
+      },
+      {
+       "w": "had",
+       "start": 100.768,
+       "end": 101.012
+      },
+      {
+       "w": "crushing",
+       "start": 101.012,
+       "end": 101.525
+      },
+      {
+       "w": "injuries.",
+       "start": 101.525,
+       "end": 102.038
+      }
+     ]
+    },
+    {
+     "text": "Broken ribs.",
+     "start": 102.617,
+     "end": 103.499,
+     "words": [
+      {
+       "w": "Broken",
+       "start": 102.617,
+       "end": 103.126
+      },
+      {
+       "w": "ribs.",
+       "start": 103.126,
+       "end": 103.499
+      }
+     ]
+    },
+    {
+     "text": "A fractured skull.",
+     "start": 103.818,
+     "end": 105.009,
+     "words": [
+      {
+       "w": "A",
+       "start": 103.818,
+       "end": 103.971
+      },
+      {
+       "w": "fractured",
+       "start": 103.971,
+       "end": 104.612
+      },
+      {
+       "w": "skull.",
+       "start": 104.612,
+       "end": 105.009
+      }
+     ]
+    },
+    {
+     "text": "Force like a car crash, yet almost no wounds on the skin.",
+     "start": 105.44,
+     "end": 109.661,
+     "words": [
+      {
+       "w": "Force",
+       "start": 105.44,
+       "end": 105.879
+      },
+      {
+       "w": "like",
+       "start": 105.879,
+       "end": 106.251
+      },
+      {
+       "w": "a",
+       "start": 106.251,
+       "end": 106.42
+      },
+      {
+       "w": "car",
+       "start": 106.42,
+       "end": 106.724
+      },
+      {
+       "w": "crash,",
+       "start": 106.724,
+       "end": 107.164
+      },
+      {
+       "w": "yet",
+       "start": 107.629,
+       "end": 107.879
+      },
+      {
+       "w": "almost",
+       "start": 107.879,
+       "end": 108.297
+      },
+      {
+       "w": "no",
+       "start": 108.297,
+       "end": 108.492
+      },
+      {
+       "w": "wounds",
+       "start": 108.492,
+       "end": 108.909
+      },
+      {
+       "w": "on",
+       "start": 108.909,
+       "end": 109.104
+      },
+      {
+       "w": "the",
+       "start": 109.104,
+       "end": 109.354
+      },
+      {
+       "w": "skin.",
+       "start": 109.354,
+       "end": 109.661
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "dyatlov/vo/line11.mp3",
+   "start": 110.101,
+   "dur": 3.553,
+   "sentences": [
+    {
+     "text": "And some of their clothing tested positive for radiation.",
+     "start": 110.101,
+     "end": 113.653,
+     "words": [
+      {
+       "w": "And",
+       "start": 110.101,
+       "end": 110.361
+      },
+      {
+       "w": "some",
+       "start": 110.361,
+       "end": 110.678
+      },
+      {
+       "w": "of",
+       "start": 110.678,
+       "end": 110.88
+      },
+      {
+       "w": "their",
+       "start": 110.88,
+       "end": 111.256
+      },
+      {
+       "w": "clothing",
+       "start": 111.256,
+       "end": 111.805
+      },
+      {
+       "w": "tested",
+       "start": 111.805,
+       "end": 112.238
+      },
+      {
+       "w": "positive",
+       "start": 112.238,
+       "end": 112.787
+      },
+      {
+       "w": "for",
+       "start": 112.787,
+       "end": 113.047
+      },
+      {
+       "w": "radiation.",
+       "start": 113.047,
+       "end": 113.653
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "dyatlov/vo/line12.mp3",
+   "start": 113.853,
+   "dur": 11.807,
+   "sentences": [
+    {
+     "text": "The Soviet investigators closed the case with one strange line.",
+     "start": 113.853,
+     "end": 117.852,
+     "words": [
+      {
+       "w": "The",
+       "start": 113.853,
+       "end": 114.118
+      },
+      {
+       "w": "Soviet",
+       "start": 114.118,
+       "end": 114.559
+      },
+      {
+       "w": "investigators",
+       "start": 114.559,
+       "end": 115.412
+      },
+      {
+       "w": "closed",
+       "start": 115.412,
+       "end": 115.853
+      },
+      {
+       "w": "the",
+       "start": 115.853,
+       "end": 116.117
+      },
+      {
+       "w": "case",
+       "start": 116.117,
+       "end": 116.441
+      },
+      {
+       "w": "with",
+       "start": 116.441,
+       "end": 116.764
+      },
+      {
+       "w": "one",
+       "start": 116.764,
+       "end": 117.029
+      },
+      {
+       "w": "strange",
+       "start": 117.029,
+       "end": 117.528
+      },
+      {
+       "w": "line.",
+       "start": 117.528,
+       "end": 117.852
+      }
+     ]
+    },
+    {
+     "text": "The hikers died from a compelling natural force.",
+     "start": 118.497,
+     "end": 121.898,
+     "words": [
+      {
+       "w": "The",
+       "start": 118.497,
+       "end": 118.791
+      },
+      {
+       "w": "hikers",
+       "start": 118.791,
+       "end": 119.282
+      },
+      {
+       "w": "died",
+       "start": 119.282,
+       "end": 119.642
+      },
+      {
+       "w": "from",
+       "start": 119.642,
+       "end": 120.001
+      },
+      {
+       "w": "a",
+       "start": 120.001,
+       "end": 120.165
+      },
+      {
+       "w": "compelling",
+       "start": 120.165,
+       "end": 120.917
+      },
+      {
+       "w": "natural",
+       "start": 120.917,
+       "end": 121.473
+      },
+      {
+       "w": "force.",
+       "start": 121.473,
+       "end": 121.898
+      }
+     ]
+    },
+    {
+     "text": "Then the files were locked away.",
+     "start": 123.417,
+     "end": 125.365,
+     "words": [
+      {
+       "w": "Then",
+       "start": 123.417,
+       "end": 123.723
+      },
+      {
+       "w": "the",
+       "start": 123.723,
+       "end": 123.973
+      },
+      {
+       "w": "files",
+       "start": 123.973,
+       "end": 124.335
+      },
+      {
+       "w": "were",
+       "start": 124.335,
+       "end": 124.641
+      },
+      {
+       "w": "locked",
+       "start": 124.641,
+       "end": 125.059
+      },
+      {
+       "w": "away.",
+       "start": 125.059,
+       "end": 125.365
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "dyatlov/vo/line13.mp3",
+   "start": 125.861,
+   "dur": 7.471,
+   "sentences": [
+    {
+     "text": "For decades, people blamed everything.",
+     "start": 125.861,
+     "end": 128.409,
+     "words": [
+      {
+       "w": "For",
+       "start": 125.861,
+       "end": 126.151
+      },
+      {
+       "w": "decades,",
+       "start": 126.151,
+       "end": 126.699
+      },
+      {
+       "w": "people",
+       "start": 126.699,
+       "end": 127.183
+      },
+      {
+       "w": "blamed",
+       "start": 127.183,
+       "end": 127.667
+      },
+      {
+       "w": "everything.",
+       "start": 127.667,
+       "end": 128.409
+      }
+     ]
+    },
+    {
+     "text": "Secret weapon tests.",
+     "start": 128.859,
+     "end": 130.141,
+     "words": [
+      {
+       "w": "Secret",
+       "start": 128.859,
+       "end": 129.306
+      },
+      {
+       "w": "weapon",
+       "start": 129.306,
+       "end": 129.754
+      },
+      {
+       "w": "tests.",
+       "start": 129.754,
+       "end": 130.141
+      }
+     ]
+    },
+    {
+     "text": "Strange lights in the sky.",
+     "start": 130.387,
+     "end": 131.775,
+     "words": [
+      {
+       "w": "Strange",
+       "start": 130.387,
+       "end": 130.801
+      },
+      {
+       "w": "lights",
+       "start": 130.801,
+       "end": 131.166
+      },
+      {
+       "w": "in",
+       "start": 131.166,
+       "end": 131.337
+      },
+      {
+       "w": "the",
+       "start": 131.337,
+       "end": 131.556
+      },
+      {
+       "w": "sky.",
+       "start": 131.556,
+       "end": 131.775
+      }
+     ]
+    },
+    {
+     "text": "Even the Yeti.",
+     "start": 132.246,
+     "end": 133.14,
+     "words": [
+      {
+       "w": "Even",
+       "start": 132.246,
+       "end": 132.563
+      },
+      {
+       "w": "the",
+       "start": 132.563,
+       "end": 132.823
+      },
+      {
+       "w": "Yeti.",
+       "start": 132.823,
+       "end": 133.14
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "dyatlov/vo/line14.mp3",
+   "start": 133.532,
+   "dur": 21.081,
+   "sentences": [
+    {
+     "text": "Then in 2021, Swiss scientists ran computer models and found a likely answer.",
+     "start": 133.532,
+     "end": 139.359,
+     "words": [
+      {
+       "w": "Then",
+       "start": 133.532,
+       "end": 134.152
+      },
+      {
+       "w": "in",
+       "start": 134.152,
+       "end": 134.548
+      },
+      {
+       "w": "2021,",
+       "start": 134.548,
+       "end": 135.168
+      },
+      {
+       "w": "Swiss",
+       "start": 135.484,
+       "end": 135.854
+      },
+      {
+       "w": "scientists",
+       "start": 135.854,
+       "end": 136.51
+      },
+      {
+       "w": "ran",
+       "start": 136.51,
+       "end": 136.766
+      },
+      {
+       "w": "computer",
+       "start": 136.766,
+       "end": 137.307
+      },
+      {
+       "w": "models",
+       "start": 137.307,
+       "end": 137.735
+      },
+      {
+       "w": "and",
+       "start": 137.735,
+       "end": 137.991
+      },
+      {
+       "w": "found",
+       "start": 137.991,
+       "end": 138.362
+      },
+      {
+       "w": "a",
+       "start": 138.362,
+       "end": 138.504
+      },
+      {
+       "w": "likely",
+       "start": 138.504,
+       "end": 138.932
+      },
+      {
+       "w": "answer.",
+       "start": 138.932,
+       "end": 139.359
+      }
+     ]
+    },
+    {
+     "text": "Wind had piled heavy snow above the tent, and a small slab avalanche broke loose.",
+     "start": 139.892,
+     "end": 145.338,
+     "words": [
+      {
+       "w": "Wind",
+       "start": 139.892,
+       "end": 140.229
+      },
+      {
+       "w": "had",
+       "start": 140.229,
+       "end": 140.505
+      },
+      {
+       "w": "piled",
+       "start": 140.505,
+       "end": 140.903
+      },
+      {
+       "w": "heavy",
+       "start": 140.903,
+       "end": 141.302
+      },
+      {
+       "w": "snow",
+       "start": 141.302,
+       "end": 141.639
+      },
+      {
+       "w": "above",
+       "start": 141.639,
+       "end": 142.037
+      },
+      {
+       "w": "the",
+       "start": 142.037,
+       "end": 142.313
+      },
+      {
+       "w": "tent,",
+       "start": 142.313,
+       "end": 142.65
+      },
+      {
+       "w": "and",
+       "start": 142.966,
+       "end": 143.217
+      },
+      {
+       "w": "a",
+       "start": 143.217,
+       "end": 143.356
+      },
+      {
+       "w": "small",
+       "start": 143.356,
+       "end": 143.719
+      },
+      {
+       "w": "slab",
+       "start": 143.719,
+       "end": 144.026
+      },
+      {
+       "w": "avalanche",
+       "start": 144.026,
+       "end": 144.612
+      },
+      {
+       "w": "broke",
+       "start": 144.612,
+       "end": 144.975
+      },
+      {
+       "w": "loose.",
+       "start": 144.975,
+       "end": 145.338
+      }
+     ]
+    },
+    {
+     "text": "Small enough to leave few traces.",
+     "start": 145.793,
+     "end": 147.805,
+     "words": [
+      {
+       "w": "Small",
+       "start": 145.793,
+       "end": 146.156
+      },
+      {
+       "w": "enough",
+       "start": 146.156,
+       "end": 146.575
+      },
+      {
+       "w": "to",
+       "start": 146.575,
+       "end": 146.771
+      },
+      {
+       "w": "leave",
+       "start": 146.771,
+       "end": 147.134
+      },
+      {
+       "w": "few",
+       "start": 147.134,
+       "end": 147.385
+      },
+      {
+       "w": "traces.",
+       "start": 147.385,
+       "end": 147.805
+      }
+     ]
+    },
+    {
+     "text": "Heavy enough to crush.",
+     "start": 148.256,
+     "end": 149.705,
+     "words": [
+      {
+       "w": "Heavy",
+       "start": 148.256,
+       "end": 148.648
+      },
+      {
+       "w": "enough",
+       "start": 148.648,
+       "end": 149.101
+      },
+      {
+       "w": "to",
+       "start": 149.101,
+       "end": 149.313
+      },
+      {
+       "w": "crush.",
+       "start": 149.313,
+       "end": 149.705
+      }
+     ]
+    },
+    {
+     "text": "The hikers fled, expecting worse.",
+     "start": 150.19,
+     "end": 152.445,
+     "words": [
+      {
+       "w": "The",
+       "start": 150.19,
+       "end": 150.437
+      },
+      {
+       "w": "hikers",
+       "start": 150.437,
+       "end": 150.848
+      },
+      {
+       "w": "fled,",
+       "start": 150.848,
+       "end": 151.149
+      },
+      {
+       "w": "expecting",
+       "start": 151.407,
+       "end": 152.048
+      },
+      {
+       "w": "worse.",
+       "start": 152.048,
+       "end": 152.445
+      }
+     ]
+    },
+    {
+     "text": "The cold did the rest.",
+     "start": 153.139,
+     "end": 154.389,
+     "words": [
+      {
+       "w": "The",
+       "start": 153.139,
+       "end": 153.368
+      },
+      {
+       "w": "cold",
+       "start": 153.368,
+       "end": 153.649
+      },
+      {
+       "w": "did",
+       "start": 153.649,
+       "end": 153.878
+      },
+      {
+       "w": "the",
+       "start": 153.878,
+       "end": 154.108
+      },
+      {
+       "w": "rest.",
+       "start": 154.108,
+       "end": 154.389
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "dyatlov/vo/line15.mp3",
+   "start": 154.812,
+   "dur": 17.162,
+   "sentences": [
+    {
+     "text": "Today, that slope is called Dyatlov Pass.",
+     "start": 154.812,
+     "end": 157.812,
+     "words": [
+      {
+       "w": "Today,",
+       "start": 154.812,
+       "end": 155.304
+      },
+      {
+       "w": "that",
+       "start": 155.476,
+       "end": 155.823
+      },
+      {
+       "w": "slope",
+       "start": 155.823,
+       "end": 156.234
+      },
+      {
+       "w": "is",
+       "start": 156.234,
+       "end": 156.455
+      },
+      {
+       "w": "called",
+       "start": 156.455,
+       "end": 156.928
+      },
+      {
+       "w": "Dyatlov",
+       "start": 156.928,
+       "end": 157.465
+      },
+      {
+       "w": "Pass.",
+       "start": 157.465,
+       "end": 157.812
+      }
+     ]
+    },
+    {
+     "text": "But not everyone believes the snow did it.",
+     "start": 158.283,
+     "end": 160.39,
+     "words": [
+      {
+       "w": "But",
+       "start": 158.283,
+       "end": 158.489
+      },
+      {
+       "w": "not",
+       "start": 158.489,
+       "end": 158.695
+      },
+      {
+       "w": "everyone",
+       "start": 158.695,
+       "end": 159.13
+      },
+      {
+       "w": "believes",
+       "start": 159.13,
+       "end": 159.565
+      },
+      {
+       "w": "the",
+       "start": 159.565,
+       "end": 159.772
+      },
+      {
+       "w": "snow",
+       "start": 159.772,
+       "end": 160.023
+      },
+      {
+       "w": "did",
+       "start": 160.023,
+       "end": 160.229
+      },
+      {
+       "w": "it.",
+       "start": 160.229,
+       "end": 160.39
+      }
+     ]
+    },
+    {
+     "text": "What do you think?",
+     "start": 160.935,
+     "end": 161.591,
+     "words": [
+      {
+       "w": "What",
+       "start": 160.935,
+       "end": 161.115
+      },
+      {
+       "w": "do",
+       "start": 161.115,
+       "end": 161.23
+      },
+      {
+       "w": "you",
+       "start": 161.23,
+       "end": 161.378
+      },
+      {
+       "w": "think?",
+       "start": 161.378,
+       "end": 161.591
+      }
+     ]
+    },
+    {
+     "text": "And if you love mysteries that never quite close, watch the ghost ship with no one on board, and the freighter that vanished on Lake Superior, both on this channel.",
+     "start": 162.199,
+     "end": 171.779,
+     "words": [
+      {
+       "w": "And",
+       "start": 162.199,
+       "end": 162.437
+      },
+      {
+       "w": "if",
+       "start": 162.437,
+       "end": 162.622
+      },
+      {
+       "w": "you",
+       "start": 162.622,
+       "end": 162.86
+      },
+      {
+       "w": "love",
+       "start": 162.86,
+       "end": 163.151
+      },
+      {
+       "w": "mysteries",
+       "start": 163.151,
+       "end": 163.707
+      },
+      {
+       "w": "that",
+       "start": 163.707,
+       "end": 163.998
+      },
+      {
+       "w": "never",
+       "start": 163.998,
+       "end": 164.341
+      },
+      {
+       "w": "quite",
+       "start": 164.341,
+       "end": 164.685
+      },
+      {
+       "w": "close,",
+       "start": 164.685,
+       "end": 165.029
+      },
+      {
+       "w": "watch",
+       "start": 165.359,
+       "end": 165.677
+      },
+      {
+       "w": "the",
+       "start": 165.677,
+       "end": 165.897
+      },
+      {
+       "w": "ghost",
+       "start": 165.897,
+       "end": 166.215
+      },
+      {
+       "w": "ship",
+       "start": 166.215,
+       "end": 166.484
+      },
+      {
+       "w": "with",
+       "start": 166.484,
+       "end": 166.753
+      },
+      {
+       "w": "no",
+       "start": 166.753,
+       "end": 166.924
+      },
+      {
+       "w": "one",
+       "start": 166.924,
+       "end": 167.145
+      },
+      {
+       "w": "on",
+       "start": 167.145,
+       "end": 167.316
+      },
+      {
+       "w": "board,",
+       "start": 167.316,
+       "end": 167.634
+      },
+      {
+       "w": "and",
+       "start": 167.881,
+       "end": 168.098
+      },
+      {
+       "w": "the",
+       "start": 168.098,
+       "end": 168.315
+      },
+      {
+       "w": "freighter",
+       "start": 168.315,
+       "end": 168.822
+      },
+      {
+       "w": "that",
+       "start": 168.822,
+       "end": 169.087
+      },
+      {
+       "w": "vanished",
+       "start": 169.087,
+       "end": 169.545
+      },
+      {
+       "w": "on",
+       "start": 169.545,
+       "end": 169.714
+      },
+      {
+       "w": "Lake",
+       "start": 169.714,
+       "end": 169.979
+      },
+      {
+       "w": "Superior,",
+       "start": 169.979,
+       "end": 170.437
+      },
+      {
+       "w": "both",
+       "start": 170.659,
+       "end": 170.927
+      },
+      {
+       "w": "on",
+       "start": 170.927,
+       "end": 171.097
+      },
+      {
+       "w": "this",
+       "start": 171.097,
+       "end": 171.365
+      },
+      {
+       "w": "channel.",
+       "start": 171.365,
+       "end": 171.779
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
