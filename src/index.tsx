@@ -6,6 +6,7 @@ import {Fitz, T as fitz} from './fitz/Video';
 import {Coffee, T as coffee} from './coffee/Video';
 import {Dyatlov, T as dyatlov} from './dyatlov/Video';
 import {Alcatraz, T as alcatraz} from './alcatraz/Video';
+import {Economist, T as economist} from './economist/Video';
 import {Kemper, T as kemper} from './kemper/Video';
 import {FPS, H, TOTAL_FRAMES, W} from './lib';
 import {Short} from './Video';
@@ -17,6 +18,7 @@ const Root: React.FC = () => (
     <Composition id="Kemper" component={Kemper} durationInFrames={kemper.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Celeste" component={Celeste} durationInFrames={celeste.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Fitz" component={Fitz} durationInFrames={fitz.totalFrames} fps={FPS} width={W} height={H} />
+    <Composition id="Economist" component={Economist} durationInFrames={economist.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Alcatraz" component={Alcatraz} durationInFrames={alcatraz.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Dyatlov" component={Dyatlov} durationInFrames={dyatlov.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Coffee" component={Coffee} durationInFrames={coffee.totalFrames} fps={FPS} width={W} height={H} />
