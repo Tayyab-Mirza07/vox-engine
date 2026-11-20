@@ -1,0 +1,8389 @@
+{
+ "total": 555.245,
+ "lines": [
+  {
+   "index": 0,
+   "file": "cooperlong/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 12.878,
+   "sentences": [
+    {
+     "text": "Ten thousand feet above the forests of Washington State, a quiet man in a dark suit stepped out of the back of a passenger jet, into the night.",
+     "start": 0.25,
+     "end": 8.917,
+     "words": [
+      {
+       "w": "Ten",
+       "start": 0.25,
+       "end": 0.484
+      },
+      {
+       "w": "thousand",
+       "start": 0.484,
+       "end": 0.977
+      },
+      {
+       "w": "feet",
+       "start": 0.977,
+       "end": 1.263
+      },
+      {
+       "w": "above",
+       "start": 1.263,
+       "end": 1.6
+      },
+      {
+       "w": "the",
+       "start": 1.6,
+       "end": 1.834
+      },
+      {
+       "w": "forests",
+       "start": 1.834,
+       "end": 2.275
+      },
+      {
+       "w": "of",
+       "start": 2.275,
+       "end": 2.457
+      },
+      {
+       "w": "Washington",
+       "start": 2.457,
+       "end": 3.054
+      },
+      {
+       "w": "State,",
+       "start": 3.054,
+       "end": 3.391
+      },
+      {
+       "w": "a",
+       "start": 3.804,
+       "end": 3.926
+      },
+      {
+       "w": "quiet",
+       "start": 3.926,
+       "end": 4.242
+      },
+      {
+       "w": "man",
+       "start": 4.242,
+       "end": 4.461
+      },
+      {
+       "w": "in",
+       "start": 4.461,
+       "end": 4.631
+      },
+      {
+       "w": "a",
+       "start": 4.631,
+       "end": 4.753
+      },
+      {
+       "w": "dark",
+       "start": 4.753,
+       "end": 5.02
+      },
+      {
+       "w": "suit",
+       "start": 5.02,
+       "end": 5.288
+      },
+      {
+       "w": "stepped",
+       "start": 5.288,
+       "end": 5.702
+      },
+      {
+       "w": "out",
+       "start": 5.702,
+       "end": 5.92
+      },
+      {
+       "w": "of",
+       "start": 5.92,
+       "end": 6.091
+      },
+      {
+       "w": "the",
+       "start": 6.091,
+       "end": 6.31
+      },
+      {
+       "w": "back",
+       "start": 6.31,
+       "end": 6.577
+      },
+      {
+       "w": "of",
+       "start": 6.577,
+       "end": 6.748
+      },
+      {
+       "w": "a",
+       "start": 6.748,
+       "end": 6.869
+      },
+      {
+       "w": "passenger",
+       "start": 6.869,
+       "end": 7.38
+      },
+      {
+       "w": "jet,",
+       "start": 7.38,
+       "end": 7.599
+      },
+      {
+       "w": "into",
+       "start": 8.207,
+       "end": 8.443
+      },
+      {
+       "w": "the",
+       "start": 8.443,
+       "end": 8.637
+      },
+      {
+       "w": "night.",
+       "start": 8.637,
+       "end": 8.917
+      }
+     ]
+    },
+    {
+     "text": "It was the night before Thanksgiving, 1971.",
+     "start": 9.524,
+     "end": 12.715,
+     "words": [
+      {
+       "w": "It",
+       "start": 9.524,
+       "end": 9.673
+      },
+      {
+       "w": "was",
+       "start": 9.673,
+       "end": 9.864
+      },
+      {
+       "w": "the",
+       "start": 9.864,
+       "end": 10.055
+      },
+      {
+       "w": "night",
+       "start": 10.055,
+       "end": 10.332
+      },
+      {
+       "w": "before",
+       "start": 10.332,
+       "end": 10.651
+      },
+      {
+       "w": "Thanksgiving,",
+       "start": 10.651,
+       "end": 11.226
+      },
+      {
+       "w": "1971.",
+       "start": 11.465,
+       "end": 12.715
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "cooperlong/vo/line1.mp3",
+   "start": 13.478,
+   "dur": 9.43,
+   "sentences": [
+    {
+     "text": "It was pitch black.",
+     "start": 13.478,
+     "end": 14.801,
+     "words": [
+      {
+       "w": "It",
+       "start": 13.478,
+       "end": 13.699
+      },
+      {
+       "w": "was",
+       "start": 13.699,
+       "end": 13.982
+      },
+      {
+       "w": "pitch",
+       "start": 13.982,
+       "end": 14.392
+      },
+      {
+       "w": "black.",
+       "start": 14.392,
+       "end": 14.801
+      }
+     ]
+    },
+    {
+     "text": "It was raining.",
+     "start": 15.299,
+     "end": 16.059,
+     "words": [
+      {
+       "w": "It",
+       "start": 15.299,
+       "end": 15.46
+      },
+      {
+       "w": "was",
+       "start": 15.46,
+       "end": 15.667
+      },
+      {
+       "w": "raining.",
+       "start": 15.667,
+       "end": 16.059
+      }
+     ]
+    },
+    {
+     "text": "He was wearing loafers.",
+     "start": 16.562,
+     "end": 17.908,
+     "words": [
+      {
+       "w": "He",
+       "start": 16.562,
+       "end": 16.751
+      },
+      {
+       "w": "was",
+       "start": 16.751,
+       "end": 16.993
+      },
+      {
+       "w": "wearing",
+       "start": 16.993,
+       "end": 17.45
+      },
+      {
+       "w": "loafers.",
+       "start": 17.45,
+       "end": 17.908
+      }
+     ]
+    },
+    {
+     "text": "And strapped to his body was two hundred thousand dollars in cash.",
+     "start": 18.352,
+     "end": 22.654,
+     "words": [
+      {
+       "w": "And",
+       "start": 18.352,
+       "end": 18.621
+      },
+      {
+       "w": "strapped",
+       "start": 18.621,
+       "end": 19.188
+      },
+      {
+       "w": "to",
+       "start": 19.188,
+       "end": 19.397
+      },
+      {
+       "w": "his",
+       "start": 19.397,
+       "end": 19.666
+      },
+      {
+       "w": "body",
+       "start": 19.666,
+       "end": 19.995
+      },
+      {
+       "w": "was",
+       "start": 19.995,
+       "end": 20.264
+      },
+      {
+       "w": "two",
+       "start": 20.264,
+       "end": 20.533
+      },
+      {
+       "w": "hundred",
+       "start": 20.533,
+       "end": 21.041
+      },
+      {
+       "w": "thousand",
+       "start": 21.041,
+       "end": 21.608
+      },
+      {
+       "w": "dollars",
+       "start": 21.608,
+       "end": 22.116
+      },
+      {
+       "w": "in",
+       "start": 22.116,
+       "end": 22.326
+      },
+      {
+       "w": "cash.",
+       "start": 22.326,
+       "end": 22.654
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "cooperlong/vo/line2.mp3",
+   "start": 23.259,
+   "dur": 11.52,
+   "sentences": [
+    {
+     "text": "He had just pulled off the only unsolved airline hijacking in American history.",
+     "start": 23.259,
+     "end": 28.045,
+     "words": [
+      {
+       "w": "He",
+       "start": 23.259,
+       "end": 23.455
+      },
+      {
+       "w": "had",
+       "start": 23.455,
+       "end": 23.706
+      },
+      {
+       "w": "just",
+       "start": 23.706,
+       "end": 24.014
+      },
+      {
+       "w": "pulled",
+       "start": 24.014,
+       "end": 24.434
+      },
+      {
+       "w": "off",
+       "start": 24.434,
+       "end": 24.686
+      },
+      {
+       "w": "the",
+       "start": 24.686,
+       "end": 24.938
+      },
+      {
+       "w": "only",
+       "start": 24.938,
+       "end": 25.246
+      },
+      {
+       "w": "unsolved",
+       "start": 25.246,
+       "end": 25.778
+      },
+      {
+       "w": "airline",
+       "start": 25.778,
+       "end": 26.254
+      },
+      {
+       "w": "hijacking",
+       "start": 26.254,
+       "end": 26.842
+      },
+      {
+       "w": "in",
+       "start": 26.842,
+       "end": 27.038
+      },
+      {
+       "w": "American",
+       "start": 27.038,
+       "end": 27.569
+      },
+      {
+       "w": "history.",
+       "start": 27.569,
+       "end": 28.045
+      }
+     ]
+    },
+    {
+     "text": "And then he vanished.",
+     "start": 28.596,
+     "end": 30.363,
+     "words": [
+      {
+       "w": "And",
+       "start": 28.596,
+       "end": 28.941
+      },
+      {
+       "w": "then",
+       "start": 28.941,
+       "end": 29.364
+      },
+      {
+       "w": "he",
+       "start": 29.364,
+       "end": 29.633
+      },
+      {
+       "w": "vanished.",
+       "start": 29.633,
+       "end": 30.363
+      }
+     ]
+    },
+    {
+     "text": "No body.",
+     "start": 30.848,
+     "end": 31.515,
+     "words": [
+      {
+       "w": "No",
+       "start": 30.848,
+       "end": 31.107
+      },
+      {
+       "w": "body.",
+       "start": 31.107,
+       "end": 31.515
+      }
+     ]
+    },
+    {
+     "text": "No parachute.",
+     "start": 31.871,
+     "end": 32.677,
+     "words": [
+      {
+       "w": "No",
+       "start": 31.871,
+       "end": 32.072
+      },
+      {
+       "w": "parachute.",
+       "start": 32.072,
+       "end": 32.677
+      }
+     ]
+    },
+    {
+     "text": "Not even his real name.",
+     "start": 33.095,
+     "end": 34.521,
+     "words": [
+      {
+       "w": "Not",
+       "start": 33.095,
+       "end": 33.346
+      },
+      {
+       "w": "even",
+       "start": 33.346,
+       "end": 33.654
+      },
+      {
+       "w": "his",
+       "start": 33.654,
+       "end": 33.906
+      },
+      {
+       "w": "real",
+       "start": 33.906,
+       "end": 34.213
+      },
+      {
+       "w": "name.",
+       "start": 34.213,
+       "end": 34.521
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "cooperlong/vo/line3.mp3",
+   "start": 35.129,
+   "dur": 8.803,
+   "sentences": [
+    {
+     "text": "For more than fifty years, the FBI has asked one question.",
+     "start": 35.129,
+     "end": 39.198,
+     "words": [
+      {
+       "w": "For",
+       "start": 35.129,
+       "end": 35.374
+      },
+      {
+       "w": "more",
+       "start": 35.374,
+       "end": 35.674
+      },
+      {
+       "w": "than",
+       "start": 35.674,
+       "end": 35.974
+      },
+      {
+       "w": "fifty",
+       "start": 35.974,
+       "end": 36.328
+      },
+      {
+       "w": "years,",
+       "start": 36.328,
+       "end": 36.682
+      },
+      {
+       "w": "the",
+       "start": 36.879,
+       "end": 37.186
+      },
+      {
+       "w": "FBI",
+       "start": 37.186,
+       "end": 37.493
+      },
+      {
+       "w": "has",
+       "start": 37.493,
+       "end": 37.8
+      },
+      {
+       "w": "asked",
+       "start": 37.8,
+       "end": 38.243
+      },
+      {
+       "w": "one",
+       "start": 38.243,
+       "end": 38.55
+      },
+      {
+       "w": "question.",
+       "start": 38.55,
+       "end": 39.198
+      }
+     ]
+    },
+    {
+     "text": "Who was D.",
+     "start": 39.746,
+     "end": 41.194,
+     "words": [
+      {
+       "w": "Who",
+       "start": 39.746,
+       "end": 40.313
+      },
+      {
+       "w": "was",
+       "start": 40.313,
+       "end": 40.879
+      },
+      {
+       "w": "D.",
+       "start": 40.879,
+       "end": 41.194
+      }
+     ]
+    },
+    {
+     "text": "B. Cooper?",
+     "start": 41.817,
+     "end": 42.205,
+     "words": [
+      {
+       "w": "B.",
+       "start": 41.817,
+       "end": 41.914
+      },
+      {
+       "w": "Cooper?",
+       "start": 41.914,
+       "end": 42.205
+      }
+     ]
+    },
+    {
+     "text": "And did he survive the jump?",
+     "start": 42.416,
+     "end": 43.932,
+     "words": [
+      {
+       "w": "And",
+       "start": 42.416,
+       "end": 42.636
+      },
+      {
+       "w": "did",
+       "start": 42.636,
+       "end": 42.856
+      },
+      {
+       "w": "he",
+       "start": 42.856,
+       "end": 43.027
+      },
+      {
+       "w": "survive",
+       "start": 43.027,
+       "end": 43.443
+      },
+      {
+       "w": "the",
+       "start": 43.443,
+       "end": 43.663
+      },
+      {
+       "w": "jump?",
+       "start": 43.663,
+       "end": 43.932
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "cooperlong/vo/line4.mp3",
+   "start": 44.282,
+   "dur": 13.767,
+   "sentences": [
+    {
+     "text": "November 24th, 1971.",
+     "start": 44.282,
+     "end": 46.914,
+     "words": [
+      {
+       "w": "November",
+       "start": 44.282,
+       "end": 45.502
+      },
+      {
+       "w": "24th,",
+       "start": 45.502,
+       "end": 46.208
+      },
+      {
+       "w": "1971.",
+       "start": 46.208,
+       "end": 46.914
+      }
+     ]
+    },
+    {
+     "text": "Portland International Airport.",
+     "start": 47.41,
+     "end": 48.998,
+     "words": [
+      {
+       "w": "Portland",
+       "start": 47.41,
+       "end": 47.874
+      },
+      {
+       "w": "International",
+       "start": 47.874,
+       "end": 48.583
+      },
+      {
+       "w": "Airport.",
+       "start": 48.583,
+       "end": 48.998
+      }
+     ]
+    },
+    {
+     "text": "A man walks up to the Northwest Orient Airlines counter and pays cash for a one-way ticket to Seattle.",
+     "start": 49.618,
+     "end": 55.195,
+     "words": [
+      {
+       "w": "A",
+       "start": 49.618,
+       "end": 49.745
+      },
+      {
+       "w": "man",
+       "start": 49.745,
+       "end": 49.972
+      },
+      {
+       "w": "walks",
+       "start": 49.972,
+       "end": 50.3
+      },
+      {
+       "w": "up",
+       "start": 50.3,
+       "end": 50.476
+      },
+      {
+       "w": "to",
+       "start": 50.476,
+       "end": 50.653
+      },
+      {
+       "w": "the",
+       "start": 50.653,
+       "end": 50.88
+      },
+      {
+       "w": "Northwest",
+       "start": 50.88,
+       "end": 51.41
+      },
+      {
+       "w": "Orient",
+       "start": 51.41,
+       "end": 51.788
+      },
+      {
+       "w": "Airlines",
+       "start": 51.788,
+       "end": 52.268
+      },
+      {
+       "w": "counter",
+       "start": 52.268,
+       "end": 52.697
+      },
+      {
+       "w": "and",
+       "start": 52.697,
+       "end": 52.924
+      },
+      {
+       "w": "pays",
+       "start": 52.924,
+       "end": 53.202
+      },
+      {
+       "w": "cash",
+       "start": 53.202,
+       "end": 53.479
+      },
+      {
+       "w": "for",
+       "start": 53.479,
+       "end": 53.706
+      },
+      {
+       "w": "a",
+       "start": 53.706,
+       "end": 53.832
+      },
+      {
+       "w": "one-way",
+       "start": 53.832,
+       "end": 54.211
+      },
+      {
+       "w": "ticket",
+       "start": 54.211,
+       "end": 54.589
+      },
+      {
+       "w": "to",
+       "start": 54.589,
+       "end": 54.766
+      },
+      {
+       "w": "Seattle.",
+       "start": 54.766,
+       "end": 55.195
+      }
+     ]
+    },
+    {
+     "text": "The name he gives is Dan Cooper.",
+     "start": 55.753,
+     "end": 57.795,
+     "words": [
+      {
+       "w": "The",
+       "start": 55.753,
+       "end": 56.012
+      },
+      {
+       "w": "name",
+       "start": 56.012,
+       "end": 56.328
+      },
+      {
+       "w": "he",
+       "start": 56.328,
+       "end": 56.529
+      },
+      {
+       "w": "gives",
+       "start": 56.529,
+       "end": 56.903
+      },
+      {
+       "w": "is",
+       "start": 56.903,
+       "end": 57.105
+      },
+      {
+       "w": "Dan",
+       "start": 57.105,
+       "end": 57.363
+      },
+      {
+       "w": "Cooper.",
+       "start": 57.363,
+       "end": 57.795
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "cooperlong/vo/line5.mp3",
+   "start": 58.398,
+   "dur": 10.214,
+   "sentences": [
+    {
+     "text": "He looks completely forgettable.",
+     "start": 58.398,
+     "end": 60.249,
+     "words": [
+      {
+       "w": "He",
+       "start": 58.398,
+       "end": 58.589
+      },
+      {
+       "w": "looks",
+       "start": 58.589,
+       "end": 58.943
+      },
+      {
+       "w": "completely",
+       "start": 58.943,
+       "end": 59.569
+      },
+      {
+       "w": "forgettable.",
+       "start": 59.569,
+       "end": 60.249
+      }
+     ]
+    },
+    {
+     "text": "Mid-forties.",
+     "start": 60.796,
+     "end": 61.644,
+     "words": [
+      {
+       "w": "Mid-forties.",
+       "start": 60.796,
+       "end": 61.644
+      }
+     ]
+    },
+    {
+     "text": "Dark suit.",
+     "start": 62.027,
+     "end": 62.643,
+     "words": [
+      {
+       "w": "Dark",
+       "start": 62.027,
+       "end": 62.335
+      },
+      {
+       "w": "suit.",
+       "start": 62.335,
+       "end": 62.643
+      }
+     ]
+    },
+    {
+     "text": "White shirt.",
+     "start": 63.039,
+     "end": 63.676,
+     "words": [
+      {
+       "w": "White",
+       "start": 63.039,
+       "end": 63.358
+      },
+      {
+       "w": "shirt.",
+       "start": 63.358,
+       "end": 63.676
+      }
+     ]
+    },
+    {
+     "text": "Thin black tie.",
+     "start": 64.018,
+     "end": 65.093,
+     "words": [
+      {
+       "w": "Thin",
+       "start": 64.018,
+       "end": 64.376
+      },
+      {
+       "w": "black",
+       "start": 64.376,
+       "end": 64.8
+      },
+      {
+       "w": "tie.",
+       "start": 64.8,
+       "end": 65.093
+      }
+     ]
+    },
+    {
+     "text": "A raincoat over his arm, and a briefcase in his hand.",
+     "start": 65.45,
+     "end": 68.333,
+     "words": [
+      {
+       "w": "A",
+       "start": 65.45,
+       "end": 65.575
+      },
+      {
+       "w": "raincoat",
+       "start": 65.575,
+       "end": 66.051
+      },
+      {
+       "w": "over",
+       "start": 66.051,
+       "end": 66.327
+      },
+      {
+       "w": "his",
+       "start": 66.327,
+       "end": 66.553
+      },
+      {
+       "w": "arm,",
+       "start": 66.553,
+       "end": 66.779
+      },
+      {
+       "w": "and",
+       "start": 66.779,
+       "end": 67.004
+      },
+      {
+       "w": "a",
+       "start": 67.004,
+       "end": 67.13
+      },
+      {
+       "w": "briefcase",
+       "start": 67.13,
+       "end": 67.656
+      },
+      {
+       "w": "in",
+       "start": 67.656,
+       "end": 67.832
+      },
+      {
+       "w": "his",
+       "start": 67.832,
+       "end": 68.057
+      },
+      {
+       "w": "hand.",
+       "start": 68.057,
+       "end": 68.333
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "cooperlong/vo/line6.mp3",
+   "start": 68.962,
+   "dur": 10.789,
+   "sentences": [
+    {
+     "text": "Flight 305 is a short, thirty-minute hop.",
+     "start": 68.962,
+     "end": 71.767,
+     "words": [
+      {
+       "w": "Flight",
+       "start": 68.962,
+       "end": 69.363
+      },
+      {
+       "w": "305",
+       "start": 69.363,
+       "end": 70.031
+      },
+      {
+       "w": "is",
+       "start": 70.031,
+       "end": 70.218
+      },
+      {
+       "w": "a",
+       "start": 70.218,
+       "end": 70.352
+      },
+      {
+       "w": "short,",
+       "start": 70.352,
+       "end": 70.699
+      },
+      {
+       "w": "thirty-minute",
+       "start": 70.864,
+       "end": 71.541
+      },
+      {
+       "w": "hop.",
+       "start": 71.541,
+       "end": 71.767
+      }
+     ]
+    },
+    {
+     "text": "Thirty-six passengers.",
+     "start": 72.21,
+     "end": 73.464,
+     "words": [
+      {
+       "w": "Thirty-six",
+       "start": 72.21,
+       "end": 72.809
+      },
+      {
+       "w": "passengers.",
+       "start": 72.809,
+       "end": 73.464
+      }
+     ]
+    },
+    {
+     "text": "Six crew.",
+     "start": 73.752,
+     "end": 74.411,
+     "words": [
+      {
+       "w": "Six",
+       "start": 73.752,
+       "end": 74.049
+      },
+      {
+       "w": "crew.",
+       "start": 74.049,
+       "end": 74.411
+      }
+     ]
+    },
+    {
+     "text": "Cooper takes a seat near the back, lights a cigarette, and orders a bourbon and soda.",
+     "start": 74.993,
+     "end": 79.538,
+     "words": [
+      {
+       "w": "Cooper",
+       "start": 74.993,
+       "end": 75.31
+      },
+      {
+       "w": "takes",
+       "start": 75.31,
+       "end": 75.585
+      },
+      {
+       "w": "a",
+       "start": 75.585,
+       "end": 75.691
+      },
+      {
+       "w": "seat",
+       "start": 75.691,
+       "end": 75.923
+      },
+      {
+       "w": "near",
+       "start": 75.923,
+       "end": 76.156
+      },
+      {
+       "w": "the",
+       "start": 76.156,
+       "end": 76.346
+      },
+      {
+       "w": "back,",
+       "start": 76.346,
+       "end": 76.578
+      },
+      {
+       "w": "lights",
+       "start": 76.876,
+       "end": 77.166
+      },
+      {
+       "w": "a",
+       "start": 77.166,
+       "end": 77.262
+      },
+      {
+       "w": "cigarette,",
+       "start": 77.262,
+       "end": 77.668
+      },
+      {
+       "w": "and",
+       "start": 77.982,
+       "end": 78.195
+      },
+      {
+       "w": "orders",
+       "start": 78.195,
+       "end": 78.548
+      },
+      {
+       "w": "a",
+       "start": 78.548,
+       "end": 78.666
+      },
+      {
+       "w": "bourbon",
+       "start": 78.666,
+       "end": 79.067
+      },
+      {
+       "w": "and",
+       "start": 79.067,
+       "end": 79.279
+      },
+      {
+       "w": "soda.",
+       "start": 79.279,
+       "end": 79.538
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "cooperlong/vo/line7.mp3",
+   "start": 80.101,
+   "dur": 11.912,
+   "sentences": [
+    {
+     "text": "Then, just after takeoff, he hands a note to a flight attendant named Florence Schaffner.",
+     "start": 80.101,
+     "end": 85.233,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 80.101,
+       "end": 80.541
+      },
+      {
+       "w": "just",
+       "start": 80.704,
+       "end": 81.018
+      },
+      {
+       "w": "after",
+       "start": 81.018,
+       "end": 81.39
+      },
+      {
+       "w": "takeoff,",
+       "start": 81.39,
+       "end": 81.877
+      },
+      {
+       "w": "he",
+       "start": 82.124,
+       "end": 82.283
+      },
+      {
+       "w": "hands",
+       "start": 82.283,
+       "end": 82.578
+      },
+      {
+       "w": "a",
+       "start": 82.578,
+       "end": 82.692
+      },
+      {
+       "w": "note",
+       "start": 82.692,
+       "end": 82.941
+      },
+      {
+       "w": "to",
+       "start": 82.941,
+       "end": 83.1
+      },
+      {
+       "w": "a",
+       "start": 83.1,
+       "end": 83.214
+      },
+      {
+       "w": "flight",
+       "start": 83.214,
+       "end": 83.554
+      },
+      {
+       "w": "attendant",
+       "start": 83.554,
+       "end": 84.031
+      },
+      {
+       "w": "named",
+       "start": 84.031,
+       "end": 84.326
+      },
+      {
+       "w": "Florence",
+       "start": 84.326,
+       "end": 84.757
+      },
+      {
+       "w": "Schaffner.",
+       "start": 84.757,
+       "end": 85.233
+      }
+     ]
+    },
+    {
+     "text": "She assumes he's a lonely businessman asking for her number.",
+     "start": 85.769,
+     "end": 88.94,
+     "words": [
+      {
+       "w": "She",
+       "start": 85.769,
+       "end": 85.992
+      },
+      {
+       "w": "assumes",
+       "start": 85.992,
+       "end": 86.414
+      },
+      {
+       "w": "he's",
+       "start": 86.414,
+       "end": 86.636
+      },
+      {
+       "w": "a",
+       "start": 86.636,
+       "end": 86.76
+      },
+      {
+       "w": "lonely",
+       "start": 86.76,
+       "end": 87.132
+      },
+      {
+       "w": "businessman",
+       "start": 87.132,
+       "end": 87.751
+      },
+      {
+       "w": "asking",
+       "start": 87.751,
+       "end": 88.123
+      },
+      {
+       "w": "for",
+       "start": 88.123,
+       "end": 88.346
+      },
+      {
+       "w": "her",
+       "start": 88.346,
+       "end": 88.569
+      },
+      {
+       "w": "number.",
+       "start": 88.569,
+       "end": 88.94
+      }
+     ]
+    },
+    {
+     "text": "She slips it into her pocket without reading it.",
+     "start": 89.484,
+     "end": 91.809,
+     "words": [
+      {
+       "w": "She",
+       "start": 89.484,
+       "end": 89.683
+      },
+      {
+       "w": "slips",
+       "start": 89.683,
+       "end": 89.971
+      },
+      {
+       "w": "it",
+       "start": 89.971,
+       "end": 90.126
+      },
+      {
+       "w": "into",
+       "start": 90.126,
+       "end": 90.37
+      },
+      {
+       "w": "her",
+       "start": 90.37,
+       "end": 90.569
+      },
+      {
+       "w": "pocket",
+       "start": 90.569,
+       "end": 90.901
+      },
+      {
+       "w": "without",
+       "start": 90.901,
+       "end": 91.278
+      },
+      {
+       "w": "reading",
+       "start": 91.278,
+       "end": 91.654
+      },
+      {
+       "w": "it.",
+       "start": 91.654,
+       "end": 91.809
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "cooperlong/vo/line8.mp3",
+   "start": 92.363,
+   "dur": 6.609,
+   "sentences": [
+    {
+     "text": "Cooper leans in.",
+     "start": 92.363,
+     "end": 93.482,
+     "words": [
+      {
+       "w": "Cooper",
+       "start": 92.363,
+       "end": 92.842
+      },
+      {
+       "w": "leans",
+       "start": 92.842,
+       "end": 93.258
+      },
+      {
+       "w": "in.",
+       "start": 93.258,
+       "end": 93.482
+      }
+     ]
+    },
+    {
+     "text": "Miss, he says quietly, you'd better look at that note.",
+     "start": 93.973,
+     "end": 97.401,
+     "words": [
+      {
+       "w": "Miss,",
+       "start": 93.973,
+       "end": 94.424
+      },
+      {
+       "w": "he",
+       "start": 94.798,
+       "end": 94.976
+      },
+      {
+       "w": "says",
+       "start": 94.976,
+       "end": 95.256
+      },
+      {
+       "w": "quietly,",
+       "start": 95.256,
+       "end": 95.689
+      },
+      {
+       "w": "you'd",
+       "start": 96.143,
+       "end": 96.353
+      },
+      {
+       "w": "better",
+       "start": 96.353,
+       "end": 96.639
+      },
+      {
+       "w": "look",
+       "start": 96.639,
+       "end": 96.849
+      },
+      {
+       "w": "at",
+       "start": 96.849,
+       "end": 96.982
+      },
+      {
+       "w": "that",
+       "start": 96.982,
+       "end": 97.192
+      },
+      {
+       "w": "note.",
+       "start": 97.192,
+       "end": 97.401
+      }
+     ]
+    },
+    {
+     "text": "I have a bomb.",
+     "start": 97.831,
+     "end": 98.768,
+     "words": [
+      {
+       "w": "I",
+       "start": 97.831,
+       "end": 97.977
+      },
+      {
+       "w": "have",
+       "start": 97.977,
+       "end": 98.299
+      },
+      {
+       "w": "a",
+       "start": 98.299,
+       "end": 98.446
+      },
+      {
+       "w": "bomb.",
+       "start": 98.446,
+       "end": 98.768
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "cooperlong/vo/line9.mp3",
+   "start": 99.322,
+   "dur": 7.184,
+   "sentences": [
+    {
+     "text": "He cracks open the briefcase just enough for her to see inside.",
+     "start": 99.322,
+     "end": 102.632,
+     "words": [
+      {
+       "w": "He",
+       "start": 99.322,
+       "end": 99.49
+      },
+      {
+       "w": "cracks",
+       "start": 99.49,
+       "end": 99.849
+      },
+      {
+       "w": "open",
+       "start": 99.849,
+       "end": 100.113
+      },
+      {
+       "w": "the",
+       "start": 100.113,
+       "end": 100.329
+      },
+      {
+       "w": "briefcase",
+       "start": 100.329,
+       "end": 100.833
+      },
+      {
+       "w": "just",
+       "start": 100.833,
+       "end": 101.097
+      },
+      {
+       "w": "enough",
+       "start": 101.097,
+       "end": 101.456
+      },
+      {
+       "w": "for",
+       "start": 101.456,
+       "end": 101.672
+      },
+      {
+       "w": "her",
+       "start": 101.672,
+       "end": 101.888
+      },
+      {
+       "w": "to",
+       "start": 101.888,
+       "end": 102.056
+      },
+      {
+       "w": "see",
+       "start": 102.056,
+       "end": 102.272
+      },
+      {
+       "w": "inside.",
+       "start": 102.272,
+       "end": 102.632
+      }
+     ]
+    },
+    {
+     "text": "Red cylinders.",
+     "start": 103.207,
+     "end": 104.229,
+     "words": [
+      {
+       "w": "Red",
+       "start": 103.207,
+       "end": 103.514
+      },
+      {
+       "w": "cylinders.",
+       "start": 103.514,
+       "end": 104.229
+      }
+     ]
+    },
+    {
+     "text": "Wires.",
+     "start": 104.65,
+     "end": 105.269,
+     "words": [
+      {
+       "w": "Wires.",
+       "start": 104.65,
+       "end": 105.269
+      }
+     ]
+    },
+    {
+     "text": "A battery.",
+     "start": 105.668,
+     "end": 106.505,
+     "words": [
+      {
+       "w": "A",
+       "start": 105.668,
+       "end": 105.858
+      },
+      {
+       "w": "battery.",
+       "start": 105.858,
+       "end": 106.505
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "cooperlong/vo/line10.mp3",
+   "start": 106.855,
+   "dur": 12.408,
+   "sentences": [
+    {
+     "text": "His demands are simple, and strangely precise.",
+     "start": 106.855,
+     "end": 109.978,
+     "words": [
+      {
+       "w": "His",
+       "start": 106.855,
+       "end": 107.083
+      },
+      {
+       "w": "demands",
+       "start": 107.083,
+       "end": 107.514
+      },
+      {
+       "w": "are",
+       "start": 107.514,
+       "end": 107.742
+      },
+      {
+       "w": "simple,",
+       "start": 107.742,
+       "end": 108.123
+      },
+      {
+       "w": "and",
+       "start": 108.354,
+       "end": 108.665
+      },
+      {
+       "w": "strangely",
+       "start": 108.665,
+       "end": 109.391
+      },
+      {
+       "w": "precise.",
+       "start": 109.391,
+       "end": 109.978
+      }
+     ]
+    },
+    {
+     "text": "Two hundred thousand dollars in twenty-dollar bills.",
+     "start": 110.471,
+     "end": 113.144,
+     "words": [
+      {
+       "w": "Two",
+       "start": 110.471,
+       "end": 110.692
+      },
+      {
+       "w": "hundred",
+       "start": 110.692,
+       "end": 111.109
+      },
+      {
+       "w": "thousand",
+       "start": 111.109,
+       "end": 111.575
+      },
+      {
+       "w": "dollars",
+       "start": 111.575,
+       "end": 111.992
+      },
+      {
+       "w": "in",
+       "start": 111.992,
+       "end": 112.163
+      },
+      {
+       "w": "twenty-dollar",
+       "start": 112.163,
+       "end": 112.826
+      },
+      {
+       "w": "bills.",
+       "start": 112.826,
+       "end": 113.144
+      }
+     ]
+    },
+    {
+     "text": "Four parachutes.",
+     "start": 113.526,
+     "end": 114.627,
+     "words": [
+      {
+       "w": "Four",
+       "start": 113.526,
+       "end": 113.882
+      },
+      {
+       "w": "parachutes.",
+       "start": 113.882,
+       "end": 114.627
+      }
+     ]
+    },
+    {
+     "text": "And a fuel truck waiting in Seattle.",
+     "start": 114.935,
+     "end": 116.684,
+     "words": [
+      {
+       "w": "And",
+       "start": 114.935,
+       "end": 115.134
+      },
+      {
+       "w": "a",
+       "start": 115.134,
+       "end": 115.245
+      },
+      {
+       "w": "fuel",
+       "start": 115.245,
+       "end": 115.489
+      },
+      {
+       "w": "truck",
+       "start": 115.489,
+       "end": 115.776
+      },
+      {
+       "w": "waiting",
+       "start": 115.776,
+       "end": 116.153
+      },
+      {
+       "w": "in",
+       "start": 116.153,
+       "end": 116.308
+      },
+      {
+       "w": "Seattle.",
+       "start": 116.308,
+       "end": 116.684
+      }
+     ]
+    },
+    {
+     "text": "No funny stuff, he warns.",
+     "start": 117.118,
+     "end": 119.029,
+     "words": [
+      {
+       "w": "No",
+       "start": 117.118,
+       "end": 117.339
+      },
+      {
+       "w": "funny",
+       "start": 117.339,
+       "end": 117.75
+      },
+      {
+       "w": "stuff,",
+       "start": 117.75,
+       "end": 118.161
+      },
+      {
+       "w": "he",
+       "start": 118.464,
+       "end": 118.662
+      },
+      {
+       "w": "warns.",
+       "start": 118.662,
+       "end": 119.029
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "cooperlong/vo/line11.mp3",
+   "start": 119.613,
+   "dur": 6.609,
+   "sentences": [
+    {
+     "text": "But the strangest part wasn't the bomb.",
+     "start": 119.613,
+     "end": 121.803,
+     "words": [
+      {
+       "w": "But",
+       "start": 119.613,
+       "end": 119.851
+      },
+      {
+       "w": "the",
+       "start": 119.851,
+       "end": 120.088
+      },
+      {
+       "w": "strangest",
+       "start": 120.088,
+       "end": 120.642
+      },
+      {
+       "w": "part",
+       "start": 120.642,
+       "end": 120.932
+      },
+      {
+       "w": "wasn't",
+       "start": 120.932,
+       "end": 121.275
+      },
+      {
+       "w": "the",
+       "start": 121.275,
+       "end": 121.513
+      },
+      {
+       "w": "bomb.",
+       "start": 121.513,
+       "end": 121.803
+      }
+     ]
+    },
+    {
+     "text": "It was how calm he was, and how much he seemed to know.",
+     "start": 122.334,
+     "end": 125.986,
+     "words": [
+      {
+       "w": "It",
+       "start": 122.334,
+       "end": 122.537
+      },
+      {
+       "w": "was",
+       "start": 122.537,
+       "end": 122.797
+      },
+      {
+       "w": "how",
+       "start": 122.797,
+       "end": 123.057
+      },
+      {
+       "w": "calm",
+       "start": 123.057,
+       "end": 123.375
+      },
+      {
+       "w": "he",
+       "start": 123.375,
+       "end": 123.577
+      },
+      {
+       "w": "was,",
+       "start": 123.577,
+       "end": 123.838
+      },
+      {
+       "w": "and",
+       "start": 124.421,
+       "end": 124.625
+      },
+      {
+       "w": "how",
+       "start": 124.625,
+       "end": 124.829
+      },
+      {
+       "w": "much",
+       "start": 124.829,
+       "end": 125.079
+      },
+      {
+       "w": "he",
+       "start": 125.079,
+       "end": 125.238
+      },
+      {
+       "w": "seemed",
+       "start": 125.238,
+       "end": 125.578
+      },
+      {
+       "w": "to",
+       "start": 125.578,
+       "end": 125.737
+      },
+      {
+       "w": "know.",
+       "start": 125.737,
+       "end": 125.986
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "cooperlong/vo/line12.mp3",
+   "start": 126.572,
+   "dur": 11.729,
+   "sentences": [
+    {
+     "text": "The pilots circle above Seattle for nearly two hours while the FBI scrambles.",
+     "start": 126.572,
+     "end": 131.326,
+     "words": [
+      {
+       "w": "The",
+       "start": 126.572,
+       "end": 126.829
+      },
+      {
+       "w": "pilots",
+       "start": 126.829,
+       "end": 127.256
+      },
+      {
+       "w": "circle",
+       "start": 127.256,
+       "end": 127.682
+      },
+      {
+       "w": "above",
+       "start": 127.682,
+       "end": 128.052
+      },
+      {
+       "w": "Seattle",
+       "start": 128.052,
+       "end": 128.536
+      },
+      {
+       "w": "for",
+       "start": 128.536,
+       "end": 128.793
+      },
+      {
+       "w": "nearly",
+       "start": 128.793,
+       "end": 129.219
+      },
+      {
+       "w": "two",
+       "start": 129.219,
+       "end": 129.476
+      },
+      {
+       "w": "hours",
+       "start": 129.476,
+       "end": 129.846
+      },
+      {
+       "w": "while",
+       "start": 129.846,
+       "end": 130.216
+      },
+      {
+       "w": "the",
+       "start": 130.216,
+       "end": 130.472
+      },
+      {
+       "w": "FBI",
+       "start": 130.472,
+       "end": 130.728
+      },
+      {
+       "w": "scrambles.",
+       "start": 130.728,
+       "end": 131.326
+      }
+     ]
+    },
+    {
+     "text": "Inside the cabin, most passengers have no idea anything is wrong.",
+     "start": 131.83,
+     "end": 135.868,
+     "words": [
+      {
+       "w": "Inside",
+       "start": 131.83,
+       "end": 132.229
+      },
+      {
+       "w": "the",
+       "start": 132.229,
+       "end": 132.468
+      },
+      {
+       "w": "cabin,",
+       "start": 132.468,
+       "end": 132.814
+      },
+      {
+       "w": "most",
+       "start": 133.031,
+       "end": 133.337
+      },
+      {
+       "w": "passengers",
+       "start": 133.337,
+       "end": 133.976
+      },
+      {
+       "w": "have",
+       "start": 133.976,
+       "end": 134.282
+      },
+      {
+       "w": "no",
+       "start": 134.282,
+       "end": 134.477
+      },
+      {
+       "w": "idea",
+       "start": 134.477,
+       "end": 134.783
+      },
+      {
+       "w": "anything",
+       "start": 134.783,
+       "end": 135.311
+      },
+      {
+       "w": "is",
+       "start": 135.311,
+       "end": 135.506
+      },
+      {
+       "w": "wrong.",
+       "start": 135.506,
+       "end": 135.868
+      }
+     ]
+    },
+    {
+     "text": "They're told it's a mechanical delay.",
+     "start": 136.325,
+     "end": 138.039,
+     "words": [
+      {
+       "w": "They're",
+       "start": 136.325,
+       "end": 136.663
+      },
+      {
+       "w": "told",
+       "start": 136.663,
+       "end": 136.911
+      },
+      {
+       "w": "it's",
+       "start": 136.911,
+       "end": 137.114
+      },
+      {
+       "w": "a",
+       "start": 137.114,
+       "end": 137.227
+      },
+      {
+       "w": "mechanical",
+       "start": 137.227,
+       "end": 137.746
+      },
+      {
+       "w": "delay.",
+       "start": 137.746,
+       "end": 138.039
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "cooperlong/vo/line13.mp3",
+   "start": 138.651,
+   "dur": 12.852,
+   "sentences": [
+    {
+     "text": "Cooper stays calm.",
+     "start": 138.651,
+     "end": 139.878,
+     "words": [
+      {
+       "w": "Cooper",
+       "start": 138.651,
+       "end": 139.123
+      },
+      {
+       "w": "stays",
+       "start": 139.123,
+       "end": 139.532
+      },
+      {
+       "w": "calm.",
+       "start": 139.532,
+       "end": 139.878
+      }
+     ]
+    },
+    {
+     "text": "Polite, even.",
+     "start": 140.439,
+     "end": 141.236,
+     "words": [
+      {
+       "w": "Polite,",
+       "start": 140.439,
+       "end": 140.899
+      },
+      {
+       "w": "even.",
+       "start": 140.899,
+       "end": 141.236
+      }
+     ]
+    },
+    {
+     "text": "Looking out the window, he recognizes the ground below and casually mentions that McChord Air Force Base is about twenty minutes' drive from Tacoma.",
+     "start": 141.842,
+     "end": 149.68,
+     "words": [
+      {
+       "w": "Looking",
+       "start": 141.842,
+       "end": 142.195
+      },
+      {
+       "w": "out",
+       "start": 142.195,
+       "end": 142.382
+      },
+      {
+       "w": "the",
+       "start": 142.382,
+       "end": 142.569
+      },
+      {
+       "w": "window,",
+       "start": 142.569,
+       "end": 142.881
+      },
+      {
+       "w": "he",
+       "start": 143.114,
+       "end": 143.286
+      },
+      {
+       "w": "recognizes",
+       "start": 143.286,
+       "end": 143.854
+      },
+      {
+       "w": "the",
+       "start": 143.854,
+       "end": 144.076
+      },
+      {
+       "w": "ground",
+       "start": 144.076,
+       "end": 144.447
+      },
+      {
+       "w": "below",
+       "start": 144.447,
+       "end": 144.768
+      },
+      {
+       "w": "and",
+       "start": 144.768,
+       "end": 144.99
+      },
+      {
+       "w": "casually",
+       "start": 144.99,
+       "end": 145.459
+      },
+      {
+       "w": "mentions",
+       "start": 145.459,
+       "end": 145.928
+      },
+      {
+       "w": "that",
+       "start": 145.928,
+       "end": 146.199
+      },
+      {
+       "w": "McChord",
+       "start": 146.199,
+       "end": 146.619
+      },
+      {
+       "w": "Air",
+       "start": 146.619,
+       "end": 146.841
+      },
+      {
+       "w": "Force",
+       "start": 146.841,
+       "end": 147.162
+      },
+      {
+       "w": "Base",
+       "start": 147.162,
+       "end": 147.434
+      },
+      {
+       "w": "is",
+       "start": 147.434,
+       "end": 147.606
+      },
+      {
+       "w": "about",
+       "start": 147.606,
+       "end": 147.927
+      },
+      {
+       "w": "twenty",
+       "start": 147.927,
+       "end": 148.298
+      },
+      {
+       "w": "minutes'",
+       "start": 148.298,
+       "end": 148.717
+      },
+      {
+       "w": "drive",
+       "start": 148.717,
+       "end": 149.038
+      },
+      {
+       "w": "from",
+       "start": 149.038,
+       "end": 149.31
+      },
+      {
+       "w": "Tacoma.",
+       "start": 149.31,
+       "end": 149.68
+      }
+     ]
+    },
+    {
+     "text": "He knows this area.",
+     "start": 150.273,
+     "end": 151.227,
+     "words": [
+      {
+       "w": "He",
+       "start": 150.273,
+       "end": 150.432
+      },
+      {
+       "w": "knows",
+       "start": 150.432,
+       "end": 150.727
+      },
+      {
+       "w": "this",
+       "start": 150.727,
+       "end": 150.977
+      },
+      {
+       "w": "area.",
+       "start": 150.977,
+       "end": 151.227
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "cooperlong/vo/line14.mp3",
+   "start": 151.854,
+   "dur": 13.244,
+   "sentences": [
+    {
+     "text": "On the ground, the FBI does something clever.",
+     "start": 151.854,
+     "end": 154.619,
+     "words": [
+      {
+       "w": "On",
+       "start": 151.854,
+       "end": 152.022
+      },
+      {
+       "w": "the",
+       "start": 152.022,
+       "end": 152.238
+      },
+      {
+       "w": "ground,",
+       "start": 152.238,
+       "end": 152.598
+      },
+      {
+       "w": "the",
+       "start": 152.8,
+       "end": 153.052
+      },
+      {
+       "w": "FBI",
+       "start": 153.052,
+       "end": 153.304
+      },
+      {
+       "w": "does",
+       "start": 153.304,
+       "end": 153.612
+      },
+      {
+       "w": "something",
+       "start": 153.612,
+       "end": 154.2
+      },
+      {
+       "w": "clever.",
+       "start": 154.2,
+       "end": 154.619
+      }
+     ]
+    },
+    {
+     "text": "They gather ten thousand twenty-dollar bills, and they photograph every single one, recording each serial number.",
+     "start": 155.183,
+     "end": 161.786,
+     "words": [
+      {
+       "w": "They",
+       "start": 155.183,
+       "end": 155.491
+      },
+      {
+       "w": "gather",
+       "start": 155.491,
+       "end": 155.911
+      },
+      {
+       "w": "ten",
+       "start": 155.911,
+       "end": 156.163
+      },
+      {
+       "w": "thousand",
+       "start": 156.163,
+       "end": 156.694
+      },
+      {
+       "w": "twenty-dollar",
+       "start": 156.694,
+       "end": 157.449
+      },
+      {
+       "w": "bills,",
+       "start": 157.449,
+       "end": 157.813
+      },
+      {
+       "w": "and",
+       "start": 157.813,
+       "end": 158.049
+      },
+      {
+       "w": "they",
+       "start": 158.049,
+       "end": 158.337
+      },
+      {
+       "w": "photograph",
+       "start": 158.337,
+       "end": 158.941
+      },
+      {
+       "w": "every",
+       "start": 158.941,
+       "end": 159.281
+      },
+      {
+       "w": "single",
+       "start": 159.281,
+       "end": 159.675
+      },
+      {
+       "w": "one,",
+       "start": 159.675,
+       "end": 159.911
+      },
+      {
+       "w": "recording",
+       "start": 160.186,
+       "end": 160.728
+      },
+      {
+       "w": "each",
+       "start": 160.728,
+       "end": 161.011
+      },
+      {
+       "w": "serial",
+       "start": 161.011,
+       "end": 161.398
+      },
+      {
+       "w": "number.",
+       "start": 161.398,
+       "end": 161.786
+      }
+     ]
+    },
+    {
+     "text": "If Cooper ever spends that money, they'll know.",
+     "start": 162.292,
+     "end": 164.881,
+     "words": [
+      {
+       "w": "If",
+       "start": 162.292,
+       "end": 162.459
+      },
+      {
+       "w": "Cooper",
+       "start": 162.459,
+       "end": 162.817
+      },
+      {
+       "w": "ever",
+       "start": 162.817,
+       "end": 163.08
+      },
+      {
+       "w": "spends",
+       "start": 163.08,
+       "end": 163.439
+      },
+      {
+       "w": "that",
+       "start": 163.439,
+       "end": 163.702
+      },
+      {
+       "w": "money,",
+       "start": 163.702,
+       "end": 164.012
+      },
+      {
+       "w": "they'll",
+       "start": 164.337,
+       "end": 164.651
+      },
+      {
+       "w": "know.",
+       "start": 164.651,
+       "end": 164.881
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "cooperlong/vo/line15.mp3",
+   "start": 165.448,
+   "dur": 15.543,
+   "sentences": [
+    {
+     "text": "At 5:39 PM, the plane finally lands.",
+     "start": 165.448,
+     "end": 168.877,
+     "words": [
+      {
+       "w": "At",
+       "start": 165.448,
+       "end": 165.928
+      },
+      {
+       "w": "5:39",
+       "start": 165.928,
+       "end": 166.546
+      },
+      {
+       "w": "PM,",
+       "start": 166.546,
+       "end": 167.027
+      },
+      {
+       "w": "the",
+       "start": 167.239,
+       "end": 167.522
+      },
+      {
+       "w": "plane",
+       "start": 167.522,
+       "end": 167.932
+      },
+      {
+       "w": "finally",
+       "start": 167.932,
+       "end": 168.468
+      },
+      {
+       "w": "lands.",
+       "start": 168.468,
+       "end": 168.877
+      }
+     ]
+    },
+    {
+     "text": "The cash and the parachutes are brought aboard.",
+     "start": 169.387,
+     "end": 171.667,
+     "words": [
+      {
+       "w": "The",
+       "start": 169.387,
+       "end": 169.588
+      },
+      {
+       "w": "cash",
+       "start": 169.588,
+       "end": 169.834
+      },
+      {
+       "w": "and",
+       "start": 169.834,
+       "end": 170.035
+      },
+      {
+       "w": "the",
+       "start": 170.035,
+       "end": 170.236
+      },
+      {
+       "w": "parachutes",
+       "start": 170.236,
+       "end": 170.75
+      },
+      {
+       "w": "are",
+       "start": 170.75,
+       "end": 170.952
+      },
+      {
+       "w": "brought",
+       "start": 170.952,
+       "end": 171.332
+      },
+      {
+       "w": "aboard.",
+       "start": 171.332,
+       "end": 171.667
+      }
+     ]
+    },
+    {
+     "text": "Cooper keeps his word and lets all thirty-six passengers walk off.",
+     "start": 172.178,
+     "end": 176.066,
+     "words": [
+      {
+       "w": "Cooper",
+       "start": 172.178,
+       "end": 172.592
+      },
+      {
+       "w": "keeps",
+       "start": 172.592,
+       "end": 172.95
+      },
+      {
+       "w": "his",
+       "start": 172.95,
+       "end": 173.198
+      },
+      {
+       "w": "word",
+       "start": 173.198,
+       "end": 173.502
+      },
+      {
+       "w": "and",
+       "start": 173.502,
+       "end": 173.75
+      },
+      {
+       "w": "lets",
+       "start": 173.75,
+       "end": 174.053
+      },
+      {
+       "w": "all",
+       "start": 174.053,
+       "end": 174.301
+      },
+      {
+       "w": "thirty-six",
+       "start": 174.301,
+       "end": 174.88
+      },
+      {
+       "w": "passengers",
+       "start": 174.88,
+       "end": 175.514
+      },
+      {
+       "w": "walk",
+       "start": 175.514,
+       "end": 175.818
+      },
+      {
+       "w": "off.",
+       "start": 175.818,
+       "end": 176.066
+      }
+     ]
+    },
+    {
+     "text": "But he keeps the pilots, and one flight attendant, Tina Mucklow.",
+     "start": 176.508,
+     "end": 180.778,
+     "words": [
+      {
+       "w": "But",
+       "start": 176.508,
+       "end": 176.559
+      },
+      {
+       "w": "he",
+       "start": 176.559,
+       "end": 176.599
+      },
+      {
+       "w": "keeps",
+       "start": 176.599,
+       "end": 176.672
+      },
+      {
+       "w": "the",
+       "start": 176.672,
+       "end": 176.723
+      },
+      {
+       "w": "pilots,",
+       "start": 176.723,
+       "end": 176.808
+      },
+      {
+       "w": "and",
+       "start": 176.967,
+       "end": 177.175
+      },
+      {
+       "w": "one",
+       "start": 177.175,
+       "end": 177.382
+      },
+      {
+       "w": "flight",
+       "start": 177.382,
+       "end": 177.728
+      },
+      {
+       "w": "attendant,",
+       "start": 177.728,
+       "end": 178.212
+      },
+      {
+       "w": "Tina",
+       "start": 178.43,
+       "end": 179.353
+      },
+      {
+       "w": "Mucklow.",
+       "start": 179.353,
+       "end": 180.778
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "cooperlong/vo/line16.mp3",
+   "start": 181.341,
+   "dur": 6.4,
+   "sentences": [
+    {
+     "text": "Then he gives his next orders.",
+     "start": 181.341,
+     "end": 183.044,
+     "words": [
+      {
+       "w": "Then",
+       "start": 181.341,
+       "end": 181.625
+      },
+      {
+       "w": "he",
+       "start": 181.625,
+       "end": 181.805
+      },
+      {
+       "w": "gives",
+       "start": 181.805,
+       "end": 182.141
+      },
+      {
+       "w": "his",
+       "start": 182.141,
+       "end": 182.373
+      },
+      {
+       "w": "next",
+       "start": 182.373,
+       "end": 182.657
+      },
+      {
+       "w": "orders.",
+       "start": 182.657,
+       "end": 183.044
+      }
+     ]
+    },
+    {
+     "text": "And this is where investigators realized this was no amateur.",
+     "start": 183.559,
+     "end": 187.741,
+     "words": [
+      {
+       "w": "And",
+       "start": 183.559,
+       "end": 183.844
+      },
+      {
+       "w": "this",
+       "start": 183.844,
+       "end": 184.193
+      },
+      {
+       "w": "is",
+       "start": 184.193,
+       "end": 184.414
+      },
+      {
+       "w": "where",
+       "start": 184.414,
+       "end": 184.826
+      },
+      {
+       "w": "investigators",
+       "start": 184.826,
+       "end": 185.745
+      },
+      {
+       "w": "realized",
+       "start": 185.745,
+       "end": 186.347
+      },
+      {
+       "w": "this",
+       "start": 186.347,
+       "end": 186.695
+      },
+      {
+       "w": "was",
+       "start": 186.695,
+       "end": 186.98
+      },
+      {
+       "w": "no",
+       "start": 186.98,
+       "end": 187.202
+      },
+      {
+       "w": "amateur.",
+       "start": 187.202,
+       "end": 187.741
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "cooperlong/vo/line17.mp3",
+   "start": 188.091,
+   "dur": 10.318,
+   "sentences": [
+    {
+     "text": "Fly to Mexico City.",
+     "start": 188.091,
+     "end": 189.423,
+     "words": [
+      {
+       "w": "Fly",
+       "start": 188.091,
+       "end": 188.376
+      },
+      {
+       "w": "to",
+       "start": 188.376,
+       "end": 188.598
+      },
+      {
+       "w": "Mexico",
+       "start": 188.598,
+       "end": 189.074
+      },
+      {
+       "w": "City.",
+       "start": 189.074,
+       "end": 189.423
+      }
+     ]
+    },
+    {
+     "text": "Stay below ten thousand feet.",
+     "start": 189.911,
+     "end": 191.633,
+     "words": [
+      {
+       "w": "Stay",
+       "start": 189.911,
+       "end": 190.212
+      },
+      {
+       "w": "below",
+       "start": 190.212,
+       "end": 190.567
+      },
+      {
+       "w": "ten",
+       "start": 190.567,
+       "end": 190.813
+      },
+      {
+       "w": "thousand",
+       "start": 190.813,
+       "end": 191.332
+      },
+      {
+       "w": "feet.",
+       "start": 191.332,
+       "end": 191.633
+      }
+     ]
+    },
+    {
+     "text": "Keep the landing gear down.",
+     "start": 192.051,
+     "end": 193.499,
+     "words": [
+      {
+       "w": "Keep",
+       "start": 192.051,
+       "end": 192.321
+      },
+      {
+       "w": "the",
+       "start": 192.321,
+       "end": 192.542
+      },
+      {
+       "w": "landing",
+       "start": 192.542,
+       "end": 192.959
+      },
+      {
+       "w": "gear",
+       "start": 192.959,
+       "end": 193.229
+      },
+      {
+       "w": "down.",
+       "start": 193.229,
+       "end": 193.499
+      }
+     ]
+    },
+    {
+     "text": "Set the wing flaps to fifteen degrees.",
+     "start": 193.892,
+     "end": 196.065,
+     "words": [
+      {
+       "w": "Set",
+       "start": 193.892,
+       "end": 194.127
+      },
+      {
+       "w": "the",
+       "start": 194.127,
+       "end": 194.363
+      },
+      {
+       "w": "wing",
+       "start": 194.363,
+       "end": 194.651
+      },
+      {
+       "w": "flaps",
+       "start": 194.651,
+       "end": 194.991
+      },
+      {
+       "w": "to",
+       "start": 194.991,
+       "end": 195.175
+      },
+      {
+       "w": "fifteen",
+       "start": 195.175,
+       "end": 195.62
+      },
+      {
+       "w": "degrees.",
+       "start": 195.62,
+       "end": 196.065
+      }
+     ]
+    },
+    {
+     "text": "Leave the cabin unpressurized.",
+     "start": 196.423,
+     "end": 198.201,
+     "words": [
+      {
+       "w": "Leave",
+       "start": 196.423,
+       "end": 196.784
+      },
+      {
+       "w": "the",
+       "start": 196.784,
+       "end": 197.034
+      },
+      {
+       "w": "cabin",
+       "start": 197.034,
+       "end": 197.395
+      },
+      {
+       "w": "unpressurized.",
+       "start": 197.395,
+       "end": 198.201
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "file": "cooperlong/vo/line18.mp3",
+   "start": 198.759,
+   "dur": 13.035,
+   "sentences": [
+    {
+     "text": "Every one of those instructions keeps the plane slow, low, and safe to jump from.",
+     "start": 198.759,
+     "end": 204.511,
+     "words": [
+      {
+       "w": "Every",
+       "start": 198.759,
+       "end": 199.103
+      },
+      {
+       "w": "one",
+       "start": 199.103,
+       "end": 199.34
+      },
+      {
+       "w": "of",
+       "start": 199.34,
+       "end": 199.525
+      },
+      {
+       "w": "those",
+       "start": 199.525,
+       "end": 199.869
+      },
+      {
+       "w": "instructions",
+       "start": 199.869,
+       "end": 200.582
+      },
+      {
+       "w": "keeps",
+       "start": 200.582,
+       "end": 200.926
+      },
+      {
+       "w": "the",
+       "start": 200.926,
+       "end": 201.164
+      },
+      {
+       "w": "plane",
+       "start": 201.164,
+       "end": 201.507
+      },
+      {
+       "w": "slow,",
+       "start": 201.507,
+       "end": 201.798
+      },
+      {
+       "w": "low,",
+       "start": 202.422,
+       "end": 202.898
+      },
+      {
+       "w": "and",
+       "start": 203.301,
+       "end": 203.524
+      },
+      {
+       "w": "safe",
+       "start": 203.524,
+       "end": 203.795
+      },
+      {
+       "w": "to",
+       "start": 203.795,
+       "end": 203.968
+      },
+      {
+       "w": "jump",
+       "start": 203.968,
+       "end": 204.239
+      },
+      {
+       "w": "from.",
+       "start": 204.239,
+       "end": 204.511
+      }
+     ]
+    },
+    {
+     "text": "And he has one more question.",
+     "start": 205.046,
+     "end": 206.704,
+     "words": [
+      {
+       "w": "And",
+       "start": 205.046,
+       "end": 205.279
+      },
+      {
+       "w": "he",
+       "start": 205.279,
+       "end": 205.46
+      },
+      {
+       "w": "has",
+       "start": 205.46,
+       "end": 205.694
+      },
+      {
+       "w": "one",
+       "start": 205.694,
+       "end": 205.927
+      },
+      {
+       "w": "more",
+       "start": 205.927,
+       "end": 206.212
+      },
+      {
+       "w": "question.",
+       "start": 206.212,
+       "end": 206.704
+      }
+     ]
+    },
+    {
+     "text": "Can the rear stairs of this Boeing 727 be lowered in flight?",
+     "start": 207.23,
+     "end": 211.532,
+     "words": [
+      {
+       "w": "Can",
+       "start": 207.23,
+       "end": 207.475
+      },
+      {
+       "w": "the",
+       "start": 207.475,
+       "end": 207.72
+      },
+      {
+       "w": "rear",
+       "start": 207.72,
+       "end": 208.019
+      },
+      {
+       "w": "stairs",
+       "start": 208.019,
+       "end": 208.428
+      },
+      {
+       "w": "of",
+       "start": 208.428,
+       "end": 208.619
+      },
+      {
+       "w": "this",
+       "start": 208.619,
+       "end": 208.918
+      },
+      {
+       "w": "Boeing",
+       "start": 208.918,
+       "end": 209.327
+      },
+      {
+       "w": "727",
+       "start": 209.327,
+       "end": 210.28
+      },
+      {
+       "w": "be",
+       "start": 210.28,
+       "end": 210.47
+      },
+      {
+       "w": "lowered",
+       "start": 210.47,
+       "end": 210.933
+      },
+      {
+       "w": "in",
+       "start": 210.933,
+       "end": 211.124
+      },
+      {
+       "w": "flight?",
+       "start": 211.124,
+       "end": 211.532
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "file": "cooperlong/vo/line19.mp3",
+   "start": 212.144,
+   "dur": 17.554,
+   "sentences": [
+    {
+     "text": "At 7:40 PM, Flight 305 takes off again, into a cold, stormy night.",
+     "start": 212.144,
+     "end": 217.826,
+     "words": [
+      {
+       "w": "At",
+       "start": 212.144,
+       "end": 212.559
+      },
+      {
+       "w": "7:40",
+       "start": 212.559,
+       "end": 213.093
+      },
+      {
+       "w": "PM,",
+       "start": 213.093,
+       "end": 213.508
+      },
+      {
+       "w": "Flight",
+       "start": 213.736,
+       "end": 214.151
+      },
+      {
+       "w": "305",
+       "start": 214.151,
+       "end": 214.843
+      },
+      {
+       "w": "takes",
+       "start": 214.843,
+       "end": 215.202
+      },
+      {
+       "w": "off",
+       "start": 215.202,
+       "end": 215.452
+      },
+      {
+       "w": "again,",
+       "start": 215.452,
+       "end": 215.811
+      },
+      {
+       "w": "into",
+       "start": 216.041,
+       "end": 216.344
+      },
+      {
+       "w": "a",
+       "start": 216.344,
+       "end": 216.482
+      },
+      {
+       "w": "cold,",
+       "start": 216.482,
+       "end": 216.786
+      },
+      {
+       "w": "stormy",
+       "start": 216.786,
+       "end": 217.343
+      },
+      {
+       "w": "night.",
+       "start": 217.343,
+       "end": 217.826
+      }
+     ]
+    },
+    {
+     "text": "Cooper sends Tina Mucklow into the cockpit and tells the crew to stay there.",
+     "start": 218.417,
+     "end": 222.36,
+     "words": [
+      {
+       "w": "Cooper",
+       "start": 218.417,
+       "end": 218.774
+      },
+      {
+       "w": "sends",
+       "start": 218.774,
+       "end": 219.083
+      },
+      {
+       "w": "Tina",
+       "start": 219.083,
+       "end": 219.344
+      },
+      {
+       "w": "Mucklow",
+       "start": 219.344,
+       "end": 219.748
+      },
+      {
+       "w": "into",
+       "start": 219.748,
+       "end": 220.009
+      },
+      {
+       "w": "the",
+       "start": 220.009,
+       "end": 220.223
+      },
+      {
+       "w": "cockpit",
+       "start": 220.223,
+       "end": 220.626
+      },
+      {
+       "w": "and",
+       "start": 220.626,
+       "end": 220.84
+      },
+      {
+       "w": "tells",
+       "start": 220.84,
+       "end": 221.149
+      },
+      {
+       "w": "the",
+       "start": 221.149,
+       "end": 221.363
+      },
+      {
+       "w": "crew",
+       "start": 221.363,
+       "end": 221.624
+      },
+      {
+       "w": "to",
+       "start": 221.624,
+       "end": 221.79
+      },
+      {
+       "w": "stay",
+       "start": 221.79,
+       "end": 222.052
+      },
+      {
+       "w": "there.",
+       "start": 222.052,
+       "end": 222.36
+      }
+     ]
+    },
+    {
+     "text": "She is the last person ever known to see him.",
+     "start": 222.788,
+     "end": 225.393,
+     "words": [
+      {
+       "w": "She",
+       "start": 222.788,
+       "end": 223.022
+      },
+      {
+       "w": "is",
+       "start": 223.022,
+       "end": 223.205
+      },
+      {
+       "w": "the",
+       "start": 223.205,
+       "end": 223.439
+      },
+      {
+       "w": "last",
+       "start": 223.439,
+       "end": 223.726
+      },
+      {
+       "w": "person",
+       "start": 223.726,
+       "end": 224.117
+      },
+      {
+       "w": "ever",
+       "start": 224.117,
+       "end": 224.403
+      },
+      {
+       "w": "known",
+       "start": 224.403,
+       "end": 224.742
+      },
+      {
+       "w": "to",
+       "start": 224.742,
+       "end": 224.924
+      },
+      {
+       "w": "see",
+       "start": 224.924,
+       "end": 225.159
+      },
+      {
+       "w": "him.",
+       "start": 225.159,
+       "end": 225.393
+      }
+     ]
+    },
+    {
+     "text": "As she walks away, she sees him tying something around his waist.",
+     "start": 225.861,
+     "end": 229.46,
+     "words": [
+      {
+       "w": "As",
+       "start": 225.861,
+       "end": 226.043
+      },
+      {
+       "w": "she",
+       "start": 226.043,
+       "end": 226.277
+      },
+      {
+       "w": "walks",
+       "start": 226.277,
+       "end": 226.615
+      },
+      {
+       "w": "away,",
+       "start": 226.615,
+       "end": 226.9
+      },
+      {
+       "w": "she",
+       "start": 227.129,
+       "end": 227.339
+      },
+      {
+       "w": "sees",
+       "start": 227.339,
+       "end": 227.595
+      },
+      {
+       "w": "him",
+       "start": 227.595,
+       "end": 227.805
+      },
+      {
+       "w": "tying",
+       "start": 227.805,
+       "end": 228.108
+      },
+      {
+       "w": "something",
+       "start": 228.108,
+       "end": 228.598
+      },
+      {
+       "w": "around",
+       "start": 228.598,
+       "end": 228.947
+      },
+      {
+       "w": "his",
+       "start": 228.947,
+       "end": 229.157
+      },
+      {
+       "w": "waist.",
+       "start": 229.157,
+       "end": 229.46
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "file": "cooperlong/vo/line20.mp3",
+   "start": 230.048,
+   "dur": 5.016,
+   "sentences": [
+    {
+     "text": "In the cockpit, a warning light flickers on.",
+     "start": 230.048,
+     "end": 232.579,
+     "words": [
+      {
+       "w": "In",
+       "start": 230.048,
+       "end": 230.206
+      },
+      {
+       "w": "the",
+       "start": 230.206,
+       "end": 230.409
+      },
+      {
+       "w": "cockpit,",
+       "start": 230.409,
+       "end": 230.792
+      },
+      {
+       "w": "a",
+       "start": 231.1,
+       "end": 231.221
+      },
+      {
+       "w": "warning",
+       "start": 231.221,
+       "end": 231.634
+      },
+      {
+       "w": "light",
+       "start": 231.634,
+       "end": 231.949
+      },
+      {
+       "w": "flickers",
+       "start": 231.949,
+       "end": 232.41
+      },
+      {
+       "w": "on.",
+       "start": 232.41,
+       "end": 232.579
+      }
+     ]
+    },
+    {
+     "text": "The rear stairs are open.",
+     "start": 233.204,
+     "end": 234.795,
+     "words": [
+      {
+       "w": "The",
+       "start": 233.204,
+       "end": 233.464
+      },
+      {
+       "w": "rear",
+       "start": 233.464,
+       "end": 233.783
+      },
+      {
+       "w": "stairs",
+       "start": 233.783,
+       "end": 234.217
+      },
+      {
+       "w": "are",
+       "start": 234.217,
+       "end": 234.477
+      },
+      {
+       "w": "open.",
+       "start": 234.477,
+       "end": 234.795
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "file": "cooperlong/vo/line21.mp3",
+   "start": 235.414,
+   "dur": 9.378,
+   "sentences": [
+    {
+     "text": "Then, at 8:13 PM, the tail of the plane suddenly lurches upward.",
+     "start": 235.414,
+     "end": 240.442,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 235.414,
+       "end": 235.845
+      },
+      {
+       "w": "at",
+       "start": 236.061,
+       "end": 236.513
+      },
+      {
+       "w": "8:13",
+       "start": 236.513,
+       "end": 237.095
+      },
+      {
+       "w": "PM,",
+       "start": 237.095,
+       "end": 237.547
+      },
+      {
+       "w": "the",
+       "start": 237.814,
+       "end": 238.05
+      },
+      {
+       "w": "tail",
+       "start": 238.05,
+       "end": 238.339
+      },
+      {
+       "w": "of",
+       "start": 238.339,
+       "end": 238.523
+      },
+      {
+       "w": "the",
+       "start": 238.523,
+       "end": 238.76
+      },
+      {
+       "w": "plane",
+       "start": 238.76,
+       "end": 239.101
+      },
+      {
+       "w": "suddenly",
+       "start": 239.101,
+       "end": 239.601
+      },
+      {
+       "w": "lurches",
+       "start": 239.601,
+       "end": 240.047
+      },
+      {
+       "w": "upward.",
+       "start": 240.047,
+       "end": 240.442
+      }
+     ]
+    },
+    {
+     "text": "A pressure bump.",
+     "start": 240.904,
+     "end": 241.892,
+     "words": [
+      {
+       "w": "A",
+       "start": 240.904,
+       "end": 241.045
+      },
+      {
+       "w": "pressure",
+       "start": 241.045,
+       "end": 241.581
+      },
+      {
+       "w": "bump.",
+       "start": 241.581,
+       "end": 241.892
+      }
+     ]
+    },
+    {
+     "text": "As if something heavy had just dropped away.",
+     "start": 242.229,
+     "end": 244.792,
+     "words": [
+      {
+       "w": "As",
+       "start": 242.229,
+       "end": 242.416
+      },
+      {
+       "w": "if",
+       "start": 242.416,
+       "end": 242.603
+      },
+      {
+       "w": "something",
+       "start": 242.603,
+       "end": 243.163
+      },
+      {
+       "w": "heavy",
+       "start": 243.163,
+       "end": 243.51
+      },
+      {
+       "w": "had",
+       "start": 243.51,
+       "end": 243.751
+      },
+      {
+       "w": "just",
+       "start": 243.751,
+       "end": 244.044
+      },
+      {
+       "w": "dropped",
+       "start": 244.044,
+       "end": 244.498
+      },
+      {
+       "w": "away.",
+       "start": 244.498,
+       "end": 244.792
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "file": "cooperlong/vo/line22.mp3",
+   "start": 245.142,
+   "dur": 12.487,
+   "sentences": [
+    {
+     "text": "Somewhere over the dark forests of southwest Washington, Dan Cooper has stepped off the stairs.",
+     "start": 245.142,
+     "end": 251.026,
+     "words": [
+      {
+       "w": "Somewhere",
+       "start": 245.142,
+       "end": 245.709
+      },
+      {
+       "w": "over",
+       "start": 245.709,
+       "end": 246.005
+      },
+      {
+       "w": "the",
+       "start": 246.005,
+       "end": 246.248
+      },
+      {
+       "w": "dark",
+       "start": 246.248,
+       "end": 246.545
+      },
+      {
+       "w": "forests",
+       "start": 246.545,
+       "end": 247.004
+      },
+      {
+       "w": "of",
+       "start": 247.004,
+       "end": 247.193
+      },
+      {
+       "w": "southwest",
+       "start": 247.193,
+       "end": 247.759
+      },
+      {
+       "w": "Washington,",
+       "start": 247.759,
+       "end": 248.38
+      },
+      {
+       "w": "Dan",
+       "start": 248.804,
+       "end": 249.045
+      },
+      {
+       "w": "Cooper",
+       "start": 249.045,
+       "end": 249.447
+      },
+      {
+       "w": "has",
+       "start": 249.447,
+       "end": 249.688
+      },
+      {
+       "w": "stepped",
+       "start": 249.688,
+       "end": 250.143
+      },
+      {
+       "w": "off",
+       "start": 250.143,
+       "end": 250.384
+      },
+      {
+       "w": "the",
+       "start": 250.384,
+       "end": 250.624
+      },
+      {
+       "w": "stairs.",
+       "start": 250.624,
+       "end": 251.026
+      }
+     ]
+    },
+    {
+     "text": "Into freezing winds.",
+     "start": 251.504,
+     "end": 252.966,
+     "words": [
+      {
+       "w": "Into",
+       "start": 251.504,
+       "end": 251.878
+      },
+      {
+       "w": "freezing",
+       "start": 251.878,
+       "end": 252.524
+      },
+      {
+       "w": "winds.",
+       "start": 252.524,
+       "end": 252.966
+      }
+     ]
+    },
+    {
+     "text": "Into driving rain.",
+     "start": 253.296,
+     "end": 254.678,
+     "words": [
+      {
+       "w": "Into",
+       "start": 253.296,
+       "end": 253.686
+      },
+      {
+       "w": "driving",
+       "start": 253.686,
+       "end": 254.289
+      },
+      {
+       "w": "rain.",
+       "start": 254.289,
+       "end": 254.678
+      }
+     ]
+    },
+    {
+     "text": "In a business suit.",
+     "start": 255.079,
+     "end": 256.02,
+     "words": [
+      {
+       "w": "In",
+       "start": 255.079,
+       "end": 255.236
+      },
+      {
+       "w": "a",
+       "start": 255.236,
+       "end": 255.348
+      },
+      {
+       "w": "business",
+       "start": 255.348,
+       "end": 255.774
+      },
+      {
+       "w": "suit.",
+       "start": 255.774,
+       "end": 256.02
+      }
+     ]
+    },
+    {
+     "text": "Wearing loafers.",
+     "start": 256.397,
+     "end": 257.346,
+     "words": [
+      {
+       "w": "Wearing",
+       "start": 256.397,
+       "end": 256.872
+      },
+      {
+       "w": "loafers.",
+       "start": 256.872,
+       "end": 257.346
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "file": "cooperlong/vo/line23.mp3",
+   "start": 257.978,
+   "dur": 9.221,
+   "sentences": [
+    {
+     "text": "Around 10:15 PM, the plane lands in Reno.",
+     "start": 257.978,
+     "end": 261.223,
+     "words": [
+      {
+       "w": "Around",
+       "start": 257.978,
+       "end": 258.732
+      },
+      {
+       "w": "10:15",
+       "start": 258.732,
+       "end": 259.284
+      },
+      {
+       "w": "PM,",
+       "start": 259.284,
+       "end": 259.635
+      },
+      {
+       "w": "the",
+       "start": 259.819,
+       "end": 260.058
+      },
+      {
+       "w": "plane",
+       "start": 260.058,
+       "end": 260.402
+      },
+      {
+       "w": "lands",
+       "start": 260.402,
+       "end": 260.746
+      },
+      {
+       "w": "in",
+       "start": 260.746,
+       "end": 260.932
+      },
+      {
+       "w": "Reno.",
+       "start": 260.932,
+       "end": 261.223
+      }
+     ]
+    },
+    {
+     "text": "Armed agents surround it.",
+     "start": 261.739,
+     "end": 263.176,
+     "words": [
+      {
+       "w": "Armed",
+       "start": 261.739,
+       "end": 262.085
+      },
+      {
+       "w": "agents",
+       "start": 262.085,
+       "end": 262.484
+      },
+      {
+       "w": "surround",
+       "start": 262.484,
+       "end": 262.99
+      },
+      {
+       "w": "it.",
+       "start": 262.99,
+       "end": 263.176
+      }
+     ]
+    },
+    {
+     "text": "They rush up the stairs, and the cabin is empty.",
+     "start": 263.631,
+     "end": 266.967,
+     "words": [
+      {
+       "w": "They",
+       "start": 263.631,
+       "end": 263.89
+      },
+      {
+       "w": "rush",
+       "start": 263.89,
+       "end": 264.148
+      },
+      {
+       "w": "up",
+       "start": 264.148,
+       "end": 264.313
+      },
+      {
+       "w": "the",
+       "start": 264.313,
+       "end": 264.524
+      },
+      {
+       "w": "stairs,",
+       "start": 264.524,
+       "end": 264.877
+      },
+      {
+       "w": "and",
+       "start": 265.491,
+       "end": 265.751
+      },
+      {
+       "w": "the",
+       "start": 265.751,
+       "end": 266.012
+      },
+      {
+       "w": "cabin",
+       "start": 266.012,
+       "end": 266.388
+      },
+      {
+       "w": "is",
+       "start": 266.388,
+       "end": 266.591
+      },
+      {
+       "w": "empty.",
+       "start": 266.591,
+       "end": 266.967
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "file": "cooperlong/vo/line24.mp3",
+   "start": 267.55,
+   "dur": 9.587,
+   "sentences": [
+    {
+     "text": "Cooper is gone.",
+     "start": 267.55,
+     "end": 268.669,
+     "words": [
+      {
+       "w": "Cooper",
+       "start": 267.55,
+       "end": 268.058
+      },
+      {
+       "w": "is",
+       "start": 268.058,
+       "end": 268.296
+      },
+      {
+       "w": "gone.",
+       "start": 268.296,
+       "end": 268.669
+      }
+     ]
+    },
+    {
+     "text": "So is the money.",
+     "start": 269.096,
+     "end": 269.993,
+     "words": [
+      {
+       "w": "So",
+       "start": 269.096,
+       "end": 269.27
+      },
+      {
+       "w": "is",
+       "start": 269.27,
+       "end": 269.445
+      },
+      {
+       "w": "the",
+       "start": 269.445,
+       "end": 269.669
+      },
+      {
+       "w": "money.",
+       "start": 269.669,
+       "end": 269.993
+      }
+     ]
+    },
+    {
+     "text": "All he's left behind are two parachutes, a handful of cigarette butts, and his black clip-on tie.",
+     "start": 270.603,
+     "end": 276.892,
+     "words": [
+      {
+       "w": "All",
+       "start": 270.603,
+       "end": 270.84
+      },
+      {
+       "w": "he's",
+       "start": 270.84,
+       "end": 271.077
+      },
+      {
+       "w": "left",
+       "start": 271.077,
+       "end": 271.367
+      },
+      {
+       "w": "behind",
+       "start": 271.367,
+       "end": 271.762
+      },
+      {
+       "w": "are",
+       "start": 271.762,
+       "end": 271.999
+      },
+      {
+       "w": "two",
+       "start": 271.999,
+       "end": 272.236
+      },
+      {
+       "w": "parachutes,",
+       "start": 272.236,
+       "end": 272.842
+      },
+      {
+       "w": "a",
+       "start": 273.057,
+       "end": 273.184
+      },
+      {
+       "w": "handful",
+       "start": 273.184,
+       "end": 273.617
+      },
+      {
+       "w": "of",
+       "start": 273.617,
+       "end": 273.795
+      },
+      {
+       "w": "cigarette",
+       "start": 273.795,
+       "end": 274.33
+      },
+      {
+       "w": "butts,",
+       "start": 274.33,
+       "end": 274.661
+      },
+      {
+       "w": "and",
+       "start": 275.039,
+       "end": 275.342
+      },
+      {
+       "w": "his",
+       "start": 275.342,
+       "end": 275.645
+      },
+      {
+       "w": "black",
+       "start": 275.645,
+       "end": 276.083
+      },
+      {
+       "w": "clip-on",
+       "start": 276.083,
+       "end": 276.589
+      },
+      {
+       "w": "tie.",
+       "start": 276.589,
+       "end": 276.892
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "file": "cooperlong/vo/line25.mp3",
+   "start": 277.487,
+   "dur": 8.411,
+   "sentences": [
+    {
+     "text": "And for nine long years, not a single dollar of that money would turn up.",
+     "start": 277.487,
+     "end": 282.118,
+     "words": [
+      {
+       "w": "And",
+       "start": 277.487,
+       "end": 277.795
+      },
+      {
+       "w": "for",
+       "start": 277.795,
+       "end": 278.103
+      },
+      {
+       "w": "nine",
+       "start": 278.103,
+       "end": 278.48
+      },
+      {
+       "w": "long",
+       "start": 278.48,
+       "end": 278.857
+      },
+      {
+       "w": "years,",
+       "start": 278.857,
+       "end": 279.302
+      },
+      {
+       "w": "not",
+       "start": 279.542,
+       "end": 279.761
+      },
+      {
+       "w": "a",
+       "start": 279.761,
+       "end": 279.883
+      },
+      {
+       "w": "single",
+       "start": 279.883,
+       "end": 280.247
+      },
+      {
+       "w": "dollar",
+       "start": 280.247,
+       "end": 280.612
+      },
+      {
+       "w": "of",
+       "start": 280.612,
+       "end": 280.782
+      },
+      {
+       "w": "that",
+       "start": 280.782,
+       "end": 281.049
+      },
+      {
+       "w": "money",
+       "start": 281.049,
+       "end": 281.365
+      },
+      {
+       "w": "would",
+       "start": 281.365,
+       "end": 281.681
+      },
+      {
+       "w": "turn",
+       "start": 281.681,
+       "end": 281.948
+      },
+      {
+       "w": "up.",
+       "start": 281.948,
+       "end": 282.118
+      }
+     ]
+    },
+    {
+     "text": "Until a little boy went digging in the sand.",
+     "start": 282.738,
+     "end": 285.631,
+     "words": [
+      {
+       "w": "Until",
+       "start": 282.738,
+       "end": 283.126
+      },
+      {
+       "w": "a",
+       "start": 283.126,
+       "end": 283.275
+      },
+      {
+       "w": "little",
+       "start": 283.275,
+       "end": 283.723
+      },
+      {
+       "w": "boy",
+       "start": 283.723,
+       "end": 283.991
+      },
+      {
+       "w": "went",
+       "start": 283.991,
+       "end": 284.319
+      },
+      {
+       "w": "digging",
+       "start": 284.319,
+       "end": 284.826
+      },
+      {
+       "w": "in",
+       "start": 284.826,
+       "end": 285.035
+      },
+      {
+       "w": "the",
+       "start": 285.035,
+       "end": 285.303
+      },
+      {
+       "w": "sand.",
+       "start": 285.303,
+       "end": 285.631
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "file": "cooperlong/vo/line26.mp3",
+   "start": 286.248,
+   "dur": 13.427,
+   "sentences": [
+    {
+     "text": "The FBI launched one of the largest manhunts in American history.",
+     "start": 286.248,
+     "end": 290.205,
+     "words": [
+      {
+       "w": "The",
+       "start": 286.248,
+       "end": 286.501
+      },
+      {
+       "w": "FBI",
+       "start": 286.501,
+       "end": 286.753
+      },
+      {
+       "w": "launched",
+       "start": 286.753,
+       "end": 287.286
+      },
+      {
+       "w": "one",
+       "start": 287.286,
+       "end": 287.539
+      },
+      {
+       "w": "of",
+       "start": 287.539,
+       "end": 287.735
+      },
+      {
+       "w": "the",
+       "start": 287.735,
+       "end": 287.988
+      },
+      {
+       "w": "largest",
+       "start": 287.988,
+       "end": 288.465
+      },
+      {
+       "w": "manhunts",
+       "start": 288.465,
+       "end": 288.999
+      },
+      {
+       "w": "in",
+       "start": 288.999,
+       "end": 289.195
+      },
+      {
+       "w": "American",
+       "start": 289.195,
+       "end": 289.728
+      },
+      {
+       "w": "history.",
+       "start": 289.728,
+       "end": 290.205
+      }
+     ]
+    },
+    {
+     "text": "Soldiers walked the forests in long lines.",
+     "start": 290.719,
+     "end": 293.35,
+     "words": [
+      {
+       "w": "Soldiers",
+       "start": 290.719,
+       "end": 291.268
+      },
+      {
+       "w": "walked",
+       "start": 291.268,
+       "end": 291.702
+      },
+      {
+       "w": "the",
+       "start": 291.702,
+       "end": 291.962
+      },
+      {
+       "w": "forests",
+       "start": 291.962,
+       "end": 292.454
+      },
+      {
+       "w": "in",
+       "start": 292.454,
+       "end": 292.656
+      },
+      {
+       "w": "long",
+       "start": 292.656,
+       "end": 292.975
+      },
+      {
+       "w": "lines.",
+       "start": 292.975,
+       "end": 293.35
+      }
+     ]
+    },
+    {
+     "text": "Helicopters swept the hills.",
+     "start": 293.775,
+     "end": 295.485,
+     "words": [
+      {
+       "w": "Helicopters",
+       "start": 293.775,
+       "end": 294.487
+      },
+      {
+       "w": "swept",
+       "start": 294.487,
+       "end": 294.858
+      },
+      {
+       "w": "the",
+       "start": 294.858,
+       "end": 295.114
+      },
+      {
+       "w": "hills.",
+       "start": 295.114,
+       "end": 295.485
+      }
+     ]
+    },
+    {
+     "text": "Agents searched farms, rivers and lakes for weeks.",
+     "start": 295.901,
+     "end": 299.414,
+     "words": [
+      {
+       "w": "Agents",
+       "start": 295.901,
+       "end": 296.398
+      },
+      {
+       "w": "searched",
+       "start": 296.398,
+       "end": 297.028
+      },
+      {
+       "w": "farms,",
+       "start": 297.028,
+       "end": 297.459
+      },
+      {
+       "w": "rivers",
+       "start": 297.459,
+       "end": 297.956
+      },
+      {
+       "w": "and",
+       "start": 297.956,
+       "end": 298.254
+      },
+      {
+       "w": "lakes",
+       "start": 298.254,
+       "end": 298.685
+      },
+      {
+       "w": "for",
+       "start": 298.685,
+       "end": 298.983
+      },
+      {
+       "w": "weeks.",
+       "start": 298.983,
+       "end": 299.414
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 27,
+   "file": "cooperlong/vo/line27.mp3",
+   "start": 300.025,
+   "dur": 5.146,
+   "sentences": [
+    {
+     "text": "They found nothing.",
+     "start": 300.025,
+     "end": 301.047,
+     "words": [
+      {
+       "w": "They",
+       "start": 300.025,
+       "end": 300.299
+      },
+      {
+       "w": "found",
+       "start": 300.299,
+       "end": 300.623
+      },
+      {
+       "w": "nothing.",
+       "start": 300.623,
+       "end": 301.047
+      }
+     ]
+    },
+    {
+     "text": "No parachute.",
+     "start": 301.514,
+     "end": 302.4,
+     "words": [
+      {
+       "w": "No",
+       "start": 301.514,
+       "end": 301.736
+      },
+      {
+       "w": "parachute.",
+       "start": 301.736,
+       "end": 302.4
+      }
+     ]
+    },
+    {
+     "text": "No body.",
+     "start": 302.645,
+     "end": 303.349,
+     "words": [
+      {
+       "w": "No",
+       "start": 302.645,
+       "end": 302.919
+      },
+      {
+       "w": "body.",
+       "start": 302.919,
+       "end": 303.349
+      }
+     ]
+    },
+    {
+     "text": "Not one bill.",
+     "start": 303.733,
+     "end": 304.901,
+     "words": [
+      {
+       "w": "Not",
+       "start": 303.733,
+       "end": 304.096
+      },
+      {
+       "w": "one",
+       "start": 304.096,
+       "end": 304.458
+      },
+      {
+       "w": "bill.",
+       "start": 304.458,
+       "end": 304.901
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 28,
+   "file": "cooperlong/vo/line28.mp3",
+   "start": 305.521,
+   "dur": 12.904,
+   "sentences": [
+    {
+     "text": "The FBI sent the list of serial numbers to banks and businesses across the country.",
+     "start": 305.521,
+     "end": 310.218,
+     "words": [
+      {
+       "w": "The",
+       "start": 305.521,
+       "end": 305.755
+      },
+      {
+       "w": "FBI",
+       "start": 305.755,
+       "end": 305.988
+      },
+      {
+       "w": "sent",
+       "start": 305.988,
+       "end": 306.274
+      },
+      {
+       "w": "the",
+       "start": 306.274,
+       "end": 306.507
+      },
+      {
+       "w": "list",
+       "start": 306.507,
+       "end": 306.793
+      },
+      {
+       "w": "of",
+       "start": 306.793,
+       "end": 306.974
+      },
+      {
+       "w": "serial",
+       "start": 306.974,
+       "end": 307.363
+      },
+      {
+       "w": "numbers",
+       "start": 307.363,
+       "end": 307.805
+      },
+      {
+       "w": "to",
+       "start": 307.805,
+       "end": 307.986
+      },
+      {
+       "w": "banks",
+       "start": 307.986,
+       "end": 308.324
+      },
+      {
+       "w": "and",
+       "start": 308.324,
+       "end": 308.557
+      },
+      {
+       "w": "businesses",
+       "start": 308.557,
+       "end": 309.154
+      },
+      {
+       "w": "across",
+       "start": 309.154,
+       "end": 309.543
+      },
+      {
+       "w": "the",
+       "start": 309.543,
+       "end": 309.777
+      },
+      {
+       "w": "country.",
+       "start": 309.777,
+       "end": 310.218
+      }
+     ]
+    },
+    {
+     "text": "And they waited.",
+     "start": 310.838,
+     "end": 311.637,
+     "words": [
+      {
+       "w": "And",
+       "start": 310.838,
+       "end": 311.043
+      },
+      {
+       "w": "they",
+       "start": 311.043,
+       "end": 311.295
+      },
+      {
+       "w": "waited.",
+       "start": 311.295,
+       "end": 311.637
+      }
+     ]
+    },
+    {
+     "text": "One year.",
+     "start": 312.116,
+     "end": 312.778,
+     "words": [
+      {
+       "w": "One",
+       "start": 312.116,
+       "end": 312.414
+      },
+      {
+       "w": "year.",
+       "start": 312.414,
+       "end": 312.778
+      }
+     ]
+    },
+    {
+     "text": "Five years.",
+     "start": 313.188,
+     "end": 314.194,
+     "words": [
+      {
+       "w": "Five",
+       "start": 313.188,
+       "end": 313.649
+      },
+      {
+       "w": "years.",
+       "start": 313.649,
+       "end": 314.194
+      }
+     ]
+    },
+    {
+     "text": "Nine years.",
+     "start": 314.512,
+     "end": 315.477,
+     "words": [
+      {
+       "w": "Nine",
+       "start": 314.512,
+       "end": 314.954
+      },
+      {
+       "w": "years.",
+       "start": 314.954,
+       "end": 315.477
+      }
+     ]
+    },
+    {
+     "text": "Not a single twenty-dollar bill showed up.",
+     "start": 315.955,
+     "end": 318.211,
+     "words": [
+      {
+       "w": "Not",
+       "start": 315.955,
+       "end": 316.183
+      },
+      {
+       "w": "a",
+       "start": 316.183,
+       "end": 316.31
+      },
+      {
+       "w": "single",
+       "start": 316.31,
+       "end": 316.69
+      },
+      {
+       "w": "twenty-dollar",
+       "start": 316.69,
+       "end": 317.374
+      },
+      {
+       "w": "bill",
+       "start": 317.374,
+       "end": 317.653
+      },
+      {
+       "w": "showed",
+       "start": 317.653,
+       "end": 318.033
+      },
+      {
+       "w": "up.",
+       "start": 318.033,
+       "end": 318.211
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 29,
+   "file": "cooperlong/vo/line29.mp3",
+   "start": 318.776,
+   "dur": 15.308,
+   "sentences": [
+    {
+     "text": "Then, in February 1980, an eight-year-old boy named Brian Ingram was on a family trip along the Columbia River, near Vancouver, Washington.",
+     "start": 318.776,
+     "end": 327.449,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 318.776,
+       "end": 319.107
+      },
+      {
+       "w": "in",
+       "start": 319.107,
+       "end": 319.448
+      },
+      {
+       "w": "February",
+       "start": 319.448,
+       "end": 320.375
+      },
+      {
+       "w": "1980,",
+       "start": 320.375,
+       "end": 320.912
+      },
+      {
+       "w": "an",
+       "start": 321.229,
+       "end": 321.402
+      },
+      {
+       "w": "eight-year-old",
+       "start": 321.402,
+       "end": 322.068
+      },
+      {
+       "w": "boy",
+       "start": 322.068,
+       "end": 322.29
+      },
+      {
+       "w": "named",
+       "start": 322.29,
+       "end": 322.611
+      },
+      {
+       "w": "Brian",
+       "start": 322.611,
+       "end": 322.931
+      },
+      {
+       "w": "Ingram",
+       "start": 322.931,
+       "end": 323.301
+      },
+      {
+       "w": "was",
+       "start": 323.301,
+       "end": 323.523
+      },
+      {
+       "w": "on",
+       "start": 323.523,
+       "end": 323.696
+      },
+      {
+       "w": "a",
+       "start": 323.696,
+       "end": 323.819
+      },
+      {
+       "w": "family",
+       "start": 323.819,
+       "end": 324.189
+      },
+      {
+       "w": "trip",
+       "start": 324.189,
+       "end": 324.461
+      },
+      {
+       "w": "along",
+       "start": 324.461,
+       "end": 324.781
+      },
+      {
+       "w": "the",
+       "start": 324.781,
+       "end": 325.003
+      },
+      {
+       "w": "Columbia",
+       "start": 325.003,
+       "end": 325.472
+      },
+      {
+       "w": "River,",
+       "start": 325.472,
+       "end": 325.792
+      },
+      {
+       "w": "near",
+       "start": 325.792,
+       "end": 326.124
+      },
+      {
+       "w": "Vancouver,",
+       "start": 326.124,
+       "end": 326.756
+      },
+      {
+       "w": "Washington.",
+       "start": 326.756,
+       "end": 327.449
+      }
+     ]
+    },
+    {
+     "text": "He was raking the sand to build a campfire, when he uncovered three bundles of rotting cash.",
+     "start": 327.951,
+     "end": 333.825,
+     "words": [
+      {
+       "w": "He",
+       "start": 327.951,
+       "end": 328.122
+      },
+      {
+       "w": "was",
+       "start": 328.122,
+       "end": 328.342
+      },
+      {
+       "w": "raking",
+       "start": 328.342,
+       "end": 328.709
+      },
+      {
+       "w": "the",
+       "start": 328.709,
+       "end": 328.929
+      },
+      {
+       "w": "sand",
+       "start": 328.929,
+       "end": 329.199
+      },
+      {
+       "w": "to",
+       "start": 329.199,
+       "end": 329.37
+      },
+      {
+       "w": "build",
+       "start": 329.37,
+       "end": 329.688
+      },
+      {
+       "w": "a",
+       "start": 329.688,
+       "end": 329.81
+      },
+      {
+       "w": "campfire,",
+       "start": 329.81,
+       "end": 330.275
+      },
+      {
+       "w": "when",
+       "start": 330.71,
+       "end": 331.039
+      },
+      {
+       "w": "he",
+       "start": 331.039,
+       "end": 331.249
+      },
+      {
+       "w": "uncovered",
+       "start": 331.249,
+       "end": 331.878
+      },
+      {
+       "w": "three",
+       "start": 331.878,
+       "end": 332.268
+      },
+      {
+       "w": "bundles",
+       "start": 332.268,
+       "end": 332.777
+      },
+      {
+       "w": "of",
+       "start": 332.777,
+       "end": 332.986
+      },
+      {
+       "w": "rotting",
+       "start": 332.986,
+       "end": 333.496
+      },
+      {
+       "w": "cash.",
+       "start": 333.496,
+       "end": 333.825
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 30,
+   "file": "cooperlong/vo/line30.mp3",
+   "start": 334.433,
+   "dur": 7.602,
+   "sentences": [
+    {
+     "text": "Five thousand eight hundred dollars.",
+     "start": 334.433,
+     "end": 336.44,
+     "words": [
+      {
+       "w": "Five",
+       "start": 334.433,
+       "end": 334.72
+      },
+      {
+       "w": "thousand",
+       "start": 334.72,
+       "end": 335.215
+      },
+      {
+       "w": "eight",
+       "start": 335.215,
+       "end": 335.554
+      },
+      {
+       "w": "hundred",
+       "start": 335.554,
+       "end": 335.997
+      },
+      {
+       "w": "dollars.",
+       "start": 335.997,
+       "end": 336.44
+      }
+     ]
+    },
+    {
+     "text": "In twenty-dollar bills.",
+     "start": 336.906,
+     "end": 338.1,
+     "words": [
+      {
+       "w": "In",
+       "start": 336.906,
+       "end": 337.084
+      },
+      {
+       "w": "twenty-dollar",
+       "start": 337.084,
+       "end": 337.77
+      },
+      {
+       "w": "bills.",
+       "start": 337.77,
+       "end": 338.1
+      }
+     ]
+    },
+    {
+     "text": "The serial numbers matched.",
+     "start": 338.559,
+     "end": 339.951,
+     "words": [
+      {
+       "w": "The",
+       "start": 338.559,
+       "end": 338.775
+      },
+      {
+       "w": "serial",
+       "start": 338.775,
+       "end": 339.135
+      },
+      {
+       "w": "numbers",
+       "start": 339.135,
+       "end": 339.543
+      },
+      {
+       "w": "matched.",
+       "start": 339.543,
+       "end": 339.951
+      }
+     ]
+    },
+    {
+     "text": "It was Cooper's money.",
+     "start": 340.571,
+     "end": 341.759,
+     "words": [
+      {
+       "w": "It",
+       "start": 340.571,
+       "end": 340.752
+      },
+      {
+       "w": "was",
+       "start": 340.752,
+       "end": 340.984
+      },
+      {
+       "w": "Cooper's",
+       "start": 340.984,
+       "end": 341.423
+      },
+      {
+       "w": "money.",
+       "start": 341.423,
+       "end": 341.759
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 31,
+   "file": "cooperlong/vo/line31.mp3",
+   "start": 342.385,
+   "dur": 10.945,
+   "sentences": [
+    {
+     "text": "But instead of solving the case, it made it stranger.",
+     "start": 342.385,
+     "end": 345.44,
+     "words": [
+      {
+       "w": "But",
+       "start": 342.385,
+       "end": 342.61
+      },
+      {
+       "w": "instead",
+       "start": 342.61,
+       "end": 343.034
+      },
+      {
+       "w": "of",
+       "start": 343.034,
+       "end": 343.209
+      },
+      {
+       "w": "solving",
+       "start": 343.209,
+       "end": 343.634
+      },
+      {
+       "w": "the",
+       "start": 343.634,
+       "end": 343.858
+      },
+      {
+       "w": "case,",
+       "start": 343.858,
+       "end": 344.133
+      },
+      {
+       "w": "it",
+       "start": 344.307,
+       "end": 344.487
+      },
+      {
+       "w": "made",
+       "start": 344.487,
+       "end": 344.77
+      },
+      {
+       "w": "it",
+       "start": 344.77,
+       "end": 344.951
+      },
+      {
+       "w": "stranger.",
+       "start": 344.951,
+       "end": 345.44
+      }
+     ]
+    },
+    {
+     "text": "The bills were still bundled, still held by rubber bands.",
+     "start": 346.071,
+     "end": 349.543,
+     "words": [
+      {
+       "w": "The",
+       "start": 346.071,
+       "end": 346.284
+      },
+      {
+       "w": "bills",
+       "start": 346.284,
+       "end": 346.591
+      },
+      {
+       "w": "were",
+       "start": 346.591,
+       "end": 346.851
+      },
+      {
+       "w": "still",
+       "start": 346.851,
+       "end": 347.159
+      },
+      {
+       "w": "bundled,",
+       "start": 347.159,
+       "end": 347.561
+      },
+      {
+       "w": "still",
+       "start": 347.815,
+       "end": 348.196
+      },
+      {
+       "w": "held",
+       "start": 348.196,
+       "end": 348.518
+      },
+      {
+       "w": "by",
+       "start": 348.518,
+       "end": 348.723
+      },
+      {
+       "w": "rubber",
+       "start": 348.723,
+       "end": 349.162
+      },
+      {
+       "w": "bands.",
+       "start": 349.162,
+       "end": 349.543
+      }
+     ]
+    },
+    {
+     "text": "And they were found miles from where Cooper was believed to have landed.",
+     "start": 349.971,
+     "end": 353.133,
+     "words": [
+      {
+       "w": "And",
+       "start": 349.971,
+       "end": 350.152
+      },
+      {
+       "w": "they",
+       "start": 350.152,
+       "end": 350.374
+      },
+      {
+       "w": "were",
+       "start": 350.374,
+       "end": 350.595
+      },
+      {
+       "w": "found",
+       "start": 350.595,
+       "end": 350.857
+      },
+      {
+       "w": "miles",
+       "start": 350.857,
+       "end": 351.119
+      },
+      {
+       "w": "from",
+       "start": 351.119,
+       "end": 351.34
+      },
+      {
+       "w": "where",
+       "start": 351.34,
+       "end": 351.602
+      },
+      {
+       "w": "Cooper",
+       "start": 351.602,
+       "end": 351.904
+      },
+      {
+       "w": "was",
+       "start": 351.904,
+       "end": 352.086
+      },
+      {
+       "w": "believed",
+       "start": 352.086,
+       "end": 352.468
+      },
+      {
+       "w": "to",
+       "start": 352.468,
+       "end": 352.609
+      },
+      {
+       "w": "have",
+       "start": 352.609,
+       "end": 352.831
+      },
+      {
+       "w": "landed.",
+       "start": 352.831,
+       "end": 353.133
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 32,
+   "file": "cooperlong/vo/line32.mp3",
+   "start": 353.68,
+   "dur": 12.121,
+   "sentences": [
+    {
+     "text": "Did Cooper bury them?",
+     "start": 353.68,
+     "end": 354.843,
+     "words": [
+      {
+       "w": "Did",
+       "start": 353.68,
+       "end": 353.908
+      },
+      {
+       "w": "Cooper",
+       "start": 353.908,
+       "end": 354.287
+      },
+      {
+       "w": "bury",
+       "start": 354.287,
+       "end": 354.565
+      },
+      {
+       "w": "them?",
+       "start": 354.565,
+       "end": 354.843
+      }
+     ]
+    },
+    {
+     "text": "Did they wash down the river?",
+     "start": 355.409,
+     "end": 356.596,
+     "words": [
+      {
+       "w": "Did",
+       "start": 355.409,
+       "end": 355.576
+      },
+      {
+       "w": "they",
+       "start": 355.576,
+       "end": 355.78
+      },
+      {
+       "w": "wash",
+       "start": 355.78,
+       "end": 355.984
+      },
+      {
+       "w": "down",
+       "start": 355.984,
+       "end": 356.188
+      },
+      {
+       "w": "the",
+       "start": 356.188,
+       "end": 356.355
+      },
+      {
+       "w": "river?",
+       "start": 356.355,
+       "end": 356.596
+      }
+     ]
+    },
+    {
+     "text": "Did he lose them as he ran?",
+     "start": 357.128,
+     "end": 358.553,
+     "words": [
+      {
+       "w": "Did",
+       "start": 357.128,
+       "end": 357.339
+      },
+      {
+       "w": "he",
+       "start": 357.339,
+       "end": 357.502
+      },
+      {
+       "w": "lose",
+       "start": 357.502,
+       "end": 357.759
+      },
+      {
+       "w": "them",
+       "start": 357.759,
+       "end": 358.016
+      },
+      {
+       "w": "as",
+       "start": 358.016,
+       "end": 358.179
+      },
+      {
+       "w": "he",
+       "start": 358.179,
+       "end": 358.343
+      },
+      {
+       "w": "ran?",
+       "start": 358.343,
+       "end": 358.553
+      }
+     ]
+    },
+    {
+     "text": "To this day, no one knows.",
+     "start": 359.062,
+     "end": 360.925,
+     "words": [
+      {
+       "w": "To",
+       "start": 359.062,
+       "end": 359.238
+      },
+      {
+       "w": "this",
+       "start": 359.238,
+       "end": 359.513
+      },
+      {
+       "w": "day,",
+       "start": 359.513,
+       "end": 359.739
+      },
+      {
+       "w": "no",
+       "start": 360.037,
+       "end": 360.251
+      },
+      {
+       "w": "one",
+       "start": 360.251,
+       "end": 360.527
+      },
+      {
+       "w": "knows.",
+       "start": 360.527,
+       "end": 360.925
+      }
+     ]
+    },
+    {
+     "text": "And the other one hundred ninety-four thousand dollars?",
+     "start": 361.435,
+     "end": 363.828,
+     "words": [
+      {
+       "w": "And",
+       "start": 361.435,
+       "end": 361.621
+      },
+      {
+       "w": "the",
+       "start": 361.621,
+       "end": 361.806
+      },
+      {
+       "w": "other",
+       "start": 361.806,
+       "end": 362.075
+      },
+      {
+       "w": "one",
+       "start": 362.075,
+       "end": 362.26
+      },
+      {
+       "w": "hundred",
+       "start": 362.26,
+       "end": 362.611
+      },
+      {
+       "w": "ninety-four",
+       "start": 362.611,
+       "end": 363.085
+      },
+      {
+       "w": "thousand",
+       "start": 363.085,
+       "end": 363.477
+      },
+      {
+       "w": "dollars?",
+       "start": 363.477,
+       "end": 363.828
+      }
+     ]
+    },
+    {
+     "text": "It has never been found.",
+     "start": 364.273,
+     "end": 365.533,
+     "words": [
+      {
+       "w": "It",
+       "start": 364.273,
+       "end": 364.44
+      },
+      {
+       "w": "has",
+       "start": 364.44,
+       "end": 364.653
+      },
+      {
+       "w": "never",
+       "start": 364.653,
+       "end": 364.962
+      },
+      {
+       "w": "been",
+       "start": 364.962,
+       "end": 365.224
+      },
+      {
+       "w": "found.",
+       "start": 365.224,
+       "end": 365.533
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 33,
+   "file": "cooperlong/vo/line33.mp3",
+   "start": 366.151,
+   "dur": 3.918,
+   "sentences": [
+    {
+     "text": "So if Dan Cooper survived, who was he?",
+     "start": 366.151,
+     "end": 369.849,
+     "words": [
+      {
+       "w": "So",
+       "start": 366.151,
+       "end": 366.21
+      },
+      {
+       "w": "if",
+       "start": 366.21,
+       "end": 366.269
+      },
+      {
+       "w": "Dan",
+       "start": 366.269,
+       "end": 366.344
+      },
+      {
+       "w": "Cooper",
+       "start": 366.344,
+       "end": 366.47
+      },
+      {
+       "w": "survived,",
+       "start": 366.47,
+       "end": 366.63
+      },
+      {
+       "w": "who",
+       "start": 366.875,
+       "end": 367.946
+      },
+      {
+       "w": "was",
+       "start": 367.946,
+       "end": 369.016
+      },
+      {
+       "w": "he?",
+       "start": 369.016,
+       "end": 369.849
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 34,
+   "file": "cooperlong/vo/line34.mp3",
+   "start": 370.419,
+   "dur": 18.155,
+   "sentences": [
+    {
+     "text": "First, a confession about the name.",
+     "start": 370.419,
+     "end": 370.923,
+     "words": [
+      {
+       "w": "First,",
+       "start": 370.419,
+       "end": 370.508
+      },
+      {
+       "w": "a",
+       "start": 370.508,
+       "end": 370.542
+      },
+      {
+       "w": "confession",
+       "start": 370.542,
+       "end": 370.698
+      },
+      {
+       "w": "about",
+       "start": 370.698,
+       "end": 370.787
+      },
+      {
+       "w": "the",
+       "start": 370.787,
+       "end": 370.848
+      },
+      {
+       "w": "name.",
+       "start": 370.848,
+       "end": 370.923
+      }
+     ]
+    },
+    {
+     "text": "He was never called D.",
+     "start": 371.139,
+     "end": 372.475,
+     "words": [
+      {
+       "w": "He",
+       "start": 371.139,
+       "end": 371.33
+      },
+      {
+       "w": "was",
+       "start": 371.33,
+       "end": 371.575
+      },
+      {
+       "w": "never",
+       "start": 371.575,
+       "end": 371.929
+      },
+      {
+       "w": "called",
+       "start": 371.929,
+       "end": 372.338
+      },
+      {
+       "w": "D.",
+       "start": 372.338,
+       "end": 372.475
+      }
+     ]
+    },
+    {
+     "text": "B. Cooper.",
+     "start": 373.029,
+     "end": 375.029,
+     "words": [
+      {
+       "w": "B.",
+       "start": 373.029,
+       "end": 373.529
+      },
+      {
+       "w": "Cooper.",
+       "start": 373.529,
+       "end": 375.029
+      }
+     ]
+    },
+    {
+     "text": "He bought his ticket as Dan Cooper.",
+     "start": 375.548,
+     "end": 377.498,
+     "words": [
+      {
+       "w": "He",
+       "start": 375.548,
+       "end": 375.725
+      },
+      {
+       "w": "bought",
+       "start": 375.725,
+       "end": 376.105
+      },
+      {
+       "w": "his",
+       "start": 376.105,
+       "end": 376.333
+      },
+      {
+       "w": "ticket",
+       "start": 376.333,
+       "end": 376.713
+      },
+      {
+       "w": "as",
+       "start": 376.713,
+       "end": 376.89
+      },
+      {
+       "w": "Dan",
+       "start": 376.89,
+       "end": 377.118
+      },
+      {
+       "w": "Cooper.",
+       "start": 377.118,
+       "end": 377.498
+      }
+     ]
+    },
+    {
+     "text": "In the chaos of the first days, a news report mixed him up with a real man named D.",
+     "start": 378.06,
+     "end": 383.309,
+     "words": [
+      {
+       "w": "In",
+       "start": 378.06,
+       "end": 378.226
+      },
+      {
+       "w": "the",
+       "start": 378.226,
+       "end": 378.44
+      },
+      {
+       "w": "chaos",
+       "start": 378.44,
+       "end": 378.748
+      },
+      {
+       "w": "of",
+       "start": 378.748,
+       "end": 378.914
+      },
+      {
+       "w": "the",
+       "start": 378.914,
+       "end": 379.128
+      },
+      {
+       "w": "first",
+       "start": 379.128,
+       "end": 379.436
+      },
+      {
+       "w": "days,",
+       "start": 379.436,
+       "end": 379.697
+      },
+      {
+       "w": "a",
+       "start": 379.869,
+       "end": 380.02
+      },
+      {
+       "w": "news",
+       "start": 380.02,
+       "end": 380.352
+      },
+      {
+       "w": "report",
+       "start": 380.352,
+       "end": 380.804
+      },
+      {
+       "w": "mixed",
+       "start": 380.804,
+       "end": 381.197
+      },
+      {
+       "w": "him",
+       "start": 381.197,
+       "end": 381.468
+      },
+      {
+       "w": "up",
+       "start": 381.468,
+       "end": 381.679
+      },
+      {
+       "w": "with",
+       "start": 381.679,
+       "end": 382.011
+      },
+      {
+       "w": "a",
+       "start": 382.011,
+       "end": 382.162
+      },
+      {
+       "w": "real",
+       "start": 382.162,
+       "end": 382.494
+      },
+      {
+       "w": "man",
+       "start": 382.494,
+       "end": 382.766
+      },
+      {
+       "w": "named",
+       "start": 382.766,
+       "end": 383.158
+      },
+      {
+       "w": "D.",
+       "start": 383.158,
+       "end": 383.309
+      }
+     ]
+    },
+    {
+     "text": "B. Cooper, who was questioned and quickly cleared.",
+     "start": 383.568,
+     "end": 385.387,
+     "words": [
+      {
+       "w": "B.",
+       "start": 383.568,
+       "end": 383.656
+      },
+      {
+       "w": "Cooper,",
+       "start": 383.656,
+       "end": 383.918
+      },
+      {
+       "w": "who",
+       "start": 383.918,
+       "end": 384.075
+      },
+      {
+       "w": "was",
+       "start": 384.075,
+       "end": 384.233
+      },
+      {
+       "w": "questioned",
+       "start": 384.233,
+       "end": 384.635
+      },
+      {
+       "w": "and",
+       "start": 384.635,
+       "end": 384.792
+      },
+      {
+       "w": "quickly",
+       "start": 384.792,
+       "end": 385.09
+      },
+      {
+       "w": "cleared.",
+       "start": 385.09,
+       "end": 385.387
+      }
+     ]
+    },
+    {
+     "text": "But the wrong name stuck.",
+     "start": 385.893,
+     "end": 387.27,
+     "words": [
+      {
+       "w": "But",
+       "start": 385.893,
+       "end": 386.119
+      },
+      {
+       "w": "the",
+       "start": 386.119,
+       "end": 386.344
+      },
+      {
+       "w": "wrong",
+       "start": 386.344,
+       "end": 386.669
+      },
+      {
+       "w": "name",
+       "start": 386.669,
+       "end": 386.944
+      },
+      {
+       "w": "stuck.",
+       "start": 386.944,
+       "end": 387.27
+      }
+     ]
+    },
+    {
+     "text": "Forever.",
+     "start": 387.762,
+     "end": 388.304,
+     "words": [
+      {
+       "w": "Forever.",
+       "start": 387.762,
+       "end": 388.304
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 35,
+   "file": "cooperlong/vo/line35.mp3",
+   "start": 388.924,
+   "dur": 5.355,
+   "sentences": [
+    {
+     "text": "Over the years, the FBI looked at hundreds of suspects.",
+     "start": 388.924,
+     "end": 392.479,
+     "words": [
+      {
+       "w": "Over",
+       "start": 388.924,
+       "end": 389.225
+      },
+      {
+       "w": "the",
+       "start": 389.225,
+       "end": 389.47
+      },
+      {
+       "w": "years,",
+       "start": 389.47,
+       "end": 389.825
+      },
+      {
+       "w": "the",
+       "start": 389.983,
+       "end": 390.248
+      },
+      {
+       "w": "FBI",
+       "start": 390.248,
+       "end": 390.512
+      },
+      {
+       "w": "looked",
+       "start": 390.512,
+       "end": 390.952
+      },
+      {
+       "w": "at",
+       "start": 390.952,
+       "end": 391.158
+      },
+      {
+       "w": "hundreds",
+       "start": 391.158,
+       "end": 391.716
+      },
+      {
+       "w": "of",
+       "start": 391.716,
+       "end": 391.921
+      },
+      {
+       "w": "suspects.",
+       "start": 391.921,
+       "end": 392.479
+      }
+     ]
+    },
+    {
+     "text": "A few stand out.",
+     "start": 392.923,
+     "end": 394.07,
+     "words": [
+      {
+       "w": "A",
+       "start": 392.923,
+       "end": 393.083
+      },
+      {
+       "w": "few",
+       "start": 393.083,
+       "end": 393.369
+      },
+      {
+       "w": "stand",
+       "start": 393.369,
+       "end": 393.783
+      },
+      {
+       "w": "out.",
+       "start": 393.783,
+       "end": 394.07
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 36,
+   "file": "cooperlong/vo/line36.mp3",
+   "start": 394.63,
+   "dur": 25.051,
+   "sentences": [
+    {
+     "text": "Richard McCoy.",
+     "start": 394.63,
+     "end": 395.487,
+     "words": [
+      {
+       "w": "Richard",
+       "start": 394.63,
+       "end": 395.115
+      },
+      {
+       "w": "McCoy.",
+       "start": 395.115,
+       "end": 395.487
+      }
+     ]
+    },
+    {
+     "text": "Just five months after Cooper, McCoy hijacked another plane using almost the exact same method, and jumped with half a million dollars.",
+     "start": 396.107,
+     "end": 404.448,
+     "words": [
+      {
+       "w": "Just",
+       "start": 396.107,
+       "end": 396.386
+      },
+      {
+       "w": "five",
+       "start": 396.386,
+       "end": 396.665
+      },
+      {
+       "w": "months",
+       "start": 396.665,
+       "end": 397.046
+      },
+      {
+       "w": "after",
+       "start": 397.046,
+       "end": 397.376
+      },
+      {
+       "w": "Cooper,",
+       "start": 397.376,
+       "end": 397.756
+      },
+      {
+       "w": "McCoy",
+       "start": 398.016,
+       "end": 398.401
+      },
+      {
+       "w": "hijacked",
+       "start": 398.401,
+       "end": 398.963
+      },
+      {
+       "w": "another",
+       "start": 398.963,
+       "end": 399.466
+      },
+      {
+       "w": "plane",
+       "start": 399.466,
+       "end": 399.851
+      },
+      {
+       "w": "using",
+       "start": 399.851,
+       "end": 400.236
+      },
+      {
+       "w": "almost",
+       "start": 400.236,
+       "end": 400.68
+      },
+      {
+       "w": "the",
+       "start": 400.68,
+       "end": 400.946
+      },
+      {
+       "w": "exact",
+       "start": 400.946,
+       "end": 401.331
+      },
+      {
+       "w": "same",
+       "start": 401.331,
+       "end": 401.657
+      },
+      {
+       "w": "method,",
+       "start": 401.657,
+       "end": 402.101
+      },
+      {
+       "w": "and",
+       "start": 402.352,
+       "end": 402.574
+      },
+      {
+       "w": "jumped",
+       "start": 402.574,
+       "end": 402.944
+      },
+      {
+       "w": "with",
+       "start": 402.944,
+       "end": 403.215
+      },
+      {
+       "w": "half",
+       "start": 403.215,
+       "end": 403.487
+      },
+      {
+       "w": "a",
+       "start": 403.487,
+       "end": 403.61
+      },
+      {
+       "w": "million",
+       "start": 403.61,
+       "end": 404.029
+      },
+      {
+       "w": "dollars.",
+       "start": 404.029,
+       "end": 404.448
+      }
+     ]
+    },
+    {
+     "text": "He was caught, escaped from prison, and was killed in a shootout with the FBI in 1974.",
+     "start": 404.985,
+     "end": 410.837,
+     "words": [
+      {
+       "w": "He",
+       "start": 404.985,
+       "end": 405.118
+      },
+      {
+       "w": "was",
+       "start": 405.118,
+       "end": 405.29
+      },
+      {
+       "w": "caught,",
+       "start": 405.29,
+       "end": 405.576
+      },
+      {
+       "w": "escaped",
+       "start": 405.914,
+       "end": 406.362
+      },
+      {
+       "w": "from",
+       "start": 406.362,
+       "end": 406.651
+      },
+      {
+       "w": "prison,",
+       "start": 406.651,
+       "end": 407.046
+      },
+      {
+       "w": "and",
+       "start": 407.208,
+       "end": 407.503
+      },
+      {
+       "w": "was",
+       "start": 407.503,
+       "end": 407.797
+      },
+      {
+       "w": "killed",
+       "start": 407.797,
+       "end": 408.287
+      },
+      {
+       "w": "in",
+       "start": 408.287,
+       "end": 408.516
+      },
+      {
+       "w": "a",
+       "start": 408.516,
+       "end": 408.68
+      },
+      {
+       "w": "shootout",
+       "start": 408.68,
+       "end": 409.301
+      },
+      {
+       "w": "with",
+       "start": 409.301,
+       "end": 409.66
+      },
+      {
+       "w": "the",
+       "start": 409.66,
+       "end": 409.955
+      },
+      {
+       "w": "FBI",
+       "start": 409.955,
+       "end": 410.249
+      },
+      {
+       "w": "in",
+       "start": 410.249,
+       "end": 410.478
+      },
+      {
+       "w": "1974.",
+       "start": 410.478,
+       "end": 410.837
+      }
+     ]
+    },
+    {
+     "text": "Decades later, his children handed the FBI a parachute they'd found hidden in the family's belongings.",
+     "start": 411.384,
+     "end": 417.145,
+     "words": [
+      {
+       "w": "Decades",
+       "start": 411.384,
+       "end": 411.914
+      },
+      {
+       "w": "later,",
+       "start": 411.914,
+       "end": 412.318
+      },
+      {
+       "w": "his",
+       "start": 412.512,
+       "end": 412.739
+      },
+      {
+       "w": "children",
+       "start": 412.739,
+       "end": 413.217
+      },
+      {
+       "w": "handed",
+       "start": 413.217,
+       "end": 413.595
+      },
+      {
+       "w": "the",
+       "start": 413.595,
+       "end": 413.821
+      },
+      {
+       "w": "FBI",
+       "start": 413.821,
+       "end": 414.048
+      },
+      {
+       "w": "a",
+       "start": 414.048,
+       "end": 414.174
+      },
+      {
+       "w": "parachute",
+       "start": 414.174,
+       "end": 414.702
+      },
+      {
+       "w": "they'd",
+       "start": 414.702,
+       "end": 415.03
+      },
+      {
+       "w": "found",
+       "start": 415.03,
+       "end": 415.357
+      },
+      {
+       "w": "hidden",
+       "start": 415.357,
+       "end": 415.735
+      },
+      {
+       "w": "in",
+       "start": 415.735,
+       "end": 415.911
+      },
+      {
+       "w": "the",
+       "start": 415.911,
+       "end": 416.138
+      },
+      {
+       "w": "family's",
+       "start": 416.138,
+       "end": 416.566
+      },
+      {
+       "w": "belongings.",
+       "start": 416.566,
+       "end": 417.145
+      }
+     ]
+    },
+    {
+     "text": "They believe their father was Cooper.",
+     "start": 417.603,
+     "end": 419.454,
+     "words": [
+      {
+       "w": "They",
+       "start": 417.603,
+       "end": 417.858
+      },
+      {
+       "w": "believe",
+       "start": 417.858,
+       "end": 418.251
+      },
+      {
+       "w": "their",
+       "start": 418.251,
+       "end": 418.552
+      },
+      {
+       "w": "father",
+       "start": 418.552,
+       "end": 418.899
+      },
+      {
+       "w": "was",
+       "start": 418.899,
+       "end": 419.107
+      },
+      {
+       "w": "Cooper.",
+       "start": 419.107,
+       "end": 419.454
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 37,
+   "file": "cooperlong/vo/line37.mp3",
+   "start": 420.031,
+   "dur": 12.304,
+   "sentences": [
+    {
+     "text": "Kenneth Christiansen.",
+     "start": 420.031,
+     "end": 421.089,
+     "words": [
+      {
+       "w": "Kenneth",
+       "start": 420.031,
+       "end": 420.44
+      },
+      {
+       "w": "Christiansen.",
+       "start": 420.44,
+       "end": 421.089
+      }
+     ]
+    },
+    {
+     "text": "A former paratrooper who worked for Northwest Orient, the very airline Cooper hijacked.",
+     "start": 421.697,
+     "end": 426.782,
+     "words": [
+      {
+       "w": "A",
+       "start": 421.697,
+       "end": 421.824
+      },
+      {
+       "w": "former",
+       "start": 421.824,
+       "end": 422.204
+      },
+      {
+       "w": "paratrooper",
+       "start": 422.204,
+       "end": 422.837
+      },
+      {
+       "w": "who",
+       "start": 422.837,
+       "end": 423.065
+      },
+      {
+       "w": "worked",
+       "start": 423.065,
+       "end": 423.445
+      },
+      {
+       "w": "for",
+       "start": 423.445,
+       "end": 423.673
+      },
+      {
+       "w": "Northwest",
+       "start": 423.673,
+       "end": 424.205
+      },
+      {
+       "w": "Orient,",
+       "start": 424.205,
+       "end": 424.585
+      },
+      {
+       "w": "the",
+       "start": 424.832,
+       "end": 425.08
+      },
+      {
+       "w": "very",
+       "start": 425.08,
+       "end": 425.382
+      },
+      {
+       "w": "airline",
+       "start": 425.382,
+       "end": 425.848
+      },
+      {
+       "w": "Cooper",
+       "start": 425.848,
+       "end": 426.26
+      },
+      {
+       "w": "hijacked.",
+       "start": 426.26,
+       "end": 426.782
+      }
+     ]
+    },
+    {
+     "text": "After his death, his brother became convinced he was the man on Flight 305.",
+     "start": 427.253,
+     "end": 432.089,
+     "words": [
+      {
+       "w": "After",
+       "start": 427.253,
+       "end": 427.58
+      },
+      {
+       "w": "his",
+       "start": 427.58,
+       "end": 427.807
+      },
+      {
+       "w": "death,",
+       "start": 427.807,
+       "end": 428.135
+      },
+      {
+       "w": "his",
+       "start": 428.345,
+       "end": 428.581
+      },
+      {
+       "w": "brother",
+       "start": 428.581,
+       "end": 429.026
+      },
+      {
+       "w": "became",
+       "start": 429.026,
+       "end": 429.419
+      },
+      {
+       "w": "convinced",
+       "start": 429.419,
+       "end": 429.969
+      },
+      {
+       "w": "he",
+       "start": 429.969,
+       "end": 430.152
+      },
+      {
+       "w": "was",
+       "start": 430.152,
+       "end": 430.387
+      },
+      {
+       "w": "the",
+       "start": 430.387,
+       "end": 430.623
+      },
+      {
+       "w": "man",
+       "start": 430.623,
+       "end": 430.859
+      },
+      {
+       "w": "on",
+       "start": 430.859,
+       "end": 431.042
+      },
+      {
+       "w": "Flight",
+       "start": 431.042,
+       "end": 431.435
+      },
+      {
+       "w": "305.",
+       "start": 431.435,
+       "end": 432.089
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 38,
+   "file": "cooperlong/vo/line38.mp3",
+   "start": 432.685,
+   "dur": 11.99,
+   "sentences": [
+    {
+     "text": "Robert Rackstraw.",
+     "start": 432.685,
+     "end": 433.802,
+     "words": [
+      {
+       "w": "Robert",
+       "start": 432.685,
+       "end": 433.15
+      },
+      {
+       "w": "Rackstraw.",
+       "start": 433.15,
+       "end": 433.802
+      }
+     ]
+    },
+    {
+     "text": "A Vietnam veteran and pilot, named by one team of investigators as Cooper.",
+     "start": 434.345,
+     "end": 439.06,
+     "words": [
+      {
+       "w": "A",
+       "start": 434.345,
+       "end": 434.487
+      },
+      {
+       "w": "Vietnam",
+       "start": 434.487,
+       "end": 434.971
+      },
+      {
+       "w": "veteran",
+       "start": 434.971,
+       "end": 435.456
+      },
+      {
+       "w": "and",
+       "start": 435.456,
+       "end": 435.712
+      },
+      {
+       "w": "pilot,",
+       "start": 435.712,
+       "end": 436.082
+      },
+      {
+       "w": "named",
+       "start": 436.385,
+       "end": 436.74
+      },
+      {
+       "w": "by",
+       "start": 436.74,
+       "end": 436.931
+      },
+      {
+       "w": "one",
+       "start": 436.931,
+       "end": 437.176
+      },
+      {
+       "w": "team",
+       "start": 437.176,
+       "end": 437.477
+      },
+      {
+       "w": "of",
+       "start": 437.477,
+       "end": 437.668
+      },
+      {
+       "w": "investigators",
+       "start": 437.668,
+       "end": 438.459
+      },
+      {
+       "w": "as",
+       "start": 438.459,
+       "end": 438.651
+      },
+      {
+       "w": "Cooper.",
+       "start": 438.651,
+       "end": 439.06
+      }
+     ]
+    },
+    {
+     "text": "Critics said he was far too young to match the witnesses.",
+     "start": 439.6,
+     "end": 442.758,
+     "words": [
+      {
+       "w": "Critics",
+       "start": 439.6,
+       "end": 440.03
+      },
+      {
+       "w": "said",
+       "start": 440.03,
+       "end": 440.307
+      },
+      {
+       "w": "he",
+       "start": 440.307,
+       "end": 440.484
+      },
+      {
+       "w": "was",
+       "start": 440.484,
+       "end": 440.712
+      },
+      {
+       "w": "far",
+       "start": 440.712,
+       "end": 440.939
+      },
+      {
+       "w": "too",
+       "start": 440.939,
+       "end": 441.166
+      },
+      {
+       "w": "young",
+       "start": 441.166,
+       "end": 441.495
+      },
+      {
+       "w": "to",
+       "start": 441.495,
+       "end": 441.671
+      },
+      {
+       "w": "match",
+       "start": 441.671,
+       "end": 442
+      },
+      {
+       "w": "the",
+       "start": 442,
+       "end": 442.227
+      },
+      {
+       "w": "witnesses.",
+       "start": 442.227,
+       "end": 442.758
+      }
+     ]
+    },
+    {
+     "text": "He always denied it.",
+     "start": 443.234,
+     "end": 444.405,
+     "words": [
+      {
+       "w": "He",
+       "start": 443.234,
+       "end": 443.421
+      },
+      {
+       "w": "always",
+       "start": 443.421,
+       "end": 443.82
+      },
+      {
+       "w": "denied",
+       "start": 443.82,
+       "end": 444.219
+      },
+      {
+       "w": "it.",
+       "start": 444.219,
+       "end": 444.405
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 39,
+   "file": "cooperlong/vo/line39.mp3",
+   "start": 445.025,
+   "dur": 2.638,
+   "sentences": [
+    {
+     "text": "None of them was ever proven to be Cooper.",
+     "start": 445.025,
+     "end": 447.413,
+     "words": [
+      {
+       "w": "None",
+       "start": 445.025,
+       "end": 445.307
+      },
+      {
+       "w": "of",
+       "start": 445.307,
+       "end": 445.487
+      },
+      {
+       "w": "them",
+       "start": 445.487,
+       "end": 445.77
+      },
+      {
+       "w": "was",
+       "start": 445.77,
+       "end": 446.001
+      },
+      {
+       "w": "ever",
+       "start": 446.001,
+       "end": 446.283
+      },
+      {
+       "w": "proven",
+       "start": 446.283,
+       "end": 446.668
+      },
+      {
+       "w": "to",
+       "start": 446.668,
+       "end": 446.848
+      },
+      {
+       "w": "be",
+       "start": 446.848,
+       "end": 447.028
+      },
+      {
+       "w": "Cooper.",
+       "start": 447.028,
+       "end": 447.413
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 40,
+   "file": "cooperlong/vo/line40.mp3",
+   "start": 448.013,
+   "dur": 21.629,
+   "sentences": [
+    {
+     "text": "And then there's the theory many FBI agents believed.",
+     "start": 448.013,
+     "end": 451.148,
+     "words": [
+      {
+       "w": "And",
+       "start": 448.013,
+       "end": 448.263
+      },
+      {
+       "w": "then",
+       "start": 448.263,
+       "end": 448.568
+      },
+      {
+       "w": "there's",
+       "start": 448.568,
+       "end": 448.984
+      },
+      {
+       "w": "the",
+       "start": 448.984,
+       "end": 449.234
+      },
+      {
+       "w": "theory",
+       "start": 449.234,
+       "end": 449.65
+      },
+      {
+       "w": "many",
+       "start": 449.65,
+       "end": 449.955
+      },
+      {
+       "w": "FBI",
+       "start": 449.955,
+       "end": 450.205
+      },
+      {
+       "w": "agents",
+       "start": 450.205,
+       "end": 450.621
+      },
+      {
+       "w": "believed.",
+       "start": 450.621,
+       "end": 451.148
+      }
+     ]
+    },
+    {
+     "text": "That Cooper never survived at all.",
+     "start": 451.72,
+     "end": 453.802,
+     "words": [
+      {
+       "w": "That",
+       "start": 451.72,
+       "end": 452.029
+      },
+      {
+       "w": "Cooper",
+       "start": 452.029,
+       "end": 452.451
+      },
+      {
+       "w": "never",
+       "start": 452.451,
+       "end": 452.817
+      },
+      {
+       "w": "survived",
+       "start": 452.817,
+       "end": 453.352
+      },
+      {
+       "w": "at",
+       "start": 453.352,
+       "end": 453.548
+      },
+      {
+       "w": "all.",
+       "start": 453.548,
+       "end": 453.802
+      }
+     ]
+    },
+    {
+     "text": "He jumped at night, into a storm, over rugged forest, without proper gear.",
+     "start": 454.427,
+     "end": 459.369,
+     "words": [
+      {
+       "w": "He",
+       "start": 454.427,
+       "end": 454.571
+      },
+      {
+       "w": "jumped",
+       "start": 454.571,
+       "end": 454.879
+      },
+      {
+       "w": "at",
+       "start": 454.879,
+       "end": 455.023
+      },
+      {
+       "w": "night,",
+       "start": 455.023,
+       "end": 455.29
+      },
+      {
+       "w": "into",
+       "start": 455.625,
+       "end": 455.966
+      },
+      {
+       "w": "a",
+       "start": 455.966,
+       "end": 456.121
+      },
+      {
+       "w": "storm,",
+       "start": 456.121,
+       "end": 456.523
+      },
+      {
+       "w": "over",
+       "start": 456.819,
+       "end": 457.142
+      },
+      {
+       "w": "rugged",
+       "start": 457.142,
+       "end": 457.583
+      },
+      {
+       "w": "forest,",
+       "start": 457.583,
+       "end": 458.024
+      },
+      {
+       "w": "without",
+       "start": 458.288,
+       "end": 458.715
+      },
+      {
+       "w": "proper",
+       "start": 458.715,
+       "end": 459.092
+      },
+      {
+       "w": "gear.",
+       "start": 459.092,
+       "end": 459.369
+      }
+     ]
+    },
+    {
+     "text": "Reportedly, one of the reserve chutes he took was a training dummy, sewn shut.",
+     "start": 459.934,
+     "end": 464.494,
+     "words": [
+      {
+       "w": "Reportedly,",
+       "start": 459.934,
+       "end": 460.668
+      },
+      {
+       "w": "one",
+       "start": 460.874,
+       "end": 461.067
+      },
+      {
+       "w": "of",
+       "start": 461.067,
+       "end": 461.217
+      },
+      {
+       "w": "the",
+       "start": 461.217,
+       "end": 461.409
+      },
+      {
+       "w": "reserve",
+       "start": 461.409,
+       "end": 461.773
+      },
+      {
+       "w": "chutes",
+       "start": 461.773,
+       "end": 462.093
+      },
+      {
+       "w": "he",
+       "start": 462.093,
+       "end": 462.243
+      },
+      {
+       "w": "took",
+       "start": 462.243,
+       "end": 462.478
+      },
+      {
+       "w": "was",
+       "start": 462.478,
+       "end": 462.671
+      },
+      {
+       "w": "a",
+       "start": 462.671,
+       "end": 462.778
+      },
+      {
+       "w": "training",
+       "start": 462.778,
+       "end": 463.184
+      },
+      {
+       "w": "dummy,",
+       "start": 463.184,
+       "end": 463.462
+      },
+      {
+       "w": "sewn",
+       "start": 463.731,
+       "end": 464.113
+      },
+      {
+       "w": "shut.",
+       "start": 464.113,
+       "end": 464.494
+      }
+     ]
+    },
+    {
+     "text": "Some agents believe he died that night, and the forest simply swallowed him.",
+     "start": 465.02,
+     "end": 469.329,
+     "words": [
+      {
+       "w": "Some",
+       "start": 465.02,
+       "end": 465.277
+      },
+      {
+       "w": "agents",
+       "start": 465.277,
+       "end": 465.627
+      },
+      {
+       "w": "believe",
+       "start": 465.627,
+       "end": 466.024
+      },
+      {
+       "w": "he",
+       "start": 466.024,
+       "end": 466.187
+      },
+      {
+       "w": "died",
+       "start": 466.187,
+       "end": 466.444
+      },
+      {
+       "w": "that",
+       "start": 466.444,
+       "end": 466.701
+      },
+      {
+       "w": "night,",
+       "start": 466.701,
+       "end": 467.004
+      },
+      {
+       "w": "and",
+       "start": 467.564,
+       "end": 467.768
+      },
+      {
+       "w": "the",
+       "start": 467.768,
+       "end": 467.972
+      },
+      {
+       "w": "forest",
+       "start": 467.972,
+       "end": 468.311
+      },
+      {
+       "w": "simply",
+       "start": 468.311,
+       "end": 468.65
+      },
+      {
+       "w": "swallowed",
+       "start": 468.65,
+       "end": 469.126
+      },
+      {
+       "w": "him.",
+       "start": 469.126,
+       "end": 469.329
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 41,
+   "file": "cooperlong/vo/line41.mp3",
+   "start": 469.993,
+   "dur": 16.588,
+   "sentences": [
+    {
+     "text": "In 2016, after forty-five years, the FBI officially stopped actively investigating the case.",
+     "start": 469.993,
+     "end": 477.031,
+     "words": [
+      {
+       "w": "In",
+       "start": 469.993,
+       "end": 470.42
+      },
+      {
+       "w": "2016,",
+       "start": 470.42,
+       "end": 471.092
+      },
+      {
+       "w": "after",
+       "start": 471.352,
+       "end": 471.837
+      },
+      {
+       "w": "forty-five",
+       "start": 471.837,
+       "end": 472.621
+      },
+      {
+       "w": "years,",
+       "start": 472.621,
+       "end": 473.107
+      },
+      {
+       "w": "the",
+       "start": 473.399,
+       "end": 473.658
+      },
+      {
+       "w": "FBI",
+       "start": 473.658,
+       "end": 473.918
+      },
+      {
+       "w": "officially",
+       "start": 473.918,
+       "end": 474.581
+      },
+      {
+       "w": "stopped",
+       "start": 474.581,
+       "end": 475.071
+      },
+      {
+       "w": "actively",
+       "start": 475.071,
+       "end": 475.618
+      },
+      {
+       "w": "investigating",
+       "start": 475.618,
+       "end": 476.454
+      },
+      {
+       "w": "the",
+       "start": 476.454,
+       "end": 476.714
+      },
+      {
+       "w": "case.",
+       "start": 476.714,
+       "end": 477.031
+      }
+     ]
+    },
+    {
+     "text": "Their message was simple.",
+     "start": 477.575,
+     "end": 478.703,
+     "words": [
+      {
+       "w": "Their",
+       "start": 477.575,
+       "end": 477.846
+      },
+      {
+       "w": "message",
+       "start": 477.846,
+       "end": 478.201
+      },
+      {
+       "w": "was",
+       "start": 478.201,
+       "end": 478.389
+      },
+      {
+       "w": "simple.",
+       "start": 478.389,
+       "end": 478.703
+      }
+     ]
+    },
+    {
+     "text": "They would look again only if someone found real physical evidence.",
+     "start": 479.186,
+     "end": 482.992,
+     "words": [
+      {
+       "w": "They",
+       "start": 479.186,
+       "end": 479.475
+      },
+      {
+       "w": "would",
+       "start": 479.475,
+       "end": 479.816
+      },
+      {
+       "w": "look",
+       "start": 479.816,
+       "end": 480.105
+      },
+      {
+       "w": "again",
+       "start": 480.105,
+       "end": 480.446
+      },
+      {
+       "w": "only",
+       "start": 480.446,
+       "end": 480.735
+      },
+      {
+       "w": "if",
+       "start": 480.735,
+       "end": 480.919
+      },
+      {
+       "w": "someone",
+       "start": 480.919,
+       "end": 481.365
+      },
+      {
+       "w": "found",
+       "start": 481.365,
+       "end": 481.706
+      },
+      {
+       "w": "real",
+       "start": 481.706,
+       "end": 481.995
+      },
+      {
+       "w": "physical",
+       "start": 481.995,
+       "end": 482.493
+      },
+      {
+       "w": "evidence.",
+       "start": 482.493,
+       "end": 482.992
+      }
+     ]
+    },
+    {
+     "text": "The rest of the money.",
+     "start": 483.607,
+     "end": 484.62,
+     "words": [
+      {
+       "w": "The",
+       "start": 483.607,
+       "end": 483.793
+      },
+      {
+       "w": "rest",
+       "start": 483.793,
+       "end": 484.02
+      },
+      {
+       "w": "of",
+       "start": 484.02,
+       "end": 484.165
+      },
+      {
+       "w": "the",
+       "start": 484.165,
+       "end": 484.351
+      },
+      {
+       "w": "money.",
+       "start": 484.351,
+       "end": 484.62
+      }
+     ]
+    },
+    {
+     "text": "Or the parachute.",
+     "start": 485.127,
+     "end": 486.334,
+     "words": [
+      {
+       "w": "Or",
+       "start": 485.127,
+       "end": 485.355
+      },
+      {
+       "w": "the",
+       "start": 485.355,
+       "end": 485.648
+      },
+      {
+       "w": "parachute.",
+       "start": 485.648,
+       "end": 486.334
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 42,
+   "file": "cooperlong/vo/line42.mp3",
+   "start": 486.93,
+   "dur": 20.036,
+   "sentences": [
+    {
+     "text": "And people are still looking.",
+     "start": 486.93,
+     "end": 488.445,
+     "words": [
+      {
+       "w": "And",
+       "start": 486.93,
+       "end": 487.147
+      },
+      {
+       "w": "people",
+       "start": 487.147,
+       "end": 487.508
+      },
+      {
+       "w": "are",
+       "start": 487.508,
+       "end": 487.724
+      },
+      {
+       "w": "still",
+       "start": 487.724,
+       "end": 488.037
+      },
+      {
+       "w": "looking.",
+       "start": 488.037,
+       "end": 488.445
+      }
+     ]
+    },
+    {
+     "text": "Amateur investigators have studied tiny metal particles found on Cooper's tie.",
+     "start": 489.021,
+     "end": 493.479,
+     "words": [
+      {
+       "w": "Amateur",
+       "start": 489.021,
+       "end": 489.48
+      },
+      {
+       "w": "investigators",
+       "start": 489.48,
+       "end": 490.264
+      },
+      {
+       "w": "have",
+       "start": 490.264,
+       "end": 490.561
+      },
+      {
+       "w": "studied",
+       "start": 490.561,
+       "end": 491.02
+      },
+      {
+       "w": "tiny",
+       "start": 491.02,
+       "end": 491.318
+      },
+      {
+       "w": "metal",
+       "start": 491.318,
+       "end": 491.669
+      },
+      {
+       "w": "particles",
+       "start": 491.669,
+       "end": 492.236
+      },
+      {
+       "w": "found",
+       "start": 492.236,
+       "end": 492.588
+      },
+      {
+       "w": "on",
+       "start": 492.588,
+       "end": 492.777
+      },
+      {
+       "w": "Cooper's",
+       "start": 492.777,
+       "end": 493.236
+      },
+      {
+       "w": "tie.",
+       "start": 493.236,
+       "end": 493.479
+      }
+     ]
+    },
+    {
+     "text": "Families have come forward with old parachutes and old secrets.",
+     "start": 494.015,
+     "end": 497.871,
+     "words": [
+      {
+       "w": "Families",
+       "start": 494.015,
+       "end": 494.554
+      },
+      {
+       "w": "have",
+       "start": 494.554,
+       "end": 494.866
+      },
+      {
+       "w": "come",
+       "start": 494.866,
+       "end": 495.178
+      },
+      {
+       "w": "forward",
+       "start": 495.178,
+       "end": 495.659
+      },
+      {
+       "w": "with",
+       "start": 495.659,
+       "end": 495.971
+      },
+      {
+       "w": "old",
+       "start": 495.971,
+       "end": 496.226
+      },
+      {
+       "w": "parachutes",
+       "start": 496.226,
+       "end": 496.878
+      },
+      {
+       "w": "and",
+       "start": 496.878,
+       "end": 497.134
+      },
+      {
+       "w": "old",
+       "start": 497.134,
+       "end": 497.389
+      },
+      {
+       "w": "secrets.",
+       "start": 497.389,
+       "end": 497.871
+      }
+     ]
+    },
+    {
+     "text": "This year, the FBI released hundreds of new pages from its files.",
+     "start": 498.455,
+     "end": 502.543,
+     "words": [
+      {
+       "w": "This",
+       "start": 498.455,
+       "end": 498.734
+      },
+      {
+       "w": "year,",
+       "start": 498.734,
+       "end": 499.013
+      },
+      {
+       "w": "the",
+       "start": 499.189,
+       "end": 499.445
+      },
+      {
+       "w": "FBI",
+       "start": 499.445,
+       "end": 499.701
+      },
+      {
+       "w": "released",
+       "start": 499.701,
+       "end": 500.241
+      },
+      {
+       "w": "hundreds",
+       "start": 500.241,
+       "end": 500.781
+      },
+      {
+       "w": "of",
+       "start": 500.781,
+       "end": 500.979
+      },
+      {
+       "w": "new",
+       "start": 500.979,
+       "end": 501.235
+      },
+      {
+       "w": "pages",
+       "start": 501.235,
+       "end": 501.605
+      },
+      {
+       "w": "from",
+       "start": 501.605,
+       "end": 501.917
+      },
+      {
+       "w": "its",
+       "start": 501.917,
+       "end": 502.173
+      },
+      {
+       "w": "files.",
+       "start": 502.173,
+       "end": 502.543
+      }
+     ]
+    },
+    {
+     "text": "More suspects.",
+     "start": 503.055,
+     "end": 504.086,
+     "words": [
+      {
+       "w": "More",
+       "start": 503.055,
+       "end": 503.433
+      },
+      {
+       "w": "suspects.",
+       "start": 503.433,
+       "end": 504.086
+      }
+     ]
+    },
+    {
+     "text": "More dead ends.",
+     "start": 504.397,
+     "end": 505.361,
+     "words": [
+      {
+       "w": "More",
+       "start": 504.397,
+       "end": 504.718
+      },
+      {
+       "w": "dead",
+       "start": 504.718,
+       "end": 505.039
+      },
+      {
+       "w": "ends.",
+       "start": 505.039,
+       "end": 505.361
+      }
+     ]
+    },
+    {
+     "text": "But no answer.",
+     "start": 505.829,
+     "end": 506.709,
+     "words": [
+      {
+       "w": "But",
+       "start": 505.829,
+       "end": 506.084
+      },
+      {
+       "w": "no",
+       "start": 506.084,
+       "end": 506.283
+      },
+      {
+       "w": "answer.",
+       "start": 506.283,
+       "end": 506.709
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 43,
+   "file": "cooperlong/vo/line43.mp3",
+   "start": 507.316,
+   "dur": 17.162,
+   "sentences": [
+    {
+     "text": "Here's what we know for sure.",
+     "start": 507.316,
+     "end": 508.719,
+     "words": [
+      {
+       "w": "Here's",
+       "start": 507.316,
+       "end": 507.611
+      },
+      {
+       "w": "what",
+       "start": 507.611,
+       "end": 507.859
+      },
+      {
+       "w": "we",
+       "start": 507.859,
+       "end": 508.018
+      },
+      {
+       "w": "know",
+       "start": 508.018,
+       "end": 508.267
+      },
+      {
+       "w": "for",
+       "start": 508.267,
+       "end": 508.471
+      },
+      {
+       "w": "sure.",
+       "start": 508.471,
+       "end": 508.719
+      }
+     ]
+    },
+    {
+     "text": "A man walked onto a plane with a briefcase and a calm voice.",
+     "start": 509.283,
+     "end": 513.017,
+     "words": [
+      {
+       "w": "A",
+       "start": 509.283,
+       "end": 509.423
+      },
+      {
+       "w": "man",
+       "start": 509.423,
+       "end": 509.676
+      },
+      {
+       "w": "walked",
+       "start": 509.676,
+       "end": 510.097
+      },
+      {
+       "w": "onto",
+       "start": 510.097,
+       "end": 510.406
+      },
+      {
+       "w": "a",
+       "start": 510.406,
+       "end": 510.546
+      },
+      {
+       "w": "plane",
+       "start": 510.546,
+       "end": 510.911
+      },
+      {
+       "w": "with",
+       "start": 510.911,
+       "end": 511.22
+      },
+      {
+       "w": "a",
+       "start": 511.22,
+       "end": 511.361
+      },
+      {
+       "w": "briefcase",
+       "start": 511.361,
+       "end": 511.95
+      },
+      {
+       "w": "and",
+       "start": 511.95,
+       "end": 512.203
+      },
+      {
+       "w": "a",
+       "start": 512.203,
+       "end": 512.343
+      },
+      {
+       "w": "calm",
+       "start": 512.343,
+       "end": 512.652
+      },
+      {
+       "w": "voice.",
+       "start": 512.652,
+       "end": 513.017
+      }
+     ]
+    },
+    {
+     "text": "He took two hundred thousand dollars.",
+     "start": 513.509,
+     "end": 515.722,
+     "words": [
+      {
+       "w": "He",
+       "start": 513.509,
+       "end": 513.703
+      },
+      {
+       "w": "took",
+       "start": 513.703,
+       "end": 514.007
+      },
+      {
+       "w": "two",
+       "start": 514.007,
+       "end": 514.256
+      },
+      {
+       "w": "hundred",
+       "start": 514.256,
+       "end": 514.726
+      },
+      {
+       "w": "thousand",
+       "start": 514.726,
+       "end": 515.252
+      },
+      {
+       "w": "dollars.",
+       "start": 515.252,
+       "end": 515.722
+      }
+     ]
+    },
+    {
+     "text": "He jumped into a storm.",
+     "start": 516.155,
+     "end": 517.5,
+     "words": [
+      {
+       "w": "He",
+       "start": 516.155,
+       "end": 516.34
+      },
+      {
+       "w": "jumped",
+       "start": 516.34,
+       "end": 516.735
+      },
+      {
+       "w": "into",
+       "start": 516.735,
+       "end": 517.025
+      },
+      {
+       "w": "a",
+       "start": 517.025,
+       "end": 517.157
+      },
+      {
+       "w": "storm.",
+       "start": 517.157,
+       "end": 517.5
+      }
+     ]
+    },
+    {
+     "text": "And more than fifty years later, America's only unsolved airline hijacking is still unsolved.",
+     "start": 517.915,
+     "end": 524.232,
+     "words": [
+      {
+       "w": "And",
+       "start": 517.915,
+       "end": 518.135
+      },
+      {
+       "w": "more",
+       "start": 518.135,
+       "end": 518.405
+      },
+      {
+       "w": "than",
+       "start": 518.405,
+       "end": 518.674
+      },
+      {
+       "w": "fifty",
+       "start": 518.674,
+       "end": 518.993
+      },
+      {
+       "w": "years",
+       "start": 518.993,
+       "end": 519.311
+      },
+      {
+       "w": "later,",
+       "start": 519.311,
+       "end": 519.63
+      },
+      {
+       "w": "America's",
+       "start": 519.996,
+       "end": 520.634
+      },
+      {
+       "w": "only",
+       "start": 520.634,
+       "end": 521.004
+      },
+      {
+       "w": "unsolved",
+       "start": 521.004,
+       "end": 521.643
+      },
+      {
+       "w": "airline",
+       "start": 521.643,
+       "end": 522.214
+      },
+      {
+       "w": "hijacking",
+       "start": 522.214,
+       "end": 522.92
+      },
+      {
+       "w": "is",
+       "start": 522.92,
+       "end": 523.156
+      },
+      {
+       "w": "still",
+       "start": 523.156,
+       "end": 523.593
+      },
+      {
+       "w": "unsolved.",
+       "start": 523.593,
+       "end": 524.232
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 44,
+   "file": "cooperlong/vo/line44.mp3",
+   "start": 524.829,
+   "dur": 7.445,
+   "sentences": [
+    {
+     "text": "Somewhere out there, in a forest, in a river, or in an old attic, the truth is still waiting.",
+     "start": 524.829,
+     "end": 532.067,
+     "words": [
+      {
+       "w": "Somewhere",
+       "start": 524.829,
+       "end": 525.438
+      },
+      {
+       "w": "out",
+       "start": 525.438,
+       "end": 525.699
+      },
+      {
+       "w": "there,",
+       "start": 525.699,
+       "end": 526.076
+      },
+      {
+       "w": "in",
+       "start": 526.466,
+       "end": 526.712
+      },
+      {
+       "w": "a",
+       "start": 526.712,
+       "end": 526.888
+      },
+      {
+       "w": "forest,",
+       "start": 526.888,
+       "end": 527.415
+      },
+      {
+       "w": "in",
+       "start": 527.635,
+       "end": 527.833
+      },
+      {
+       "w": "a",
+       "start": 527.833,
+       "end": 527.973
+      },
+      {
+       "w": "river,",
+       "start": 527.973,
+       "end": 528.34
+      },
+      {
+       "w": "or",
+       "start": 528.562,
+       "end": 528.753
+      },
+      {
+       "w": "in",
+       "start": 528.753,
+       "end": 528.944
+      },
+      {
+       "w": "an",
+       "start": 528.944,
+       "end": 529.135
+      },
+      {
+       "w": "old",
+       "start": 529.135,
+       "end": 529.38
+      },
+      {
+       "w": "attic,",
+       "start": 529.38,
+       "end": 529.735
+      },
+      {
+       "w": "the",
+       "start": 530.363,
+       "end": 530.622
+      },
+      {
+       "w": "truth",
+       "start": 530.622,
+       "end": 530.998
+      },
+      {
+       "w": "is",
+       "start": 530.998,
+       "end": 531.2
+      },
+      {
+       "w": "still",
+       "start": 531.2,
+       "end": 531.576
+      },
+      {
+       "w": "waiting.",
+       "start": 531.576,
+       "end": 532.067
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 45,
+   "file": "cooperlong/vo/line45.mp3",
+   "start": 532.624,
+   "dur": 10.475,
+   "sentences": [
+    {
+     "text": "So what do you think?",
+     "start": 532.624,
+     "end": 533.718,
+     "words": [
+      {
+       "w": "So",
+       "start": 532.624,
+       "end": 532.787
+      },
+      {
+       "w": "what",
+       "start": 532.787,
+       "end": 533.043
+      },
+      {
+       "w": "do",
+       "start": 533.043,
+       "end": 533.206
+      },
+      {
+       "w": "you",
+       "start": 533.206,
+       "end": 533.415
+      },
+      {
+       "w": "think?",
+       "start": 533.415,
+       "end": 533.718
+      }
+     ]
+    },
+    {
+     "text": "Did Dan Cooper survive the jump, and spend the rest of his life hiding in plain sight?",
+     "start": 534.285,
+     "end": 538.703,
+     "words": [
+      {
+       "w": "Did",
+       "start": 534.285,
+       "end": 534.511
+      },
+      {
+       "w": "Dan",
+       "start": 534.511,
+       "end": 534.736
+      },
+      {
+       "w": "Cooper",
+       "start": 534.736,
+       "end": 535.111
+      },
+      {
+       "w": "survive",
+       "start": 535.111,
+       "end": 535.537
+      },
+      {
+       "w": "the",
+       "start": 535.537,
+       "end": 535.762
+      },
+      {
+       "w": "jump,",
+       "start": 535.762,
+       "end": 536.037
+      },
+      {
+       "w": "and",
+       "start": 536.215,
+       "end": 536.407
+      },
+      {
+       "w": "spend",
+       "start": 536.407,
+       "end": 536.683
+      },
+      {
+       "w": "the",
+       "start": 536.683,
+       "end": 536.875
+      },
+      {
+       "w": "rest",
+       "start": 536.875,
+       "end": 537.109
+      },
+      {
+       "w": "of",
+       "start": 537.109,
+       "end": 537.257
+      },
+      {
+       "w": "his",
+       "start": 537.257,
+       "end": 537.449
+      },
+      {
+       "w": "life",
+       "start": 537.449,
+       "end": 537.683
+      },
+      {
+       "w": "hiding",
+       "start": 537.683,
+       "end": 538.002
+      },
+      {
+       "w": "in",
+       "start": 538.002,
+       "end": 538.151
+      },
+      {
+       "w": "plain",
+       "start": 538.151,
+       "end": 538.427
+      },
+      {
+       "w": "sight?",
+       "start": 538.427,
+       "end": 538.703
+      }
+     ]
+    },
+    {
+     "text": "Or did he die that night in the trees?",
+     "start": 539.186,
+     "end": 541.438,
+     "words": [
+      {
+       "w": "Or",
+       "start": 539.186,
+       "end": 539.371
+      },
+      {
+       "w": "did",
+       "start": 539.371,
+       "end": 539.61
+      },
+      {
+       "w": "he",
+       "start": 539.61,
+       "end": 539.795
+      },
+      {
+       "w": "die",
+       "start": 539.795,
+       "end": 540.034
+      },
+      {
+       "w": "that",
+       "start": 540.034,
+       "end": 540.325
+      },
+      {
+       "w": "night",
+       "start": 540.325,
+       "end": 540.669
+      },
+      {
+       "w": "in",
+       "start": 540.669,
+       "end": 540.855
+      },
+      {
+       "w": "the",
+       "start": 540.855,
+       "end": 541.093
+      },
+      {
+       "w": "trees?",
+       "start": 541.093,
+       "end": 541.438
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 541.919,
+     "end": 542.88,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 541.919,
+       "end": 542.119
+      },
+      {
+       "w": "me",
+       "start": 542.119,
+       "end": 542.246
+      },
+      {
+       "w": "in",
+       "start": 542.246,
+       "end": 542.372
+      },
+      {
+       "w": "the",
+       "start": 542.372,
+       "end": 542.536
+      },
+      {
+       "w": "comments.",
+       "start": 542.536,
+       "end": 542.88
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 46,
+   "file": "cooperlong/vo/line46.mp3",
+   "start": 543.449,
+   "dur": 9.796,
+   "sentences": [
+    {
+     "text": "And if you want another story of people who vanished without a trace, watch this next.",
+     "start": 543.449,
+     "end": 548.078,
+     "words": [
+      {
+       "w": "And",
+       "start": 543.449,
+       "end": 543.648
+      },
+      {
+       "w": "if",
+       "start": 543.648,
+       "end": 543.802
+      },
+      {
+       "w": "you",
+       "start": 543.802,
+       "end": 544.001
+      },
+      {
+       "w": "want",
+       "start": 544.001,
+       "end": 544.244
+      },
+      {
+       "w": "another",
+       "start": 544.244,
+       "end": 544.62
+      },
+      {
+       "w": "story",
+       "start": 544.62,
+       "end": 544.907
+      },
+      {
+       "w": "of",
+       "start": 544.907,
+       "end": 545.062
+      },
+      {
+       "w": "people",
+       "start": 545.062,
+       "end": 545.393
+      },
+      {
+       "w": "who",
+       "start": 545.393,
+       "end": 545.592
+      },
+      {
+       "w": "vanished",
+       "start": 545.592,
+       "end": 546.012
+      },
+      {
+       "w": "without",
+       "start": 546.012,
+       "end": 546.388
+      },
+      {
+       "w": "a",
+       "start": 546.388,
+       "end": 546.498
+      },
+      {
+       "w": "trace,",
+       "start": 546.498,
+       "end": 546.785
+      },
+      {
+       "w": "watch",
+       "start": 547.104,
+       "end": 547.466
+      },
+      {
+       "w": "this",
+       "start": 547.466,
+       "end": 547.772
+      },
+      {
+       "w": "next.",
+       "start": 547.772,
+       "end": 548.078
+      }
+     ]
+    },
+    {
+     "text": "The ship that was found sailing perfectly fine, with no one on board.",
+     "start": 548.541,
+     "end": 552.963,
+     "words": [
+      {
+       "w": "The",
+       "start": 548.541,
+       "end": 548.769
+      },
+      {
+       "w": "ship",
+       "start": 548.769,
+       "end": 549.047
+      },
+      {
+       "w": "that",
+       "start": 549.047,
+       "end": 549.326
+      },
+      {
+       "w": "was",
+       "start": 549.326,
+       "end": 549.554
+      },
+      {
+       "w": "found",
+       "start": 549.554,
+       "end": 549.883
+      },
+      {
+       "w": "sailing",
+       "start": 549.883,
+       "end": 550.313
+      },
+      {
+       "w": "perfectly",
+       "start": 550.313,
+       "end": 550.845
+      },
+      {
+       "w": "fine,",
+       "start": 550.845,
+       "end": 551.123
+      },
+      {
+       "w": "with",
+       "start": 551.663,
+       "end": 551.967
+      },
+      {
+       "w": "no",
+       "start": 551.967,
+       "end": 552.161
+      },
+      {
+       "w": "one",
+       "start": 552.161,
+       "end": 552.409
+      },
+      {
+       "w": "on",
+       "start": 552.409,
+       "end": 552.603
+      },
+      {
+       "w": "board.",
+       "start": 552.603,
+       "end": 552.963
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

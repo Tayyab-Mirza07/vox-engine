@@ -184,7 +184,7 @@ const chunkLines = (lines: Line[]): Chunk[] =>
   );
 
 /** Word-by-word captions with the active word highlighted. */
-export const Captions: React.FC<{lines?: Line[]; accent?: string}> = ({lines = LINES, accent = C.green}) => {
+export const Captions: React.FC<{lines?: Line[]; accent?: string; top?: number; size?: number; side?: number}> = ({lines = LINES, accent = C.green, top = 1390, size = 96, side = 50}) => {
   const frame = useCurrentFrame();
   const CHUNKS = useMemo(() => chunkLines(lines), [lines]);
   const t = frame / FPS;
@@ -197,16 +197,16 @@ export const Captions: React.FC<{lines?: Line[]; accent?: string}> = ({lines = L
     <div
       style={{
         position: 'absolute',
-        top: 1390,
-        left: 50,
-        right: 50,
+        top,
+        left: side,
+        right: side,
         display: 'flex',
         justifyContent: 'center',
         flexWrap: 'wrap',
         gap: '0 22px',
         transform: `scale(${pop})`,
         fontFamily: DISPLAY,
-        fontSize: 96,
+        fontSize: size,
         lineHeight: 1.12,
         letterSpacing: 2,
         textTransform: 'uppercase',
