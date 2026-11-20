@@ -1,0 +1,44 @@
+{
+  "title": "The Man Who Vanished: D.B. Cooper",
+  "voice": {"provider": "elevenlabs", "voice_id": "uFIXVu9mmnDZ7dTKCBTX", "model": "eleven_v4"},
+  "spoken": {
+    "1971": "nineteen seventy one",
+    "$200,000": "two hundred thousand dollars",
+    "45": "forty five",
+    "$20": "twenty dollar",
+    "24th": "twenty fourth",
+    "36": "thirty six",
+    "8": "eight",
+    "800": "eight hundred",
+    "8-year-old": "eight year old",
+    "2016": "twenty sixteen",
+    "DB": "dee bee"
+  },
+  "lines": [
+    "In 1971, a man in a business suit jumped out of a passenger jet. At night. In a storm. With $200,000 in cash. He was never seen again.",
+    "The FBI hunted him for 45 years. They never even learned his real name. And it all began with a $20 plane ticket.",
+    "November 24th, the day before Thanksgiving. Portland, Oregon. A quiet man in a dark suit and black tie buys a one-way ticket to Seattle. The name he gives: Dan Cooper.",
+    "He sits in the last row, orders a bourbon and soda, and lights a cigarette. Then he hands the flight attendant a note. She thinks it's his phone number, and drops it in her purse.",
+    "He leans closer. Miss, you'd better look at that note. I have a bomb.",
+    "Inside his briefcase: red cylinders, wires, and a battery. His demands are precise. $200,000 in cash. Four parachutes. And a fuel truck waiting in Seattle.",
+    "For two hours, the jet circles above Seattle while the FBI scrambles for the money. On the ground, he keeps his word. All 36 passengers walk free.",
+    "But he isn't finished. He orders the pilots back into the sky, toward Mexico City, with strange instructions. Fly low. Fly slow. Landing gear down.",
+    "Just after 8 PM, a warning light flashes in the cockpit. The rear stairs are open. Minutes later, the tail of the plane suddenly jumps. Somewhere over the dark forests of Washington, Dan Cooper is gone.",
+    "In Reno, agents storm the cabin. Empty. All he left behind: a black clip-on tie, eight cigarette butts, and two parachutes.",
+    "The FBI searched those woods for weeks. No body. No parachute. Not a single bill. More than 800 suspects. No one was ever charged.",
+    "Then, nine years later, an 8-year-old boy digging on a riverbank found three bundles of rotting $20 bills. The serial numbers matched. It is the only ransom money ever found.",
+    "In 2016, the FBI stopped looking. So did he die in those woods that night? Or did he walk out, and live the rest of his life as someone else? Even the name we remember, DB Cooper, was a reporter's mistake."
+  ],
+  "voiceDirection": [
+    "[dramatically] (line 0)",
+    "[curious] before the last sentence (line 1)",
+    "", "",
+    "[cautiously] He leans closer. [whispers] Miss, ... (line 4)",
+    "", "",
+    "[slowly] before 'Fly low.' (line 7)",
+    "[nervous] at start, [softly] before the last sentence (line 8)",
+    "", "",
+    "[curious] at start (line 11)",
+    "[softly] before the questions; spoken as 'D. B. Cooper' (line 12)"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "The Economist's 2027 Cover Is Hiding a Warning",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.2,
+  "tail": 1.0,
+  "spoken": {
+    "16th,": "sixteenth",
+    "2027.": "twenty twenty seven",
+    "2027,": "twenty twenty seven",
+    "2027": "twenty twenty seven",
+    "2027?": "twenty twenty seven",
+    "2022": "twenty twenty two",
+    "2020": "twenty twenty",
+    "2023": "twenty twenty three"
+  },
+  "lines": [
+    "Every year, one magazine cover claims to show the future. This year, it looks like a warning.",
+    "On November 16th, The Economist released its yearly forecast issue, The World Ahead 2027. The cover is by American artist Cleon Peterson, drawn in red, black and white.",
+    "Tanks. Missiles. Crowds in the streets. Surveillance cameras. And markets in free fall.",
+    "Every year, readers around the world zoom in on these covers, hunting for hidden meanings. So what is this one telling us?",
+    "Start with the weapons. One of the year's ten big themes is China and Taiwan. Xi Jinping has reportedly told his military to be ready to take the island by 2027.",
+    "Ready does not mean it will happen. But the deadline itself has now arrived.",
+    "Then there is the fire in the Middle East. The magazine expects the aftershocks of the Iran war to keep spreading: rerouted oil and gas, and food under pressure as fertilizer runs short.",
+    "But the strangest part of this cover isn't the war. It's the machines.",
+    "Look closely and there are screens and cameras everywhere. The issue predicts a backlash against artificial intelligence: data centers built on borrowed money, sky-high valuations, AI-powered cyberattacks, and growing fear for jobs.",
+    "That borrowed money leads to the falling charts. Rich-country governments owe more than ever, and bond markets are getting nervous. If borrowing costs jump, the magazine warns, a market accident becomes a real possibility.",
+    "And the warnings don't stop at money.",
+    "In France, the 2027 election could hand the presidency to Marine Le Pen's far right, a result that would shake Europe. And the planet itself may run a fever, with another record-hot year on the watch list.",
+    "Not every theme is dark: a booming market for weight-loss drugs, cheap rockets and private space stations, and Hollywood reboots.",
+    "So is this cover a secret prophecy? Here's the twist.",
+    "These are forecasts from journalists and experts, published openly every year. And their track record is mixed.",
+    "In its 2022 edition, the magazine said Emmanuel Macron would probably win re-election in France. He did.",
+    "But the 2020 edition missed the biggest story of the century, a pandemic, and the magazine admitted it. Its 2023 edition called a global recession inevitable. America avoided one.",
+    "So the cover is not a plan. It's a list of risks. And risks can still be stopped.",
+    "Which of these do you think will actually happen in 2027? Tell me in the comments. And for real mysteries, watch the men who escaped Alcatraz, and the hikers on Dead Mountain, right here on Chronos Galaxy."
+  ],
+  "structure": {
+    "hook": "line 0: one magazine cover claims to show the future; this year it looks like a warning (first 3 s, not whispered)",
+    "5W1H": "who (The Economist, artist Cleon Peterson), what (The World Ahead 2027 cover), when (Nov 16, 2026), where (themes: Taiwan, Middle East, France, markets), why/how (lines 3-12)",
+    "rehooks": [
+      "line 7: the strangest part is the machines",
+      "line 10: the warnings don't stop at money",
+      "line 13: is it a secret prophecy?"
+    ],
+    "tension": "lines 4-11",
+    "release": "lines 12, 17",
+    "twist_payoff": "lines 13-16: expert forecasts with a mixed record (Macron hit; 2020 pandemic and 2023 recession misses)",
+    "cta": "line 18: comment question + Alcatraz and Dyatlov Shorts with thumbnails"
+  },
+  "notes": "No Economist cover/logo reproduced; original vector illustrations only. Sources in docs/economist-2027/sources.md."
+}

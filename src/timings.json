@@ -1,0 +1,1198 @@
+{
+ "total": 82.432,
+ "lines": [
+  {
+   "index": 0,
+   "file": "vo/line0.mp3",
+   "start": 0.25,
+   "dur": 4.989,
+   "sentences": [
+    {
+     "text": "This trillion-dollar CEO was sent to reform school.",
+     "start": 0.25,
+     "end": 3.722,
+     "words": [
+      {
+       "w": "This",
+       "start": 0.25,
+       "end": 0.604
+      },
+      {
+       "w": "trillion-dollar",
+       "start": 0.604,
+       "end": 1.6
+      },
+      {
+       "w": "CEO",
+       "start": 1.6,
+       "end": 1.89
+      },
+      {
+       "w": "was",
+       "start": 1.89,
+       "end": 2.179
+      },
+      {
+       "w": "sent",
+       "start": 2.179,
+       "end": 2.532
+      },
+      {
+       "w": "to",
+       "start": 2.532,
+       "end": 2.758
+      },
+      {
+       "w": "reform",
+       "start": 2.758,
+       "end": 3.24
+      },
+      {
+       "w": "school.",
+       "start": 3.24,
+       "end": 3.722
+      }
+     ]
+    },
+    {
+     "text": "By mistake.",
+     "start": 4.277,
+     "end": 5.042,
+     "words": [
+      {
+       "w": "By",
+       "start": 4.277,
+       "end": 4.5
+      },
+      {
+       "w": "mistake.",
+       "start": 4.5,
+       "end": 5.042
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "vo/line1.mp3",
+   "start": 5.589,
+   "dur": 9.561,
+   "sentences": [
+    {
+     "text": "Jensen Huang runs Nvidia, the company powering nearly every AI on Earth.",
+     "start": 5.589,
+     "end": 10.915,
+     "words": [
+      {
+       "w": "Jensen",
+       "start": 5.589,
+       "end": 6.133
+      },
+      {
+       "w": "Huang",
+       "start": 6.133,
+       "end": 6.604
+      },
+      {
+       "w": "runs",
+       "start": 6.604,
+       "end": 7.003
+      },
+      {
+       "w": "Nvidia,",
+       "start": 7.003,
+       "end": 7.547
+      },
+      {
+       "w": "the",
+       "start": 7.907,
+       "end": 8.178
+      },
+      {
+       "w": "company",
+       "start": 8.178,
+       "end": 8.69
+      },
+      {
+       "w": "powering",
+       "start": 8.69,
+       "end": 9.261
+      },
+      {
+       "w": "nearly",
+       "start": 9.261,
+       "end": 9.712
+      },
+      {
+       "w": "every",
+       "start": 9.712,
+       "end": 10.103
+      },
+      {
+       "w": "AI",
+       "start": 10.103,
+       "end": 10.314
+      },
+      {
+       "w": "on",
+       "start": 10.314,
+       "end": 10.524
+      },
+      {
+       "w": "Earth.",
+       "start": 10.524,
+       "end": 10.915
+      }
+     ]
+    },
+    {
+     "text": "But his story starts with a mistake that should have broken him.",
+     "start": 11.456,
+     "end": 14.877,
+     "words": [
+      {
+       "w": "But",
+       "start": 11.456,
+       "end": 11.676
+      },
+      {
+       "w": "his",
+       "start": 11.676,
+       "end": 11.896
+      },
+      {
+       "w": "story",
+       "start": 11.896,
+       "end": 12.213
+      },
+      {
+       "w": "starts",
+       "start": 12.213,
+       "end": 12.58
+      },
+      {
+       "w": "with",
+       "start": 12.58,
+       "end": 12.849
+      },
+      {
+       "w": "a",
+       "start": 12.849,
+       "end": 12.971
+      },
+      {
+       "w": "mistake",
+       "start": 12.971,
+       "end": 13.387
+      },
+      {
+       "w": "that",
+       "start": 13.387,
+       "end": 13.655
+      },
+      {
+       "w": "should",
+       "start": 13.655,
+       "end": 14.022
+      },
+      {
+       "w": "have",
+       "start": 14.022,
+       "end": 14.291
+      },
+      {
+       "w": "broken",
+       "start": 14.291,
+       "end": 14.657
+      },
+      {
+       "w": "him.",
+       "start": 14.657,
+       "end": 14.877
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "vo/line2.mp3",
+   "start": 15.5,
+   "dur": 11.546,
+   "sentences": [
+    {
+     "text": "Born in Taiwan.",
+     "start": 15.5,
+     "end": 16.745,
+     "words": [
+      {
+       "w": "Born",
+       "start": 15.5,
+       "end": 15.915
+      },
+      {
+       "w": "in",
+       "start": 15.915,
+       "end": 16.179
+      },
+      {
+       "w": "Taiwan.",
+       "start": 16.179,
+       "end": 16.745
+      }
+     ]
+    },
+    {
+     "text": "Raised in Thailand.",
+     "start": 17.246,
+     "end": 18.443,
+     "words": [
+      {
+       "w": "Raised",
+       "start": 17.246,
+       "end": 17.684
+      },
+      {
+       "w": "in",
+       "start": 17.684,
+       "end": 17.888
+      },
+      {
+       "w": "Thailand.",
+       "start": 17.888,
+       "end": 18.443
+      }
+     ]
+    },
+    {
+     "text": "At nine, his parents send him and his brother to America, alone.",
+     "start": 19.031,
+     "end": 23.103,
+     "words": [
+      {
+       "w": "At",
+       "start": 19.031,
+       "end": 19.287
+      },
+      {
+       "w": "nine,",
+       "start": 19.287,
+       "end": 19.691
+      },
+      {
+       "w": "his",
+       "start": 19.886,
+       "end": 20.094
+      },
+      {
+       "w": "parents",
+       "start": 20.094,
+       "end": 20.487
+      },
+      {
+       "w": "send",
+       "start": 20.487,
+       "end": 20.742
+      },
+      {
+       "w": "him",
+       "start": 20.742,
+       "end": 20.95
+      },
+      {
+       "w": "and",
+       "start": 20.95,
+       "end": 21.159
+      },
+      {
+       "w": "his",
+       "start": 21.159,
+       "end": 21.367
+      },
+      {
+       "w": "brother",
+       "start": 21.367,
+       "end": 21.76
+      },
+      {
+       "w": "to",
+       "start": 21.76,
+       "end": 21.922
+      },
+      {
+       "w": "America,",
+       "start": 21.922,
+       "end": 22.316
+      },
+      {
+       "w": "alone.",
+       "start": 22.681,
+       "end": 23.103
+      }
+     ]
+    },
+    {
+     "text": "His uncle picks what he thinks is an elite boarding school.",
+     "start": 23.703,
+     "end": 26.801,
+     "words": [
+      {
+       "w": "His",
+       "start": 23.703,
+       "end": 23.919
+      },
+      {
+       "w": "uncle",
+       "start": 23.919,
+       "end": 24.231
+      },
+      {
+       "w": "picks",
+       "start": 24.231,
+       "end": 24.544
+      },
+      {
+       "w": "what",
+       "start": 24.544,
+       "end": 24.808
+      },
+      {
+       "w": "he",
+       "start": 24.808,
+       "end": 24.976
+      },
+      {
+       "w": "thinks",
+       "start": 24.976,
+       "end": 25.336
+      },
+      {
+       "w": "is",
+       "start": 25.336,
+       "end": 25.504
+      },
+      {
+       "w": "an",
+       "start": 25.504,
+       "end": 25.672
+      },
+      {
+       "w": "elite",
+       "start": 25.672,
+       "end": 25.984
+      },
+      {
+       "w": "boarding",
+       "start": 25.984,
+       "end": 26.441
+      },
+      {
+       "w": "school.",
+       "start": 26.441,
+       "end": 26.801
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "vo/line3.mp3",
+   "start": 27.396,
+   "dur": 14.446,
+   "sentences": [
+    {
+     "text": "It wasn't.",
+     "start": 27.396,
+     "end": 28.11,
+     "words": [
+      {
+       "w": "It",
+       "start": 27.396,
+       "end": 27.646
+      },
+      {
+       "w": "wasn't.",
+       "start": 27.646,
+       "end": 28.11
+      }
+     ]
+    },
+    {
+     "text": "Oneida Baptist Institute was a reform school in rural Kentucky.",
+     "start": 28.795,
+     "end": 32.571,
+     "words": [
+      {
+       "w": "Oneida",
+       "start": 28.795,
+       "end": 29.211
+      },
+      {
+       "w": "Baptist",
+       "start": 29.211,
+       "end": 29.683
+      },
+      {
+       "w": "Institute",
+       "start": 29.683,
+       "end": 30.266
+      },
+      {
+       "w": "was",
+       "start": 30.266,
+       "end": 30.516
+      },
+      {
+       "w": "a",
+       "start": 30.516,
+       "end": 30.655
+      },
+      {
+       "w": "reform",
+       "start": 30.655,
+       "end": 31.072
+      },
+      {
+       "w": "school",
+       "start": 31.072,
+       "end": 31.488
+      },
+      {
+       "w": "in",
+       "start": 31.488,
+       "end": 31.682
+      },
+      {
+       "w": "rural",
+       "start": 31.682,
+       "end": 32.043
+      },
+      {
+       "w": "Kentucky.",
+       "start": 32.043,
+       "end": 32.571
+      }
+     ]
+    },
+    {
+     "text": "His roommate was seventeen, covered in tattoos and knife scars.",
+     "start": 33.174,
+     "end": 37.07,
+     "words": [
+      {
+       "w": "His",
+       "start": 33.174,
+       "end": 33.405
+      },
+      {
+       "w": "roommate",
+       "start": 33.405,
+       "end": 33.891
+      },
+      {
+       "w": "was",
+       "start": 33.891,
+       "end": 34.122
+      },
+      {
+       "w": "seventeen,",
+       "start": 34.122,
+       "end": 34.66
+      },
+      {
+       "w": "covered",
+       "start": 34.911,
+       "end": 35.394
+      },
+      {
+       "w": "in",
+       "start": 35.394,
+       "end": 35.593
+      },
+      {
+       "w": "tattoos",
+       "start": 35.593,
+       "end": 36.076
+      },
+      {
+       "w": "and",
+       "start": 36.076,
+       "end": 36.332
+      },
+      {
+       "w": "knife",
+       "start": 36.332,
+       "end": 36.701
+      },
+      {
+       "w": "scars.",
+       "start": 36.701,
+       "end": 37.07
+      }
+     ]
+    },
+    {
+     "text": "Jensen's job?",
+     "start": 37.595,
+     "end": 38.351,
+     "words": [
+      {
+       "w": "Jensen's",
+       "start": 37.595,
+       "end": 38.09
+      },
+      {
+       "w": "job?",
+       "start": 38.09,
+       "end": 38.351
+      }
+     ]
+    },
+    {
+     "text": "Cleaning the toilets.",
+     "start": 38.861,
+     "end": 39.93,
+     "words": [
+      {
+       "w": "Cleaning",
+       "start": 38.861,
+       "end": 39.312
+      },
+      {
+       "w": "the",
+       "start": 39.312,
+       "end": 39.526
+      },
+      {
+       "w": "toilets.",
+       "start": 39.526,
+       "end": 39.93
+      }
+     ]
+    },
+    {
+     "text": "Every single day.",
+     "start": 40.412,
+     "end": 41.557,
+     "words": [
+      {
+       "w": "Every",
+       "start": 40.412,
+       "end": 40.815
+      },
+      {
+       "w": "single",
+       "start": 40.815,
+       "end": 41.279
+      },
+      {
+       "w": "day.",
+       "start": 41.279,
+       "end": 41.557
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "vo/line4.mp3",
+   "start": 42.192,
+   "dur": 9.718,
+   "sentences": [
+    {
+     "text": "But he didn't break.",
+     "start": 42.192,
+     "end": 43.428,
+     "words": [
+      {
+       "w": "But",
+       "start": 42.192,
+       "end": 42.457
+      },
+      {
+       "w": "he",
+       "start": 42.457,
+       "end": 42.663
+      },
+      {
+       "w": "didn't",
+       "start": 42.663,
+       "end": 43.046
+      },
+      {
+       "w": "break.",
+       "start": 43.046,
+       "end": 43.428
+      }
+     ]
+    },
+    {
+     "text": "He taught that roommate to read.",
+     "start": 44.021,
+     "end": 45.562,
+     "words": [
+      {
+       "w": "He",
+       "start": 44.021,
+       "end": 44.175
+      },
+      {
+       "w": "taught",
+       "start": 44.175,
+       "end": 44.505
+      },
+      {
+       "w": "that",
+       "start": 44.505,
+       "end": 44.747
+      },
+      {
+       "w": "roommate",
+       "start": 44.747,
+       "end": 45.166
+      },
+      {
+       "w": "to",
+       "start": 45.166,
+       "end": 45.32
+      },
+      {
+       "w": "read.",
+       "start": 45.32,
+       "end": 45.562
+      }
+     ]
+    },
+    {
+     "text": "In return, the roommate taught him to lift.",
+     "start": 46.142,
+     "end": 48.553,
+     "words": [
+      {
+       "w": "In",
+       "start": 46.142,
+       "end": 46.344
+      },
+      {
+       "w": "return,",
+       "start": 46.344,
+       "end": 46.776
+      },
+      {
+       "w": "the",
+       "start": 47.026,
+       "end": 47.222
+      },
+      {
+       "w": "roommate",
+       "start": 47.222,
+       "end": 47.637
+      },
+      {
+       "w": "taught",
+       "start": 47.637,
+       "end": 47.964
+      },
+      {
+       "w": "him",
+       "start": 47.964,
+       "end": 48.16
+      },
+      {
+       "w": "to",
+       "start": 48.16,
+       "end": 48.313
+      },
+      {
+       "w": "lift.",
+       "start": 48.313,
+       "end": 48.553
+      }
+     ]
+    },
+    {
+     "text": "Later, he said those years made him tough.",
+     "start": 49.115,
+     "end": 51.622,
+     "words": [
+      {
+       "w": "Later,",
+       "start": 49.115,
+       "end": 49.512
+      },
+      {
+       "w": "he",
+       "start": 49.813,
+       "end": 49.978
+      },
+      {
+       "w": "said",
+       "start": 49.978,
+       "end": 50.236
+      },
+      {
+       "w": "those",
+       "start": 50.236,
+       "end": 50.541
+      },
+      {
+       "w": "years",
+       "start": 50.541,
+       "end": 50.847
+      },
+      {
+       "w": "made",
+       "start": 50.847,
+       "end": 51.105
+      },
+      {
+       "w": "him",
+       "start": 51.105,
+       "end": 51.317
+      },
+      {
+       "w": "tough.",
+       "start": 51.317,
+       "end": 51.622
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "vo/line5.mp3",
+   "start": 52.26,
+   "dur": 9.874,
+   "sentences": [
+    {
+     "text": "At fifteen, he's washing dishes at a Denny's in Oregon.",
+     "start": 52.26,
+     "end": 55.609,
+     "words": [
+      {
+       "w": "At",
+       "start": 52.26,
+       "end": 52.52
+      },
+      {
+       "w": "fifteen,",
+       "start": 52.52,
+       "end": 53.151
+      },
+      {
+       "w": "he's",
+       "start": 53.385,
+       "end": 53.608
+      },
+      {
+       "w": "washing",
+       "start": 53.608,
+       "end": 54.028
+      },
+      {
+       "w": "dishes",
+       "start": 54.028,
+       "end": 54.398
+      },
+      {
+       "w": "at",
+       "start": 54.398,
+       "end": 54.571
+      },
+      {
+       "w": "a",
+       "start": 54.571,
+       "end": 54.695
+      },
+      {
+       "w": "Denny's",
+       "start": 54.695,
+       "end": 55.065
+      },
+      {
+       "w": "in",
+       "start": 55.065,
+       "end": 55.238
+      },
+      {
+       "w": "Oregon.",
+       "start": 55.238,
+       "end": 55.609
+      }
+     ]
+    },
+    {
+     "text": "In 1993, in a Denny's booth in San Jose, he and two friends start Nvidia.",
+     "start": 56.121,
+     "end": 61.832,
+     "words": [
+      {
+       "w": "In",
+       "start": 56.121,
+       "end": 56.617
+      },
+      {
+       "w": "1993,",
+       "start": 56.617,
+       "end": 57.398
+      },
+      {
+       "w": "in",
+       "start": 57.59,
+       "end": 57.773
+      },
+      {
+       "w": "a",
+       "start": 57.773,
+       "end": 57.903
+      },
+      {
+       "w": "Denny's",
+       "start": 57.903,
+       "end": 58.293
+      },
+      {
+       "w": "booth",
+       "start": 58.293,
+       "end": 58.632
+      },
+      {
+       "w": "in",
+       "start": 58.632,
+       "end": 58.814
+      },
+      {
+       "w": "San",
+       "start": 58.814,
+       "end": 59.048
+      },
+      {
+       "w": "Jose,",
+       "start": 59.048,
+       "end": 59.335
+      },
+      {
+       "w": "he",
+       "start": 59.735,
+       "end": 59.944
+      },
+      {
+       "w": "and",
+       "start": 59.944,
+       "end": 60.214
+      },
+      {
+       "w": "two",
+       "start": 60.214,
+       "end": 60.484
+      },
+      {
+       "w": "friends",
+       "start": 60.484,
+       "end": 60.993
+      },
+      {
+       "w": "start",
+       "start": 60.993,
+       "end": 61.382
+      },
+      {
+       "w": "Nvidia.",
+       "start": 61.382,
+       "end": 61.832
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "vo/line6.mp3",
+   "start": 62.484,
+   "dur": 10.031,
+   "sentences": [
+    {
+     "text": "Three years later, the first chip flops.",
+     "start": 62.484,
+     "end": 65.192,
+     "words": [
+      {
+       "w": "Three",
+       "start": 62.484,
+       "end": 62.815
+      },
+      {
+       "w": "years",
+       "start": 62.815,
+       "end": 63.146
+      },
+      {
+       "w": "later,",
+       "start": 63.146,
+       "end": 63.477
+      },
+      {
+       "w": "the",
+       "start": 63.751,
+       "end": 64.033
+      },
+      {
+       "w": "first",
+       "start": 64.033,
+       "end": 64.44
+      },
+      {
+       "w": "chip",
+       "start": 64.44,
+       "end": 64.785
+      },
+      {
+       "w": "flops.",
+       "start": 64.785,
+       "end": 65.192
+      }
+     ]
+    },
+    {
+     "text": "Half the staff is gone.",
+     "start": 65.687,
+     "end": 67.091,
+     "words": [
+      {
+       "w": "Half",
+       "start": 65.687,
+       "end": 65.99
+      },
+      {
+       "w": "the",
+       "start": 65.99,
+       "end": 66.238
+      },
+      {
+       "w": "staff",
+       "start": 66.238,
+       "end": 66.596
+      },
+      {
+       "w": "is",
+       "start": 66.596,
+       "end": 66.788
+      },
+      {
+       "w": "gone.",
+       "start": 66.788,
+       "end": 67.091
+      }
+     ]
+    },
+    {
+     "text": "Nvidia is about thirty days from dying.",
+     "start": 67.555,
+     "end": 70.032,
+     "words": [
+      {
+       "w": "Nvidia",
+       "start": 67.555,
+       "end": 67.992
+      },
+      {
+       "w": "is",
+       "start": 67.992,
+       "end": 68.196
+      },
+      {
+       "w": "about",
+       "start": 68.196,
+       "end": 68.575
+      },
+      {
+       "w": "thirty",
+       "start": 68.575,
+       "end": 69.012
+      },
+      {
+       "w": "days",
+       "start": 69.012,
+       "end": 69.332
+      },
+      {
+       "w": "from",
+       "start": 69.332,
+       "end": 69.653
+      },
+      {
+       "w": "dying.",
+       "start": 69.653,
+       "end": 70.032
+      }
+     ]
+    },
+    {
+     "text": "One last chip saves it.",
+     "start": 70.595,
+     "end": 72.249,
+     "words": [
+      {
+       "w": "One",
+       "start": 70.595,
+       "end": 70.887
+      },
+      {
+       "w": "last",
+       "start": 70.887,
+       "end": 71.243
+      },
+      {
+       "w": "chip",
+       "start": 71.243,
+       "end": 71.6
+      },
+      {
+       "w": "saves",
+       "start": 71.6,
+       "end": 72.022
+      },
+      {
+       "w": "it.",
+       "start": 72.022,
+       "end": 72.249
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "vo/line7.mp3",
+   "start": 72.865,
+   "dur": 7.967,
+   "sentences": [
+    {
+     "text": "Today it's worth trillions.",
+     "start": 72.865,
+     "end": 74.939,
+     "words": [
+      {
+       "w": "Today",
+       "start": 72.865,
+       "end": 73.346
+      },
+      {
+       "w": "it's",
+       "start": 73.346,
+       "end": 73.68
+      },
+      {
+       "w": "worth",
+       "start": 73.68,
+       "end": 74.161
+      },
+      {
+       "w": "trillions.",
+       "start": 74.161,
+       "end": 74.939
+      }
+     ]
+    },
+    {
+     "text": "So his biggest secret isn't a chip.",
+     "start": 75.498,
+     "end": 77.665,
+     "words": [
+      {
+       "w": "So",
+       "start": 75.498,
+       "end": 75.7
+      },
+      {
+       "w": "his",
+       "start": 75.7,
+       "end": 75.96
+      },
+      {
+       "w": "biggest",
+       "start": 75.96,
+       "end": 76.451
+      },
+      {
+       "w": "secret",
+       "start": 76.451,
+       "end": 76.884
+      },
+      {
+       "w": "isn't",
+       "start": 76.884,
+       "end": 77.202
+      },
+      {
+       "w": "a",
+       "start": 77.202,
+       "end": 77.347
+      },
+      {
+       "w": "chip.",
+       "start": 77.347,
+       "end": 77.665
+      }
+     ]
+    },
+    {
+     "text": "It's that he scrubbed toilets before he got here.",
+     "start": 78.179,
+     "end": 80.569,
+     "words": [
+      {
+       "w": "It's",
+       "start": 78.179,
+       "end": 78.384
+      },
+      {
+       "w": "that",
+       "start": 78.384,
+       "end": 78.635
+      },
+      {
+       "w": "he",
+       "start": 78.635,
+       "end": 78.794
+      },
+      {
+       "w": "scrubbed",
+       "start": 78.794,
+       "end": 79.226
+      },
+      {
+       "w": "toilets",
+       "start": 79.226,
+       "end": 79.613
+      },
+      {
+       "w": "before",
+       "start": 79.613,
+       "end": 79.954
+      },
+      {
+       "w": "he",
+       "start": 79.954,
+       "end": 80.114
+      },
+      {
+       "w": "got",
+       "start": 80.114,
+       "end": 80.319
+      },
+      {
+       "w": "here.",
+       "start": 80.319,
+       "end": 80.569
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

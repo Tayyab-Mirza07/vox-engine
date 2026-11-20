@@ -1,0 +1,38 @@
+{
+  "title": "The Hidden Code That Almost Sank GTA",
+  "voice": {"provider": "elevenlabs", "voice_id": "uFIXVu9mmnDZ7dTKCBTX", "model": "eleven_v4"},
+  "gap": 0.25,
+  "tail": 1.0,
+  "spoken": {"2005.": "two thousand five", "$35": "thirty five dollars", "$200,000": "two hundred thousand dollars", "85-year-old": "eighty five year old"},
+  "lines": [
+    "In 2005, a few lines of hidden code inside a video game got it pulled from store shelves, sparked a government investigation, and cost its makers millions. And that code was never supposed to be found.",
+    "The game was Grand Theft Auto: San Andreas, the best-selling game on the PlayStation 2. The secret had a strange name. Hot Coffee.",
+    "So how did a few lines of locked code nearly take down Rockstar? It started with one curious fan in the Netherlands.",
+    "June 2005. A Dutch modder named Patrick Wildenborg is digging through the game's PC files. He finds a scene that was cut from the game, but never deleted.",
+    "It was an unfinished, adults-only mini-game. Rockstar had switched it off, but left it sitting on every single disc.",
+    "In the story, a girlfriend invites the hero inside for coffee. So fans called the unlocked scene Hot Coffee. Within days, it was everywhere.",
+    "At first, Rockstar blamed hackers, suggesting the content was made by modders, not by them.",
+    "But then players found the same scene on the PlayStation 2 discs, using a simple cheat device. And you can't mod a disc that's already in the box.",
+    "July 2005. The game's rating jumps from Mature to Adults Only. Overnight, America's biggest retailers pull it from their shelves.",
+    "Senator Hillary Clinton calls for a federal investigation, and the Federal Trade Commission opens one.",
+    "Copies are pulled and sent back. Lawsuits pile up, including one from an 85-year-old grandmother who bought the game for her teenage grandson.",
+    "So how did it all end? Not the way you'd think.",
+    "A class-action settlement offered buyers up to $35 each. Only a few thousand people ever bothered to claim it.",
+    "The FTC settled without a fine, but with a warning: hide anything like this again, and the penalties would be steep.",
+    "And the rules changed for good. Today, game makers must disclose everything on the disc, even content players can't reach. The re-released game went on to sell more than 27 million copies.",
+    "If you love secrets that were never meant to be found, watch the man who vanished from a plane with $200,000. Or the ghost ship found with no one on board. Both are on this channel. Tap and watch next."
+  ],
+  "structure": {
+    "hook (tension: hidden code, consequences, never meant to be found)": [0],
+    "release + new tension (the game, the strange name)": [1],
+    "rehook 1 (question: how?)": [2],
+    "build: who / when / where / what": [3, 4, 5],
+    "rising tension (denial)": [6],
+    "rehook 2 (the PS2 discs prove it)": [7],
+    "climax (rating change, investigation, lawsuits)": [8, 9, 10],
+    "rehook 3 (question: how did it end?)": [11],
+    "payoff (settlement, FTC, rule change)": [12, 13, 14],
+    "CTA → past Shorts (D.B. Cooper, Mary Celeste)": [15]
+  },
+  "notes": "No Rockstar artwork, footage, music or logos; the adult content is described only in general terms."
+}

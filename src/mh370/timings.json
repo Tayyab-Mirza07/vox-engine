@@ -1,0 +1,2535 @@
+{
+ "total": 169.981,
+ "lines": [
+  {
+   "index": 0,
+   "file": "mh370/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 8.098,
+   "sentences": [
+    {
+     "text": "Two hundred thirty-nine people.",
+     "start": 0.25,
+     "end": 2.215,
+     "words": [
+      {
+       "w": "Two",
+       "start": 0.25,
+       "end": 0.526
+      },
+      {
+       "w": "hundred",
+       "start": 0.526,
+       "end": 1.048
+      },
+      {
+       "w": "thirty-nine",
+       "start": 1.048,
+       "end": 1.755
+      },
+      {
+       "w": "people.",
+       "start": 1.755,
+       "end": 2.215
+      }
+     ]
+    },
+    {
+     "text": "One Boeing 777.",
+     "start": 2.737,
+     "end": 4.356,
+     "words": [
+      {
+       "w": "One",
+       "start": 2.737,
+       "end": 3.179
+      },
+      {
+       "w": "Boeing",
+       "start": 3.179,
+       "end": 3.915
+      },
+      {
+       "w": "777.",
+       "start": 3.915,
+       "end": 4.356
+      }
+     ]
+    },
+    {
+     "text": "And twelve years later, nobody can tell you where it is.",
+     "start": 4.838,
+     "end": 8.131,
+     "words": [
+      {
+       "w": "And",
+       "start": 4.838,
+       "end": 5.05
+      },
+      {
+       "w": "twelve",
+       "start": 5.05,
+       "end": 5.402
+      },
+      {
+       "w": "years",
+       "start": 5.402,
+       "end": 5.707
+      },
+      {
+       "w": "later,",
+       "start": 5.707,
+       "end": 6.013
+      },
+      {
+       "w": "nobody",
+       "start": 6.533,
+       "end": 6.871
+      },
+      {
+       "w": "can",
+       "start": 6.871,
+       "end": 7.074
+      },
+      {
+       "w": "tell",
+       "start": 7.074,
+       "end": 7.321
+      },
+      {
+       "w": "you",
+       "start": 7.321,
+       "end": 7.524
+      },
+      {
+       "w": "where",
+       "start": 7.524,
+       "end": 7.816
+      },
+      {
+       "w": "it",
+       "start": 7.816,
+       "end": 7.974
+      },
+      {
+       "w": "is.",
+       "start": 7.974,
+       "end": 8.131
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "mh370/vo/line1.mp3",
+   "start": 8.498,
+   "dur": 10.762,
+   "sentences": [
+    {
+     "text": "March 8th, 2014.",
+     "start": 8.498,
+     "end": 10.231,
+     "words": [
+      {
+       "w": "March",
+       "start": 8.498,
+       "end": 8.928
+      },
+      {
+       "w": "8th,",
+       "start": 8.928,
+       "end": 9.225
+      },
+      {
+       "w": "2014.",
+       "start": 9.398,
+       "end": 10.231
+      }
+     ]
+    },
+    {
+     "text": "Malaysia Airlines Flight 370 takes off from Kuala Lumpur just after midnight, bound for Beijing.",
+     "start": 10.758,
+     "end": 16.886,
+     "words": [
+      {
+       "w": "Malaysia",
+       "start": 10.758,
+       "end": 11.266
+      },
+      {
+       "w": "Airlines",
+       "start": 11.266,
+       "end": 11.774
+      },
+      {
+       "w": "Flight",
+       "start": 11.774,
+       "end": 12.175
+      },
+      {
+       "w": "370",
+       "start": 12.175,
+       "end": 12.897
+      },
+      {
+       "w": "takes",
+       "start": 12.897,
+       "end": 13.245
+      },
+      {
+       "w": "off",
+       "start": 13.245,
+       "end": 13.485
+      },
+      {
+       "w": "from",
+       "start": 13.485,
+       "end": 13.78
+      },
+      {
+       "w": "Kuala",
+       "start": 13.78,
+       "end": 14.127
+      },
+      {
+       "w": "Lumpur",
+       "start": 14.127,
+       "end": 14.528
+      },
+      {
+       "w": "just",
+       "start": 14.528,
+       "end": 14.822
+      },
+      {
+       "w": "after",
+       "start": 14.822,
+       "end": 15.17
+      },
+      {
+       "w": "midnight,",
+       "start": 15.17,
+       "end": 15.678
+      },
+      {
+       "w": "bound",
+       "start": 15.933,
+       "end": 16.251
+      },
+      {
+       "w": "for",
+       "start": 16.251,
+       "end": 16.471
+      },
+      {
+       "w": "Beijing.",
+       "start": 16.471,
+       "end": 16.886
+      }
+     ]
+    },
+    {
+     "text": "A routine six-hour flight.",
+     "start": 17.407,
+     "end": 19.013,
+     "words": [
+      {
+       "w": "A",
+       "start": 17.407,
+       "end": 17.556
+      },
+      {
+       "w": "routine",
+       "start": 17.556,
+       "end": 18.061
+      },
+      {
+       "w": "six-hour",
+       "start": 18.061,
+       "end": 18.567
+      },
+      {
+       "w": "flight.",
+       "start": 18.567,
+       "end": 19.013
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "mh370/vo/line2.mp3",
+   "start": 19.41,
+   "dur": 7.236,
+   "sentences": [
+    {
+     "text": "Forty minutes in, the captain speaks to air traffic control for the last time.",
+     "start": 19.41,
+     "end": 23.794,
+     "words": [
+      {
+       "w": "Forty",
+       "start": 19.41,
+       "end": 19.747
+      },
+      {
+       "w": "minutes",
+       "start": 19.747,
+       "end": 20.188
+      },
+      {
+       "w": "in,",
+       "start": 20.188,
+       "end": 20.369
+      },
+      {
+       "w": "the",
+       "start": 20.742,
+       "end": 20.951
+      },
+      {
+       "w": "captain",
+       "start": 20.951,
+       "end": 21.347
+      },
+      {
+       "w": "speaks",
+       "start": 21.347,
+       "end": 21.697
+      },
+      {
+       "w": "to",
+       "start": 21.697,
+       "end": 21.86
+      },
+      {
+       "w": "air",
+       "start": 21.86,
+       "end": 22.07
+      },
+      {
+       "w": "traffic",
+       "start": 22.07,
+       "end": 22.466
+      },
+      {
+       "w": "control",
+       "start": 22.466,
+       "end": 22.862
+      },
+      {
+       "w": "for",
+       "start": 22.862,
+       "end": 23.071
+      },
+      {
+       "w": "the",
+       "start": 23.071,
+       "end": 23.281
+      },
+      {
+       "w": "last",
+       "start": 23.281,
+       "end": 23.537
+      },
+      {
+       "w": "time.",
+       "start": 23.537,
+       "end": 23.794
+      }
+     ]
+    },
+    {
+     "text": "Good night, Malaysian three seven zero.",
+     "start": 24.321,
+     "end": 26.229,
+     "words": [
+      {
+       "w": "Good",
+       "start": 24.321,
+       "end": 24.577
+      },
+      {
+       "w": "night,",
+       "start": 24.577,
+       "end": 24.879
+      },
+      {
+       "w": "Malaysian",
+       "start": 24.879,
+       "end": 25.368
+      },
+      {
+       "w": "three",
+       "start": 25.368,
+       "end": 25.67
+      },
+      {
+       "w": "seven",
+       "start": 25.67,
+       "end": 25.973
+      },
+      {
+       "w": "zero.",
+       "start": 25.973,
+       "end": 26.229
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "mh370/vo/line3.mp3",
+   "start": 26.796,
+   "dur": 8.438,
+   "sentences": [
+    {
+     "text": "Less than two minutes later, the plane's transponder goes dark.",
+     "start": 26.796,
+     "end": 30.391,
+     "words": [
+      {
+       "w": "Less",
+       "start": 26.796,
+       "end": 27.049
+      },
+      {
+       "w": "than",
+       "start": 27.049,
+       "end": 27.301
+      },
+      {
+       "w": "two",
+       "start": 27.301,
+       "end": 27.507
+      },
+      {
+       "w": "minutes",
+       "start": 27.507,
+       "end": 27.897
+      },
+      {
+       "w": "later,",
+       "start": 27.897,
+       "end": 28.195
+      },
+      {
+       "w": "the",
+       "start": 28.467,
+       "end": 28.711
+      },
+      {
+       "w": "plane's",
+       "start": 28.711,
+       "end": 29.117
+      },
+      {
+       "w": "transponder",
+       "start": 29.117,
+       "end": 29.795
+      },
+      {
+       "w": "goes",
+       "start": 29.795,
+       "end": 30.093
+      },
+      {
+       "w": "dark.",
+       "start": 30.093,
+       "end": 30.391
+      }
+     ]
+    },
+    {
+     "text": "On civilian radar, Flight 370 simply disappears.",
+     "start": 30.908,
+     "end": 35.01,
+     "words": [
+      {
+       "w": "On",
+       "start": 30.908,
+       "end": 31.105
+      },
+      {
+       "w": "civilian",
+       "start": 31.105,
+       "end": 31.638
+      },
+      {
+       "w": "radar,",
+       "start": 31.638,
+       "end": 32.003
+      },
+      {
+       "w": "Flight",
+       "start": 32.214,
+       "end": 32.738
+      },
+      {
+       "w": "370",
+       "start": 32.738,
+       "end": 33.682
+      },
+      {
+       "w": "simply",
+       "start": 33.682,
+       "end": 34.206
+      },
+      {
+       "w": "disappears.",
+       "start": 34.206,
+       "end": 35.01
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "mh370/vo/line4.mp3",
+   "start": 35.384,
+   "dur": 5.695,
+   "sentences": [
+    {
+     "text": "But it didn't crash.",
+     "start": 35.384,
+     "end": 36.55,
+     "words": [
+      {
+       "w": "But",
+       "start": 35.384,
+       "end": 35.634
+      },
+      {
+       "w": "it",
+       "start": 35.634,
+       "end": 35.828
+      },
+      {
+       "w": "didn't",
+       "start": 35.828,
+       "end": 36.189
+      },
+      {
+       "w": "crash.",
+       "start": 36.189,
+       "end": 36.55
+      }
+     ]
+    },
+    {
+     "text": "Not yet.",
+     "start": 37.074,
+     "end": 37.682,
+     "words": [
+      {
+       "w": "Not",
+       "start": 37.074,
+       "end": 37.378
+      },
+      {
+       "w": "yet.",
+       "start": 37.378,
+       "end": 37.682
+      }
+     ]
+    },
+    {
+     "text": "Because military radar was still watching.",
+     "start": 38.204,
+     "end": 40.796,
+     "words": [
+      {
+       "w": "Because",
+       "start": 38.204,
+       "end": 38.694
+      },
+      {
+       "w": "military",
+       "start": 38.694,
+       "end": 39.241
+      },
+      {
+       "w": "radar",
+       "start": 39.241,
+       "end": 39.615
+      },
+      {
+       "w": "was",
+       "start": 39.615,
+       "end": 39.874
+      },
+      {
+       "w": "still",
+       "start": 39.874,
+       "end": 40.249
+      },
+      {
+       "w": "watching.",
+       "start": 40.249,
+       "end": 40.796
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "mh370/vo/line5.mp3",
+   "start": 41.229,
+   "dur": 10.632,
+   "sentences": [
+    {
+     "text": "The plane made a sharp turn.",
+     "start": 41.229,
+     "end": 42.801,
+     "words": [
+      {
+       "w": "The",
+       "start": 41.229,
+       "end": 41.457
+      },
+      {
+       "w": "plane",
+       "start": 41.457,
+       "end": 41.787
+      },
+      {
+       "w": "made",
+       "start": 41.787,
+       "end": 42.066
+      },
+      {
+       "w": "a",
+       "start": 42.066,
+       "end": 42.193
+      },
+      {
+       "w": "sharp",
+       "start": 42.193,
+       "end": 42.522
+      },
+      {
+       "w": "turn.",
+       "start": 42.522,
+       "end": 42.801
+      }
+     ]
+    },
+    {
+     "text": "It flew back across Malaysia, over the island of Penang, and out over the Andaman Sea.",
+     "start": 43.274,
+     "end": 48.438,
+     "words": [
+      {
+       "w": "It",
+       "start": 43.274,
+       "end": 43.465
+      },
+      {
+       "w": "flew",
+       "start": 43.465,
+       "end": 43.766
+      },
+      {
+       "w": "back",
+       "start": 43.766,
+       "end": 44.067
+      },
+      {
+       "w": "across",
+       "start": 44.067,
+       "end": 44.478
+      },
+      {
+       "w": "Malaysia,",
+       "start": 44.478,
+       "end": 44.997
+      },
+      {
+       "w": "over",
+       "start": 45.253,
+       "end": 45.517
+      },
+      {
+       "w": "the",
+       "start": 45.517,
+       "end": 45.733
+      },
+      {
+       "w": "island",
+       "start": 45.733,
+       "end": 46.093
+      },
+      {
+       "w": "of",
+       "start": 46.093,
+       "end": 46.26
+      },
+      {
+       "w": "Penang,",
+       "start": 46.26,
+       "end": 46.62
+      },
+      {
+       "w": "and",
+       "start": 46.806,
+       "end": 47.035
+      },
+      {
+       "w": "out",
+       "start": 47.035,
+       "end": 47.265
+      },
+      {
+       "w": "over",
+       "start": 47.265,
+       "end": 47.545
+      },
+      {
+       "w": "the",
+       "start": 47.545,
+       "end": 47.775
+      },
+      {
+       "w": "Andaman",
+       "start": 47.775,
+       "end": 48.209
+      },
+      {
+       "w": "Sea.",
+       "start": 48.209,
+       "end": 48.438
+      }
+     ]
+    },
+    {
+     "text": "Then it vanished from military radar too.",
+     "start": 48.902,
+     "end": 51.86,
+     "words": [
+      {
+       "w": "Then",
+       "start": 48.902,
+       "end": 49.267
+      },
+      {
+       "w": "it",
+       "start": 49.267,
+       "end": 49.5
+      },
+      {
+       "w": "vanished",
+       "start": 49.5,
+       "end": 50.132
+      },
+      {
+       "w": "from",
+       "start": 50.132,
+       "end": 50.497
+      },
+      {
+       "w": "military",
+       "start": 50.497,
+       "end": 51.129
+      },
+      {
+       "w": "radar",
+       "start": 51.129,
+       "end": 51.561
+      },
+      {
+       "w": "too.",
+       "start": 51.561,
+       "end": 51.86
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "mh370/vo/line6.mp3",
+   "start": 52.01,
+   "dur": 15.412,
+   "sentences": [
+    {
+     "text": "For the next six hours, the only trace of Flight 370 was a satellite.",
+     "start": 52.01,
+     "end": 56.885,
+     "words": [
+      {
+       "w": "For",
+       "start": 52.01,
+       "end": 52.289
+      },
+      {
+       "w": "the",
+       "start": 52.289,
+       "end": 52.568
+      },
+      {
+       "w": "next",
+       "start": 52.568,
+       "end": 52.909
+      },
+      {
+       "w": "six",
+       "start": 52.909,
+       "end": 53.188
+      },
+      {
+       "w": "hours,",
+       "start": 53.188,
+       "end": 53.591
+      },
+      {
+       "w": "the",
+       "start": 53.861,
+       "end": 54.094
+      },
+      {
+       "w": "only",
+       "start": 54.094,
+       "end": 54.378
+      },
+      {
+       "w": "trace",
+       "start": 54.378,
+       "end": 54.714
+      },
+      {
+       "w": "of",
+       "start": 54.714,
+       "end": 54.895
+      },
+      {
+       "w": "Flight",
+       "start": 54.895,
+       "end": 55.283
+      },
+      {
+       "w": "370",
+       "start": 55.283,
+       "end": 55.981
+      },
+      {
+       "w": "was",
+       "start": 55.981,
+       "end": 56.213
+      },
+      {
+       "w": "a",
+       "start": 56.213,
+       "end": 56.342
+      },
+      {
+       "w": "satellite.",
+       "start": 56.342,
+       "end": 56.885
+      }
+     ]
+    },
+    {
+     "text": "Every hour, the plane sent an automatic electronic ping, like a heartbeat.",
+     "start": 57.408,
+     "end": 61.98,
+     "words": [
+      {
+       "w": "Every",
+       "start": 57.408,
+       "end": 57.798
+      },
+      {
+       "w": "hour,",
+       "start": 57.798,
+       "end": 58.127
+      },
+      {
+       "w": "the",
+       "start": 58.292,
+       "end": 58.489
+      },
+      {
+       "w": "plane",
+       "start": 58.489,
+       "end": 58.774
+      },
+      {
+       "w": "sent",
+       "start": 58.774,
+       "end": 59.015
+      },
+      {
+       "w": "an",
+       "start": 59.015,
+       "end": 59.168
+      },
+      {
+       "w": "automatic",
+       "start": 59.168,
+       "end": 59.628
+      },
+      {
+       "w": "electronic",
+       "start": 59.628,
+       "end": 60.132
+      },
+      {
+       "w": "ping,",
+       "start": 60.132,
+       "end": 60.373
+      },
+      {
+       "w": "like",
+       "start": 60.541,
+       "end": 60.969
+      },
+      {
+       "w": "a",
+       "start": 60.969,
+       "end": 61.163
+      },
+      {
+       "w": "heartbeat.",
+       "start": 61.163,
+       "end": 61.98
+      }
+     ]
+    },
+    {
+     "text": "No words.",
+     "start": 62.497,
+     "end": 64.399,
+     "words": [
+      {
+       "w": "No",
+       "start": 62.497,
+       "end": 63.163
+      },
+      {
+       "w": "words.",
+       "start": 63.163,
+       "end": 64.399
+      }
+     ]
+    },
+    {
+     "text": "No location.",
+     "start": 64.86,
+     "end": 65.66,
+     "words": [
+      {
+       "w": "No",
+       "start": 64.86,
+       "end": 65.075
+      },
+      {
+       "w": "location.",
+       "start": 65.075,
+       "end": 65.66
+      }
+     ]
+    },
+    {
+     "text": "Just proof it was still flying.",
+     "start": 66.084,
+     "end": 67.172,
+     "words": [
+      {
+       "w": "Just",
+       "start": 66.084,
+       "end": 66.26
+      },
+      {
+       "w": "proof",
+       "start": 66.26,
+       "end": 66.468
+      },
+      {
+       "w": "it",
+       "start": 66.468,
+       "end": 66.58
+      },
+      {
+       "w": "was",
+       "start": 66.58,
+       "end": 66.724
+      },
+      {
+       "w": "still",
+       "start": 66.724,
+       "end": 66.932
+      },
+      {
+       "w": "flying.",
+       "start": 66.932,
+       "end": 67.172
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "mh370/vo/line7.mp3",
+   "start": 67.573,
+   "dur": 4.807,
+   "sentences": [
+    {
+     "text": "And when investigators did the math on those pings, it got even darker.",
+     "start": 67.573,
+     "end": 72.163,
+     "words": [
+      {
+       "w": "And",
+       "start": 67.573,
+       "end": 67.789
+      },
+      {
+       "w": "when",
+       "start": 67.789,
+       "end": 68.053
+      },
+      {
+       "w": "investigators",
+       "start": 68.053,
+       "end": 68.75
+      },
+      {
+       "w": "did",
+       "start": 68.75,
+       "end": 68.966
+      },
+      {
+       "w": "the",
+       "start": 68.966,
+       "end": 69.183
+      },
+      {
+       "w": "math",
+       "start": 69.183,
+       "end": 69.447
+      },
+      {
+       "w": "on",
+       "start": 69.447,
+       "end": 69.615
+      },
+      {
+       "w": "those",
+       "start": 69.615,
+       "end": 69.928
+      },
+      {
+       "w": "pings,",
+       "start": 69.928,
+       "end": 70.24
+      },
+      {
+       "w": "it",
+       "start": 70.758,
+       "end": 70.992
+      },
+      {
+       "w": "got",
+       "start": 70.992,
+       "end": 71.293
+      },
+      {
+       "w": "even",
+       "start": 71.293,
+       "end": 71.661
+      },
+      {
+       "w": "darker.",
+       "start": 71.661,
+       "end": 72.163
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "mh370/vo/line8.mp3",
+   "start": 72.529,
+   "dur": 9.9,
+   "sentences": [
+    {
+     "text": "The plane hadn't gone to Beijing.",
+     "start": 72.529,
+     "end": 74.396,
+     "words": [
+      {
+       "w": "The",
+       "start": 72.529,
+       "end": 72.769
+      },
+      {
+       "w": "plane",
+       "start": 72.769,
+       "end": 73.116
+      },
+      {
+       "w": "hadn't",
+       "start": 73.116,
+       "end": 73.463
+      },
+      {
+       "w": "gone",
+       "start": 73.463,
+       "end": 73.756
+      },
+      {
+       "w": "to",
+       "start": 73.756,
+       "end": 73.943
+      },
+      {
+       "w": "Beijing.",
+       "start": 73.943,
+       "end": 74.396
+      }
+     ]
+    },
+    {
+     "text": "It had flown south, deep into the southern Indian Ocean, one of the most remote places on Earth, until it ran out of fuel.",
+     "start": 74.839,
+     "end": 82.245,
+     "words": [
+      {
+       "w": "It",
+       "start": 74.839,
+       "end": 75.037
+      },
+      {
+       "w": "had",
+       "start": 75.037,
+       "end": 75.291
+      },
+      {
+       "w": "flown",
+       "start": 75.291,
+       "end": 75.659
+      },
+      {
+       "w": "south,",
+       "start": 75.659,
+       "end": 76.026
+      },
+      {
+       "w": "deep",
+       "start": 76.026,
+       "end": 76.336
+      },
+      {
+       "w": "into",
+       "start": 76.336,
+       "end": 76.645
+      },
+      {
+       "w": "the",
+       "start": 76.645,
+       "end": 76.898
+      },
+      {
+       "w": "southern",
+       "start": 76.898,
+       "end": 77.433
+      },
+      {
+       "w": "Indian",
+       "start": 77.433,
+       "end": 77.855
+      },
+      {
+       "w": "Ocean,",
+       "start": 77.855,
+       "end": 78.221
+      },
+      {
+       "w": "one",
+       "start": 78.505,
+       "end": 78.733
+      },
+      {
+       "w": "of",
+       "start": 78.733,
+       "end": 78.91
+      },
+      {
+       "w": "the",
+       "start": 78.91,
+       "end": 79.137
+      },
+      {
+       "w": "most",
+       "start": 79.137,
+       "end": 79.415
+      },
+      {
+       "w": "remote",
+       "start": 79.415,
+       "end": 79.794
+      },
+      {
+       "w": "places",
+       "start": 79.794,
+       "end": 80.173
+      },
+      {
+       "w": "on",
+       "start": 80.173,
+       "end": 80.35
+      },
+      {
+       "w": "Earth,",
+       "start": 80.35,
+       "end": 80.679
+      },
+      {
+       "w": "until",
+       "start": 80.935,
+       "end": 81.239
+      },
+      {
+       "w": "it",
+       "start": 81.239,
+       "end": 81.403
+      },
+      {
+       "w": "ran",
+       "start": 81.403,
+       "end": 81.613
+      },
+      {
+       "w": "out",
+       "start": 81.613,
+       "end": 81.824
+      },
+      {
+       "w": "of",
+       "start": 81.824,
+       "end": 81.988
+      },
+      {
+       "w": "fuel.",
+       "start": 81.988,
+       "end": 82.245
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "mh370/vo/line9.mp3",
+   "start": 82.58,
+   "dur": 10.005,
+   "sentences": [
+    {
+     "text": "What followed was the largest search in aviation history.",
+     "start": 82.58,
+     "end": 86.24,
+     "words": [
+      {
+       "w": "What",
+       "start": 82.58,
+       "end": 82.907
+      },
+      {
+       "w": "followed",
+       "start": 82.907,
+       "end": 83.472
+      },
+      {
+       "w": "was",
+       "start": 83.472,
+       "end": 83.74
+      },
+      {
+       "w": "the",
+       "start": 83.74,
+       "end": 84.008
+      },
+      {
+       "w": "largest",
+       "start": 84.008,
+       "end": 84.514
+      },
+      {
+       "w": "search",
+       "start": 84.514,
+       "end": 84.961
+      },
+      {
+       "w": "in",
+       "start": 84.961,
+       "end": 85.169
+      },
+      {
+       "w": "aviation",
+       "start": 85.169,
+       "end": 85.734
+      },
+      {
+       "w": "history.",
+       "start": 85.734,
+       "end": 86.24
+      }
+     ]
+    },
+    {
+     "text": "Ships, planes and robot submarines from several countries.",
+     "start": 86.676,
+     "end": 90.64,
+     "words": [
+      {
+       "w": "Ships,",
+       "start": 86.676,
+       "end": 87.217
+      },
+      {
+       "w": "planes",
+       "start": 87.435,
+       "end": 87.876
+      },
+      {
+       "w": "and",
+       "start": 87.876,
+       "end": 88.141
+      },
+      {
+       "w": "robot",
+       "start": 88.141,
+       "end": 88.523
+      },
+      {
+       "w": "submarines",
+       "start": 88.523,
+       "end": 89.199
+      },
+      {
+       "w": "from",
+       "start": 89.199,
+       "end": 89.523
+      },
+      {
+       "w": "several",
+       "start": 89.523,
+       "end": 90.023
+      },
+      {
+       "w": "countries.",
+       "start": 90.023,
+       "end": 90.64
+      }
+     ]
+    },
+    {
+     "text": "They found nothing.",
+     "start": 91.184,
+     "end": 92.302,
+     "words": [
+      {
+       "w": "They",
+       "start": 91.184,
+       "end": 91.484
+      },
+      {
+       "w": "found",
+       "start": 91.484,
+       "end": 91.839
+      },
+      {
+       "w": "nothing.",
+       "start": 91.839,
+       "end": 92.302
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "mh370/vo/line10.mp3",
+   "start": 92.734,
+   "dur": 6.74,
+   "sentences": [
+    {
+     "text": "Then in 2015, a piece of the wing washed up on Réunion Island, thousands of kilometers away.",
+     "start": 92.734,
+     "end": 99.231,
+     "words": [
+      {
+       "w": "Then",
+       "start": 92.734,
+       "end": 93.358
+      },
+      {
+       "w": "in",
+       "start": 93.358,
+       "end": 93.755
+      },
+      {
+       "w": "2015,",
+       "start": 93.755,
+       "end": 94.379
+      },
+      {
+       "w": "a",
+       "start": 94.67,
+       "end": 94.797
+      },
+      {
+       "w": "piece",
+       "start": 94.797,
+       "end": 95.125
+      },
+      {
+       "w": "of",
+       "start": 95.125,
+       "end": 95.301
+      },
+      {
+       "w": "the",
+       "start": 95.301,
+       "end": 95.529
+      },
+      {
+       "w": "wing",
+       "start": 95.529,
+       "end": 95.806
+      },
+      {
+       "w": "washed",
+       "start": 95.806,
+       "end": 96.185
+      },
+      {
+       "w": "up",
+       "start": 96.185,
+       "end": 96.362
+      },
+      {
+       "w": "on",
+       "start": 96.362,
+       "end": 96.538
+      },
+      {
+       "w": "Réunion",
+       "start": 96.538,
+       "end": 96.917
+      },
+      {
+       "w": "Island,",
+       "start": 96.917,
+       "end": 97.296
+      },
+      {
+       "w": "thousands",
+       "start": 97.553,
+       "end": 98.122
+      },
+      {
+       "w": "of",
+       "start": 98.122,
+       "end": 98.311
+      },
+      {
+       "w": "kilometers",
+       "start": 98.311,
+       "end": 98.933
+      },
+      {
+       "w": "away.",
+       "start": 98.933,
+       "end": 99.231
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "mh370/vo/line11.mp3",
+   "start": 99.624,
+   "dur": 6.113,
+   "sentences": [
+    {
+     "text": "So the plane is in the ocean.",
+     "start": 99.624,
+     "end": 101.5,
+     "words": [
+      {
+       "w": "So",
+       "start": 99.624,
+       "end": 99.826
+      },
+      {
+       "w": "the",
+       "start": 99.826,
+       "end": 100.086
+      },
+      {
+       "w": "plane",
+       "start": 100.086,
+       "end": 100.461
+      },
+      {
+       "w": "is",
+       "start": 100.461,
+       "end": 100.663
+      },
+      {
+       "w": "in",
+       "start": 100.663,
+       "end": 100.865
+      },
+      {
+       "w": "the",
+       "start": 100.865,
+       "end": 101.125
+      },
+      {
+       "w": "ocean.",
+       "start": 101.125,
+       "end": 101.5
+      }
+     ]
+    },
+    {
+     "text": "But the real question was never where.",
+     "start": 102.023,
+     "end": 104.118,
+     "words": [
+      {
+       "w": "But",
+       "start": 102.023,
+       "end": 102.25
+      },
+      {
+       "w": "the",
+       "start": 102.25,
+       "end": 102.477
+      },
+      {
+       "w": "real",
+       "start": 102.477,
+       "end": 102.755
+      },
+      {
+       "w": "question",
+       "start": 102.755,
+       "end": 103.235
+      },
+      {
+       "w": "was",
+       "start": 103.235,
+       "end": 103.462
+      },
+      {
+       "w": "never",
+       "start": 103.462,
+       "end": 103.79
+      },
+      {
+       "w": "where.",
+       "start": 103.79,
+       "end": 104.118
+      }
+     ]
+    },
+    {
+     "text": "It was why.",
+     "start": 104.643,
+     "end": 105.508,
+     "words": [
+      {
+       "w": "It",
+       "start": 104.643,
+       "end": 104.885
+      },
+      {
+       "w": "was",
+       "start": 104.885,
+       "end": 105.197
+      },
+      {
+       "w": "why.",
+       "start": 105.197,
+       "end": 105.508
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "mh370/vo/line12.mp3",
+   "start": 105.887,
+   "dur": 8.594,
+   "sentences": [
+    {
+     "text": "Who turned off the transponder?",
+     "start": 105.887,
+     "end": 107.381,
+     "words": [
+      {
+       "w": "Who",
+       "start": 105.887,
+       "end": 106.087
+      },
+      {
+       "w": "turned",
+       "start": 106.087,
+       "end": 106.422
+      },
+      {
+       "w": "off",
+       "start": 106.422,
+       "end": 106.623
+      },
+      {
+       "w": "the",
+       "start": 106.623,
+       "end": 106.823
+      },
+      {
+       "w": "transponder?",
+       "start": 106.823,
+       "end": 107.381
+      }
+     ]
+    },
+    {
+     "text": "Who flew that turn?",
+     "start": 107.861,
+     "end": 108.886,
+     "words": [
+      {
+       "w": "Who",
+       "start": 107.861,
+       "end": 108.08
+      },
+      {
+       "w": "flew",
+       "start": 108.08,
+       "end": 108.349
+      },
+      {
+       "w": "that",
+       "start": 108.349,
+       "end": 108.618
+      },
+      {
+       "w": "turn?",
+       "start": 108.618,
+       "end": 108.886
+      }
+     ]
+    },
+    {
+     "text": "Investigators looked at a fire, a hijacking, a crew that lost oxygen.",
+     "start": 109.414,
+     "end": 114.283,
+     "words": [
+      {
+       "w": "Investigators",
+       "start": 109.414,
+       "end": 110.185
+      },
+      {
+       "w": "looked",
+       "start": 110.185,
+       "end": 110.584
+      },
+      {
+       "w": "at",
+       "start": 110.584,
+       "end": 110.77
+      },
+      {
+       "w": "a",
+       "start": 110.77,
+       "end": 110.903
+      },
+      {
+       "w": "fire,",
+       "start": 110.903,
+       "end": 111.195
+      },
+      {
+       "w": "a",
+       "start": 111.456,
+       "end": 111.627
+      },
+      {
+       "w": "hijacking,",
+       "start": 111.627,
+       "end": 112.347
+      },
+      {
+       "w": "a",
+       "start": 112.646,
+       "end": 112.801
+      },
+      {
+       "w": "crew",
+       "start": 112.801,
+       "end": 113.14
+      },
+      {
+       "w": "that",
+       "start": 113.14,
+       "end": 113.48
+      },
+      {
+       "w": "lost",
+       "start": 113.48,
+       "end": 113.82
+      },
+      {
+       "w": "oxygen.",
+       "start": 113.82,
+       "end": 114.283
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "mh370/vo/line13.mp3",
+   "start": 114.631,
+   "dur": 12.617,
+   "sentences": [
+    {
+     "text": "They even found that the captain's home flight simulator had a route into the southern Indian Ocean.",
+     "start": 114.631,
+     "end": 119.795,
+     "words": [
+      {
+       "w": "They",
+       "start": 114.631,
+       "end": 114.895
+      },
+      {
+       "w": "even",
+       "start": 114.895,
+       "end": 115.159
+      },
+      {
+       "w": "found",
+       "start": 115.159,
+       "end": 115.472
+      },
+      {
+       "w": "that",
+       "start": 115.472,
+       "end": 115.736
+      },
+      {
+       "w": "the",
+       "start": 115.736,
+       "end": 115.952
+      },
+      {
+       "w": "captain's",
+       "start": 115.952,
+       "end": 116.408
+      },
+      {
+       "w": "home",
+       "start": 116.408,
+       "end": 116.672
+      },
+      {
+       "w": "flight",
+       "start": 116.672,
+       "end": 117.033
+      },
+      {
+       "w": "simulator",
+       "start": 117.033,
+       "end": 117.537
+      },
+      {
+       "w": "had",
+       "start": 117.537,
+       "end": 117.753
+      },
+      {
+       "w": "a",
+       "start": 117.753,
+       "end": 117.873
+      },
+      {
+       "w": "route",
+       "start": 117.873,
+       "end": 118.186
+      },
+      {
+       "w": "into",
+       "start": 118.186,
+       "end": 118.45
+      },
+      {
+       "w": "the",
+       "start": 118.45,
+       "end": 118.666
+      },
+      {
+       "w": "southern",
+       "start": 118.666,
+       "end": 119.122
+      },
+      {
+       "w": "Indian",
+       "start": 119.122,
+       "end": 119.483
+      },
+      {
+       "w": "Ocean.",
+       "start": 119.483,
+       "end": 119.795
+      }
+     ]
+    },
+    {
+     "text": "But that proved nothing.",
+     "start": 120.269,
+     "end": 121.493,
+     "words": [
+      {
+       "w": "But",
+       "start": 120.269,
+       "end": 120.481
+      },
+      {
+       "w": "that",
+       "start": 120.481,
+       "end": 120.74
+      },
+      {
+       "w": "proved",
+       "start": 120.74,
+       "end": 121.093
+      },
+      {
+       "w": "nothing.",
+       "start": 121.093,
+       "end": 121.493
+      }
+     ]
+    },
+    {
+     "text": "In 2018, Malaysia's final report admitted it could not say what happened.",
+     "start": 121.998,
+     "end": 127.016,
+     "words": [
+      {
+       "w": "In",
+       "start": 121.998,
+       "end": 122.393
+      },
+      {
+       "w": "2018,",
+       "start": 122.393,
+       "end": 123.015
+      },
+      {
+       "w": "Malaysia's",
+       "start": 123.247,
+       "end": 123.829
+      },
+      {
+       "w": "final",
+       "start": 123.829,
+       "end": 124.189
+      },
+      {
+       "w": "report",
+       "start": 124.189,
+       "end": 124.605
+      },
+      {
+       "w": "admitted",
+       "start": 124.605,
+       "end": 125.131
+      },
+      {
+       "w": "it",
+       "start": 125.131,
+       "end": 125.325
+      },
+      {
+       "w": "could",
+       "start": 125.325,
+       "end": 125.686
+      },
+      {
+       "w": "not",
+       "start": 125.686,
+       "end": 125.935
+      },
+      {
+       "w": "say",
+       "start": 125.935,
+       "end": 126.184
+      },
+      {
+       "w": "what",
+       "start": 126.184,
+       "end": 126.489
+      },
+      {
+       "w": "happened.",
+       "start": 126.489,
+       "end": 127.016
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "mh370/vo/line14.mp3",
+   "start": 127.398,
+   "dur": 11.572,
+   "sentences": [
+    {
+     "text": "And the search isn't over.",
+     "start": 127.398,
+     "end": 128.762,
+     "words": [
+      {
+       "w": "And",
+       "start": 127.398,
+       "end": 127.621
+      },
+      {
+       "w": "the",
+       "start": 127.621,
+       "end": 127.845
+      },
+      {
+       "w": "search",
+       "start": 127.845,
+       "end": 128.217
+      },
+      {
+       "w": "isn't",
+       "start": 128.217,
+       "end": 128.489
+      },
+      {
+       "w": "over.",
+       "start": 128.489,
+       "end": 128.762
+      }
+     ]
+    },
+    {
+     "text": "A robotics company called Ocean Infinity made Malaysia a deal: no find, no fee.",
+     "start": 129.273,
+     "end": 135.057,
+     "words": [
+      {
+       "w": "A",
+       "start": 129.273,
+       "end": 129.409
+      },
+      {
+       "w": "robotics",
+       "start": 129.409,
+       "end": 129.927
+      },
+      {
+       "w": "company",
+       "start": 129.927,
+       "end": 130.39
+      },
+      {
+       "w": "called",
+       "start": 130.39,
+       "end": 130.799
+      },
+      {
+       "w": "Ocean",
+       "start": 130.799,
+       "end": 131.153
+      },
+      {
+       "w": "Infinity",
+       "start": 131.153,
+       "end": 131.671
+      },
+      {
+       "w": "made",
+       "start": 131.671,
+       "end": 131.97
+      },
+      {
+       "w": "Malaysia",
+       "start": 131.97,
+       "end": 132.488
+      },
+      {
+       "w": "a",
+       "start": 132.488,
+       "end": 132.624
+      },
+      {
+       "w": "deal:",
+       "start": 132.624,
+       "end": 132.924
+      },
+      {
+       "w": "no",
+       "start": 133.434,
+       "end": 133.697
+      },
+      {
+       "w": "find,",
+       "start": 133.697,
+       "end": 134.109
+      },
+      {
+       "w": "no",
+       "start": 134.411,
+       "end": 134.694
+      },
+      {
+       "w": "fee.",
+       "start": 134.694,
+       "end": 135.057
+      }
+     ]
+    },
+    {
+     "text": "If they find the wreck, they get 70 million dollars.",
+     "start": 135.56,
+     "end": 138.766,
+     "words": [
+      {
+       "w": "If",
+       "start": 135.56,
+       "end": 135.692
+      },
+      {
+       "w": "they",
+       "start": 135.692,
+       "end": 135.9
+      },
+      {
+       "w": "find",
+       "start": 135.9,
+       "end": 136.108
+      },
+      {
+       "w": "the",
+       "start": 136.108,
+       "end": 136.278
+      },
+      {
+       "w": "wreck,",
+       "start": 136.278,
+       "end": 136.524
+      },
+      {
+       "w": "they",
+       "start": 136.789,
+       "end": 137.146
+      },
+      {
+       "w": "get",
+       "start": 137.146,
+       "end": 137.437
+      },
+      {
+       "w": "70",
+       "start": 137.437,
+       "end": 137.664
+      },
+      {
+       "w": "million",
+       "start": 137.664,
+       "end": 138.215
+      },
+      {
+       "w": "dollars.",
+       "start": 138.215,
+       "end": 138.766
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "mh370/vo/line15.mp3",
+   "start": 139.12,
+   "dur": 14.759,
+   "sentences": [
+    {
+     "text": "Their last search covered more than seven thousand square kilometers of seabed, and found nothing.",
+     "start": 139.12,
+     "end": 144.76,
+     "words": [
+      {
+       "w": "Their",
+       "start": 139.12,
+       "end": 139.453
+      },
+      {
+       "w": "last",
+       "start": 139.453,
+       "end": 139.735
+      },
+      {
+       "w": "search",
+       "start": 139.735,
+       "end": 140.119
+      },
+      {
+       "w": "covered",
+       "start": 140.119,
+       "end": 140.555
+      },
+      {
+       "w": "more",
+       "start": 140.555,
+       "end": 140.837
+      },
+      {
+       "w": "than",
+       "start": 140.837,
+       "end": 141.119
+      },
+      {
+       "w": "seven",
+       "start": 141.119,
+       "end": 141.452
+      },
+      {
+       "w": "thousand",
+       "start": 141.452,
+       "end": 141.938
+      },
+      {
+       "w": "square",
+       "start": 141.938,
+       "end": 142.323
+      },
+      {
+       "w": "kilometers",
+       "start": 142.323,
+       "end": 142.912
+      },
+      {
+       "w": "of",
+       "start": 142.912,
+       "end": 143.091
+      },
+      {
+       "w": "seabed,",
+       "start": 143.091,
+       "end": 143.475
+      },
+      {
+       "w": "and",
+       "start": 143.819,
+       "end": 144.036
+      },
+      {
+       "w": "found",
+       "start": 144.036,
+       "end": 144.35
+      },
+      {
+       "w": "nothing.",
+       "start": 144.35,
+       "end": 144.76
+      }
+     ]
+    },
+    {
+     "text": "This summer, Malaysia extended the contract for another year.",
+     "start": 145.279,
+     "end": 148.689,
+     "words": [
+      {
+       "w": "This",
+       "start": 145.279,
+       "end": 145.538
+      },
+      {
+       "w": "summer,",
+       "start": 145.538,
+       "end": 145.89
+      },
+      {
+       "w": "Malaysia",
+       "start": 146.093,
+       "end": 146.572
+      },
+      {
+       "w": "extended",
+       "start": 146.572,
+       "end": 147.051
+      },
+      {
+       "w": "the",
+       "start": 147.051,
+       "end": 147.277
+      },
+      {
+       "w": "contract",
+       "start": 147.277,
+       "end": 147.756
+      },
+      {
+       "w": "for",
+       "start": 147.756,
+       "end": 147.983
+      },
+      {
+       "w": "another",
+       "start": 147.983,
+       "end": 148.411
+      },
+      {
+       "w": "year.",
+       "start": 148.411,
+       "end": 148.689
+      }
+     ]
+    },
+    {
+     "text": "Somewhere down there, in the dark, Flight 370 is still waiting.",
+     "start": 149.209,
+     "end": 153.88,
+     "words": [
+      {
+       "w": "Somewhere",
+       "start": 149.209,
+       "end": 149.725
+      },
+      {
+       "w": "down",
+       "start": 149.725,
+       "end": 149.995
+      },
+      {
+       "w": "there,",
+       "start": 149.995,
+       "end": 150.314
+      },
+      {
+       "w": "in",
+       "start": 150.598,
+       "end": 150.786
+      },
+      {
+       "w": "the",
+       "start": 150.786,
+       "end": 151.028
+      },
+      {
+       "w": "dark,",
+       "start": 151.028,
+       "end": 151.324
+      },
+      {
+       "w": "Flight",
+       "start": 151.813,
+       "end": 152.205
+      },
+      {
+       "w": "370",
+       "start": 152.205,
+       "end": 152.912
+      },
+      {
+       "w": "is",
+       "start": 152.912,
+       "end": 153.095
+      },
+      {
+       "w": "still",
+       "start": 153.095,
+       "end": 153.435
+      },
+      {
+       "w": "waiting.",
+       "start": 153.435,
+       "end": 153.88
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "mh370/vo/line16.mp3",
+   "start": 154.03,
+   "dur": 15.151,
+   "sentences": [
+    {
+     "text": "So what do you think happened that night?",
+     "start": 154.03,
+     "end": 155.998,
+     "words": [
+      {
+       "w": "So",
+       "start": 154.03,
+       "end": 154.183
+      },
+      {
+       "w": "what",
+       "start": 154.183,
+       "end": 154.423
+      },
+      {
+       "w": "do",
+       "start": 154.423,
+       "end": 154.576
+      },
+      {
+       "w": "you",
+       "start": 154.576,
+       "end": 154.773
+      },
+      {
+       "w": "think",
+       "start": 154.773,
+       "end": 155.057
+      },
+      {
+       "w": "happened",
+       "start": 155.057,
+       "end": 155.473
+      },
+      {
+       "w": "that",
+       "start": 155.473,
+       "end": 155.713
+      },
+      {
+       "w": "night?",
+       "start": 155.713,
+       "end": 155.998
+      }
+     ]
+    },
+    {
+     "text": "An accident, or something deliberate?",
+     "start": 156.513,
+     "end": 159.194,
+     "words": [
+      {
+       "w": "An",
+       "start": 156.513,
+       "end": 156.728
+      },
+      {
+       "w": "accident,",
+       "start": 156.728,
+       "end": 157.312
+      },
+      {
+       "w": "or",
+       "start": 157.767,
+       "end": 157.963
+      },
+      {
+       "w": "something",
+       "start": 157.963,
+       "end": 158.551
+      },
+      {
+       "w": "deliberate?",
+       "start": 158.551,
+       "end": 159.194
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 159.725,
+     "end": 160.728,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 159.725,
+       "end": 159.933
+      },
+      {
+       "w": "me",
+       "start": 159.933,
+       "end": 160.066
+      },
+      {
+       "w": "in",
+       "start": 160.066,
+       "end": 160.198
+      },
+      {
+       "w": "the",
+       "start": 160.198,
+       "end": 160.369
+      },
+      {
+       "w": "comments.",
+       "start": 160.369,
+       "end": 160.728
+      }
+     ]
+    },
+    {
+     "text": "And if you think a plane can't just vanish, watch the story of a ship that was found sailing perfectly fine, with no one on board.",
+     "start": 161.158,
+     "end": 168.955,
+     "words": [
+      {
+       "w": "And",
+       "start": 161.158,
+       "end": 161.395
+      },
+      {
+       "w": "if",
+       "start": 161.395,
+       "end": 161.579
+      },
+      {
+       "w": "you",
+       "start": 161.579,
+       "end": 161.816
+      },
+      {
+       "w": "think",
+       "start": 161.816,
+       "end": 162.158
+      },
+      {
+       "w": "a",
+       "start": 162.158,
+       "end": 162.289
+      },
+      {
+       "w": "plane",
+       "start": 162.289,
+       "end": 162.631
+      },
+      {
+       "w": "can't",
+       "start": 162.631,
+       "end": 162.92
+      },
+      {
+       "w": "just",
+       "start": 162.92,
+       "end": 163.21
+      },
+      {
+       "w": "vanish,",
+       "start": 163.21,
+       "end": 163.604
+      },
+      {
+       "w": "watch",
+       "start": 163.916,
+       "end": 164.239
+      },
+      {
+       "w": "the",
+       "start": 164.239,
+       "end": 164.463
+      },
+      {
+       "w": "story",
+       "start": 164.463,
+       "end": 164.786
+      },
+      {
+       "w": "of",
+       "start": 164.786,
+       "end": 164.96
+      },
+      {
+       "w": "a",
+       "start": 164.96,
+       "end": 165.084
+      },
+      {
+       "w": "ship",
+       "start": 165.084,
+       "end": 165.358
+      },
+      {
+       "w": "that",
+       "start": 165.358,
+       "end": 165.631
+      },
+      {
+       "w": "was",
+       "start": 165.631,
+       "end": 165.855
+      },
+      {
+       "w": "found",
+       "start": 165.855,
+       "end": 166.178
+      },
+      {
+       "w": "sailing",
+       "start": 166.178,
+       "end": 166.6
+      },
+      {
+       "w": "perfectly",
+       "start": 166.6,
+       "end": 167.122
+      },
+      {
+       "w": "fine,",
+       "start": 167.122,
+       "end": 167.396
+      },
+      {
+       "w": "with",
+       "start": 167.656,
+       "end": 167.961
+      },
+      {
+       "w": "no",
+       "start": 167.961,
+       "end": 168.154
+      },
+      {
+       "w": "one",
+       "start": 168.154,
+       "end": 168.403
+      },
+      {
+       "w": "on",
+       "start": 168.403,
+       "end": 168.596
+      },
+      {
+       "w": "board.",
+       "start": 168.596,
+       "end": 168.955
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

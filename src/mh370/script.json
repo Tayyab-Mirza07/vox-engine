@@ -1,0 +1,51 @@
+{
+  "title": "MH370: The Plane That Vanished",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.15,
+  "tail": 0.8,
+  "spoken": {
+    "777.": "triple seven",
+    "8th,": "eighth",
+    "2014.": "twenty fourteen",
+    "2015,": "twenty fifteen",
+    "2018,": "twenty eighteen",
+    "370": "three seventy"
+  },
+  "lines": [
+    "Two hundred thirty-nine people. One Boeing 777. And twelve years later, nobody can tell you where it is.",
+    "March 8th, 2014. Malaysia Airlines Flight 370 takes off from Kuala Lumpur just after midnight, bound for Beijing. A routine six-hour flight.",
+    "Forty minutes in, the captain speaks to air traffic control for the last time. Good night, Malaysian three seven zero.",
+    "Less than two minutes later, the plane's transponder goes dark. On civilian radar, Flight 370 simply disappears.",
+    "But it didn't crash. Not yet. Because military radar was still watching.",
+    "The plane made a sharp turn. It flew back across Malaysia, over the island of Penang, and out over the Andaman Sea. Then it vanished from military radar too.",
+    "For the next six hours, the only trace of Flight 370 was a satellite. Every hour, the plane sent an automatic electronic ping, like a heartbeat. No words. No location. Just proof it was still flying.",
+    "And when investigators did the math on those pings, it got even darker.",
+    "The plane hadn't gone to Beijing. It had flown south, deep into the southern Indian Ocean, one of the most remote places on Earth, until it ran out of fuel.",
+    "What followed was the largest search in aviation history. Ships, planes and robot submarines from several countries. They found nothing.",
+    "Then in 2015, a piece of the wing washed up on Réunion Island, thousands of kilometers away.",
+    "So the plane is in the ocean. But the real question was never where. It was why.",
+    "Who turned off the transponder? Who flew that turn? Investigators looked at a fire, a hijacking, a crew that lost oxygen.",
+    "They even found that the captain's home flight simulator had a route into the southern Indian Ocean. But that proved nothing. In 2018, Malaysia's final report admitted it could not say what happened.",
+    "And the search isn't over. A robotics company called Ocean Infinity made Malaysia a deal: no find, no fee. If they find the wreck, they get 70 million dollars.",
+    "Their last search covered more than seven thousand square kilometers of seabed, and found nothing. This summer, Malaysia extended the contract for another year. Somewhere down there, in the dark, Flight 370 is still waiting.",
+    "So what do you think happened that night? An accident, or something deliberate? Tell me in the comments. And if you think a plane can't just vanish, watch the story of a ship that was found sailing perfectly fine, with no one on board."
+  ],
+  "structure": {
+    "hook": "line 0: 239 people, one Boeing 777, 12 years, nobody knows where (first 4 s, not whispered)",
+    "5W1H": "who (MH370, 239 people), what (vanished), when (Mar 8 2014), where (KL→Beijing; southern Indian Ocean), how (lines 5-6), why (lines 11-13)",
+    "rehooks": [
+      "line 4: military radar was still watching",
+      "line 7: the math got even darker",
+      "line 11: the real question was why"
+    ],
+    "tension": "lines 1-9",
+    "release": "line 10 (debris found), line 14-15 (search continues)",
+    "payoff": "lines 13-15: final report undetermined; Ocean Infinity no-find-no-fee, contract extended June 2026",
+    "cta": "line 16: comment question + Mary Celeste Short (thumbnail)"
+  },
+  "notes": "Owner's script, fact-checked Nov 2026. No victim/family photos; the captain is never shown and no guilt implied. Ocean Infinity: 151 days at sea, ended Mar 2026 (Malay Mail); contract extended one year June 30 2026 (The Diplomat), $70M only if wreck found."
+}
