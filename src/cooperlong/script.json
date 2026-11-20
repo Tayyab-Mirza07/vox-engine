@@ -1,0 +1,116 @@
+{
+  "title": "D.B. Cooper: The Man Who Jumped Into the Night With $200,000",
+  "format": "1920x1080 landscape long video",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.35,
+  "tail": 2.0,
+  "spoken": {
+    "1971.": "nineteen seventy one",
+    "1971,": "nineteen seventy one",
+    "24th,": "twenty fourth",
+    "305": "three oh five",
+    "727": "seven twenty seven",
+    "1980,": "nineteen eighty",
+    "1974.": "nineteen seventy four",
+    "2016,": "twenty sixteen"
+  },
+  "lines": [
+    "Ten thousand feet above the forests of Washington State, a quiet man in a dark suit stepped out of the back of a passenger jet, into the night. It was the night before Thanksgiving, 1971.",
+    "It was pitch black. It was raining. He was wearing loafers. And strapped to his body was two hundred thousand dollars in cash.",
+    "He had just pulled off the only unsolved airline hijacking in American history. And then he vanished. No body. No parachute. Not even his real name.",
+    "For more than fifty years, the FBI has asked one question. Who was D.B. Cooper? And did he survive the jump?",
+    "November 24th, 1971. Portland International Airport. A man walks up to the Northwest Orient Airlines counter and pays cash for a one-way ticket to Seattle. The name he gives is Dan Cooper.",
+    "He looks completely forgettable. Mid-forties. Dark suit. White shirt. Thin black tie. A raincoat over his arm, and a briefcase in his hand.",
+    "Flight 305 is a short, thirty-minute hop. Thirty-six passengers. Six crew. Cooper takes a seat near the back, lights a cigarette, and orders a bourbon and soda.",
+    "Then, just after takeoff, he hands a note to a flight attendant named Florence Schaffner. She assumes he's a lonely businessman asking for her number. She slips it into her pocket without reading it.",
+    "Cooper leans in. Miss, he says quietly, you'd better look at that note. I have a bomb.",
+    "He cracks open the briefcase just enough for her to see inside. Red cylinders. Wires. A battery.",
+    "His demands are simple, and strangely precise. Two hundred thousand dollars in twenty-dollar bills. Four parachutes. And a fuel truck waiting in Seattle. No funny stuff, he warns.",
+    "But the strangest part wasn't the bomb. It was how calm he was, and how much he seemed to know.",
+    "The pilots circle above Seattle for nearly two hours while the FBI scrambles. Inside the cabin, most passengers have no idea anything is wrong. They're told it's a mechanical delay.",
+    "Cooper stays calm. Polite, even. Looking out the window, he recognizes the ground below and casually mentions that McChord Air Force Base is about twenty minutes' drive from Tacoma. He knows this area.",
+    "On the ground, the FBI does something clever. They gather ten thousand twenty-dollar bills, and they photograph every single one, recording each serial number. If Cooper ever spends that money, they'll know.",
+    "At 5:39 PM, the plane finally lands. The cash and the parachutes are brought aboard. Cooper keeps his word and lets all thirty-six passengers walk off. But he keeps the pilots, and one flight attendant, Tina Mucklow.",
+    "Then he gives his next orders. And this is where investigators realized this was no amateur.",
+    "Fly to Mexico City. Stay below ten thousand feet. Keep the landing gear down. Set the wing flaps to fifteen degrees. Leave the cabin unpressurized.",
+    "Every one of those instructions keeps the plane slow, low, and safe to jump from. And he has one more question. Can the rear stairs of this Boeing 727 be lowered in flight?",
+    "At 7:40 PM, Flight 305 takes off again, into a cold, stormy night. Cooper sends Tina Mucklow into the cockpit and tells the crew to stay there. She is the last person ever known to see him. As she walks away, she sees him tying something around his waist.",
+    "In the cockpit, a warning light flickers on. The rear stairs are open.",
+    "Then, at 8:13 PM, the tail of the plane suddenly lurches upward. A pressure bump. As if something heavy had just dropped away.",
+    "Somewhere over the dark forests of southwest Washington, Dan Cooper has stepped off the stairs. Into freezing winds. Into driving rain. In a business suit. Wearing loafers.",
+    "Around 10:15 PM, the plane lands in Reno. Armed agents surround it. They rush up the stairs, and the cabin is empty.",
+    "Cooper is gone. So is the money. All he's left behind are two parachutes, a handful of cigarette butts, and his black clip-on tie.",
+    "And for nine long years, not a single dollar of that money would turn up. Until a little boy went digging in the sand.",
+    "The FBI launched one of the largest manhunts in American history. Soldiers walked the forests in long lines. Helicopters swept the hills. Agents searched farms, rivers and lakes for weeks.",
+    "They found nothing. No parachute. No body. Not one bill.",
+    "The FBI sent the list of serial numbers to banks and businesses across the country. And they waited. One year. Five years. Nine years. Not a single twenty-dollar bill showed up.",
+    "Then, in February 1980, an eight-year-old boy named Brian Ingram was on a family trip along the Columbia River, near Vancouver, Washington. He was raking the sand to build a campfire, when he uncovered three bundles of rotting cash.",
+    "Five thousand eight hundred dollars. In twenty-dollar bills. The serial numbers matched. It was Cooper's money.",
+    "But instead of solving the case, it made it stranger. The bills were still bundled, still held by rubber bands. And they were found miles from where Cooper was believed to have landed.",
+    "Did Cooper bury them? Did they wash down the river? Did he lose them as he ran? To this day, no one knows. And the other one hundred ninety-four thousand dollars? It has never been found.",
+    "So if Dan Cooper survived, who was he?",
+    "First, a confession about the name. He was never called D.B. Cooper. He bought his ticket as Dan Cooper. In the chaos of the first days, a news report mixed him up with a real man named D.B. Cooper, who was questioned and quickly cleared. But the wrong name stuck. Forever.",
+    "Over the years, the FBI looked at hundreds of suspects. A few stand out.",
+    "Richard McCoy. Just five months after Cooper, McCoy hijacked another plane using almost the exact same method, and jumped with half a million dollars. He was caught, escaped from prison, and was killed in a shootout with the FBI in 1974. Decades later, his children handed the FBI a parachute they'd found hidden in the family's belongings. They believe their father was Cooper.",
+    "Kenneth Christiansen. A former paratrooper who worked for Northwest Orient, the very airline Cooper hijacked. After his death, his brother became convinced he was the man on Flight 305.",
+    "Robert Rackstraw. A Vietnam veteran and pilot, named by one team of investigators as Cooper. Critics said he was far too young to match the witnesses. He always denied it.",
+    "None of them was ever proven to be Cooper.",
+    "And then there's the theory many FBI agents believed. That Cooper never survived at all. He jumped at night, into a storm, over rugged forest, without proper gear. Reportedly, one of the reserve chutes he took was a training dummy, sewn shut. Some agents believe he died that night, and the forest simply swallowed him.",
+    "In 2016, after forty-five years, the FBI officially stopped actively investigating the case. Their message was simple. They would look again only if someone found real physical evidence. The rest of the money. Or the parachute.",
+    "And people are still looking. Amateur investigators have studied tiny metal particles found on Cooper's tie. Families have come forward with old parachutes and old secrets. This year, the FBI released hundreds of new pages from its files. More suspects. More dead ends. But no answer.",
+    "Here's what we know for sure. A man walked onto a plane with a briefcase and a calm voice. He took two hundred thousand dollars. He jumped into a storm. And more than fifty years later, America's only unsolved airline hijacking is still unsolved.",
+    "Somewhere out there, in a forest, in a river, or in an old attic, the truth is still waiting.",
+    "So what do you think? Did Dan Cooper survive the jump, and spend the rest of his life hiding in plain sight? Or did he die that night in the trees? Tell me in the comments.",
+    "And if you want another story of people who vanished without a trace, watch this next. The ship that was found sailing perfectly fine, with no one on board."
+  ],
+  "chapters": {
+    "cold_open": [
+      0,
+      3
+    ],
+    "ch1_quiet_passenger": [
+      4,
+      11
+    ],
+    "ch2_ransom": [
+      12,
+      18
+    ],
+    "ch3_jump": [
+      19,
+      25
+    ],
+    "ch4_money": [
+      26,
+      33
+    ],
+    "ch5_suspects": [
+      34,
+      40
+    ],
+    "payoff": [
+      41,
+      46
+    ]
+  },
+  "structure": {
+    "hook": "line 0 opens on the shocking image (a man stepping out of a jet at 10,000 ft at night); the date follows",
+    "5W1H": "who (Dan Cooper, crew, suspects), what (hijacking + jump), when (Nov 24 1971), where (Portland→Seattle→Reno, SW Washington), how (lines 10-22), why/who (lines 33-40)",
+    "rehooks": [
+      "line 11 the strangest part wasn't the bomb",
+      "line 16 this was no amateur",
+      "line 18 can the stairs be lowered in flight?",
+      "line 25 until a little boy went digging",
+      "line 33 who was he?"
+    ],
+    "tension": "chapters 1-3",
+    "release": "ch4 money found (line 30)",
+    "payoff": "lines 41-44: case inactive since 2016, still unsolved",
+    "cta": "lines 45-46 comment question + Mary Celeste"
+  },
+  "notes": "Owner's long-video script (Claude Docs 'D.B. Cooper — Long Video Script'); cold-open first line reordered so the shock lands first. Music reused from earlier episodes (ElevenLabs credits limited)."
+}
