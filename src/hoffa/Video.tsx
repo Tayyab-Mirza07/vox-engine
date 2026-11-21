@@ -1,8 +1,8 @@
 import React, {useEffect, useState} from 'react';
-import {AbsoluteFill, Audio, Sequence, continueRender, delayRender, staticFile} from 'remotion';
+import {AbsoluteFill, Audio, Sequence, continueRender, delayRender, staticFile, useCurrentFrame} from 'remotion';
 import '@fontsource/anton/400.css';
 import '@fontsource/inter/800.css';
-import {Cues, createTimeline, f} from '../lib';
+import {Cues, createTimeline, f, p} from '../lib';
 import {createMix} from '../mix';
 import {EnterTransition, ExitShade, TRANSITION_FRAMES, TransitionKind} from '../transitions';
 import {Captions, ProgressBar} from '../ui';
@@ -13,7 +13,7 @@ import timings from './timings.json';
 export const T = createTimeline(timings);
 const SCENES = [Hook, Name, DarkFriends, Kennedy, Prison, Nixon, Throne, TheDay, StoodUp, LastSeen, Pontiac, OtherCar, Mercury, NeverCharged, Rumors, Digs, Payoff, CallToAction];
 // Page tilts between the photo 'files', zooms and whips into the set pieces.
-const KINDS: TransitionKind[] = ['zoom', 'tilt', 'whip', 'tilt', 'zoom', 'wipe', 'tilt', 'zoom', 'slide', 'whip', 'zoom', 'tilt', 'wipe', 'whip', 'zoom', 'tilt', 'slide'];
+const KINDS: TransitionKind[] = ['tilt', 'zoom', 'tilt', 'whip', 'tilt', 'zoom', 'tilt', 'wipe', 'tilt', 'zoom', 'tilt', 'whip', 'tilt', 'zoom', 'tilt', 'slide', 'tilt'];
 const transitionFor = (i: number) => KINDS[(i - 1 + KINDS.length) % KINDS.length];
 
 // Power and menace, a coiled build to the parking lot, hard at the car evidence, heavy at the digs, open at the end.
@@ -23,6 +23,34 @@ const intensity = (frame: number) => {
   while (i + 1 < SCENES.length && frame >= T.sceneStart(i + 1)) i++;
   return INTENSITY[i];
 };
+// Cuts inside a scene (one visual to the next) also turn like a page.
+const CUTS: Record<number, (c: Cues) => number[]> = {
+  0: (c) => [c.s(1), c.s(3)],
+  1: (c) => [c.s(1)],
+  3: (c) => [c.s(2)],
+  5: (c) => [c.s(1)],
+  6: (c) => [c.s(2)],
+  7: (c) => [c.s(1)],
+  8: (c) => [c.s(2)],
+  12: (c) => [c.s(2)],
+  14: (c) => [c.s(1), c.s(2), c.s(3), c.s(4)],
+  15: (c) => [c.w('driveway'), c.w('field'), c.w('2022')],
+  16: (c) => [c.s(2)],
+  17: (c) => [c.s(2)],
+};
+const PageTilt: React.FC<{cuts: number[]; children: React.ReactNode}> = ({cuts, children}) => {
+  const frame = useCurrentFrame();
+  const k = cuts.findIndex((c) => frame >= c && frame < c + 16);
+  if (k < 0) return <AbsoluteFill>{children}</AbsoluteFill>;
+  const t = p(frame, cuts[k], 16);
+  const right = k % 2 === 0;
+  return (
+    <AbsoluteFill style={{background: '#000'}}>
+      <AbsoluteFill style={{transform: `perspective(1600px) rotateY(${(1 - t) * (right ? -65 : 65)}deg) scale(${1 - 0.1 * (1 - t)})`, transformOrigin: right ? '100% 50%' : '0% 50%', boxShadow: '0 0 80px #000'}}>{children}</AbsoluteFill>
+    </AbsoluteFill>
+  );
+};
+
 const at = (scene: number, c: (q: Cues) => number) => T.sceneStart(scene) + c(T.cues(scene));
 // Music drops out just before the big reveals and swells back after.
 const DIPS = [
@@ -132,7 +160,9 @@ export const Hoffa: React.FC<{stem?: 'all' | 'voice' | 'fx' | 'music'}> = ({stem
           <Sequence key={i} from={start} durationInFrames={dur}>
             <ExitShade start={T.sceneEnd(i) - start}>
               <EnterTransition kind={transitionFor(i)} disabled={i === 0}>
-                <Scene cue={T.cues(i)} />
+                <PageTilt cuts={CUTS[i] ? CUTS[i](T.cues(i)) : []}>
+                  <Scene cue={T.cues(i)} />
+                </PageTilt>
               </EnterTransition>
             </ExitShade>
             {play('fx') && i > 0 ? <Audio src={staticFile('sfx/whoosh2.wav')} volume={(fr) => MIXER.fx(0.4, start + fr)} /> : null}
