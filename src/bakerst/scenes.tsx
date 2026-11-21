@@ -487,13 +487,13 @@ export const Listening: React.FC<SceneProps> = ({cue}) => {
     return (
       <AbsoluteFill style={{background: BG, overflow: 'hidden'}}>
         <AbsoluteFill style={{transform: `scale(${lerp(1.05, 1.18, z)})`, transformOrigin: '50% 40%'}}>
-          <Img src={staticFile(`${PH}bank.jpg`)} style={{position: 'absolute', left: -478, top: 302, width: 1893, height: 1300, filter: 'grayscale(1) invert(1) contrast(1.6) brightness(0.95)'}} />
+          <Img src={staticFile(`${PH}bank.jpg`)} style={{position: 'absolute', left: -620, top: 0, width: 2797, height: 1920, filter: 'grayscale(1) invert(1) contrast(1.6) brightness(0.95)'}} />
           <AbsoluteFill style={{background: BLUE, mixBlendMode: 'multiply', opacity: 0.55}} />
-          <Waves x={110} y={597} dir={0.6} color={RED} n={6} />
-          <div style={{position: 'absolute', left: 80, top: 560, width: 60, height: 60, borderRadius: 30, background: RED, boxShadow: `0 0 40px ${RED}`}} />
-          <div style={{position: 'absolute', left: 400, top: 770, width: 60, height: 60, borderRadius: 30, background: frame >= word ? PAPER : BLUE, boxShadow: `0 0 40px ${BLUE}`}} />
-          <div style={{position: 'absolute', left: 160, top: 520}}><Label size={30}>BANK</Label></div>
-          <div style={{position: 'absolute', left: 480, top: 780}}><Label size={30}>WIMPOLE ST</Label></div>
+          <Waves x={250} y={437} dir={0.6} color={RED} n={6} />
+          <div style={{position: 'absolute', left: 220, top: 407, width: 60, height: 60, borderRadius: 30, background: RED, boxShadow: `0 0 40px ${RED}`}} />
+          <div style={{position: 'absolute', left: 693, top: 714, width: 60, height: 60, borderRadius: 30, background: frame >= word ? PAPER : BLUE, boxShadow: `0 0 40px ${BLUE}`}} />
+          <div style={{position: 'absolute', left: 300, top: 360}}><Label size={30}>BANK</Label></div>
+          <div style={{position: 'absolute', left: 560, top: 800}}><Label size={30}>WIMPOLE ST</Label></div>
         </AbsoluteFill>
         <div style={{position: 'absolute', left: 30, bottom: 150, fontFamily: 'Inter', fontWeight: 800, fontSize: 20, color: '#ffffff99'}}>Map: SchroCat / OpenStreetMap · CC BY-SA 4.0</div>
         <Tag at={6} top={200}>
