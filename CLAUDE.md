@@ -29,6 +29,8 @@ Remotion project that turns a script into vertical shorts for the owner's YouTub
 - Voiceover: generate with the owner's ElevenLabs connector (paid plan). Voice: "Justin Time"
   (voice_id `uFIXVu9mmnDZ7dTKCBTX`), model Eleven v4, English. Generate one line per scene into `public/vo/lineN.mp3`
   with `generations_count: 1` to save credits. Audio downloads from `elevenlabsusercontent.com`.
+  Plan: ElevenLabs Creator (~123K credits/month, from 21 Nov 2026). Budget: 1 short/day (~3K voice) + 1 long/week (~9K);
+  reuse the music library instead of generating new music per video; thumbnails ~191 credits per image.
   Only fall back to vidIQ voiceover (limited credits) if ElevenLabs is not connected, and say so.
 - The owner often cannot download from the chat preview: also copy the mastered file to `videos/` and push it,
   then give the GitHub link.
