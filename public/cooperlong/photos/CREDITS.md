@@ -7,3 +7,4 @@ D.B. Cooper long video — photo sources (Wikimedia Commons)
 - airstair.jpg — File:Northwest Boeing 727 airstair (1975).jpg, Robert Rynerson, CC BY 2.5
 Suspects and crew are shown only as silhouettes. Music: re-cut from earlier Chronos Galaxy scores (ElevenLabs).
 - fall-ai.png — AI illustration (vidIQ thumbnail generator) used only in the thumbnail; not a real photo
+- jump-3d.png — AI 3D illustration (ElevenLabs image, gpt-image-2.5) used only in the thumbnail; not a real photo

@@ -59,29 +59,19 @@ const Brush: React.FC<{width: number; height: number; children: React.ReactNode}
   </div>
 );
 
-/** YouTube thumbnail v3 (1280×720): sketch left with red glow, 727 from below with jumper, money right, red UNSOLVED brush. */
+/** YouTube thumbnail v4 (1280×720): 3D jump render as the background, FBI sketch on the left with red glow, UNSOLVED brush. */
 export const CooperThumb2: React.FC = () => (
-  <AbsoluteFill style={{background: 'radial-gradient(ellipse at 62% 28%, #6c8fb8 0%, #2a4466 30%, #0d1a2c 65%, #05080f 100%)', overflow: 'hidden'}}>
-    {/* the jump: close-up of the hijacker falling from the 727 (AI illustration, cropped from our v2 thumbnail) */}
-    <div style={{position: 'absolute', right: 0, top: 0, width: 640, height: 720, overflow: 'hidden'}}>
-      <Img src={staticFile('cooperlong/photos/fall-ai.png')} style={{position: 'absolute', left: -455, top: -189, width: 1613, height: 907, filter: 'contrast(1.1) saturate(1.1)'}} />
-      <div style={{position: 'absolute', inset: 0, background: 'linear-gradient(90deg, rgba(5,8,15,1) 0%, transparent 30%)'}} />
+  <AbsoluteFill style={{background: '#05080f', overflow: 'hidden'}}>
+    <Img src={staticFile('cooperlong/photos/jump-3d.png')} style={{position: 'absolute', inset: 0, width: 1280, height: 720, filter: 'contrast(1.12) saturate(1.15) brightness(1.05)'}} />
+    {/* FBI sketch on the left, red rim glow */}
+    <div style={{position: 'absolute', left: 0, top: 0, width: 520, height: 720, overflow: 'hidden', WebkitMaskImage: 'linear-gradient(90deg, #000 70%, transparent 100%)', maskImage: 'linear-gradient(90deg, #000 70%, transparent 100%)'}}>
+      <Img src={staticFile('cooperlong/photos/sketch.jpg')} style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: '50% 15%', filter: 'grayscale(1) sepia(0.3) contrast(1.45) brightness(1.05)'}} />
+      <div style={{position: 'absolute', inset: 0, background: 'linear-gradient(90deg, transparent 40%, rgba(227,23,43,0.6) 80%)', mixBlendMode: 'multiply'}} />
+      <div style={{position: 'absolute', inset: 0, boxShadow: 'inset -50px 0 80px rgba(227,23,43,0.75)'}} />
     </div>
-    <div style={{position: 'absolute', right: 26, top: 22, fontFamily: DISPLAY, fontSize: 78, color: '#ffd23f', WebkitTextStroke: '6px #000', paintOrder: 'stroke fill', transform: 'rotate(-5deg)', textShadow: '0 6px 0 #000'}}>
-      $200,000
-    </div>
-
-    {/* FBI sketch, big on the left, red rim glow */}
-    <div style={{position: 'absolute', left: 0, top: 0, width: 660, height: 720, overflow: 'hidden', WebkitMaskImage: 'linear-gradient(90deg, #000 72%, transparent 100%)', maskImage: 'linear-gradient(90deg, #000 72%, transparent 100%)'}}>
-      <Img src={staticFile('cooperlong/photos/sketch.jpg')} style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: '50% 20%', filter: 'grayscale(1) sepia(0.35) contrast(1.4) brightness(1.08)'}} />
-      <div style={{position: 'absolute', inset: 0, background: 'linear-gradient(90deg, transparent 50%, rgba(227,23,43,0.55) 85%)', mixBlendMode: 'multiply'}} />
-      <div style={{position: 'absolute', inset: 0, boxShadow: `inset -40px 0 70px rgba(227,23,43,0.7)`}} />
-    </div>
-
-    {/* UNSOLVED brush banner */}
-    <div style={{position: 'absolute', left: 300, top: 545, transform: 'rotate(-4deg)'}}>
-      <Brush width={640} height={150}>
-        <span style={{fontFamily: DISPLAY, fontSize: 118, color: '#fff', letterSpacing: 4, textShadow: '0 5px 0 rgba(0,0,0,0.5)', marginTop: -6}}>UNSOLVED</span>
+    <div style={{position: 'absolute', left: 20, top: 575, transform: 'rotate(-4deg)'}}>
+      <Brush width={560} height={135}>
+        <span style={{fontFamily: DISPLAY, fontSize: 104, color: '#fff', letterSpacing: 4, textShadow: '0 5px 0 rgba(0,0,0,0.5)', marginTop: -6}}>UNSOLVED</span>
       </Brush>
     </div>
   </AbsoluteFill>
