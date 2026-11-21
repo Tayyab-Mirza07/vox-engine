@@ -12,11 +12,11 @@ const PH = 'hoffa/photos/';
 const CR: Record<string, string> = {
   'hoffa.jpg': 'John Bottega · NYWTS / Library of Congress · public domain',
   'mugshot.jpg': 'Detroit Police, 1939 · public domain',
-  'hoffa2.jpg': 'Wikimedia Commons · public domain',
-  'hoffa1957.jpg': 'NYWTS / Library of Congress · public domain',
+  'hoffa2.jpg': 'John Bottega · NYWTS / Library of Congress · public domain',
+  'hoffa1957.jpg': 'Roger Higgins · NYWTS / Library of Congress · public domain',
   'oconnell.jpg': 'Wikimedia Commons · CC BY-SA 4.0',
   'sonfather.jpg': 'NYWTS / Library of Congress · public domain',
-  'rfk.jpg': 'NYWTS / Library of Congress · public domain',
+  'rfk.jpg': 'Marion S. Trikosko · Library of Congress · public domain',
   'nixon.jpg': 'White House photo · public domain',
 };
 /** First photo in the list that downloaded, with its credit. */
@@ -202,7 +202,7 @@ export const Kennedy: React.FC<SceneProps> = ({cue}) => {
           <TV width={860}>
             <div style={{position: 'absolute', inset: 0, display: 'flex'}}>
               <Img src={staticFile(hp)} style={{width: '50%', height: '100%', objectFit: 'cover', filter: 'grayscale(1) contrast(1.2)'}} />
-              {rfkOk ? <Img src={staticFile(rp)} style={{width: '50%', height: '100%', objectFit: 'cover', filter: 'grayscale(1) contrast(1.2)'}} /> : <div style={{width: '50%', background: '#222'}}><Silhouette /></div>}
+              {rfkOk ? <Img src={staticFile(rp)} style={{width: '50%', height: '100%', objectFit: 'cover', objectPosition: '61% 35%', filter: 'grayscale(1) contrast(1.2)'}} /> : <div style={{width: '50%', background: '#222'}}><Silhouette /></div>}
             </div>
           </TV>
         </Center>
@@ -220,7 +220,7 @@ export const Kennedy: React.FC<SceneProps> = ({cue}) => {
       </div>
       {split > 0 ? (
         <div style={{position: 'absolute', top: 0, right: 0, width: W / 2, height: 1920, transform: `translateX(${lerp(W / 2, 0, split)}px)`, overflow: 'hidden', borderLeft: `8px solid ${RED}`}}>
-          {rfkOk ? <Img src={staticFile(rp)} style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: '50% 30%', filter: 'grayscale(1) contrast(1.15) brightness(0.8)'}} /> : <Silhouette />}
+          {rfkOk ? <Img src={staticFile(rp)} style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: '61% 35%', filter: 'grayscale(1) contrast(1.15) brightness(0.8)'}} /> : <Silhouette />}
           {rfkOk ? <div style={{position: 'absolute', left: 14, bottom: 150, fontSize: 18, fontWeight: 800, color: '#ffffff99', fontFamily: 'Inter'}}>{rc}</div> : null}
         </div>
       ) : null}
