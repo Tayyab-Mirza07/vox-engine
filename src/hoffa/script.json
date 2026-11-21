@@ -1,0 +1,53 @@
+{
+  "title": "Jimmy Hoffa: The Man Who Never Left the Parking Lot",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.15,
+  "tail": 0.8,
+  "lines": [
+    "The most powerful union boss in America walked into a restaurant parking lot near Detroit, and vanished. No body. No witness. Fifty years later, the FBI is still digging.",
+    "His name was Jimmy Hoffa. He ran the Teamsters, a union of more than a million truck drivers. When Hoffa said stop, America's trucks stopped.",
+    "But that power came with friends in very dark places. The mob borrowed millions from the union's pension fund, and Hoffa kept the money flowing.",
+    "One man swore to bring him down. A young Senate lawyer named Robert Kennedy. Their war played out on national television.",
+    "Kennedy won. In 1967, Hoffa walked into federal prison for jury tampering and fraud. A thirteen-year sentence.",
+    "Four years later, President Nixon set him free. With one condition. No union business until 1980.",
+    "Hoffa didn't care. He wanted his throne back. But the men who had taken his place, and their friends in the mob, did not want him back.",
+    "July 30th, 1975. Hoffa told his family he was meeting two men at the Machus Red Fox restaurant. A Detroit mobster, and a New Jersey union boss with mob ties.",
+    "He got there at two o'clock. Nobody showed up. He called his wife from a pay phone, annoyed. He was being stood up.",
+    "Around a quarter to three, Jimmy Hoffa was last seen in that parking lot. Then he was gone.",
+    "His green Pontiac was found right there. Unlocked. No struggle. No Hoffa.",
+    "And then the FBI found something in a different car.",
+    "A maroon Mercury, borrowed that day by Hoffa's own foster son, Chuckie O'Brien. Police dogs picked up Hoffa's scent in the back seat. Years later, a hair from that car matched Hoffa's DNA.",
+    "O'Brien swore he was innocent until the day he died. He was never charged.",
+    "So where is the body? Rumors said Giants Stadium. A car crusher. A furnace. A hitman named Frank Sheeran even confessed he shot Hoffa himself. But the blood in that house wasn't Hoffa's.",
+    "The FBI dug up a horse farm, a driveway and a field in Michigan, and in 2022, the ground under a New Jersey bridge. Every time, nothing.",
+    "In 1982, Jimmy Hoffa was declared legally dead. The FBI believes the mob killed him, and the men who knew took the secret to their graves. The case is still open.",
+    "So where do you think Jimmy Hoffa is? Tell me in the comments. And if you love a good vanishing, watch the story of DB Cooper, the man who jumped from a plane with two hundred thousand dollars and was never seen again."
+  ],
+  "structure": {
+    "hook": "line 0: most powerful union boss vanished from a parking lot, FBI still digging 50 years later (cold open, not whispered)",
+    "5W1H": "who (Jimmy Hoffa, Teamsters), what (vanished), when (July 30 1975, ~2:45 PM), where (Machus Red Fox, Bloomfield Township near Detroit), how (lines 8-12), why (lines 2-6: mob, pension fund, comeback)",
+    "rehooks": [
+      "line 3: one man swore to bring him down",
+      "line 6: the men who took his place did not want him back",
+      "line 11: the FBI found something in a different car",
+      "line 14: so where is the body?"
+    ],
+    "tension": "lines 2-12",
+    "release": "line 13 (O'Brien never charged), line 15 (every dig, nothing)",
+    "payoff": "line 16: declared dead 1982, FBI believes mob killed him, case still open",
+    "cta": "line 17: comment question + D.B. Cooper Short (thumbnail)"
+  },
+  "notes": "Facts: Teamsters president 1957-71; RFK as McClellan Committee chief counsel; prison Mar 1967 (jury tampering 1964 + pension fraud, 13 years total); Nixon commuted Dec 1971 with a union ban until 1980; vanished July 30 1975 from the Machus Red Fox lot, Bloomfield Township, meeting Anthony Giacalone and Anthony Provenzano; car a 1974 Pontiac Grand Ville; O'Brien drove Joey Giacalone's maroon 1975 Mercury Marquis, dogs found scent, FBI 2001 DNA hair match; O'Brien never charged, died 2020; Sheeran's 'I Heard You Paint Houses' claim, Detroit house blood tested 2004 not Hoffa's; digs: Milford horse farm 2006, Roseville driveway 2012, Oakland Twp field 2013, Jersey City / Pulaski Skyway 2022; declared legally dead 1982. Mobsters are not named on screen.",
+  "spoken": {
+    "1967,": "nineteen sixty seven",
+    "1980.": "nineteen eighty",
+    "30th,": "thirtieth",
+    "1975.": "nineteen seventy five",
+    "2022,": "twenty twenty two",
+    "1982,": "nineteen eighty two"
+  }
+}

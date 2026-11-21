@@ -8,6 +8,7 @@ import {Dyatlov, T as dyatlov} from './dyatlov/Video';
 import {Alcatraz, T as alcatraz} from './alcatraz/Video';
 import {Economist, T as economist} from './economist/Video';
 import {MH370, T as mh370} from './mh370/Video';
+import {Hoffa, T as hoffa} from './hoffa/Video';
 import {CooperLong, T as cooperlong} from './cooperlong/Video';
 import {CooperThumb} from './cooperlong/Thumb';
 import {CooperThumb2} from './cooperlong/Thumb2';
@@ -26,6 +27,7 @@ const Root: React.FC = () => (
     <Composition id="CooperThumb2" component={CooperThumb2} durationInFrames={1} fps={FPS} width={1280} height={720} />
     <Composition id="CooperLong" component={CooperLong} durationInFrames={cooperlong.totalFrames} fps={FPS} width={1920} height={1080} />
     <Composition id="MH370" component={MH370} durationInFrames={mh370.totalFrames} fps={FPS} width={W} height={H} />
+    <Composition id="Hoffa" component={Hoffa} durationInFrames={hoffa.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Economist" component={Economist} durationInFrames={economist.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Alcatraz" component={Alcatraz} durationInFrames={alcatraz.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Dyatlov" component={Dyatlov} durationInFrames={dyatlov.totalFrames} fps={FPS} width={W} height={H} />

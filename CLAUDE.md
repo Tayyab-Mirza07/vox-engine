@@ -48,6 +48,8 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
 - `Celeste` — episode 3 (Mary Celeste ghost ship); `src/celeste/`, `public/celeste/{vo,photos,cta,music.mp3}`.
 - `Kemper` — episode 2 (Edmund Kemper); `src/kemper/`, `public/kemper/{vo,photos,music.mp3}`. Leaves out the most
   graphic details and victim photos/names on purpose (advertiser-friendly, respectful).
+- `Hoffa` — Jimmy Hoffa (1975); `src/hoffa/`, `public/hoffa/{vo,photos,cta,music.mp3}`. Mobsters and O'Brien shown only as
+  silhouettes; music re-used from MH370.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.
 
 ## Commands
