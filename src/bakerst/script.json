@@ -1,0 +1,52 @@
+{
+  "title": "The Baker Street Walkie-Talkie Bank Job",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.18,
+  "tail": 0.8,
+  "spoken": {
+    "1971.": "nineteen seventy one",
+    "185": "one eighty five",
+    "100-ton": "hundred ton",
+    "268": "two hundred sixty eight",
+    "11": "eleven",
+    "300": "three hundred",
+    "2": "two",
+    "750": "seven hundred fifty",
+    "800": "eight hundred",
+    "2071.": "twenty seventy one"
+  },
+  "lines": [
+    "Police stood at a bank vault door. Behind it, the thieves were probably still inside. And the police walked away.",
+    "London. September, 1971. Lloyds Bank, 185 Baker Street. Just steps from the fictional home of Sherlock Holmes.",
+    "The mastermind was Anthony Gavin, a career criminal and former army fitness instructor. His blueprint? A Sherlock Holmes story. Crooks tunnel into a bank from a shop nearby.",
+    "So his gang did exactly that. Benjamin Wolfe took the lease on Le Sac, a leather shop two doors down. Reg Tucker rented a box inside the vault.",
+    "Every visit, left alone, he measured the room. With his arms. And an umbrella.",
+    "They dug only on weekends. Forty feet. Under the Chicken Inn restaurant. Eight tons of dirt, piled back inside the shop.",
+    "Then, under the vault, the plan collapsed. Literally.",
+    "Their 100-ton jack sank into a hidden old well. A thermal lance failed. So they packed the concrete with explosives, and timed the blast to the traffic outside.",
+    "It worked. They were in. 268 safety deposit boxes.",
+    "But half a mile away, someone was listening. To every word.",
+    "Robert Rowlands, a radio amateur, was in bed in his Wimpole Street flat. Around 11 PM, his set caught voices. A rooftop lookout. Men inside a vault.",
+    "He called the police. They thought it was a prank. So he hit record. On tape, the gang talked about splitting 300 grand.",
+    "Then the lookout tried to quit. The gang talked him into staying on the roof all night.",
+    "At 2 AM, he rang Scotland Yard. Now detectives believed him. But which bank? They checked 750 of them.",
+    "Sunday afternoon, officers reached Lloyds, Baker Street. The vault door was shut. Time-locked. Police later suspected the gang was inside, silent. The officers moved on.",
+    "Monday, staff opened the vault. Boxes ripped open. A hole in the floor. Why this bank? Roadworks kept tripping its floor alarms. So they'd been switched off.",
+    "The fatal mistake? Wolfe signed the shop lease in his own name. By late October, four men were arrested. Gavin, Tucker and Thomas Stephens got twelve years. Wolfe got eight.",
+    "But most of the loot was never found. And about 800 pages of files stay sealed until 2071. What was really in those boxes? Tell me in the comments. Then watch our DB Cooper short. Another fortune that vanished."
+  ],
+  "structure": {
+    "hook": "line 0: police at the vault door, thieves probably inside, police walk away (cold open, not whispered)",
+    "5W1H": "who (Gavin, Wolfe, Tucker, Stephens; Rowlands), what (tunnel into the Lloyds vault), when (Sept 1971), where (185 Baker Street, London), how (lines 3-8), why this bank (line 15: alarms off)",
+    "rehooks": ["line 4: umbrella", "line 6: the plan collapsed", "line 9: someone was listening", "line 13: but which bank?", "line 16: the fatal mistake?"],
+    "tension": "lines 5-7, 10-14",
+    "release": "line 8 (they're in), line 12 (lookout stays), line 15 (vault opened)",
+    "payoff": "lines 16-17: arrests and sentences; loot never found; files sealed until 2071",
+    "cta": "line 17: comment question + D.B. Cooper Short (thumbnail)"
+  },
+  "notes": "Owner's script and fact-check (Nov 2026). 'Probably' / 'police later suspected' hedge the vault-door moment. Value stolen disputed; only 'most never found'. Princess Margaret / D-Notice stories left out on purpose; Brian Reader not named. Minimalist 2D silhouette style, red/blue duotone on black."
+}

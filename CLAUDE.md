@@ -50,6 +50,8 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
   graphic details and victim photos/names on purpose (advertiser-friendly, respectful).
 - `Hoffa` — Jimmy Hoffa (1975); `src/hoffa/`, `public/hoffa/{vo,photos,cta,music.mp3}`. Mobsters and O'Brien shown only as
   silhouettes; music re-used from MH370.
+- `BakerSt` — Baker Street "walkie-talkie" bank job (1971); `src/bakerst/`, `public/bakerst/{vo,photos,cta,music.mp3}`.
+  Minimal flat-silhouette red/blue duotone style with light sweeps; music re-used from Alcatraz.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.
 
 ## Commands

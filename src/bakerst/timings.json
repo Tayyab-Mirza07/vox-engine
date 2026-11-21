@@ -1,0 +1,2573 @@
+{
+ "total": 171.529,
+ "lines": [
+  {
+   "index": 0,
+   "file": "bakerst/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 7.863,
+   "sentences": [
+    {
+     "text": "Police stood at a bank vault door.",
+     "start": 0.25,
+     "end": 2.081,
+     "words": [
+      {
+       "w": "Police",
+       "start": 0.25,
+       "end": 0.616
+      },
+      {
+       "w": "stood",
+       "start": 0.616,
+       "end": 0.934
+      },
+      {
+       "w": "at",
+       "start": 0.934,
+       "end": 1.104
+      },
+      {
+       "w": "a",
+       "start": 1.104,
+       "end": 1.227
+      },
+      {
+       "w": "bank",
+       "start": 1.227,
+       "end": 1.495
+      },
+      {
+       "w": "vault",
+       "start": 1.495,
+       "end": 1.812
+      },
+      {
+       "w": "door.",
+       "start": 1.812,
+       "end": 2.081
+      }
+     ]
+    },
+    {
+     "text": "Behind it, the thieves were probably still inside.",
+     "start": 2.41,
+     "end": 5.28,
+     "words": [
+      {
+       "w": "Behind",
+       "start": 2.41,
+       "end": 2.815
+      },
+      {
+       "w": "it,",
+       "start": 2.815,
+       "end": 3.004
+      },
+      {
+       "w": "the",
+       "start": 3.26,
+       "end": 3.477
+      },
+      {
+       "w": "thieves",
+       "start": 3.477,
+       "end": 3.885
+      },
+      {
+       "w": "were",
+       "start": 3.885,
+       "end": 4.15
+      },
+      {
+       "w": "probably",
+       "start": 4.15,
+       "end": 4.607
+      },
+      {
+       "w": "still",
+       "start": 4.607,
+       "end": 4.919
+      },
+      {
+       "w": "inside.",
+       "start": 4.919,
+       "end": 5.28
+      }
+     ]
+    },
+    {
+     "text": "And the police walked away.",
+     "start": 5.655,
+     "end": 7.679,
+     "words": [
+      {
+       "w": "And",
+       "start": 5.655,
+       "end": 5.964
+      },
+      {
+       "w": "the",
+       "start": 5.964,
+       "end": 6.273
+      },
+      {
+       "w": "police",
+       "start": 6.273,
+       "end": 6.787
+      },
+      {
+       "w": "walked",
+       "start": 6.787,
+       "end": 7.301
+      },
+      {
+       "w": "away.",
+       "start": 7.301,
+       "end": 7.679
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "bakerst/vo/line1.mp3",
+   "start": 8.293,
+   "dur": 9.848,
+   "sentences": [
+    {
+     "text": "London.",
+     "start": 8.293,
+     "end": 8.801,
+     "words": [
+      {
+       "w": "London.",
+       "start": 8.293,
+       "end": 8.801
+      }
+     ]
+    },
+    {
+     "text": "September, 1971.",
+     "start": 9.178,
+     "end": 11.136,
+     "words": [
+      {
+       "w": "September,",
+       "start": 9.178,
+       "end": 10.463
+      },
+      {
+       "w": "1971.",
+       "start": 10.463,
+       "end": 11.136
+      }
+     ]
+    },
+    {
+     "text": "Lloyds Bank, 185 Baker Street.",
+     "start": 11.593,
+     "end": 14.175,
+     "words": [
+      {
+       "w": "Lloyds",
+       "start": 11.593,
+       "end": 12.015
+      },
+      {
+       "w": "Bank,",
+       "start": 12.015,
+       "end": 12.325
+      },
+      {
+       "w": "185",
+       "start": 12.68,
+       "end": 13.441
+      },
+      {
+       "w": "Baker",
+       "start": 13.441,
+       "end": 13.782
+      },
+      {
+       "w": "Street.",
+       "start": 13.782,
+       "end": 14.175
+      }
+     ]
+    },
+    {
+     "text": "Just steps from the fictional home of Sherlock Holmes.",
+     "start": 14.56,
+     "end": 17.913,
+     "words": [
+      {
+       "w": "Just",
+       "start": 14.56,
+       "end": 14.876
+      },
+      {
+       "w": "steps",
+       "start": 14.876,
+       "end": 15.248
+      },
+      {
+       "w": "from",
+       "start": 15.248,
+       "end": 15.563
+      },
+      {
+       "w": "the",
+       "start": 15.563,
+       "end": 15.821
+      },
+      {
+       "w": "fictional",
+       "start": 15.821,
+       "end": 16.423
+      },
+      {
+       "w": "home",
+       "start": 16.423,
+       "end": 16.738
+      },
+      {
+       "w": "of",
+       "start": 16.738,
+       "end": 16.939
+      },
+      {
+       "w": "Sherlock",
+       "start": 16.939,
+       "end": 17.483
+      },
+      {
+       "w": "Holmes.",
+       "start": 17.483,
+       "end": 17.913
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "bakerst/vo/line2.mp3",
+   "start": 18.321,
+   "dur": 12.147,
+   "sentences": [
+    {
+     "text": "The mastermind was Anthony Gavin, a career criminal and former army fitness instructor.",
+     "start": 18.321,
+     "end": 23.734,
+     "words": [
+      {
+       "w": "The",
+       "start": 18.321,
+       "end": 18.579
+      },
+      {
+       "w": "mastermind",
+       "start": 18.579,
+       "end": 19.238
+      },
+      {
+       "w": "was",
+       "start": 19.238,
+       "end": 19.495
+      },
+      {
+       "w": "Anthony",
+       "start": 19.495,
+       "end": 19.982
+      },
+      {
+       "w": "Gavin,",
+       "start": 19.982,
+       "end": 20.355
+      },
+      {
+       "w": "a",
+       "start": 20.704,
+       "end": 20.837
+      },
+      {
+       "w": "career",
+       "start": 20.837,
+       "end": 21.236
+      },
+      {
+       "w": "criminal",
+       "start": 21.236,
+       "end": 21.741
+      },
+      {
+       "w": "and",
+       "start": 21.741,
+       "end": 21.98
+      },
+      {
+       "w": "former",
+       "start": 21.98,
+       "end": 22.379
+      },
+      {
+       "w": "army",
+       "start": 22.379,
+       "end": 22.671
+      },
+      {
+       "w": "fitness",
+       "start": 22.671,
+       "end": 23.123
+      },
+      {
+       "w": "instructor.",
+       "start": 23.123,
+       "end": 23.734
+      }
+     ]
+    },
+    {
+     "text": "His blueprint?",
+     "start": 24.283,
+     "end": 24.975,
+     "words": [
+      {
+       "w": "His",
+       "start": 24.283,
+       "end": 24.49
+      },
+      {
+       "w": "blueprint?",
+       "start": 24.49,
+       "end": 24.975
+      }
+     ]
+    },
+    {
+     "text": "A Sherlock Holmes story.",
+     "start": 25.401,
+     "end": 27.05,
+     "words": [
+      {
+       "w": "A",
+       "start": 25.401,
+       "end": 25.559
+      },
+      {
+       "w": "Sherlock",
+       "start": 25.559,
+       "end": 26.162
+      },
+      {
+       "w": "Holmes",
+       "start": 26.162,
+       "end": 26.638
+      },
+      {
+       "w": "story.",
+       "start": 26.638,
+       "end": 27.05
+      }
+     ]
+    },
+    {
+     "text": "Crooks tunnel into a bank from a shop nearby.",
+     "start": 27.589,
+     "end": 30.26,
+     "words": [
+      {
+       "w": "Crooks",
+       "start": 27.589,
+       "end": 27.994
+      },
+      {
+       "w": "tunnel",
+       "start": 27.994,
+       "end": 28.398
+      },
+      {
+       "w": "into",
+       "start": 28.398,
+       "end": 28.695
+      },
+      {
+       "w": "a",
+       "start": 28.695,
+       "end": 28.83
+      },
+      {
+       "w": "bank",
+       "start": 28.83,
+       "end": 29.127
+      },
+      {
+       "w": "from",
+       "start": 29.127,
+       "end": 29.424
+      },
+      {
+       "w": "a",
+       "start": 29.424,
+       "end": 29.558
+      },
+      {
+       "w": "shop",
+       "start": 29.558,
+       "end": 29.855
+      },
+      {
+       "w": "nearby.",
+       "start": 29.855,
+       "end": 30.26
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "bakerst/vo/line3.mp3",
+   "start": 30.648,
+   "dur": 9.77,
+   "sentences": [
+    {
+     "text": "So his gang did exactly that.",
+     "start": 30.648,
+     "end": 32.621,
+     "words": [
+      {
+       "w": "So",
+       "start": 30.648,
+       "end": 30.864
+      },
+      {
+       "w": "his",
+       "start": 30.864,
+       "end": 31.141
+      },
+      {
+       "w": "gang",
+       "start": 31.141,
+       "end": 31.48
+      },
+      {
+       "w": "did",
+       "start": 31.48,
+       "end": 31.758
+      },
+      {
+       "w": "exactly",
+       "start": 31.758,
+       "end": 32.282
+      },
+      {
+       "w": "that.",
+       "start": 32.282,
+       "end": 32.621
+      }
+     ]
+    },
+    {
+     "text": "Benjamin Wolfe took the lease on Le Sac, a leather shop two doors down.",
+     "start": 33.187,
+     "end": 37.172,
+     "words": [
+      {
+       "w": "Benjamin",
+       "start": 33.187,
+       "end": 33.672
+      },
+      {
+       "w": "Wolfe",
+       "start": 33.672,
+       "end": 34.004
+      },
+      {
+       "w": "took",
+       "start": 34.004,
+       "end": 34.284
+      },
+      {
+       "w": "the",
+       "start": 34.284,
+       "end": 34.514
+      },
+      {
+       "w": "lease",
+       "start": 34.514,
+       "end": 34.846
+      },
+      {
+       "w": "on",
+       "start": 34.846,
+       "end": 35.025
+      },
+      {
+       "w": "Le",
+       "start": 35.025,
+       "end": 35.204
+      },
+      {
+       "w": "Sac,",
+       "start": 35.204,
+       "end": 35.433
+      },
+      {
+       "w": "a",
+       "start": 35.652,
+       "end": 35.767
+      },
+      {
+       "w": "leather",
+       "start": 35.767,
+       "end": 36.159
+      },
+      {
+       "w": "shop",
+       "start": 36.159,
+       "end": 36.412
+      },
+      {
+       "w": "two",
+       "start": 36.412,
+       "end": 36.619
+      },
+      {
+       "w": "doors",
+       "start": 36.619,
+       "end": 36.919
+      },
+      {
+       "w": "down.",
+       "start": 36.919,
+       "end": 37.172
+      }
+     ]
+    },
+    {
+     "text": "Reg Tucker rented a box inside the vault.",
+     "start": 37.647,
+     "end": 40.223,
+     "words": [
+      {
+       "w": "Reg",
+       "start": 37.647,
+       "end": 37.905
+      },
+      {
+       "w": "Tucker",
+       "start": 37.905,
+       "end": 38.334
+      },
+      {
+       "w": "rented",
+       "start": 38.334,
+       "end": 38.763
+      },
+      {
+       "w": "a",
+       "start": 38.763,
+       "end": 38.907
+      },
+      {
+       "w": "box",
+       "start": 38.907,
+       "end": 39.164
+      },
+      {
+       "w": "inside",
+       "start": 39.164,
+       "end": 39.594
+      },
+      {
+       "w": "the",
+       "start": 39.594,
+       "end": 39.851
+      },
+      {
+       "w": "vault.",
+       "start": 39.851,
+       "end": 40.223
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "bakerst/vo/line4.mp3",
+   "start": 40.598,
+   "dur": 6.322,
+   "sentences": [
+    {
+     "text": "Every visit, left alone, he measured the room.",
+     "start": 40.598,
+     "end": 43.773,
+     "words": [
+      {
+       "w": "Every",
+       "start": 40.598,
+       "end": 40.969
+      },
+      {
+       "w": "visit,",
+       "start": 40.969,
+       "end": 41.34
+      },
+      {
+       "w": "left",
+       "start": 41.652,
+       "end": 41.976
+      },
+      {
+       "w": "alone,",
+       "start": 41.976,
+       "end": 42.359
+      },
+      {
+       "w": "he",
+       "start": 42.714,
+       "end": 42.875
+      },
+      {
+       "w": "measured",
+       "start": 42.875,
+       "end": 43.312
+      },
+      {
+       "w": "the",
+       "start": 43.312,
+       "end": 43.52
+      },
+      {
+       "w": "room.",
+       "start": 43.52,
+       "end": 43.773
+      }
+     ]
+    },
+    {
+     "text": "With his arms.",
+     "start": 44.274,
+     "end": 45.239,
+     "words": [
+      {
+       "w": "With",
+       "start": 44.274,
+       "end": 44.616
+      },
+      {
+       "w": "his",
+       "start": 44.616,
+       "end": 44.897
+      },
+      {
+       "w": "arms.",
+       "start": 44.897,
+       "end": 45.239
+      }
+     ]
+    },
+    {
+     "text": "And an umbrella.",
+     "start": 45.539,
+     "end": 46.919,
+     "words": [
+      {
+       "w": "And",
+       "start": 45.539,
+       "end": 45.894
+      },
+      {
+       "w": "an",
+       "start": 45.894,
+       "end": 46.17
+      },
+      {
+       "w": "umbrella.",
+       "start": 46.17,
+       "end": 46.919
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "bakerst/vo/line5.mp3",
+   "start": 47.099,
+   "dur": 8.725,
+   "sentences": [
+    {
+     "text": "They dug only on weekends.",
+     "start": 47.099,
+     "end": 48.836,
+     "words": [
+      {
+       "w": "They",
+       "start": 47.099,
+       "end": 47.434
+      },
+      {
+       "w": "dug",
+       "start": 47.434,
+       "end": 47.709
+      },
+      {
+       "w": "only",
+       "start": 47.709,
+       "end": 48.044
+      },
+      {
+       "w": "on",
+       "start": 48.044,
+       "end": 48.257
+      },
+      {
+       "w": "weekends.",
+       "start": 48.257,
+       "end": 48.836
+      }
+     ]
+    },
+    {
+     "text": "Forty feet.",
+     "start": 49.364,
+     "end": 50.088,
+     "words": [
+      {
+       "w": "Forty",
+       "start": 49.364,
+       "end": 49.756
+      },
+      {
+       "w": "feet.",
+       "start": 49.756,
+       "end": 50.088
+      }
+     ]
+    },
+    {
+     "text": "Under the Chicken Inn restaurant.",
+     "start": 50.494,
+     "end": 52.066,
+     "words": [
+      {
+       "w": "Under",
+       "start": 50.494,
+       "end": 50.782
+      },
+      {
+       "w": "the",
+       "start": 50.782,
+       "end": 50.981
+      },
+      {
+       "w": "Chicken",
+       "start": 50.981,
+       "end": 51.358
+      },
+      {
+       "w": "Inn",
+       "start": 51.358,
+       "end": 51.557
+      },
+      {
+       "w": "restaurant.",
+       "start": 51.557,
+       "end": 52.066
+      }
+     ]
+    },
+    {
+     "text": "Eight tons of dirt, piled back inside the shop.",
+     "start": 52.579,
+     "end": 55.824,
+     "words": [
+      {
+       "w": "Eight",
+       "start": 52.579,
+       "end": 52.633
+      },
+      {
+       "w": "tons",
+       "start": 52.633,
+       "end": 52.679
+      },
+      {
+       "w": "of",
+       "start": 52.679,
+       "end": 52.708
+      },
+      {
+       "w": "dirt,",
+       "start": 52.708,
+       "end": 52.753
+      },
+      {
+       "w": "piled",
+       "start": 52.916,
+       "end": 53.557
+      },
+      {
+       "w": "back",
+       "start": 53.557,
+       "end": 54.099
+      },
+      {
+       "w": "inside",
+       "start": 54.099,
+       "end": 54.839
+      },
+      {
+       "w": "the",
+       "start": 54.839,
+       "end": 55.282
+      },
+      {
+       "w": "shop.",
+       "start": 55.282,
+       "end": 55.824
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "bakerst/vo/line6.mp3",
+   "start": 56.004,
+   "dur": 4.754,
+   "sentences": [
+    {
+     "text": "Then, under the vault, the plan collapsed.",
+     "start": 56.004,
+     "end": 59.258,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 56.004,
+       "end": 56.486
+      },
+      {
+       "w": "under",
+       "start": 56.861,
+       "end": 57.147
+      },
+      {
+       "w": "the",
+       "start": 57.147,
+       "end": 57.345
+      },
+      {
+       "w": "vault,",
+       "start": 57.345,
+       "end": 57.63
+      },
+      {
+       "w": "the",
+       "start": 58.049,
+       "end": 58.314
+      },
+      {
+       "w": "plan",
+       "start": 58.314,
+       "end": 58.639
+      },
+      {
+       "w": "collapsed.",
+       "start": 58.639,
+       "end": 59.258
+      }
+     ]
+    },
+    {
+     "text": "Literally.",
+     "start": 59.82,
+     "end": 60.495,
+     "words": [
+      {
+       "w": "Literally.",
+       "start": 59.82,
+       "end": 60.495
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "bakerst/vo/line7.mp3",
+   "start": 60.939,
+   "dur": 10.789,
+   "sentences": [
+    {
+     "text": "Their 100-ton jack sank into a hidden old well.",
+     "start": 60.939,
+     "end": 64.182,
+     "words": [
+      {
+       "w": "Their",
+       "start": 60.939,
+       "end": 61.325
+      },
+      {
+       "w": "100-ton",
+       "start": 61.325,
+       "end": 62.01
+      },
+      {
+       "w": "jack",
+       "start": 62.01,
+       "end": 62.337
+      },
+      {
+       "w": "sank",
+       "start": 62.337,
+       "end": 62.664
+      },
+      {
+       "w": "into",
+       "start": 62.664,
+       "end": 62.991
+      },
+      {
+       "w": "a",
+       "start": 62.991,
+       "end": 63.14
+      },
+      {
+       "w": "hidden",
+       "start": 63.14,
+       "end": 63.587
+      },
+      {
+       "w": "old",
+       "start": 63.587,
+       "end": 63.854
+      },
+      {
+       "w": "well.",
+       "start": 63.854,
+       "end": 64.182
+      }
+     ]
+    },
+    {
+     "text": "A thermal lance failed.",
+     "start": 64.666,
+     "end": 66.086,
+     "words": [
+      {
+       "w": "A",
+       "start": 64.666,
+       "end": 64.808
+      },
+      {
+       "w": "thermal",
+       "start": 64.808,
+       "end": 65.291
+      },
+      {
+       "w": "lance",
+       "start": 65.291,
+       "end": 65.66
+      },
+      {
+       "w": "failed.",
+       "start": 65.66,
+       "end": 66.086
+      }
+     ]
+    },
+    {
+     "text": "So they packed the concrete with explosives, and timed the blast to the traffic outside.",
+     "start": 66.568,
+     "end": 71.439,
+     "words": [
+      {
+       "w": "So",
+       "start": 66.568,
+       "end": 66.735
+      },
+      {
+       "w": "they",
+       "start": 66.735,
+       "end": 66.998
+      },
+      {
+       "w": "packed",
+       "start": 66.998,
+       "end": 67.357
+      },
+      {
+       "w": "the",
+       "start": 67.357,
+       "end": 67.572
+      },
+      {
+       "w": "concrete",
+       "start": 67.572,
+       "end": 68.026
+      },
+      {
+       "w": "with",
+       "start": 68.026,
+       "end": 68.288
+      },
+      {
+       "w": "explosives,",
+       "start": 68.288,
+       "end": 68.838
+      },
+      {
+       "w": "and",
+       "start": 69.181,
+       "end": 69.397
+      },
+      {
+       "w": "timed",
+       "start": 69.397,
+       "end": 69.71
+      },
+      {
+       "w": "the",
+       "start": 69.71,
+       "end": 69.926
+      },
+      {
+       "w": "blast",
+       "start": 69.926,
+       "end": 70.238
+      },
+      {
+       "w": "to",
+       "start": 70.238,
+       "end": 70.406
+      },
+      {
+       "w": "the",
+       "start": 70.406,
+       "end": 70.622
+      },
+      {
+       "w": "traffic",
+       "start": 70.622,
+       "end": 71.031
+      },
+      {
+       "w": "outside.",
+       "start": 71.031,
+       "end": 71.439
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "bakerst/vo/line8.mp3",
+   "start": 71.907,
+   "dur": 5.198,
+   "sentences": [
+    {
+     "text": "It worked.",
+     "start": 71.907,
+     "end": 72.536,
+     "words": [
+      {
+       "w": "It",
+       "start": 71.907,
+       "end": 72.107
+      },
+      {
+       "w": "worked.",
+       "start": 72.107,
+       "end": 72.536
+      }
+     ]
+    },
+    {
+     "text": "They were in.",
+     "start": 72.794,
+     "end": 73.558,
+     "words": [
+      {
+       "w": "They",
+       "start": 72.794,
+       "end": 73.083
+      },
+      {
+       "w": "were",
+       "start": 73.083,
+       "end": 73.373
+      },
+      {
+       "w": "in.",
+       "start": 73.373,
+       "end": 73.558
+      }
+     ]
+    },
+    {
+     "text": "268 safety deposit boxes.",
+     "start": 73.948,
+     "end": 77.106,
+     "words": [
+      {
+       "w": "268",
+       "start": 73.948,
+       "end": 75.491
+      },
+      {
+       "w": "safety",
+       "start": 75.491,
+       "end": 76.029
+      },
+      {
+       "w": "deposit",
+       "start": 76.029,
+       "end": 76.639
+      },
+      {
+       "w": "boxes.",
+       "start": 76.639,
+       "end": 77.106
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "bakerst/vo/line9.mp3",
+   "start": 77.286,
+   "dur": 4.963,
+   "sentences": [
+    {
+     "text": "But half a mile away, someone was listening.",
+     "start": 77.463,
+     "end": 80.522,
+     "words": [
+      {
+       "w": "But",
+       "start": 77.463,
+       "end": 77.723
+      },
+      {
+       "w": "half",
+       "start": 77.723,
+       "end": 78.04
+      },
+      {
+       "w": "a",
+       "start": 78.04,
+       "end": 78.184
+      },
+      {
+       "w": "mile",
+       "start": 78.184,
+       "end": 78.501
+      },
+      {
+       "w": "away,",
+       "start": 78.501,
+       "end": 78.817
+      },
+      {
+       "w": "someone",
+       "start": 79.24,
+       "end": 79.703
+      },
+      {
+       "w": "was",
+       "start": 79.703,
+       "end": 79.949
+      },
+      {
+       "w": "listening.",
+       "start": 79.949,
+       "end": 80.522
+      }
+     ]
+    },
+    {
+     "text": "To every word.",
+     "start": 80.987,
+     "end": 81.994,
+     "words": [
+      {
+       "w": "To",
+       "start": 80.987,
+       "end": 81.215
+      },
+      {
+       "w": "every",
+       "start": 81.215,
+       "end": 81.637
+      },
+      {
+       "w": "word.",
+       "start": 81.637,
+       "end": 81.994
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "bakerst/vo/line10.mp3",
+   "start": 82.429,
+   "dur": 11.86,
+   "sentences": [
+    {
+     "text": "Robert Rowlands, a radio amateur, was in bed in his Wimpole Street flat.",
+     "start": 82.429,
+     "end": 86.917,
+     "words": [
+      {
+       "w": "Robert",
+       "start": 82.429,
+       "end": 82.869
+      },
+      {
+       "w": "Rowlands,",
+       "start": 82.869,
+       "end": 83.426
+      },
+      {
+       "w": "a",
+       "start": 83.426,
+       "end": 83.593
+      },
+      {
+       "w": "radio",
+       "start": 83.593,
+       "end": 84.028
+      },
+      {
+       "w": "amateur,",
+       "start": 84.028,
+       "end": 84.596
+      },
+      {
+       "w": "was",
+       "start": 84.818,
+       "end": 85.042
+      },
+      {
+       "w": "in",
+       "start": 85.042,
+       "end": 85.217
+      },
+      {
+       "w": "bed",
+       "start": 85.217,
+       "end": 85.442
+      },
+      {
+       "w": "in",
+       "start": 85.442,
+       "end": 85.617
+      },
+      {
+       "w": "his",
+       "start": 85.617,
+       "end": 85.842
+      },
+      {
+       "w": "Wimpole",
+       "start": 85.842,
+       "end": 86.267
+      },
+      {
+       "w": "Street",
+       "start": 86.267,
+       "end": 86.642
+      },
+      {
+       "w": "flat.",
+       "start": 86.642,
+       "end": 86.917
+      }
+     ]
+    },
+    {
+     "text": "Around 11 PM, his set caught voices.",
+     "start": 87.484,
+     "end": 90.422,
+     "words": [
+      {
+       "w": "Around",
+       "start": 87.484,
+       "end": 87.989
+      },
+      {
+       "w": "11",
+       "start": 87.989,
+       "end": 88.493
+      },
+      {
+       "w": "PM,",
+       "start": 88.493,
+       "end": 88.729
+      },
+      {
+       "w": "his",
+       "start": 88.967,
+       "end": 89.24
+      },
+      {
+       "w": "set",
+       "start": 89.24,
+       "end": 89.513
+      },
+      {
+       "w": "caught",
+       "start": 89.513,
+       "end": 89.967
+      },
+      {
+       "w": "voices.",
+       "start": 89.967,
+       "end": 90.422
+      }
+     ]
+    },
+    {
+     "text": "A rooftop lookout.",
+     "start": 90.983,
+     "end": 92.144,
+     "words": [
+      {
+       "w": "A",
+       "start": 90.983,
+       "end": 91.132
+      },
+      {
+       "w": "rooftop",
+       "start": 91.132,
+       "end": 91.638
+      },
+      {
+       "w": "lookout.",
+       "start": 91.638,
+       "end": 92.144
+      }
+     ]
+    },
+    {
+     "text": "Men inside a vault.",
+     "start": 92.621,
+     "end": 94.288,
+     "words": [
+      {
+       "w": "Men",
+       "start": 92.621,
+       "end": 92.978
+      },
+      {
+       "w": "inside",
+       "start": 92.978,
+       "end": 93.574
+      },
+      {
+       "w": "a",
+       "start": 93.574,
+       "end": 93.772
+      },
+      {
+       "w": "vault.",
+       "start": 93.772,
+       "end": 94.288
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "bakerst/vo/line11.mp3",
+   "start": 94.468,
+   "dur": 8.777,
+   "sentences": [
+    {
+     "text": "He called the police.",
+     "start": 94.468,
+     "end": 95.517,
+     "words": [
+      {
+       "w": "He",
+       "start": 94.468,
+       "end": 94.628
+      },
+      {
+       "w": "called",
+       "start": 94.628,
+       "end": 94.97
+      },
+      {
+       "w": "the",
+       "start": 94.97,
+       "end": 95.175
+      },
+      {
+       "w": "police.",
+       "start": 95.175,
+       "end": 95.517
+      }
+     ]
+    },
+    {
+     "text": "They thought it was a prank.",
+     "start": 95.966,
+     "end": 97.104,
+     "words": [
+      {
+       "w": "They",
+       "start": 95.966,
+       "end": 96.168
+      },
+      {
+       "w": "thought",
+       "start": 96.168,
+       "end": 96.48
+      },
+      {
+       "w": "it",
+       "start": 96.48,
+       "end": 96.609
+      },
+      {
+       "w": "was",
+       "start": 96.609,
+       "end": 96.774
+      },
+      {
+       "w": "a",
+       "start": 96.774,
+       "end": 96.866
+      },
+      {
+       "w": "prank.",
+       "start": 96.866,
+       "end": 97.104
+      }
+     ]
+    },
+    {
+     "text": "So he hit record.",
+     "start": 97.532,
+     "end": 98.876,
+     "words": [
+      {
+       "w": "So",
+       "start": 97.532,
+       "end": 97.78
+      },
+      {
+       "w": "he",
+       "start": 97.78,
+       "end": 98.027
+      },
+      {
+       "w": "hit",
+       "start": 98.027,
+       "end": 98.345
+      },
+      {
+       "w": "record.",
+       "start": 98.345,
+       "end": 98.876
+      }
+     ]
+    },
+    {
+     "text": "On tape, the gang talked about splitting 300 grand.",
+     "start": 99.358,
+     "end": 102.952,
+     "words": [
+      {
+       "w": "On",
+       "start": 99.358,
+       "end": 99.584
+      },
+      {
+       "w": "tape,",
+       "start": 99.584,
+       "end": 99.939
+      },
+      {
+       "w": "the",
+       "start": 100.135,
+       "end": 100.368
+      },
+      {
+       "w": "gang",
+       "start": 100.368,
+       "end": 100.652
+      },
+      {
+       "w": "talked",
+       "start": 100.652,
+       "end": 101.04
+      },
+      {
+       "w": "about",
+       "start": 101.04,
+       "end": 101.376
+      },
+      {
+       "w": "splitting",
+       "start": 101.376,
+       "end": 101.918
+      },
+      {
+       "w": "300",
+       "start": 101.918,
+       "end": 102.616
+      },
+      {
+       "w": "grand.",
+       "start": 102.616,
+       "end": 102.952
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "bakerst/vo/line12.mp3",
+   "start": 103.426,
+   "dur": 5.381,
+   "sentences": [
+    {
+     "text": "Then the lookout tried to quit.",
+     "start": 103.426,
+     "end": 105.087,
+     "words": [
+      {
+       "w": "Then",
+       "start": 103.426,
+       "end": 103.694
+      },
+      {
+       "w": "the",
+       "start": 103.694,
+       "end": 103.914
+      },
+      {
+       "w": "lookout",
+       "start": 103.914,
+       "end": 104.33
+      },
+      {
+       "w": "tried",
+       "start": 104.33,
+       "end": 104.648
+      },
+      {
+       "w": "to",
+       "start": 104.648,
+       "end": 104.819
+      },
+      {
+       "w": "quit.",
+       "start": 104.819,
+       "end": 105.087
+      }
+     ]
+    },
+    {
+     "text": "The gang talked him into staying on the roof all night.",
+     "start": 105.495,
+     "end": 108.807,
+     "words": [
+      {
+       "w": "The",
+       "start": 105.495,
+       "end": 105.741
+      },
+      {
+       "w": "gang",
+       "start": 105.741,
+       "end": 106.042
+      },
+      {
+       "w": "talked",
+       "start": 106.042,
+       "end": 106.453
+      },
+      {
+       "w": "him",
+       "start": 106.453,
+       "end": 106.699
+      },
+      {
+       "w": "into",
+       "start": 106.699,
+       "end": 107
+      },
+      {
+       "w": "staying",
+       "start": 107,
+       "end": 107.466
+      },
+      {
+       "w": "on",
+       "start": 107.466,
+       "end": 107.657
+      },
+      {
+       "w": "the",
+       "start": 107.657,
+       "end": 107.904
+      },
+      {
+       "w": "roof",
+       "start": 107.904,
+       "end": 108.205
+      },
+      {
+       "w": "all",
+       "start": 108.205,
+       "end": 108.451
+      },
+      {
+       "w": "night.",
+       "start": 108.451,
+       "end": 108.807
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "bakerst/vo/line13.mp3",
+   "start": 108.987,
+   "dur": 9.012,
+   "sentences": [
+    {
+     "text": "At 2 AM, he rang Scotland Yard.",
+     "start": 108.987,
+     "end": 111.324,
+     "words": [
+      {
+       "w": "At",
+       "start": 108.987,
+       "end": 109.243
+      },
+      {
+       "w": "2",
+       "start": 109.243,
+       "end": 109.573
+      },
+      {
+       "w": "AM,",
+       "start": 109.573,
+       "end": 109.829
+      },
+      {
+       "w": "he",
+       "start": 110.027,
+       "end": 110.216
+      },
+      {
+       "w": "rang",
+       "start": 110.216,
+       "end": 110.514
+      },
+      {
+       "w": "Scotland",
+       "start": 110.514,
+       "end": 111.027
+      },
+      {
+       "w": "Yard.",
+       "start": 111.027,
+       "end": 111.324
+      }
+     ]
+    },
+    {
+     "text": "Now detectives believed him.",
+     "start": 111.844,
+     "end": 113.575,
+     "words": [
+      {
+       "w": "Now",
+       "start": 111.844,
+       "end": 112.104
+      },
+      {
+       "w": "detectives",
+       "start": 112.104,
+       "end": 112.767
+      },
+      {
+       "w": "believed",
+       "start": 112.767,
+       "end": 113.315
+      },
+      {
+       "w": "him.",
+       "start": 113.315,
+       "end": 113.575
+      }
+     ]
+    },
+    {
+     "text": "But which bank?",
+     "start": 114.027,
+     "end": 115.04,
+     "words": [
+      {
+       "w": "But",
+       "start": 114.027,
+       "end": 114.303
+      },
+      {
+       "w": "which",
+       "start": 114.303,
+       "end": 114.702
+      },
+      {
+       "w": "bank?",
+       "start": 114.702,
+       "end": 115.04
+      }
+     ]
+    },
+    {
+     "text": "They checked 750 of them.",
+     "start": 115.518,
+     "end": 117.737,
+     "words": [
+      {
+       "w": "They",
+       "start": 115.518,
+       "end": 115.812
+      },
+      {
+       "w": "checked",
+       "start": 115.812,
+       "end": 116.266
+      },
+      {
+       "w": "750",
+       "start": 116.266,
+       "end": 117.256
+      },
+      {
+       "w": "of",
+       "start": 117.256,
+       "end": 117.443
+      },
+      {
+       "w": "them.",
+       "start": 117.443,
+       "end": 117.737
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "bakerst/vo/line14.mp3",
+   "start": 118.179,
+   "dur": 12.8,
+   "sentences": [
+    {
+     "text": "Sunday afternoon, officers reached Lloyds, Baker Street.",
+     "start": 118.179,
+     "end": 121.876,
+     "words": [
+      {
+       "w": "Sunday",
+       "start": 118.179,
+       "end": 118.598
+      },
+      {
+       "w": "afternoon,",
+       "start": 118.598,
+       "end": 119.185
+      },
+      {
+       "w": "officers",
+       "start": 119.668,
+       "end": 120.197
+      },
+      {
+       "w": "reached",
+       "start": 120.197,
+       "end": 120.67
+      },
+      {
+       "w": "Lloyds,",
+       "start": 120.67,
+       "end": 121.088
+      },
+      {
+       "w": "Baker",
+       "start": 121.272,
+       "end": 121.552
+      },
+      {
+       "w": "Street.",
+       "start": 121.552,
+       "end": 121.876
+      }
+     ]
+    },
+    {
+     "text": "The vault door was shut.",
+     "start": 122.435,
+     "end": 123.742,
+     "words": [
+      {
+       "w": "The",
+       "start": 122.435,
+       "end": 122.657
+      },
+      {
+       "w": "vault",
+       "start": 122.657,
+       "end": 122.977
+      },
+      {
+       "w": "door",
+       "start": 122.977,
+       "end": 123.249
+      },
+      {
+       "w": "was",
+       "start": 123.249,
+       "end": 123.471
+      },
+      {
+       "w": "shut.",
+       "start": 123.471,
+       "end": 123.742
+      }
+     ]
+    },
+    {
+     "text": "Time-locked.",
+     "start": 124.255,
+     "end": 125.045,
+     "words": [
+      {
+       "w": "Time-locked.",
+       "start": 124.255,
+       "end": 125.045
+      }
+     ]
+    },
+    {
+     "text": "Police later suspected the gang was inside, silent.",
+     "start": 125.462,
+     "end": 129.013,
+     "words": [
+      {
+       "w": "Police",
+       "start": 125.462,
+       "end": 125.867
+      },
+      {
+       "w": "later",
+       "start": 125.867,
+       "end": 126.218
+      },
+      {
+       "w": "suspected",
+       "start": 126.218,
+       "end": 126.785
+      },
+      {
+       "w": "the",
+       "start": 126.785,
+       "end": 127.028
+      },
+      {
+       "w": "gang",
+       "start": 127.028,
+       "end": 127.326
+      },
+      {
+       "w": "was",
+       "start": 127.326,
+       "end": 127.569
+      },
+      {
+       "w": "inside,",
+       "start": 127.569,
+       "end": 127.974
+      },
+      {
+       "w": "silent.",
+       "start": 128.396,
+       "end": 129.013
+      }
+     ]
+    },
+    {
+     "text": "The officers moved on.",
+     "start": 129.557,
+     "end": 130.775,
+     "words": [
+      {
+       "w": "The",
+       "start": 129.557,
+       "end": 129.785
+      },
+      {
+       "w": "officers",
+       "start": 129.785,
+       "end": 130.267
+      },
+      {
+       "w": "moved",
+       "start": 130.267,
+       "end": 130.597
+      },
+      {
+       "w": "on.",
+       "start": 130.597,
+       "end": 130.775
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "bakerst/vo/line15.mp3",
+   "start": 131.159,
+   "dur": 11.598,
+   "sentences": [
+    {
+     "text": "Monday, staff opened the vault.",
+     "start": 131.159,
+     "end": 133.408,
+     "words": [
+      {
+       "w": "Monday,",
+       "start": 131.159,
+       "end": 131.633
+      },
+      {
+       "w": "staff",
+       "start": 132.03,
+       "end": 132.388
+      },
+      {
+       "w": "opened",
+       "start": 132.388,
+       "end": 132.802
+      },
+      {
+       "w": "the",
+       "start": 132.802,
+       "end": 133.05
+      },
+      {
+       "w": "vault.",
+       "start": 133.05,
+       "end": 133.408
+      }
+     ]
+    },
+    {
+     "text": "Boxes ripped open.",
+     "start": 133.766,
+     "end": 135.247,
+     "words": [
+      {
+       "w": "Boxes",
+       "start": 133.766,
+       "end": 134.26
+      },
+      {
+       "w": "ripped",
+       "start": 134.26,
+       "end": 134.829
+      },
+      {
+       "w": "open.",
+       "start": 134.829,
+       "end": 135.247
+      }
+     ]
+    },
+    {
+     "text": "A hole in the floor.",
+     "start": 135.647,
+     "end": 136.73,
+     "words": [
+      {
+       "w": "A",
+       "start": 135.647,
+       "end": 135.767
+      },
+      {
+       "w": "hole",
+       "start": 135.767,
+       "end": 136.032
+      },
+      {
+       "w": "in",
+       "start": 136.032,
+       "end": 136.2
+      },
+      {
+       "w": "the",
+       "start": 136.2,
+       "end": 136.417
+      },
+      {
+       "w": "floor.",
+       "start": 136.417,
+       "end": 136.73
+      }
+     ]
+    },
+    {
+     "text": "Why this bank?",
+     "start": 137.141,
+     "end": 138.284,
+     "words": [
+      {
+       "w": "Why",
+       "start": 137.141,
+       "end": 137.473
+      },
+      {
+       "w": "this",
+       "start": 137.473,
+       "end": 137.879
+      },
+      {
+       "w": "bank?",
+       "start": 137.879,
+       "end": 138.284
+      }
+     ]
+    },
+    {
+     "text": "Roadworks kept tripping its floor alarms.",
+     "start": 138.737,
+     "end": 140.975,
+     "words": [
+      {
+       "w": "Roadworks",
+       "start": 138.737,
+       "end": 139.271
+      },
+      {
+       "w": "kept",
+       "start": 139.271,
+       "end": 139.551
+      },
+      {
+       "w": "tripping",
+       "start": 139.551,
+       "end": 140.034
+      },
+      {
+       "w": "its",
+       "start": 140.034,
+       "end": 140.263
+      },
+      {
+       "w": "floor",
+       "start": 140.263,
+       "end": 140.593
+      },
+      {
+       "w": "alarms.",
+       "start": 140.593,
+       "end": 140.975
+      }
+     ]
+    },
+    {
+     "text": "So they'd been switched off.",
+     "start": 141.16,
+     "end": 142.546,
+     "words": [
+      {
+       "w": "So",
+       "start": 141.16,
+       "end": 141.325
+      },
+      {
+       "w": "they'd",
+       "start": 141.325,
+       "end": 141.63
+      },
+      {
+       "w": "been",
+       "start": 141.63,
+       "end": 141.889
+      },
+      {
+       "w": "switched",
+       "start": 141.889,
+       "end": 142.335
+      },
+      {
+       "w": "off.",
+       "start": 142.335,
+       "end": 142.546
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "bakerst/vo/line16.mp3",
+   "start": 142.937,
+   "dur": 12.539,
+   "sentences": [
+    {
+     "text": "The fatal mistake?",
+     "start": 142.937,
+     "end": 143.877,
+     "words": [
+      {
+       "w": "The",
+       "start": 142.937,
+       "end": 143.154
+      },
+      {
+       "w": "fatal",
+       "start": 143.154,
+       "end": 143.467
+      },
+      {
+       "w": "mistake?",
+       "start": 143.467,
+       "end": 143.877
+      }
+     ]
+    },
+    {
+     "text": "Wolfe signed the shop lease in his own name.",
+     "start": 144.412,
+     "end": 146.914,
+     "words": [
+      {
+       "w": "Wolfe",
+       "start": 144.412,
+       "end": 144.747
+      },
+      {
+       "w": "signed",
+       "start": 144.747,
+       "end": 145.134
+      },
+      {
+       "w": "the",
+       "start": 145.134,
+       "end": 145.366
+      },
+      {
+       "w": "shop",
+       "start": 145.366,
+       "end": 145.65
+      },
+      {
+       "w": "lease",
+       "start": 145.65,
+       "end": 145.985
+      },
+      {
+       "w": "in",
+       "start": 145.985,
+       "end": 146.166
+      },
+      {
+       "w": "his",
+       "start": 146.166,
+       "end": 146.398
+      },
+      {
+       "w": "own",
+       "start": 146.398,
+       "end": 146.63
+      },
+      {
+       "w": "name.",
+       "start": 146.63,
+       "end": 146.914
+      }
+     ]
+    },
+    {
+     "text": "By late October, four men were arrested.",
+     "start": 147.471,
+     "end": 150.046,
+     "words": [
+      {
+       "w": "By",
+       "start": 147.471,
+       "end": 147.671
+      },
+      {
+       "w": "late",
+       "start": 147.671,
+       "end": 147.986
+      },
+      {
+       "w": "October,",
+       "start": 147.986,
+       "end": 148.472
+      },
+      {
+       "w": "four",
+       "start": 148.638,
+       "end": 148.948
+      },
+      {
+       "w": "men",
+       "start": 148.948,
+       "end": 149.201
+      },
+      {
+       "w": "were",
+       "start": 149.201,
+       "end": 149.511
+      },
+      {
+       "w": "arrested.",
+       "start": 149.511,
+       "end": 150.046
+      }
+     ]
+    },
+    {
+     "text": "Gavin, Tucker and Thomas Stephens got twelve years.",
+     "start": 150.522,
+     "end": 153.763,
+     "words": [
+      {
+       "w": "Gavin,",
+       "start": 150.522,
+       "end": 150.912
+      },
+      {
+       "w": "Tucker",
+       "start": 150.912,
+       "end": 151.362
+      },
+      {
+       "w": "and",
+       "start": 151.362,
+       "end": 151.632
+      },
+      {
+       "w": "Thomas",
+       "start": 151.632,
+       "end": 152.082
+      },
+      {
+       "w": "Stephens",
+       "start": 152.082,
+       "end": 152.653
+      },
+      {
+       "w": "got",
+       "start": 152.653,
+       "end": 152.923
+      },
+      {
+       "w": "twelve",
+       "start": 152.923,
+       "end": 153.373
+      },
+      {
+       "w": "years.",
+       "start": 153.373,
+       "end": 153.763
+      }
+     ]
+    },
+    {
+     "text": "Wolfe got eight.",
+     "start": 154.219,
+     "end": 155.198,
+     "words": [
+      {
+       "w": "Wolfe",
+       "start": 154.219,
+       "end": 154.583
+      },
+      {
+       "w": "got",
+       "start": 154.583,
+       "end": 154.835
+      },
+      {
+       "w": "eight.",
+       "start": 154.835,
+       "end": 155.198
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "bakerst/vo/line17.mp3",
+   "start": 155.656,
+   "dur": 15.073,
+   "sentences": [
+    {
+     "text": "But most of the loot was never found.",
+     "start": 155.656,
+     "end": 157.69,
+     "words": [
+      {
+       "w": "But",
+       "start": 155.656,
+       "end": 155.879
+      },
+      {
+       "w": "most",
+       "start": 155.879,
+       "end": 156.152
+      },
+      {
+       "w": "of",
+       "start": 156.152,
+       "end": 156.326
+      },
+      {
+       "w": "the",
+       "start": 156.326,
+       "end": 156.549
+      },
+      {
+       "w": "loot",
+       "start": 156.549,
+       "end": 156.822
+      },
+      {
+       "w": "was",
+       "start": 156.822,
+       "end": 157.045
+      },
+      {
+       "w": "never",
+       "start": 157.045,
+       "end": 157.368
+      },
+      {
+       "w": "found.",
+       "start": 157.368,
+       "end": 157.69
+      }
+     ]
+    },
+    {
+     "text": "And about 800 pages of files stay sealed until 2071.",
+     "start": 158.162,
+     "end": 162.569,
+     "words": [
+      {
+       "w": "And",
+       "start": 158.162,
+       "end": 158.462
+      },
+      {
+       "w": "about",
+       "start": 158.462,
+       "end": 158.896
+      },
+      {
+       "w": "800",
+       "start": 158.896,
+       "end": 159.798
+      },
+      {
+       "w": "pages",
+       "start": 159.798,
+       "end": 160.232
+      },
+      {
+       "w": "of",
+       "start": 160.232,
+       "end": 160.465
+      },
+      {
+       "w": "files",
+       "start": 160.465,
+       "end": 160.899
+      },
+      {
+       "w": "stay",
+       "start": 160.899,
+       "end": 161.267
+      },
+      {
+       "w": "sealed",
+       "start": 161.267,
+       "end": 161.768
+      },
+      {
+       "w": "until",
+       "start": 161.768,
+       "end": 162.202
+      },
+      {
+       "w": "2071.",
+       "start": 162.202,
+       "end": 162.569
+      }
+     ]
+    },
+    {
+     "text": "What was really in those boxes?",
+     "start": 162.934,
+     "end": 164.733,
+     "words": [
+      {
+       "w": "What",
+       "start": 162.934,
+       "end": 163.225
+      },
+      {
+       "w": "was",
+       "start": 163.225,
+       "end": 163.464
+      },
+      {
+       "w": "really",
+       "start": 163.464,
+       "end": 163.86
+      },
+      {
+       "w": "in",
+       "start": 163.86,
+       "end": 164.045
+      },
+      {
+       "w": "those",
+       "start": 164.045,
+       "end": 164.389
+      },
+      {
+       "w": "boxes?",
+       "start": 164.389,
+       "end": 164.733
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 165.086,
+     "end": 166.072,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 165.086,
+       "end": 165.291
+      },
+      {
+       "w": "me",
+       "start": 165.291,
+       "end": 165.421
+      },
+      {
+       "w": "in",
+       "start": 165.421,
+       "end": 165.551
+      },
+      {
+       "w": "the",
+       "start": 165.551,
+       "end": 165.719
+      },
+      {
+       "w": "comments.",
+       "start": 165.719,
+       "end": 166.072
+      }
+     ]
+    },
+    {
+     "text": "Then watch our DB Cooper short.",
+     "start": 166.346,
+     "end": 168.322,
+     "words": [
+      {
+       "w": "Then",
+       "start": 166.346,
+       "end": 166.666
+      },
+      {
+       "w": "watch",
+       "start": 166.666,
+       "end": 167.044
+      },
+      {
+       "w": "our",
+       "start": 167.044,
+       "end": 167.305
+      },
+      {
+       "w": "DB",
+       "start": 167.305,
+       "end": 167.509
+      },
+      {
+       "w": "Cooper",
+       "start": 167.509,
+       "end": 167.945
+      },
+      {
+       "w": "short.",
+       "start": 167.945,
+       "end": 168.322
+      }
+     ]
+    },
+    {
+     "text": "Another fortune that vanished.",
+     "start": 168.65,
+     "end": 170.496,
+     "words": [
+      {
+       "w": "Another",
+       "start": 168.65,
+       "end": 169.14
+      },
+      {
+       "w": "fortune",
+       "start": 169.14,
+       "end": 169.63
+      },
+      {
+       "w": "that",
+       "start": 169.63,
+       "end": 169.948
+      },
+      {
+       "w": "vanished.",
+       "start": 169.948,
+       "end": 170.496
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
