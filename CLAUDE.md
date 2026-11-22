@@ -34,6 +34,12 @@ Remotion project that turns a script into vertical shorts for the owner's YouTub
   Only fall back to vidIQ voiceover (limited credits) if ElevenLabs is not connected, and say so.
 - The owner often cannot download from the chat preview: also copy the mastered file to `videos/` and push it,
   then give the GitHub link.
+- Daily cadence (from 22 Nov 2026): one high-quality ~3-minute Short every day (keep it under 3:00, aim 2:40–2:55).
+  Default format = the Annabelle/Flannan recipe: fact-checked script (hook / re-hooks / legend-vs-truth twist / CTA),
+  evidence-board graphics + 3–4 AI cinematic stills (labelled "AI illustration") + real CC/PD photos with credits,
+  re-used music, and a portrait 1080×1920 thumbnail composition (`<Ep>Thumb`) delivered with the video for the Shorts cover.
+  Pick topics from vidIQ data (US/UK audience; "N people vanished / never found" performs best). Budget ≈3.3K ElevenLabs
+  credits per Short (voice ~2.6K + 4 stills ~0.8K) → ~100K/month.
 - The owner writes in Roman Urdu/Hinglish; reply in the same.
 
 ## Episodes
