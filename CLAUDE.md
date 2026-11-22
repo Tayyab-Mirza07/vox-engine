@@ -56,6 +56,8 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
   motion graphics + Hotel President photos; injuries described, not shown; music re-used from Dyatlov.
 - `Annabelle` — the Annabelle doll (1970 / 2025); `src/annabelle/`, `public/annabelle/{vo,ai,photos,cta,music.mp3}`. New
   "evidence board" style (cork board, polaroids, red strings, stamps) + 3 AI cinematic stills; max 2:40 by owner request.
+- `Flannan` — Flannan Isles lighthouse keepers (1900); `src/flannan/`, `public/flannan/{vo,ai,photos,cta,music.mp3}`. Evidence-board
+  style + 4 AI stills + real geograph photos; portrait Shorts thumbnail via the `FlannanThumb` composition.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.
 
 ## Commands

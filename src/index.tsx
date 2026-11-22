@@ -12,6 +12,8 @@ import {Hoffa, T as hoffa} from './hoffa/Video';
 import {BakerSt, T as bakerst} from './bakerst/Video';
 import {Room1046, T as room1046} from './room1046/Video';
 import {Annabelle, T as annabelle} from './annabelle/Video';
+import {Flannan, T as flannan} from './flannan/Video';
+import {FlannanThumb} from './flannan/scenes';
 import {CooperLong, T as cooperlong} from './cooperlong/Video';
 import {CooperThumb} from './cooperlong/Thumb';
 import {CooperThumb2} from './cooperlong/Thumb2';
@@ -34,6 +36,8 @@ const Root: React.FC = () => (
     <Composition id="BakerSt" component={BakerSt} durationInFrames={bakerst.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Room1046" component={Room1046} durationInFrames={room1046.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Annabelle" component={Annabelle} durationInFrames={annabelle.totalFrames} fps={FPS} width={W} height={H} />
+    <Composition id="Flannan" component={Flannan} durationInFrames={flannan.totalFrames} fps={FPS} width={W} height={H} />
+    <Composition id="FlannanThumb" component={FlannanThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Economist" component={Economist} durationInFrames={economist.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Alcatraz" component={Alcatraz} durationInFrames={alcatraz.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Dyatlov" component={Dyatlov} durationInFrames={dyatlov.totalFrames} fps={FPS} width={W} height={H} />

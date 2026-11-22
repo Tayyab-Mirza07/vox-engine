@@ -82,12 +82,12 @@ export const Still: React.FC<{src: string; t: number; from?: {s?: number; x?: nu
 };
 
 /** Big red rubber stamp. */
-export const Stamp2: React.FC<{at: number; x: number; y: number; children: React.ReactNode; size?: number; r?: number; color?: string}> = ({at, x, y, children, size = 90, r = -10, color = RED}) => {
+export const Stamp2: React.FC<{at: number; x: number; y: number; children: React.ReactNode; size?: number; r?: number; color?: string; solid?: boolean}> = ({at, x, y, children, size = 90, r = -10, color = RED, solid}) => {
   const frame = useCurrentFrame();
   if (frame < at) return null;
   const k = p(frame, at, 6);
   return (
-    <div style={{position: 'absolute', left: x, top: y, transform: `translate(-50%, -50%) rotate(${r}deg) scale(${lerp(2.4, 1, k)})`, opacity: k, border: `8px solid ${color}`, color, fontFamily: DISPLAY, fontSize: size, padding: '2px 26px', letterSpacing: 3, whiteSpace: 'nowrap', mixBlendMode: 'multiply', background: '#ffffff10', zIndex: 4}}>
+    <div style={{position: 'absolute', left: x, top: y, transform: `translate(-50%, -50%) rotate(${r}deg) scale(${lerp(2.4, 1, k)})`, opacity: k, border: `8px solid ${color}`, color, fontFamily: DISPLAY, fontSize: size, padding: '2px 26px', letterSpacing: 3, whiteSpace: 'nowrap', mixBlendMode: solid ? 'normal' : 'multiply', background: solid ? '#000000b0' : '#ffffff10', zIndex: 4}}>
       {children}
     </div>
   );

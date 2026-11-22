@@ -1,0 +1,2736 @@
+{
+ "total": 167.623,
+ "lines": [
+  {
+   "index": 0,
+   "file": "flannan/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 11.677,
+   "sentences": [
+    {
+     "text": "Three men vanished from a lighthouse, on a tiny island in the middle of the ocean.",
+     "start": 0.25,
+     "end": 4.918,
+     "words": [
+      {
+       "w": "Three",
+       "start": 0.25,
+       "end": 0.591
+      },
+      {
+       "w": "men",
+       "start": 0.591,
+       "end": 0.827
+      },
+      {
+       "w": "vanished",
+       "start": 0.827,
+       "end": 1.325
+      },
+      {
+       "w": "from",
+       "start": 1.325,
+       "end": 1.614
+      },
+      {
+       "w": "a",
+       "start": 1.614,
+       "end": 1.745
+      },
+      {
+       "w": "lighthouse,",
+       "start": 1.745,
+       "end": 2.348
+      },
+      {
+       "w": "on",
+       "start": 2.348,
+       "end": 2.532
+      },
+      {
+       "w": "a",
+       "start": 2.532,
+       "end": 2.663
+      },
+      {
+       "w": "tiny",
+       "start": 2.663,
+       "end": 2.951
+      },
+      {
+       "w": "island",
+       "start": 2.951,
+       "end": 3.345
+      },
+      {
+       "w": "in",
+       "start": 3.345,
+       "end": 3.528
+      },
+      {
+       "w": "the",
+       "start": 3.528,
+       "end": 3.764
+      },
+      {
+       "w": "middle",
+       "start": 3.764,
+       "end": 4.158
+      },
+      {
+       "w": "of",
+       "start": 4.158,
+       "end": 4.341
+      },
+      {
+       "w": "the",
+       "start": 4.341,
+       "end": 4.577
+      },
+      {
+       "w": "ocean.",
+       "start": 4.577,
+       "end": 4.918
+      }
+     ]
+    },
+    {
+     "text": "The door was shut.",
+     "start": 5.294,
+     "end": 6.369,
+     "words": [
+      {
+       "w": "The",
+       "start": 5.294,
+       "end": 5.535
+      },
+      {
+       "w": "door",
+       "start": 5.535,
+       "end": 5.831
+      },
+      {
+       "w": "was",
+       "start": 5.831,
+       "end": 6.073
+      },
+      {
+       "w": "shut.",
+       "start": 6.073,
+       "end": 6.369
+      }
+     ]
+    },
+    {
+     "text": "The clock had stopped.",
+     "start": 6.653,
+     "end": 7.897,
+     "words": [
+      {
+       "w": "The",
+       "start": 6.653,
+       "end": 6.886
+      },
+      {
+       "w": "clock",
+       "start": 6.886,
+       "end": 7.223
+      },
+      {
+       "w": "had",
+       "start": 7.223,
+       "end": 7.456
+      },
+      {
+       "w": "stopped.",
+       "start": 7.456,
+       "end": 7.897
+      }
+     ]
+    },
+    {
+     "text": "And one man's coat was still hanging on its hook.",
+     "start": 8.318,
+     "end": 11.511,
+     "words": [
+      {
+       "w": "And",
+       "start": 8.318,
+       "end": 8.589
+      },
+      {
+       "w": "one",
+       "start": 8.589,
+       "end": 8.86
+      },
+      {
+       "w": "man's",
+       "start": 8.86,
+       "end": 9.191
+      },
+      {
+       "w": "coat",
+       "start": 9.191,
+       "end": 9.523
+      },
+      {
+       "w": "was",
+       "start": 9.523,
+       "end": 9.794
+      },
+      {
+       "w": "still",
+       "start": 9.794,
+       "end": 10.185
+      },
+      {
+       "w": "hanging",
+       "start": 10.185,
+       "end": 10.697
+      },
+      {
+       "w": "on",
+       "start": 10.697,
+       "end": 10.908
+      },
+      {
+       "w": "its",
+       "start": 10.908,
+       "end": 11.179
+      },
+      {
+       "w": "hook.",
+       "start": 11.179,
+       "end": 11.511
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "flannan/vo/line1.mp3",
+   "start": 12.077,
+   "dur": 12.356,
+   "sentences": [
+    {
+     "text": "This is Eilean Mor, in the Flannan Isles.",
+     "start": 12.077,
+     "end": 14.752,
+     "words": [
+      {
+       "w": "This",
+       "start": 12.077,
+       "end": 12.403
+      },
+      {
+       "w": "is",
+       "start": 12.403,
+       "end": 12.611
+      },
+      {
+       "w": "Eilean",
+       "start": 12.611,
+       "end": 13.057
+      },
+      {
+       "w": "Mor,",
+       "start": 13.057,
+       "end": 13.324
+      },
+      {
+       "w": "in",
+       "start": 13.604,
+       "end": 13.779
+      },
+      {
+       "w": "the",
+       "start": 13.779,
+       "end": 14.003
+      },
+      {
+       "w": "Flannan",
+       "start": 14.003,
+       "end": 14.427
+      },
+      {
+       "w": "Isles.",
+       "start": 14.427,
+       "end": 14.752
+      }
+     ]
+    },
+    {
+     "text": "A lump of rock in the Atlantic, twenty miles off the coast of Scotland.",
+     "start": 15.211,
+     "end": 18.93,
+     "words": [
+      {
+       "w": "A",
+       "start": 15.211,
+       "end": 15.323
+      },
+      {
+       "w": "lump",
+       "start": 15.323,
+       "end": 15.571
+      },
+      {
+       "w": "of",
+       "start": 15.571,
+       "end": 15.729
+      },
+      {
+       "w": "rock",
+       "start": 15.729,
+       "end": 15.977
+      },
+      {
+       "w": "in",
+       "start": 15.977,
+       "end": 16.135
+      },
+      {
+       "w": "the",
+       "start": 16.135,
+       "end": 16.338
+      },
+      {
+       "w": "Atlantic,",
+       "start": 16.338,
+       "end": 16.766
+      },
+      {
+       "w": "twenty",
+       "start": 17.05,
+       "end": 17.382
+      },
+      {
+       "w": "miles",
+       "start": 17.382,
+       "end": 17.669
+      },
+      {
+       "w": "off",
+       "start": 17.669,
+       "end": 17.869
+      },
+      {
+       "w": "the",
+       "start": 17.869,
+       "end": 18.068
+      },
+      {
+       "w": "coast",
+       "start": 18.068,
+       "end": 18.355
+      },
+      {
+       "w": "of",
+       "start": 18.355,
+       "end": 18.51
+      },
+      {
+       "w": "Scotland.",
+       "start": 18.51,
+       "end": 18.93
+      }
+     ]
+    },
+    {
+     "text": "No trees.",
+     "start": 19.393,
+     "end": 20.201,
+     "words": [
+      {
+       "w": "No",
+       "start": 19.393,
+       "end": 19.676
+      },
+      {
+       "w": "trees.",
+       "start": 19.676,
+       "end": 20.201
+      }
+     ]
+    },
+    {
+     "text": "No people.",
+     "start": 20.509,
+     "end": 21.134,
+     "words": [
+      {
+       "w": "No",
+       "start": 20.509,
+       "end": 20.708
+      },
+      {
+       "w": "people.",
+       "start": 20.708,
+       "end": 21.134
+      }
+     ]
+    },
+    {
+     "text": "Just a lighthouse, and the men who kept it burning.",
+     "start": 21.534,
+     "end": 24.217,
+     "words": [
+      {
+       "w": "Just",
+       "start": 21.534,
+       "end": 21.811
+      },
+      {
+       "w": "a",
+       "start": 21.811,
+       "end": 21.937
+      },
+      {
+       "w": "lighthouse,",
+       "start": 21.937,
+       "end": 22.514
+      },
+      {
+       "w": "and",
+       "start": 22.736,
+       "end": 22.924
+      },
+      {
+       "w": "the",
+       "start": 22.924,
+       "end": 23.112
+      },
+      {
+       "w": "men",
+       "start": 23.112,
+       "end": 23.299
+      },
+      {
+       "w": "who",
+       "start": 23.299,
+       "end": 23.487
+      },
+      {
+       "w": "kept",
+       "start": 23.487,
+       "end": 23.716
+      },
+      {
+       "w": "it",
+       "start": 23.716,
+       "end": 23.862
+      },
+      {
+       "w": "burning.",
+       "start": 23.862,
+       "end": 24.217
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "flannan/vo/line2.mp3",
+   "start": 24.583,
+   "dur": 10.449,
+   "sentences": [
+    {
+     "text": "December, 1900.",
+     "start": 24.583,
+     "end": 26.116,
+     "words": [
+      {
+       "w": "December,",
+       "start": 24.583,
+       "end": 25.554
+      },
+      {
+       "w": "1900.",
+       "start": 25.554,
+       "end": 26.116
+      }
+     ]
+    },
+    {
+     "text": "There were three of them.",
+     "start": 26.576,
+     "end": 27.553,
+     "words": [
+      {
+       "w": "There",
+       "start": 26.576,
+       "end": 26.807
+      },
+      {
+       "w": "were",
+       "start": 26.807,
+       "end": 27.002
+      },
+      {
+       "w": "three",
+       "start": 27.002,
+       "end": 27.233
+      },
+      {
+       "w": "of",
+       "start": 27.233,
+       "end": 27.357
+      },
+      {
+       "w": "them.",
+       "start": 27.357,
+       "end": 27.553
+      }
+     ]
+    },
+    {
+     "text": "James Ducat, the principal keeper.",
+     "start": 28.022,
+     "end": 29.985,
+     "words": [
+      {
+       "w": "James",
+       "start": 28.022,
+       "end": 28.431
+      },
+      {
+       "w": "Ducat,",
+       "start": 28.431,
+       "end": 28.84
+      },
+      {
+       "w": "the",
+       "start": 29.088,
+       "end": 29.267
+      },
+      {
+       "w": "principal",
+       "start": 29.267,
+       "end": 29.686
+      },
+      {
+       "w": "keeper.",
+       "start": 29.686,
+       "end": 29.985
+      }
+     ]
+    },
+    {
+     "text": "Thomas Marshall.",
+     "start": 30.449,
+     "end": 31.264,
+     "words": [
+      {
+       "w": "Thomas",
+       "start": 30.449,
+       "end": 30.809
+      },
+      {
+       "w": "Marshall.",
+       "start": 30.809,
+       "end": 31.264
+      }
+     ]
+    },
+    {
+     "text": "And Donald MacArthur, filling in for a man who was off sick.",
+     "start": 31.637,
+     "end": 34.838,
+     "words": [
+      {
+       "w": "And",
+       "start": 31.637,
+       "end": 31.864
+      },
+      {
+       "w": "Donald",
+       "start": 31.864,
+       "end": 32.244
+      },
+      {
+       "w": "MacArthur,",
+       "start": 32.244,
+       "end": 32.776
+      },
+      {
+       "w": "filling",
+       "start": 33.035,
+       "end": 33.396
+      },
+      {
+       "w": "in",
+       "start": 33.396,
+       "end": 33.544
+      },
+      {
+       "w": "for",
+       "start": 33.544,
+       "end": 33.735
+      },
+      {
+       "w": "a",
+       "start": 33.735,
+       "end": 33.841
+      },
+      {
+       "w": "man",
+       "start": 33.841,
+       "end": 34.032
+      },
+      {
+       "w": "who",
+       "start": 34.032,
+       "end": 34.223
+      },
+      {
+       "w": "was",
+       "start": 34.223,
+       "end": 34.413
+      },
+      {
+       "w": "off",
+       "start": 34.413,
+       "end": 34.604
+      },
+      {
+       "w": "sick.",
+       "start": 34.604,
+       "end": 34.838
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "flannan/vo/line3.mp3",
+   "start": 35.182,
+   "dur": 8.464,
+   "sentences": [
+    {
+     "text": "Their job was simple.",
+     "start": 35.182,
+     "end": 36.321,
+     "words": [
+      {
+       "w": "Their",
+       "start": 35.182,
+       "end": 35.504
+      },
+      {
+       "w": "job",
+       "start": 35.504,
+       "end": 35.727
+      },
+      {
+       "w": "was",
+       "start": 35.727,
+       "end": 35.95
+      },
+      {
+       "w": "simple.",
+       "start": 35.95,
+       "end": 36.321
+      }
+     ]
+    },
+    {
+     "text": "Keep the light burning, every single night.",
+     "start": 36.789,
+     "end": 39.388,
+     "words": [
+      {
+       "w": "Keep",
+       "start": 36.789,
+       "end": 37.007
+      },
+      {
+       "w": "the",
+       "start": 37.007,
+       "end": 37.185
+      },
+      {
+       "w": "light",
+       "start": 37.185,
+       "end": 37.441
+      },
+      {
+       "w": "burning,",
+       "start": 37.441,
+       "end": 37.777
+      },
+      {
+       "w": "every",
+       "start": 38.216,
+       "end": 38.588
+      },
+      {
+       "w": "single",
+       "start": 38.588,
+       "end": 39.016
+      },
+      {
+       "w": "night.",
+       "start": 39.016,
+       "end": 39.388
+      }
+     ]
+    },
+    {
+     "text": "Because out here, if the light goes dark, ships die.",
+     "start": 39.838,
+     "end": 43.411,
+     "words": [
+      {
+       "w": "Because",
+       "start": 39.838,
+       "end": 40.243
+      },
+      {
+       "w": "out",
+       "start": 40.243,
+       "end": 40.458
+      },
+      {
+       "w": "here,",
+       "start": 40.458,
+       "end": 40.721
+      },
+      {
+       "w": "if",
+       "start": 41.061,
+       "end": 41.214
+      },
+      {
+       "w": "the",
+       "start": 41.214,
+       "end": 41.412
+      },
+      {
+       "w": "light",
+       "start": 41.412,
+       "end": 41.698
+      },
+      {
+       "w": "goes",
+       "start": 41.698,
+       "end": 41.939
+      },
+      {
+       "w": "dark,",
+       "start": 41.939,
+       "end": 42.181
+      },
+      {
+       "w": "ships",
+       "start": 42.613,
+       "end": 43.084
+      },
+      {
+       "w": "die.",
+       "start": 43.084,
+       "end": 43.411
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "flannan/vo/line4.mp3",
+   "start": 43.795,
+   "dur": 8.02,
+   "sentences": [
+    {
+     "text": "On December 15th, a steamer called the Archtor sailed past in a storm.",
+     "start": 43.795,
+     "end": 48.443,
+     "words": [
+      {
+       "w": "On",
+       "start": 43.795,
+       "end": 44.026
+      },
+      {
+       "w": "December",
+       "start": 44.026,
+       "end": 44.654
+      },
+      {
+       "w": "15th,",
+       "start": 44.654,
+       "end": 45.017
+      },
+      {
+       "w": "a",
+       "start": 45.294,
+       "end": 45.432
+      },
+      {
+       "w": "steamer",
+       "start": 45.432,
+       "end": 45.901
+      },
+      {
+       "w": "called",
+       "start": 45.901,
+       "end": 46.316
+      },
+      {
+       "w": "the",
+       "start": 46.316,
+       "end": 46.564
+      },
+      {
+       "w": "Archtor",
+       "start": 46.564,
+       "end": 47.034
+      },
+      {
+       "w": "sailed",
+       "start": 47.034,
+       "end": 47.448
+      },
+      {
+       "w": "past",
+       "start": 47.448,
+       "end": 47.752
+      },
+      {
+       "w": "in",
+       "start": 47.752,
+       "end": 47.945
+      },
+      {
+       "w": "a",
+       "start": 47.945,
+       "end": 48.083
+      },
+      {
+       "w": "storm.",
+       "start": 48.083,
+       "end": 48.443
+      }
+     ]
+    },
+    {
+     "text": "The crew looked for the light.",
+     "start": 48.912,
+     "end": 50.326,
+     "words": [
+      {
+       "w": "The",
+       "start": 48.912,
+       "end": 49.105
+      },
+      {
+       "w": "crew",
+       "start": 49.105,
+       "end": 49.34
+      },
+      {
+       "w": "looked",
+       "start": 49.34,
+       "end": 49.662
+      },
+      {
+       "w": "for",
+       "start": 49.662,
+       "end": 49.854
+      },
+      {
+       "w": "the",
+       "start": 49.854,
+       "end": 50.047
+      },
+      {
+       "w": "light.",
+       "start": 50.047,
+       "end": 50.326
+      }
+     ]
+    },
+    {
+     "text": "It was dark.",
+     "start": 50.779,
+     "end": 51.815,
+     "words": [
+      {
+       "w": "It",
+       "start": 50.779,
+       "end": 51.048
+      },
+      {
+       "w": "was",
+       "start": 51.048,
+       "end": 51.393
+      },
+      {
+       "w": "dark.",
+       "start": 51.393,
+       "end": 51.815
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "flannan/vo/line5.mp3",
+   "start": 51.965,
+   "dur": 6.478,
+   "sentences": [
+    {
+     "text": "But no one could reach the island.",
+     "start": 51.965,
+     "end": 53.732,
+     "words": [
+      {
+       "w": "But",
+       "start": 51.965,
+       "end": 52.177
+      },
+      {
+       "w": "no",
+       "start": 52.177,
+       "end": 52.342
+      },
+      {
+       "w": "one",
+       "start": 52.342,
+       "end": 52.554
+      },
+      {
+       "w": "could",
+       "start": 52.554,
+       "end": 52.86
+      },
+      {
+       "w": "reach",
+       "start": 52.86,
+       "end": 53.167
+      },
+      {
+       "w": "the",
+       "start": 53.167,
+       "end": 53.379
+      },
+      {
+       "w": "island.",
+       "start": 53.379,
+       "end": 53.732
+      }
+     ]
+    },
+    {
+     "text": "Storms kept the relief boat away, for eleven days.",
+     "start": 54.186,
+     "end": 58.237,
+     "words": [
+      {
+       "w": "Storms",
+       "start": 54.186,
+       "end": 54.612
+      },
+      {
+       "w": "kept",
+       "start": 54.612,
+       "end": 54.924
+      },
+      {
+       "w": "the",
+       "start": 54.924,
+       "end": 55.18
+      },
+      {
+       "w": "relief",
+       "start": 55.18,
+       "end": 55.606
+      },
+      {
+       "w": "boat",
+       "start": 55.606,
+       "end": 55.919
+      },
+      {
+       "w": "away,",
+       "start": 55.919,
+       "end": 56.231
+      },
+      {
+       "w": "for",
+       "start": 56.694,
+       "end": 57.091
+      },
+      {
+       "w": "eleven",
+       "start": 57.091,
+       "end": 57.752
+      },
+      {
+       "w": "days.",
+       "start": 57.752,
+       "end": 58.237
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "flannan/vo/line6.mp3",
+   "start": 58.593,
+   "dur": 9.587,
+   "sentences": [
+    {
+     "text": "December 26th.",
+     "start": 58.593,
+     "end": 59.836,
+     "words": [
+      {
+       "w": "December",
+       "start": 58.593,
+       "end": 59.38
+      },
+      {
+       "w": "26th.",
+       "start": 59.38,
+       "end": 59.836
+      }
+     ]
+    },
+    {
+     "text": "The relief ship Hesperus finally arrives.",
+     "start": 60.213,
+     "end": 62.823,
+     "words": [
+      {
+       "w": "The",
+       "start": 60.213,
+       "end": 60.48
+      },
+      {
+       "w": "relief",
+       "start": 60.48,
+       "end": 60.925
+      },
+      {
+       "w": "ship",
+       "start": 60.925,
+       "end": 61.251
+      },
+      {
+       "w": "Hesperus",
+       "start": 61.251,
+       "end": 61.814
+      },
+      {
+       "w": "finally",
+       "start": 61.814,
+       "end": 62.319
+      },
+      {
+       "w": "arrives.",
+       "start": 62.319,
+       "end": 62.823
+      }
+     ]
+    },
+    {
+     "text": "They sound the horn.",
+     "start": 63.286,
+     "end": 64.276,
+     "words": [
+      {
+       "w": "They",
+       "start": 63.286,
+       "end": 63.534
+      },
+      {
+       "w": "sound",
+       "start": 63.534,
+       "end": 63.826
+      },
+      {
+       "w": "the",
+       "start": 63.826,
+       "end": 64.029
+      },
+      {
+       "w": "horn.",
+       "start": 64.029,
+       "end": 64.276
+      }
+     ]
+    },
+    {
+     "text": "They fire a flare.",
+     "start": 64.649,
+     "end": 65.788,
+     "words": [
+      {
+       "w": "They",
+       "start": 64.649,
+       "end": 64.962
+      },
+      {
+       "w": "fire",
+       "start": 64.962,
+       "end": 65.275
+      },
+      {
+       "w": "a",
+       "start": 65.275,
+       "end": 65.418
+      },
+      {
+       "w": "flare.",
+       "start": 65.418,
+       "end": 65.788
+      }
+     ]
+    },
+    {
+     "text": "Nobody comes down to meet them.",
+     "start": 66.257,
+     "end": 67.935,
+     "words": [
+      {
+       "w": "Nobody",
+       "start": 66.257,
+       "end": 66.627
+      },
+      {
+       "w": "comes",
+       "start": 66.627,
+       "end": 66.948
+      },
+      {
+       "w": "down",
+       "start": 66.948,
+       "end": 67.22
+      },
+      {
+       "w": "to",
+       "start": 67.22,
+       "end": 67.392
+      },
+      {
+       "w": "meet",
+       "start": 67.392,
+       "end": 67.664
+      },
+      {
+       "w": "them.",
+       "start": 67.664,
+       "end": 67.935
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "flannan/vo/line7.mp3",
+   "start": 68.33,
+   "dur": 8.49,
+   "sentences": [
+    {
+     "text": "Relief keeper Joseph Moore climbs the steep path up the rock, alone.",
+     "start": 68.33,
+     "end": 73.018,
+     "words": [
+      {
+       "w": "Relief",
+       "start": 68.33,
+       "end": 68.761
+      },
+      {
+       "w": "keeper",
+       "start": 68.761,
+       "end": 69.192
+      },
+      {
+       "w": "Joseph",
+       "start": 69.192,
+       "end": 69.622
+      },
+      {
+       "w": "Moore",
+       "start": 69.622,
+       "end": 69.996
+      },
+      {
+       "w": "climbs",
+       "start": 69.996,
+       "end": 70.426
+      },
+      {
+       "w": "the",
+       "start": 70.426,
+       "end": 70.685
+      },
+      {
+       "w": "steep",
+       "start": 70.685,
+       "end": 71.058
+      },
+      {
+       "w": "path",
+       "start": 71.058,
+       "end": 71.374
+      },
+      {
+       "w": "up",
+       "start": 71.374,
+       "end": 71.575
+      },
+      {
+       "w": "the",
+       "start": 71.575,
+       "end": 71.834
+      },
+      {
+       "w": "rock,",
+       "start": 71.834,
+       "end": 72.149
+      },
+      {
+       "w": "alone.",
+       "start": 72.549,
+       "end": 73.018
+      }
+     ]
+    },
+    {
+     "text": "The gate is closed.",
+     "start": 73.479,
+     "end": 74.708,
+     "words": [
+      {
+       "w": "The",
+       "start": 73.479,
+       "end": 73.742
+      },
+      {
+       "w": "gate",
+       "start": 73.742,
+       "end": 74.064
+      },
+      {
+       "w": "is",
+       "start": 74.064,
+       "end": 74.269
+      },
+      {
+       "w": "closed.",
+       "start": 74.269,
+       "end": 74.708
+      }
+     ]
+    },
+    {
+     "text": "The front door is closed.",
+     "start": 75.124,
+     "end": 76.566,
+     "words": [
+      {
+       "w": "The",
+       "start": 75.124,
+       "end": 75.36
+      },
+      {
+       "w": "front",
+       "start": 75.36,
+       "end": 75.701
+      },
+      {
+       "w": "door",
+       "start": 75.701,
+       "end": 75.989
+      },
+      {
+       "w": "is",
+       "start": 75.989,
+       "end": 76.173
+      },
+      {
+       "w": "closed.",
+       "start": 76.173,
+       "end": 76.566
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "flannan/vo/line8.mp3",
+   "start": 76.97,
+   "dur": 7.471,
+   "sentences": [
+    {
+     "text": "Inside, the beds are unmade.",
+     "start": 76.97,
+     "end": 79.621,
+     "words": [
+      {
+       "w": "Inside,",
+       "start": 76.97,
+       "end": 77.887
+      },
+      {
+       "w": "the",
+       "start": 78.202,
+       "end": 78.492
+      },
+      {
+       "w": "beds",
+       "start": 78.492,
+       "end": 78.847
+      },
+      {
+       "w": "are",
+       "start": 78.847,
+       "end": 79.137
+      },
+      {
+       "w": "unmade.",
+       "start": 79.137,
+       "end": 79.621
+      }
+     ]
+    },
+    {
+     "text": "The fireplace is cold.",
+     "start": 80.061,
+     "end": 81.485,
+     "words": [
+      {
+       "w": "The",
+       "start": 80.061,
+       "end": 80.328
+      },
+      {
+       "w": "fireplace",
+       "start": 80.328,
+       "end": 80.951
+      },
+      {
+       "w": "is",
+       "start": 80.951,
+       "end": 81.159
+      },
+      {
+       "w": "cold.",
+       "start": 81.159,
+       "end": 81.485
+      }
+     ]
+    },
+    {
+     "text": "And the kitchen clock has stopped.",
+     "start": 81.926,
+     "end": 84.441,
+     "words": [
+      {
+       "w": "And",
+       "start": 81.926,
+       "end": 82.232
+      },
+      {
+       "w": "the",
+       "start": 82.232,
+       "end": 82.538
+      },
+      {
+       "w": "kitchen",
+       "start": 82.538,
+       "end": 83.116
+      },
+      {
+       "w": "clock",
+       "start": 83.116,
+       "end": 83.557
+      },
+      {
+       "w": "has",
+       "start": 83.557,
+       "end": 83.863
+      },
+      {
+       "w": "stopped.",
+       "start": 83.863,
+       "end": 84.441
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "flannan/vo/line9.mp3",
+   "start": 84.591,
+   "dur": 5.669,
+   "sentences": [
+    {
+     "text": "Two of the men's waterproof coats are gone.",
+     "start": 84.591,
+     "end": 87.041,
+     "words": [
+      {
+       "w": "Two",
+       "start": 84.591,
+       "end": 84.831
+      },
+      {
+       "w": "of",
+       "start": 84.831,
+       "end": 85.017
+      },
+      {
+       "w": "the",
+       "start": 85.017,
+       "end": 85.257
+      },
+      {
+       "w": "men's",
+       "start": 85.257,
+       "end": 85.55
+      },
+      {
+       "w": "waterproof",
+       "start": 85.55,
+       "end": 86.162
+      },
+      {
+       "w": "coats",
+       "start": 86.162,
+       "end": 86.508
+      },
+      {
+       "w": "are",
+       "start": 86.508,
+       "end": 86.748
+      },
+      {
+       "w": "gone.",
+       "start": 86.748,
+       "end": 87.041
+      }
+     ]
+    },
+    {
+     "text": "But the third is still hanging by the door.",
+     "start": 87.359,
+     "end": 90.076,
+     "words": [
+      {
+       "w": "But",
+       "start": 87.359,
+       "end": 87.617
+      },
+      {
+       "w": "the",
+       "start": 87.617,
+       "end": 87.874
+      },
+      {
+       "w": "third",
+       "start": 87.874,
+       "end": 88.246
+      },
+      {
+       "w": "is",
+       "start": 88.246,
+       "end": 88.446
+      },
+      {
+       "w": "still",
+       "start": 88.446,
+       "end": 88.818
+      },
+      {
+       "w": "hanging",
+       "start": 88.818,
+       "end": 89.304
+      },
+      {
+       "w": "by",
+       "start": 89.304,
+       "end": 89.504
+      },
+      {
+       "w": "the",
+       "start": 89.504,
+       "end": 89.762
+      },
+      {
+       "w": "door.",
+       "start": 89.762,
+       "end": 90.076
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "flannan/vo/line10.mp3",
+   "start": 90.41,
+   "dur": 4.807,
+   "sentences": [
+    {
+     "text": "So where would a man go, in a winter storm, without his coat?",
+     "start": 90.41,
+     "end": 95.008,
+     "words": [
+      {
+       "w": "So",
+       "start": 90.41,
+       "end": 90.639
+      },
+      {
+       "w": "where",
+       "start": 90.639,
+       "end": 91.065
+      },
+      {
+       "w": "would",
+       "start": 91.065,
+       "end": 91.492
+      },
+      {
+       "w": "a",
+       "start": 91.492,
+       "end": 91.656
+      },
+      {
+       "w": "man",
+       "start": 91.656,
+       "end": 91.951
+      },
+      {
+       "w": "go,",
+       "start": 91.951,
+       "end": 92.18
+      },
+      {
+       "w": "in",
+       "start": 92.383,
+       "end": 92.6
+      },
+      {
+       "w": "a",
+       "start": 92.6,
+       "end": 92.755
+      },
+      {
+       "w": "winter",
+       "start": 92.755,
+       "end": 93.221
+      },
+      {
+       "w": "storm,",
+       "start": 93.221,
+       "end": 93.624
+      },
+      {
+       "w": "without",
+       "start": 94.011,
+       "end": 94.469
+      },
+      {
+       "w": "his",
+       "start": 94.469,
+       "end": 94.712
+      },
+      {
+       "w": "coat?",
+       "start": 94.712,
+       "end": 95.008
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "flannan/vo/line11.mp3",
+   "start": 95.366,
+   "dur": 7.131,
+   "sentences": [
+    {
+     "text": "Moore searched every room, every ledge.",
+     "start": 95.366,
+     "end": 98.242,
+     "words": [
+      {
+       "w": "Moore",
+       "start": 95.366,
+       "end": 95.755
+      },
+      {
+       "w": "searched",
+       "start": 95.755,
+       "end": 96.323
+      },
+      {
+       "w": "every",
+       "start": 96.323,
+       "end": 96.711
+      },
+      {
+       "w": "room,",
+       "start": 96.711,
+       "end": 97.04
+      },
+      {
+       "w": "every",
+       "start": 97.342,
+       "end": 97.792
+      },
+      {
+       "w": "ledge.",
+       "start": 97.792,
+       "end": 98.242
+      }
+     ]
+    },
+    {
+     "text": "The three keepers were gone.",
+     "start": 98.696,
+     "end": 100.22,
+     "words": [
+      {
+       "w": "The",
+       "start": 98.696,
+       "end": 98.921
+      },
+      {
+       "w": "three",
+       "start": 98.921,
+       "end": 99.246
+      },
+      {
+       "w": "keepers",
+       "start": 99.246,
+       "end": 99.671
+      },
+      {
+       "w": "were",
+       "start": 99.671,
+       "end": 99.945
+      },
+      {
+       "w": "gone.",
+       "start": 99.945,
+       "end": 100.22
+      }
+     ]
+    },
+    {
+     "text": "Their bodies were never found.",
+     "start": 100.651,
+     "end": 102.189,
+     "words": [
+      {
+       "w": "Their",
+       "start": 100.651,
+       "end": 100.959
+      },
+      {
+       "w": "bodies",
+       "start": 100.959,
+       "end": 101.314
+      },
+      {
+       "w": "were",
+       "start": 101.314,
+       "end": 101.574
+      },
+      {
+       "w": "never",
+       "start": 101.574,
+       "end": 101.881
+      },
+      {
+       "w": "found.",
+       "start": 101.881,
+       "end": 102.189
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "flannan/vo/line12.mp3",
+   "start": 102.648,
+   "dur": 14.759,
+   "sentences": [
+    {
+     "text": "Then the legends began.",
+     "start": 102.648,
+     "end": 104.425,
+     "words": [
+      {
+       "w": "Then",
+       "start": 102.648,
+       "end": 103.039
+      },
+      {
+       "w": "the",
+       "start": 103.039,
+       "end": 103.359
+      },
+      {
+       "w": "legends",
+       "start": 103.359,
+       "end": 103.963
+      },
+      {
+       "w": "began.",
+       "start": 103.963,
+       "end": 104.425
+      }
+     ]
+    },
+    {
+     "text": "A famous poem described a meal left untouched, and a chair knocked over.",
+     "start": 104.88,
+     "end": 109.321,
+     "words": [
+      {
+       "w": "A",
+       "start": 104.88,
+       "end": 105.029
+      },
+      {
+       "w": "famous",
+       "start": 105.029,
+       "end": 105.476
+      },
+      {
+       "w": "poem",
+       "start": 105.476,
+       "end": 105.804
+      },
+      {
+       "w": "described",
+       "start": 105.804,
+       "end": 106.431
+      },
+      {
+       "w": "a",
+       "start": 106.431,
+       "end": 106.58
+      },
+      {
+       "w": "meal",
+       "start": 106.58,
+       "end": 106.908
+      },
+      {
+       "w": "left",
+       "start": 106.908,
+       "end": 107.236
+      },
+      {
+       "w": "untouched,",
+       "start": 107.236,
+       "end": 107.862
+      },
+      {
+       "w": "and",
+       "start": 108.083,
+       "end": 108.286
+      },
+      {
+       "w": "a",
+       "start": 108.286,
+       "end": 108.398
+      },
+      {
+       "w": "chair",
+       "start": 108.398,
+       "end": 108.691
+      },
+      {
+       "w": "knocked",
+       "start": 108.691,
+       "end": 109.073
+      },
+      {
+       "w": "over.",
+       "start": 109.073,
+       "end": 109.321
+      }
+     ]
+    },
+    {
+     "text": "Later, someone even wrote fake log entries.",
+     "start": 109.785,
+     "end": 112.559,
+     "words": [
+      {
+       "w": "Later,",
+       "start": 109.785,
+       "end": 110.183
+      },
+      {
+       "w": "someone",
+       "start": 110.399,
+       "end": 110.87
+      },
+      {
+       "w": "even",
+       "start": 110.87,
+       "end": 111.175
+      },
+      {
+       "w": "wrote",
+       "start": 111.175,
+       "end": 111.534
+      },
+      {
+       "w": "fake",
+       "start": 111.534,
+       "end": 111.839
+      },
+      {
+       "w": "log",
+       "start": 111.839,
+       "end": 112.088
+      },
+      {
+       "w": "entries.",
+       "start": 112.088,
+       "end": 112.559
+      }
+     ]
+    },
+    {
+     "text": "Storm.",
+     "start": 113.021,
+     "end": 113.594,
+     "words": [
+      {
+       "w": "Storm.",
+       "start": 113.021,
+       "end": 113.594
+      }
+     ]
+    },
+    {
+     "text": "MacArthur crying.",
+     "start": 114.047,
+     "end": 115.152,
+     "words": [
+      {
+       "w": "MacArthur",
+       "start": 114.047,
+       "end": 114.692
+      },
+      {
+       "w": "crying.",
+       "start": 114.692,
+       "end": 115.152
+      }
+     ]
+    },
+    {
+     "text": "God is over all.",
+     "start": 115.616,
+     "end": 117.137,
+     "words": [
+      {
+       "w": "God",
+       "start": 115.616,
+       "end": 115.996
+      },
+      {
+       "w": "is",
+       "start": 115.996,
+       "end": 116.292
+      },
+      {
+       "w": "over",
+       "start": 116.292,
+       "end": 116.757
+      },
+      {
+       "w": "all.",
+       "start": 116.757,
+       "end": 117.137
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "flannan/vo/line13.mp3",
+   "start": 117.557,
+   "dur": 6.766,
+   "sentences": [
+    {
+     "text": "None of that is in the real records.",
+     "start": 117.557,
+     "end": 119.512,
+     "words": [
+      {
+       "w": "None",
+       "start": 117.557,
+       "end": 117.826
+      },
+      {
+       "w": "of",
+       "start": 117.826,
+       "end": 117.997
+      },
+      {
+       "w": "that",
+       "start": 117.997,
+       "end": 118.266
+      },
+      {
+       "w": "is",
+       "start": 118.266,
+       "end": 118.437
+      },
+      {
+       "w": "in",
+       "start": 118.437,
+       "end": 118.608
+      },
+      {
+       "w": "the",
+       "start": 118.608,
+       "end": 118.828
+      },
+      {
+       "w": "real",
+       "start": 118.828,
+       "end": 119.097
+      },
+      {
+       "w": "records.",
+       "start": 119.097,
+       "end": 119.512
+      }
+     ]
+    },
+    {
+     "text": "The poem was fiction.",
+     "start": 119.85,
+     "end": 121.146,
+     "words": [
+      {
+       "w": "The",
+       "start": 119.85,
+       "end": 120.103
+      },
+      {
+       "w": "poem",
+       "start": 120.103,
+       "end": 120.413
+      },
+      {
+       "w": "was",
+       "start": 120.413,
+       "end": 120.667
+      },
+      {
+       "w": "fiction.",
+       "start": 120.667,
+       "end": 121.146
+      }
+     ]
+    },
+    {
+     "text": "The log entries were made up, decades later.",
+     "start": 121.624,
+     "end": 124.116,
+     "words": [
+      {
+       "w": "The",
+       "start": 121.624,
+       "end": 121.862
+      },
+      {
+       "w": "log",
+       "start": 121.862,
+       "end": 122.101
+      },
+      {
+       "w": "entries",
+       "start": 122.101,
+       "end": 122.552
+      },
+      {
+       "w": "were",
+       "start": 122.552,
+       "end": 122.843
+      },
+      {
+       "w": "made",
+       "start": 122.843,
+       "end": 123.135
+      },
+      {
+       "w": "up,",
+       "start": 123.135,
+       "end": 123.321
+      },
+      {
+       "w": "decades",
+       "start": 123.321,
+       "end": 123.771
+      },
+      {
+       "w": "later.",
+       "start": 123.771,
+       "end": 124.116
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "flannan/vo/line14.mp3",
+   "start": 124.472,
+   "dur": 11.233,
+   "sentences": [
+    {
+     "text": "The real clue was down at the west landing.",
+     "start": 124.472,
+     "end": 126.894,
+     "words": [
+      {
+       "w": "The",
+       "start": 124.472,
+       "end": 124.702
+      },
+      {
+       "w": "real",
+       "start": 124.702,
+       "end": 124.982
+      },
+      {
+       "w": "clue",
+       "start": 124.982,
+       "end": 125.263
+      },
+      {
+       "w": "was",
+       "start": 125.263,
+       "end": 125.492
+      },
+      {
+       "w": "down",
+       "start": 125.492,
+       "end": 125.772
+      },
+      {
+       "w": "at",
+       "start": 125.772,
+       "end": 125.951
+      },
+      {
+       "w": "the",
+       "start": 125.951,
+       "end": 126.18
+      },
+      {
+       "w": "west",
+       "start": 126.18,
+       "end": 126.46
+      },
+      {
+       "w": "landing.",
+       "start": 126.46,
+       "end": 126.894
+      }
+     ]
+    },
+    {
+     "text": "Iron railings were bent.",
+     "start": 127.347,
+     "end": 128.83,
+     "words": [
+      {
+       "w": "Iron",
+       "start": 127.347,
+       "end": 127.661
+      },
+      {
+       "w": "railings",
+       "start": 127.661,
+       "end": 128.202
+      },
+      {
+       "w": "were",
+       "start": 128.202,
+       "end": 128.516
+      },
+      {
+       "w": "bent.",
+       "start": 128.516,
+       "end": 128.83
+      }
+     ]
+    },
+    {
+     "text": "A box of ropes, kept high up the cliff, was gone.",
+     "start": 129.279,
+     "end": 132.398,
+     "words": [
+      {
+       "w": "A",
+       "start": 129.279,
+       "end": 129.427
+      },
+      {
+       "w": "box",
+       "start": 129.427,
+       "end": 129.695
+      },
+      {
+       "w": "of",
+       "start": 129.695,
+       "end": 129.902
+      },
+      {
+       "w": "ropes,",
+       "start": 129.902,
+       "end": 130.289
+      },
+      {
+       "w": "kept",
+       "start": 130.289,
+       "end": 130.615
+      },
+      {
+       "w": "high",
+       "start": 130.615,
+       "end": 130.942
+      },
+      {
+       "w": "up",
+       "start": 130.942,
+       "end": 131.15
+      },
+      {
+       "w": "the",
+       "start": 131.15,
+       "end": 131.418
+      },
+      {
+       "w": "cliff,",
+       "start": 131.418,
+       "end": 131.804
+      },
+      {
+       "w": "was",
+       "start": 131.804,
+       "end": 132.071
+      },
+      {
+       "w": "gone.",
+       "start": 132.071,
+       "end": 132.398
+      }
+     ]
+    },
+    {
+     "text": "Turf was torn away, far above the sea.",
+     "start": 132.849,
+     "end": 135.459,
+     "words": [
+      {
+       "w": "Turf",
+       "start": 132.849,
+       "end": 133.199
+      },
+      {
+       "w": "was",
+       "start": 133.199,
+       "end": 133.485
+      },
+      {
+       "w": "torn",
+       "start": 133.485,
+       "end": 133.836
+      },
+      {
+       "w": "away,",
+       "start": 133.836,
+       "end": 134.186
+      },
+      {
+       "w": "far",
+       "start": 134.186,
+       "end": 134.472
+      },
+      {
+       "w": "above",
+       "start": 134.472,
+       "end": 134.886
+      },
+      {
+       "w": "the",
+       "start": 134.886,
+       "end": 135.173
+      },
+      {
+       "w": "sea.",
+       "start": 135.173,
+       "end": 135.459
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "flannan/vo/line15.mp3",
+   "start": 135.855,
+   "dur": 8.673,
+   "sentences": [
+    {
+     "text": "The investigator, Robert Muirhead, believed the men went down to secure their gear in the storm, and a huge wave swept them off the rock.",
+     "start": 135.855,
+     "end": 144.281,
+     "words": [
+      {
+       "w": "The",
+       "start": 135.855,
+       "end": 136.092
+      },
+      {
+       "w": "investigator,",
+       "start": 136.092,
+       "end": 136.801
+      },
+      {
+       "w": "Robert",
+       "start": 137.005,
+       "end": 137.429
+      },
+      {
+       "w": "Muirhead,",
+       "start": 137.429,
+       "end": 137.967
+      },
+      {
+       "w": "believed",
+       "start": 138.179,
+       "end": 138.628
+      },
+      {
+       "w": "the",
+       "start": 138.628,
+       "end": 138.84
+      },
+      {
+       "w": "men",
+       "start": 138.84,
+       "end": 139.052
+      },
+      {
+       "w": "went",
+       "start": 139.052,
+       "end": 139.312
+      },
+      {
+       "w": "down",
+       "start": 139.312,
+       "end": 139.571
+      },
+      {
+       "w": "to",
+       "start": 139.571,
+       "end": 139.736
+      },
+      {
+       "w": "secure",
+       "start": 139.736,
+       "end": 140.09
+      },
+      {
+       "w": "their",
+       "start": 140.09,
+       "end": 140.397
+      },
+      {
+       "w": "gear",
+       "start": 140.397,
+       "end": 140.656
+      },
+      {
+       "w": "in",
+       "start": 140.656,
+       "end": 140.821
+      },
+      {
+       "w": "the",
+       "start": 140.821,
+       "end": 141.033
+      },
+      {
+       "w": "storm,",
+       "start": 141.033,
+       "end": 141.34
+      },
+      {
+       "w": "and",
+       "start": 141.739,
+       "end": 141.996
+      },
+      {
+       "w": "a",
+       "start": 141.996,
+       "end": 142.139
+      },
+      {
+       "w": "huge",
+       "start": 142.139,
+       "end": 142.453
+      },
+      {
+       "w": "wave",
+       "start": 142.453,
+       "end": 142.767
+      },
+      {
+       "w": "swept",
+       "start": 142.767,
+       "end": 143.139
+      },
+      {
+       "w": "them",
+       "start": 143.139,
+       "end": 143.453
+      },
+      {
+       "w": "off",
+       "start": 143.453,
+       "end": 143.71
+      },
+      {
+       "w": "the",
+       "start": 143.71,
+       "end": 143.967
+      },
+      {
+       "w": "rock.",
+       "start": 143.967,
+       "end": 144.281
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "flannan/vo/line16.mp3",
+   "start": 144.678,
+   "dur": 8.542,
+   "sentences": [
+    {
+     "text": "One theory says the third man saw that wave coming, and ran out without his coat, to warn the others.",
+     "start": 144.678,
+     "end": 150.614,
+     "words": [
+      {
+       "w": "One",
+       "start": 144.678,
+       "end": 144.919
+      },
+      {
+       "w": "theory",
+       "start": 144.919,
+       "end": 145.322
+      },
+      {
+       "w": "says",
+       "start": 145.322,
+       "end": 145.617
+      },
+      {
+       "w": "the",
+       "start": 145.617,
+       "end": 145.858
+      },
+      {
+       "w": "third",
+       "start": 145.858,
+       "end": 146.207
+      },
+      {
+       "w": "man",
+       "start": 146.207,
+       "end": 146.449
+      },
+      {
+       "w": "saw",
+       "start": 146.449,
+       "end": 146.69
+      },
+      {
+       "w": "that",
+       "start": 146.69,
+       "end": 146.985
+      },
+      {
+       "w": "wave",
+       "start": 146.985,
+       "end": 147.28
+      },
+      {
+       "w": "coming,",
+       "start": 147.28,
+       "end": 147.683
+      },
+      {
+       "w": "and",
+       "start": 147.877,
+       "end": 148.101
+      },
+      {
+       "w": "ran",
+       "start": 148.101,
+       "end": 148.325
+      },
+      {
+       "w": "out",
+       "start": 148.325,
+       "end": 148.549
+      },
+      {
+       "w": "without",
+       "start": 148.549,
+       "end": 148.972
+      },
+      {
+       "w": "his",
+       "start": 148.972,
+       "end": 149.196
+      },
+      {
+       "w": "coat,",
+       "start": 149.196,
+       "end": 149.47
+      },
+      {
+       "w": "to",
+       "start": 149.47,
+       "end": 149.661
+      },
+      {
+       "w": "warn",
+       "start": 149.661,
+       "end": 149.961
+      },
+      {
+       "w": "the",
+       "start": 149.961,
+       "end": 150.206
+      },
+      {
+       "w": "others.",
+       "start": 150.206,
+       "end": 150.614
+      }
+     ]
+    },
+    {
+     "text": "If so, he never made it back.",
+     "start": 151.066,
+     "end": 153.013,
+     "words": [
+      {
+       "w": "If",
+       "start": 151.066,
+       "end": 151.335
+      },
+      {
+       "w": "so,",
+       "start": 151.335,
+       "end": 151.604
+      },
+      {
+       "w": "he",
+       "start": 152.055,
+       "end": 152.192
+      },
+      {
+       "w": "never",
+       "start": 152.192,
+       "end": 152.446
+      },
+      {
+       "w": "made",
+       "start": 152.446,
+       "end": 152.661
+      },
+      {
+       "w": "it",
+       "start": 152.661,
+       "end": 152.798
+      },
+      {
+       "w": "back.",
+       "start": 152.798,
+       "end": 153.013
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "flannan/vo/line17.mp3",
+   "start": 153.37,
+   "dur": 13.453,
+   "sentences": [
+    {
+     "text": "But nobody saw it happen.",
+     "start": 153.37,
+     "end": 154.907,
+     "words": [
+      {
+       "w": "But",
+       "start": 153.37,
+       "end": 153.621
+      },
+      {
+       "w": "nobody",
+       "start": 153.621,
+       "end": 154.041
+      },
+      {
+       "w": "saw",
+       "start": 154.041,
+       "end": 154.292
+      },
+      {
+       "w": "it",
+       "start": 154.292,
+       "end": 154.488
+      },
+      {
+       "w": "happen.",
+       "start": 154.488,
+       "end": 154.907
+      }
+     ]
+    },
+    {
+     "text": "And the sea never gave them back.",
+     "start": 155.362,
+     "end": 157.252,
+     "words": [
+      {
+       "w": "And",
+       "start": 155.362,
+       "end": 155.595
+      },
+      {
+       "w": "the",
+       "start": 155.595,
+       "end": 155.828
+      },
+      {
+       "w": "sea",
+       "start": 155.828,
+       "end": 156.061
+      },
+      {
+       "w": "never",
+       "start": 156.061,
+       "end": 156.398
+      },
+      {
+       "w": "gave",
+       "start": 156.398,
+       "end": 156.682
+      },
+      {
+       "w": "them",
+       "start": 156.682,
+       "end": 156.967
+      },
+      {
+       "w": "back.",
+       "start": 156.967,
+       "end": 157.252
+      }
+     ]
+    },
+    {
+     "text": "What do you think happened on Eilean Mor?",
+     "start": 157.696,
+     "end": 159.755,
+     "words": [
+      {
+       "w": "What",
+       "start": 157.696,
+       "end": 157.948
+      },
+      {
+       "w": "do",
+       "start": 157.948,
+       "end": 158.108
+      },
+      {
+       "w": "you",
+       "start": 158.108,
+       "end": 158.314
+      },
+      {
+       "w": "think",
+       "start": 158.314,
+       "end": 158.611
+      },
+      {
+       "w": "happened",
+       "start": 158.611,
+       "end": 159.046
+      },
+      {
+       "w": "on",
+       "start": 159.046,
+       "end": 159.206
+      },
+      {
+       "w": "Eilean",
+       "start": 159.206,
+       "end": 159.549
+      },
+      {
+       "w": "Mor?",
+       "start": 159.549,
+       "end": 159.755
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 160.209,
+     "end": 161.213,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 160.209,
+       "end": 160.417
+      },
+      {
+       "w": "me",
+       "start": 160.417,
+       "end": 160.55
+      },
+      {
+       "w": "in",
+       "start": 160.55,
+       "end": 160.682
+      },
+      {
+       "w": "the",
+       "start": 160.682,
+       "end": 160.853
+      },
+      {
+       "w": "comments.",
+       "start": 160.853,
+       "end": 161.213
+      }
+     ]
+    },
+    {
+     "text": "And watch our Alcatraz short.",
+     "start": 161.58,
+     "end": 163.321,
+     "words": [
+      {
+       "w": "And",
+       "start": 161.58,
+       "end": 161.829
+      },
+      {
+       "w": "watch",
+       "start": 161.829,
+       "end": 162.188
+      },
+      {
+       "w": "our",
+       "start": 162.188,
+       "end": 162.437
+      },
+      {
+       "w": "Alcatraz",
+       "start": 162.437,
+       "end": 162.962
+      },
+      {
+       "w": "short.",
+       "start": 162.962,
+       "end": 163.321
+      }
+     ]
+    },
+    {
+     "text": "Three more men, who vanished into the water.",
+     "start": 163.75,
+     "end": 166.538,
+     "words": [
+      {
+       "w": "Three",
+       "start": 163.75,
+       "end": 164.141
+      },
+      {
+       "w": "more",
+       "start": 164.141,
+       "end": 164.472
+      },
+      {
+       "w": "men,",
+       "start": 164.472,
+       "end": 164.743
+      },
+      {
+       "w": "who",
+       "start": 165.1,
+       "end": 165.313
+      },
+      {
+       "w": "vanished",
+       "start": 165.313,
+       "end": 165.76
+      },
+      {
+       "w": "into",
+       "start": 165.76,
+       "end": 166.02
+      },
+      {
+       "w": "the",
+       "start": 166.02,
+       "end": 166.232
+      },
+      {
+       "w": "water.",
+       "start": 166.232,
+       "end": 166.538
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
