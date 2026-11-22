@@ -26,6 +26,7 @@
   "dependencies": {
     "@fontsource/anton": "^5.3.0",
     "@fontsource/inter": "^5.3.0",
+    "@fontsource/permanent-marker": "^5.3.0",
     "@remotion/bundler": "^4.0.544",
     "@remotion/cli": "^4.0.544",
     "@remotion/renderer": "^4.0.544",
