@@ -1,0 +1,2591 @@
+{
+ "total": 161.536,
+ "lines": [
+  {
+   "index": 0,
+   "file": "room1046/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 11.337,
+   "sentences": [
+    {
+     "text": "He was found tied up, stabbed, his skull cracked, in Room 1046.",
+     "start": 0.25,
+     "end": 5.248,
+     "words": [
+      {
+       "w": "He",
+       "start": 0.25,
+       "end": 0.49
+      },
+      {
+       "w": "was",
+       "start": 0.49,
+       "end": 0.798
+      },
+      {
+       "w": "found",
+       "start": 0.798,
+       "end": 1.243
+      },
+      {
+       "w": "tied",
+       "start": 1.243,
+       "end": 1.619
+      },
+      {
+       "w": "up,",
+       "start": 1.619,
+       "end": 1.859
+      },
+      {
+       "w": "stabbed,",
+       "start": 1.859,
+       "end": 2.32
+      },
+      {
+       "w": "his",
+       "start": 2.548,
+       "end": 2.831
+      },
+      {
+       "w": "skull",
+       "start": 2.831,
+       "end": 3.241
+      },
+      {
+       "w": "cracked,",
+       "start": 3.241,
+       "end": 3.776
+      },
+      {
+       "w": "in",
+       "start": 3.776,
+       "end": 4.016
+      },
+      {
+       "w": "Room",
+       "start": 4.016,
+       "end": 4.392
+      },
+      {
+       "w": "1046.",
+       "start": 4.392,
+       "end": 5.248
+      }
+     ]
+    },
+    {
+     "text": "And with his last breath, he swore nobody did it.",
+     "start": 5.519,
+     "end": 9.435,
+     "words": [
+      {
+       "w": "And",
+       "start": 5.519,
+       "end": 5.728
+      },
+      {
+       "w": "with",
+       "start": 5.728,
+       "end": 5.982
+      },
+      {
+       "w": "his",
+       "start": 5.982,
+       "end": 6.191
+      },
+      {
+       "w": "last",
+       "start": 6.191,
+       "end": 6.445
+      },
+      {
+       "w": "breath,",
+       "start": 6.445,
+       "end": 6.793
+      },
+      {
+       "w": "he",
+       "start": 7.028,
+       "end": 7.359
+      },
+      {
+       "w": "swore",
+       "start": 7.359,
+       "end": 7.972
+      },
+      {
+       "w": "nobody",
+       "start": 7.972,
+       "end": 8.68
+      },
+      {
+       "w": "did",
+       "start": 8.68,
+       "end": 9.105
+      },
+      {
+       "w": "it.",
+       "start": 9.105,
+       "end": 9.435
+      }
+     ]
+    },
+    {
+     "text": "He just fell against the bathtub.",
+     "start": 9.966,
+     "end": 11.2,
+     "words": [
+      {
+       "w": "He",
+       "start": 9.966,
+       "end": 10.086
+      },
+      {
+       "w": "just",
+       "start": 10.086,
+       "end": 10.274
+      },
+      {
+       "w": "fell",
+       "start": 10.274,
+       "end": 10.463
+      },
+      {
+       "w": "against",
+       "start": 10.463,
+       "end": 10.754
+      },
+      {
+       "w": "the",
+       "start": 10.754,
+       "end": 10.908
+      },
+      {
+       "w": "bathtub.",
+       "start": 10.908,
+       "end": 11.2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "room1046/vo/line1.mp3",
+   "start": 11.737,
+   "dur": 11.154,
+   "sentences": [
+    {
+     "text": "Kansas City.",
+     "start": 11.737,
+     "end": 12.524,
+     "words": [
+      {
+       "w": "Kansas",
+       "start": 11.737,
+       "end": 12.191
+      },
+      {
+       "w": "City.",
+       "start": 12.191,
+       "end": 12.524
+      }
+     ]
+    },
+    {
+     "text": "January 2nd, 1935.",
+     "start": 13.076,
+     "end": 15.465,
+     "words": [
+      {
+       "w": "January",
+       "start": 13.076,
+       "end": 13.741
+      },
+      {
+       "w": "2nd,",
+       "start": 13.741,
+       "end": 14.093
+      },
+      {
+       "w": "1935.",
+       "start": 14.252,
+       "end": 15.465
+      }
+     ]
+    },
+    {
+     "text": "A young man checks into the Hotel President.",
+     "start": 15.932,
+     "end": 18.279,
+     "words": [
+      {
+       "w": "A",
+       "start": 15.932,
+       "end": 16.054
+      },
+      {
+       "w": "young",
+       "start": 16.054,
+       "end": 16.372
+      },
+      {
+       "w": "man",
+       "start": 16.372,
+       "end": 16.592
+      },
+      {
+       "w": "checks",
+       "start": 16.592,
+       "end": 16.959
+      },
+      {
+       "w": "into",
+       "start": 16.959,
+       "end": 17.228
+      },
+      {
+       "w": "the",
+       "start": 17.228,
+       "end": 17.448
+      },
+      {
+       "w": "Hotel",
+       "start": 17.448,
+       "end": 17.765
+      },
+      {
+       "w": "President.",
+       "start": 17.765,
+       "end": 18.279
+      }
+     ]
+    },
+    {
+     "text": "He signs his name: Roland T Owen, of Los Angeles.",
+     "start": 18.798,
+     "end": 22.666,
+     "words": [
+      {
+       "w": "He",
+       "start": 18.798,
+       "end": 18.967
+      },
+      {
+       "w": "signs",
+       "start": 18.967,
+       "end": 19.281
+      },
+      {
+       "w": "his",
+       "start": 19.281,
+       "end": 19.498
+      },
+      {
+       "w": "name:",
+       "start": 19.498,
+       "end": 19.763
+      },
+      {
+       "w": "Roland",
+       "start": 20.184,
+       "end": 20.791
+      },
+      {
+       "w": "T",
+       "start": 20.791,
+       "end": 20.994
+      },
+      {
+       "w": "Owen,",
+       "start": 20.994,
+       "end": 21.439
+      },
+      {
+       "w": "of",
+       "start": 21.439,
+       "end": 21.699
+      },
+      {
+       "w": "Los",
+       "start": 21.699,
+       "end": 22.034
+      },
+      {
+       "w": "Angeles.",
+       "start": 22.034,
+       "end": 22.666
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "room1046/vo/line2.mp3",
+   "start": 23.041,
+   "dur": 7.889,
+   "sentences": [
+    {
+     "text": "He has no luggage.",
+     "start": 23.041,
+     "end": 24.281,
+     "words": [
+      {
+       "w": "He",
+       "start": 23.041,
+       "end": 23.258
+      },
+      {
+       "w": "has",
+       "start": 23.258,
+       "end": 23.537
+      },
+      {
+       "w": "no",
+       "start": 23.537,
+       "end": 23.754
+      },
+      {
+       "w": "luggage.",
+       "start": 23.754,
+       "end": 24.281
+      }
+     ]
+    },
+    {
+     "text": "Just a comb, a toothbrush and toothpaste.",
+     "start": 24.629,
+     "end": 27.078,
+     "words": [
+      {
+       "w": "Just",
+       "start": 24.629,
+       "end": 24.939
+      },
+      {
+       "w": "a",
+       "start": 24.939,
+       "end": 25.079
+      },
+      {
+       "w": "comb,",
+       "start": 25.079,
+       "end": 25.389
+      },
+      {
+       "w": "a",
+       "start": 25.389,
+       "end": 25.53
+      },
+      {
+       "w": "toothbrush",
+       "start": 25.53,
+       "end": 26.177
+      },
+      {
+       "w": "and",
+       "start": 26.177,
+       "end": 26.431
+      },
+      {
+       "w": "toothpaste.",
+       "start": 26.431,
+       "end": 27.078
+      }
+     ]
+    },
+    {
+     "text": "And he asks for an inside room, away from the street.",
+     "start": 27.633,
+     "end": 30.688,
+     "words": [
+      {
+       "w": "And",
+       "start": 27.633,
+       "end": 27.877
+      },
+      {
+       "w": "he",
+       "start": 27.877,
+       "end": 28.067
+      },
+      {
+       "w": "asks",
+       "start": 28.067,
+       "end": 28.365
+      },
+      {
+       "w": "for",
+       "start": 28.365,
+       "end": 28.609
+      },
+      {
+       "w": "an",
+       "start": 28.609,
+       "end": 28.799
+      },
+      {
+       "w": "inside",
+       "start": 28.799,
+       "end": 29.206
+      },
+      {
+       "w": "room,",
+       "start": 29.206,
+       "end": 29.504
+      },
+      {
+       "w": "away",
+       "start": 29.719,
+       "end": 29.95
+      },
+      {
+       "w": "from",
+       "start": 29.95,
+       "end": 30.182
+      },
+      {
+       "w": "the",
+       "start": 30.182,
+       "end": 30.372
+      },
+      {
+       "w": "street.",
+       "start": 30.372,
+       "end": 30.688
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "room1046/vo/line3.mp3",
+   "start": 31.08,
+   "dur": 10.971,
+   "sentences": [
+    {
+     "text": "The next morning, the maid finds the shades pulled down.",
+     "start": 31.08,
+     "end": 34.28,
+     "words": [
+      {
+       "w": "The",
+       "start": 31.08,
+       "end": 31.288
+      },
+      {
+       "w": "next",
+       "start": 31.288,
+       "end": 31.542
+      },
+      {
+       "w": "morning,",
+       "start": 31.542,
+       "end": 31.934
+      },
+      {
+       "w": "the",
+       "start": 32.185,
+       "end": 32.412
+      },
+      {
+       "w": "maid",
+       "start": 32.412,
+       "end": 32.69
+      },
+      {
+       "w": "finds",
+       "start": 32.69,
+       "end": 33.018
+      },
+      {
+       "w": "the",
+       "start": 33.018,
+       "end": 33.245
+      },
+      {
+       "w": "shades",
+       "start": 33.245,
+       "end": 33.624
+      },
+      {
+       "w": "pulled",
+       "start": 33.624,
+       "end": 34.002
+      },
+      {
+       "w": "down.",
+       "start": 34.002,
+       "end": 34.28
+      }
+     ]
+    },
+    {
+     "text": "One dim lamp.",
+     "start": 34.83,
+     "end": 36.116,
+     "words": [
+      {
+       "w": "One",
+       "start": 34.83,
+       "end": 35.229
+      },
+      {
+       "w": "dim",
+       "start": 35.229,
+       "end": 35.628
+      },
+      {
+       "w": "lamp.",
+       "start": 35.628,
+       "end": 36.116
+      }
+     ]
+    },
+    {
+     "text": "Owen looks nervous.",
+     "start": 36.665,
+     "end": 37.909,
+     "words": [
+      {
+       "w": "Owen",
+       "start": 36.665,
+       "end": 36.999
+      },
+      {
+       "w": "looks",
+       "start": 36.999,
+       "end": 37.393
+      },
+      {
+       "w": "nervous.",
+       "start": 37.393,
+       "end": 37.909
+      }
+     ]
+    },
+    {
+     "text": "Leave the door unlocked, he tells her.",
+     "start": 38.357,
+     "end": 40.431,
+     "words": [
+      {
+       "w": "Leave",
+       "start": 38.357,
+       "end": 38.642
+      },
+      {
+       "w": "the",
+       "start": 38.642,
+       "end": 38.839
+      },
+      {
+       "w": "door",
+       "start": 38.839,
+       "end": 39.08
+      },
+      {
+       "w": "unlocked,",
+       "start": 39.08,
+       "end": 39.496
+      },
+      {
+       "w": "he",
+       "start": 39.865,
+       "end": 40.002
+      },
+      {
+       "w": "tells",
+       "start": 40.002,
+       "end": 40.256
+      },
+      {
+       "w": "her.",
+       "start": 40.256,
+       "end": 40.431
+      }
+     ]
+    },
+    {
+     "text": "A friend is coming.",
+     "start": 40.896,
+     "end": 41.767,
+     "words": [
+      {
+       "w": "A",
+       "start": 40.896,
+       "end": 41
+      },
+      {
+       "w": "friend",
+       "start": 41,
+       "end": 41.311
+      },
+      {
+       "w": "is",
+       "start": 41.311,
+       "end": 41.456
+      },
+      {
+       "w": "coming.",
+       "start": 41.456,
+       "end": 41.767
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "room1046/vo/line4.mp3",
+   "start": 42.202,
+   "dur": 10.031,
+   "sentences": [
+    {
+     "text": "Later, she finds him lying on the bed in the dark, fully dressed.",
+     "start": 42.202,
+     "end": 46.068,
+     "words": [
+      {
+       "w": "Later,",
+       "start": 42.202,
+       "end": 42.626
+      },
+      {
+       "w": "she",
+       "start": 42.849,
+       "end": 43.045
+      },
+      {
+       "w": "finds",
+       "start": 43.045,
+       "end": 43.328
+      },
+      {
+       "w": "him",
+       "start": 43.328,
+       "end": 43.523
+      },
+      {
+       "w": "lying",
+       "start": 43.523,
+       "end": 43.806
+      },
+      {
+       "w": "on",
+       "start": 43.806,
+       "end": 43.958
+      },
+      {
+       "w": "the",
+       "start": 43.958,
+       "end": 44.154
+      },
+      {
+       "w": "bed",
+       "start": 44.154,
+       "end": 44.35
+      },
+      {
+       "w": "in",
+       "start": 44.35,
+       "end": 44.502
+      },
+      {
+       "w": "the",
+       "start": 44.502,
+       "end": 44.697
+      },
+      {
+       "w": "dark,",
+       "start": 44.697,
+       "end": 44.937
+      },
+      {
+       "w": "fully",
+       "start": 45.23,
+       "end": 45.594
+      },
+      {
+       "w": "dressed.",
+       "start": 45.594,
+       "end": 46.068
+      }
+     ]
+    },
+    {
+     "text": "On the desk, a note.",
+     "start": 46.618,
+     "end": 48.034,
+     "words": [
+      {
+       "w": "On",
+       "start": 46.618,
+       "end": 46.781
+      },
+      {
+       "w": "the",
+       "start": 46.781,
+       "end": 46.989
+      },
+      {
+       "w": "desk,",
+       "start": 46.989,
+       "end": 47.245
+      },
+      {
+       "w": "a",
+       "start": 47.616,
+       "end": 47.747
+      },
+      {
+       "w": "note.",
+       "start": 47.747,
+       "end": 48.034
+      }
+     ]
+    },
+    {
+     "text": "Don.",
+     "start": 48.513,
+     "end": 48.961,
+     "words": [
+      {
+       "w": "Don.",
+       "start": 48.513,
+       "end": 48.961
+      }
+     ]
+    },
+    {
+     "text": "I will be back in fifteen minutes.",
+     "start": 49.488,
+     "end": 51.203,
+     "words": [
+      {
+       "w": "I",
+       "start": 49.488,
+       "end": 49.603
+      },
+      {
+       "w": "will",
+       "start": 49.603,
+       "end": 49.854
+      },
+      {
+       "w": "be",
+       "start": 49.854,
+       "end": 50.014
+      },
+      {
+       "w": "back",
+       "start": 50.014,
+       "end": 50.266
+      },
+      {
+       "w": "in",
+       "start": 50.266,
+       "end": 50.426
+      },
+      {
+       "w": "fifteen",
+       "start": 50.426,
+       "end": 50.815
+      },
+      {
+       "w": "minutes.",
+       "start": 50.815,
+       "end": 51.203
+      }
+     ]
+    },
+    {
+     "text": "Wait.",
+     "start": 51.668,
+     "end": 51.954,
+     "words": [
+      {
+       "w": "Wait.",
+       "start": 51.668,
+       "end": 51.954
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "room1046/vo/line5.mp3",
+   "start": 52.383,
+   "dur": 3.056,
+   "sentences": [
+    {
+     "text": "Who was Don?",
+     "start": 52.383,
+     "end": 53.391,
+     "words": [
+      {
+       "w": "Who",
+       "start": 52.383,
+       "end": 52.719
+      },
+      {
+       "w": "was",
+       "start": 52.719,
+       "end": 53.055
+      },
+      {
+       "w": "Don?",
+       "start": 53.055,
+       "end": 53.391
+      }
+     ]
+    },
+    {
+     "text": "Nobody ever found out.",
+     "start": 53.914,
+     "end": 55.181,
+     "words": [
+      {
+       "w": "Nobody",
+       "start": 53.914,
+       "end": 54.31
+      },
+      {
+       "w": "ever",
+       "start": 54.31,
+       "end": 54.6
+      },
+      {
+       "w": "found",
+       "start": 54.6,
+       "end": 54.943
+      },
+      {
+       "w": "out.",
+       "start": 54.943,
+       "end": 55.181
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "room1046/vo/line6.mp3",
+   "start": 55.589,
+   "dur": 5.878,
+   "sentences": [
+    {
+     "text": "Then she hears him on the phone.",
+     "start": 55.589,
+     "end": 57.339,
+     "words": [
+      {
+       "w": "Then",
+       "start": 55.589,
+       "end": 55.86
+      },
+      {
+       "w": "she",
+       "start": 55.86,
+       "end": 56.082
+      },
+      {
+       "w": "hears",
+       "start": 56.082,
+       "end": 56.403
+      },
+      {
+       "w": "him",
+       "start": 56.403,
+       "end": 56.624
+      },
+      {
+       "w": "on",
+       "start": 56.624,
+       "end": 56.797
+      },
+      {
+       "w": "the",
+       "start": 56.797,
+       "end": 57.019
+      },
+      {
+       "w": "phone.",
+       "start": 57.019,
+       "end": 57.339
+      }
+     ]
+    },
+    {
+     "text": "No, Don.",
+     "start": 57.901,
+     "end": 58.635,
+     "words": [
+      {
+       "w": "No,",
+       "start": 57.901,
+       "end": 58.222
+      },
+      {
+       "w": "Don.",
+       "start": 58.222,
+       "end": 58.635
+      }
+     ]
+    },
+    {
+     "text": "I don't want to eat.",
+     "start": 58.635,
+     "end": 59.997,
+     "words": [
+      {
+       "w": "I",
+       "start": 58.635,
+       "end": 58.794
+      },
+      {
+       "w": "don't",
+       "start": 58.794,
+       "end": 59.142
+      },
+      {
+       "w": "want",
+       "start": 59.142,
+       "end": 59.49
+      },
+      {
+       "w": "to",
+       "start": 59.49,
+       "end": 59.712
+      },
+      {
+       "w": "eat.",
+       "start": 59.712,
+       "end": 59.997
+      }
+     ]
+    },
+    {
+     "text": "I'm not hungry.",
+     "start": 60.343,
+     "end": 61.084,
+     "words": [
+      {
+       "w": "I'm",
+       "start": 60.343,
+       "end": 60.51
+      },
+      {
+       "w": "not",
+       "start": 60.51,
+       "end": 60.725
+      },
+      {
+       "w": "hungry.",
+       "start": 60.725,
+       "end": 61.084
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "room1046/vo/line7.mp3",
+   "start": 61.617,
+   "dur": 5.381,
+   "sentences": [
+    {
+     "text": "That night, guests on the tenth floor hear a man and a woman, arguing.",
+     "start": 61.617,
+     "end": 66.998,
+     "words": [
+      {
+       "w": "That",
+       "start": 61.617,
+       "end": 62.034
+      },
+      {
+       "w": "night,",
+       "start": 62.034,
+       "end": 62.526
+      },
+      {
+       "w": "guests",
+       "start": 62.868,
+       "end": 63.385
+      },
+      {
+       "w": "on",
+       "start": 63.385,
+       "end": 63.626
+      },
+      {
+       "w": "the",
+       "start": 63.626,
+       "end": 63.936
+      },
+      {
+       "w": "tenth",
+       "start": 63.936,
+       "end": 64.384
+      },
+      {
+       "w": "floor",
+       "start": 64.384,
+       "end": 64.831
+      },
+      {
+       "w": "hear",
+       "start": 64.831,
+       "end": 65.21
+      },
+      {
+       "w": "a",
+       "start": 65.21,
+       "end": 65.383
+      },
+      {
+       "w": "man",
+       "start": 65.383,
+       "end": 65.693
+      },
+      {
+       "w": "and",
+       "start": 65.693,
+       "end": 66.003
+      },
+      {
+       "w": "a",
+       "start": 66.003,
+       "end": 66.175
+      },
+      {
+       "w": "woman,",
+       "start": 66.175,
+       "end": 66.623
+      },
+      {
+       "w": "arguing.",
+       "start": 66.947,
+       "end": 66.998
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "room1046/vo/line8.mp3",
+   "start": 67.148,
+   "dur": 11.572,
+   "sentences": [
+    {
+     "text": "January 4th.",
+     "start": 67.148,
+     "end": 68.216,
+     "words": [
+      {
+       "w": "January",
+       "start": 67.148,
+       "end": 67.846
+      },
+      {
+       "w": "4th.",
+       "start": 67.846,
+       "end": 68.216
+      }
+     ]
+    },
+    {
+     "text": "The phone in 1046 is off the hook.",
+     "start": 68.728,
+     "end": 71.326,
+     "words": [
+      {
+       "w": "The",
+       "start": 68.728,
+       "end": 68.988
+      },
+      {
+       "w": "phone",
+       "start": 68.988,
+       "end": 69.364
+      },
+      {
+       "w": "in",
+       "start": 69.364,
+       "end": 69.566
+      },
+      {
+       "w": "1046",
+       "start": 69.566,
+       "end": 70.287
+      },
+      {
+       "w": "is",
+       "start": 70.287,
+       "end": 70.489
+      },
+      {
+       "w": "off",
+       "start": 70.489,
+       "end": 70.749
+      },
+      {
+       "w": "the",
+       "start": 70.749,
+       "end": 71.009
+      },
+      {
+       "w": "hook.",
+       "start": 71.009,
+       "end": 71.326
+      }
+     ]
+    },
+    {
+     "text": "A bellboy knocks.",
+     "start": 71.83,
+     "end": 72.874,
+     "words": [
+      {
+       "w": "A",
+       "start": 71.83,
+       "end": 71.971
+      },
+      {
+       "w": "bellboy",
+       "start": 71.971,
+       "end": 72.451
+      },
+      {
+       "w": "knocks.",
+       "start": 72.451,
+       "end": 72.874
+      }
+     ]
+    },
+    {
+     "text": "A deep voice says, come in, turn on the lights.",
+     "start": 73.349,
+     "end": 76.789,
+     "words": [
+      {
+       "w": "A",
+       "start": 73.349,
+       "end": 73.485
+      },
+      {
+       "w": "deep",
+       "start": 73.485,
+       "end": 73.785
+      },
+      {
+       "w": "voice",
+       "start": 73.785,
+       "end": 74.139
+      },
+      {
+       "w": "says,",
+       "start": 74.139,
+       "end": 74.439
+      },
+      {
+       "w": "come",
+       "start": 74.847,
+       "end": 75.128
+      },
+      {
+       "w": "in,",
+       "start": 75.128,
+       "end": 75.307
+      },
+      {
+       "w": "turn",
+       "start": 75.872,
+       "end": 76.112
+      },
+      {
+       "w": "on",
+       "start": 76.112,
+       "end": 76.265
+      },
+      {
+       "w": "the",
+       "start": 76.265,
+       "end": 76.461
+      },
+      {
+       "w": "lights.",
+       "start": 76.461,
+       "end": 76.789
+      }
+     ]
+    },
+    {
+     "text": "But the door is locked.",
+     "start": 77.229,
+     "end": 78.511,
+     "words": [
+      {
+       "w": "But",
+       "start": 77.229,
+       "end": 77.455
+      },
+      {
+       "w": "the",
+       "start": 77.455,
+       "end": 77.682
+      },
+      {
+       "w": "door",
+       "start": 77.682,
+       "end": 77.958
+      },
+      {
+       "w": "is",
+       "start": 77.958,
+       "end": 78.134
+      },
+      {
+       "w": "locked.",
+       "start": 78.134,
+       "end": 78.511
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "room1046/vo/line9.mp3",
+   "start": 78.87,
+   "dur": 4.18,
+   "sentences": [
+    {
+     "text": "When they finally open that door, they find a nightmare.",
+     "start": 78.87,
+     "end": 82.698,
+     "words": [
+      {
+       "w": "When",
+       "start": 78.87,
+       "end": 79.203
+      },
+      {
+       "w": "they",
+       "start": 79.203,
+       "end": 79.537
+      },
+      {
+       "w": "finally",
+       "start": 79.537,
+       "end": 80.052
+      },
+      {
+       "w": "open",
+       "start": 80.052,
+       "end": 80.385
+      },
+      {
+       "w": "that",
+       "start": 80.385,
+       "end": 80.718
+      },
+      {
+       "w": "door,",
+       "start": 80.718,
+       "end": 81.051
+      },
+      {
+       "w": "they",
+       "start": 81.357,
+       "end": 81.664
+      },
+      {
+       "w": "find",
+       "start": 81.664,
+       "end": 81.972
+      },
+      {
+       "w": "a",
+       "start": 81.972,
+       "end": 82.111
+      },
+      {
+       "w": "nightmare.",
+       "start": 82.111,
+       "end": 82.698
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "room1046/vo/line10.mp3",
+   "start": 83.2,
+   "dur": 10.762,
+   "sentences": [
+    {
+     "text": "Owen is on his knees, covered in blood.",
+     "start": 83.2,
+     "end": 85.914,
+     "words": [
+      {
+       "w": "Owen",
+       "start": 83.2,
+       "end": 83.543
+      },
+      {
+       "w": "is",
+       "start": 83.543,
+       "end": 83.761
+      },
+      {
+       "w": "on",
+       "start": 83.761,
+       "end": 83.98
+      },
+      {
+       "w": "his",
+       "start": 83.98,
+       "end": 84.26
+      },
+      {
+       "w": "knees,",
+       "start": 84.26,
+       "end": 84.666
+      },
+      {
+       "w": "covered",
+       "start": 84.855,
+       "end": 85.342
+      },
+      {
+       "w": "in",
+       "start": 85.342,
+       "end": 85.542
+      },
+      {
+       "w": "blood.",
+       "start": 85.542,
+       "end": 85.914
+      }
+     ]
+    },
+    {
+     "text": "His wrists, ankles and neck had been tied with cord.",
+     "start": 86.475,
+     "end": 89.795,
+     "words": [
+      {
+       "w": "His",
+       "start": 86.475,
+       "end": 86.742
+      },
+      {
+       "w": "wrists,",
+       "start": 86.742,
+       "end": 87.189
+      },
+      {
+       "w": "ankles",
+       "start": 87.394,
+       "end": 87.803
+      },
+      {
+       "w": "and",
+       "start": 87.803,
+       "end": 88.048
+      },
+      {
+       "w": "neck",
+       "start": 88.048,
+       "end": 88.349
+      },
+      {
+       "w": "had",
+       "start": 88.349,
+       "end": 88.594
+      },
+      {
+       "w": "been",
+       "start": 88.594,
+       "end": 88.894
+      },
+      {
+       "w": "tied",
+       "start": 88.894,
+       "end": 89.195
+      },
+      {
+       "w": "with",
+       "start": 89.195,
+       "end": 89.495
+      },
+      {
+       "w": "cord.",
+       "start": 89.495,
+       "end": 89.795
+      }
+     ]
+    },
+    {
+     "text": "He has been stabbed in the chest.",
+     "start": 90.278,
+     "end": 91.875,
+     "words": [
+      {
+       "w": "He",
+       "start": 90.278,
+       "end": 90.431
+      },
+      {
+       "w": "has",
+       "start": 90.431,
+       "end": 90.628
+      },
+      {
+       "w": "been",
+       "start": 90.628,
+       "end": 90.869
+      },
+      {
+       "w": "stabbed",
+       "start": 90.869,
+       "end": 91.241
+      },
+      {
+       "w": "in",
+       "start": 91.241,
+       "end": 91.394
+      },
+      {
+       "w": "the",
+       "start": 91.394,
+       "end": 91.591
+      },
+      {
+       "w": "chest.",
+       "start": 91.591,
+       "end": 91.875
+      }
+     ]
+    },
+    {
+     "text": "His skull is fractured.",
+     "start": 92.294,
+     "end": 93.744,
+     "words": [
+      {
+       "w": "His",
+       "start": 92.294,
+       "end": 92.555
+      },
+      {
+       "w": "skull",
+       "start": 92.555,
+       "end": 92.932
+      },
+      {
+       "w": "is",
+       "start": 92.932,
+       "end": 93.135
+      },
+      {
+       "w": "fractured.",
+       "start": 93.135,
+       "end": 93.744
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "room1046/vo/line11.mp3",
+   "start": 94.112,
+   "dur": 8.673,
+   "sentences": [
+    {
+     "text": "A detective asks who did this.",
+     "start": 94.112,
+     "end": 96.114,
+     "words": [
+      {
+       "w": "A",
+       "start": 94.112,
+       "end": 94.264
+      },
+      {
+       "w": "detective",
+       "start": 94.264,
+       "end": 94.901
+      },
+      {
+       "w": "asks",
+       "start": 94.901,
+       "end": 95.235
+      },
+      {
+       "w": "who",
+       "start": 95.235,
+       "end": 95.508
+      },
+      {
+       "w": "did",
+       "start": 95.508,
+       "end": 95.781
+      },
+      {
+       "w": "this.",
+       "start": 95.781,
+       "end": 96.114
+      }
+     ]
+    },
+    {
+     "text": "Owen says: Nobody.",
+     "start": 96.651,
+     "end": 98.354,
+     "words": [
+      {
+       "w": "Owen",
+       "start": 96.651,
+       "end": 97.022
+      },
+      {
+       "w": "says:",
+       "start": 97.022,
+       "end": 97.392
+      },
+      {
+       "w": "Nobody.",
+       "start": 97.777,
+       "end": 98.354
+      }
+     ]
+    },
+    {
+     "text": "I fell against the bathtub.",
+     "start": 98.766,
+     "end": 100.141,
+     "words": [
+      {
+       "w": "I",
+       "start": 98.766,
+       "end": 98.882
+      },
+      {
+       "w": "fell",
+       "start": 98.882,
+       "end": 99.139
+      },
+      {
+       "w": "against",
+       "start": 99.139,
+       "end": 99.535
+      },
+      {
+       "w": "the",
+       "start": 99.535,
+       "end": 99.745
+      },
+      {
+       "w": "bathtub.",
+       "start": 99.745,
+       "end": 100.141
+      }
+     ]
+    },
+    {
+     "text": "Hours later, he is dead.",
+     "start": 100.701,
+     "end": 102.534,
+     "words": [
+      {
+       "w": "Hours",
+       "start": 100.701,
+       "end": 101.119
+      },
+      {
+       "w": "later,",
+       "start": 101.119,
+       "end": 101.537
+      },
+      {
+       "w": "he",
+       "start": 101.965,
+       "end": 102.124
+      },
+      {
+       "w": "is",
+       "start": 102.124,
+       "end": 102.284
+      },
+      {
+       "w": "dead.",
+       "start": 102.284,
+       "end": 102.534
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "room1046/vo/line12.mp3",
+   "start": 102.935,
+   "dur": 8.699,
+   "sentences": [
+    {
+     "text": "And the room is wrong.",
+     "start": 102.935,
+     "end": 104.19,
+     "words": [
+      {
+       "w": "And",
+       "start": 102.935,
+       "end": 103.165
+      },
+      {
+       "w": "the",
+       "start": 103.165,
+       "end": 103.396
+      },
+      {
+       "w": "room",
+       "start": 103.396,
+       "end": 103.678
+      },
+      {
+       "w": "is",
+       "start": 103.678,
+       "end": 103.857
+      },
+      {
+       "w": "wrong.",
+       "start": 103.857,
+       "end": 104.19
+      }
+     ]
+    },
+    {
+     "text": "His clothes are gone.",
+     "start": 104.534,
+     "end": 105.739,
+     "words": [
+      {
+       "w": "His",
+       "start": 104.534,
+       "end": 104.77
+      },
+      {
+       "w": "clothes",
+       "start": 104.77,
+       "end": 105.215
+      },
+      {
+       "w": "are",
+       "start": 105.215,
+       "end": 105.451
+      },
+      {
+       "w": "gone.",
+       "start": 105.451,
+       "end": 105.739
+      }
+     ]
+    },
+    {
+     "text": "Every piece.",
+     "start": 105.954,
+     "end": 106.956,
+     "words": [
+      {
+       "w": "Every",
+       "start": 105.954,
+       "end": 106.455
+      },
+      {
+       "w": "piece.",
+       "start": 106.455,
+       "end": 106.956
+      }
+     ]
+    },
+    {
+     "text": "Police find fingerprints on the phone stand they believe are a woman's.",
+     "start": 107.516,
+     "end": 111.376,
+     "words": [
+      {
+       "w": "Police",
+       "start": 107.516,
+       "end": 107.897
+      },
+      {
+       "w": "find",
+       "start": 107.897,
+       "end": 108.176
+      },
+      {
+       "w": "fingerprints",
+       "start": 108.176,
+       "end": 108.862
+      },
+      {
+       "w": "on",
+       "start": 108.862,
+       "end": 109.039
+      },
+      {
+       "w": "the",
+       "start": 109.039,
+       "end": 109.268
+      },
+      {
+       "w": "phone",
+       "start": 109.268,
+       "end": 109.598
+      },
+      {
+       "w": "stand",
+       "start": 109.598,
+       "end": 109.928
+      },
+      {
+       "w": "they",
+       "start": 109.928,
+       "end": 110.208
+      },
+      {
+       "w": "believe",
+       "start": 110.208,
+       "end": 110.639
+      },
+      {
+       "w": "are",
+       "start": 110.639,
+       "end": 110.868
+      },
+      {
+       "w": "a",
+       "start": 110.868,
+       "end": 110.995
+      },
+      {
+       "w": "woman's.",
+       "start": 110.995,
+       "end": 111.376
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "room1046/vo/line13.mp3",
+   "start": 111.784,
+   "dur": 5.695,
+   "sentences": [
+    {
+     "text": "And Roland T Owen?",
+     "start": 111.784,
+     "end": 113.113,
+     "words": [
+      {
+       "w": "And",
+       "start": 111.784,
+       "end": 112.083
+      },
+      {
+       "w": "Roland",
+       "start": 112.083,
+       "end": 112.581
+      },
+      {
+       "w": "T",
+       "start": 112.581,
+       "end": 112.747
+      },
+      {
+       "w": "Owen?",
+       "start": 112.747,
+       "end": 113.113
+      }
+     ]
+    },
+    {
+     "text": "There was no such man in Los Angeles.",
+     "start": 113.615,
+     "end": 115.893,
+     "words": [
+      {
+       "w": "There",
+       "start": 113.615,
+       "end": 113.976
+      },
+      {
+       "w": "was",
+       "start": 113.976,
+       "end": 114.226
+      },
+      {
+       "w": "no",
+       "start": 114.226,
+       "end": 114.421
+      },
+      {
+       "w": "such",
+       "start": 114.421,
+       "end": 114.726
+      },
+      {
+       "w": "man",
+       "start": 114.726,
+       "end": 114.976
+      },
+      {
+       "w": "in",
+       "start": 114.976,
+       "end": 115.171
+      },
+      {
+       "w": "Los",
+       "start": 115.171,
+       "end": 115.421
+      },
+      {
+       "w": "Angeles.",
+       "start": 115.421,
+       "end": 115.893
+      }
+     ]
+    },
+    {
+     "text": "The name was fake.",
+     "start": 116.317,
+     "end": 117.478,
+     "words": [
+      {
+       "w": "The",
+       "start": 116.317,
+       "end": 116.578
+      },
+      {
+       "w": "name",
+       "start": 116.578,
+       "end": 116.898
+      },
+      {
+       "w": "was",
+       "start": 116.898,
+       "end": 117.159
+      },
+      {
+       "w": "fake.",
+       "start": 117.159,
+       "end": 117.478
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "room1046/vo/line14.mp3",
+   "start": 117.628,
+   "dur": 8.176,
+   "sentences": [
+    {
+     "text": "Then came the funeral.",
+     "start": 117.628,
+     "end": 118.92,
+     "words": [
+      {
+       "w": "Then",
+       "start": 117.628,
+       "end": 117.924
+      },
+      {
+       "w": "came",
+       "start": 117.924,
+       "end": 118.22
+      },
+      {
+       "w": "the",
+       "start": 118.22,
+       "end": 118.462
+      },
+      {
+       "w": "funeral.",
+       "start": 118.462,
+       "end": 118.92
+      }
+     ]
+    },
+    {
+     "text": "A stranger paid for it.",
+     "start": 119.441,
+     "end": 120.666,
+     "words": [
+      {
+       "w": "A",
+       "start": 119.441,
+       "end": 119.561
+      },
+      {
+       "w": "stranger",
+       "start": 119.561,
+       "end": 120.017
+      },
+      {
+       "w": "paid",
+       "start": 120.017,
+       "end": 120.281
+      },
+      {
+       "w": "for",
+       "start": 120.281,
+       "end": 120.498
+      },
+      {
+       "w": "it.",
+       "start": 120.498,
+       "end": 120.666
+      }
+     ]
+    },
+    {
+     "text": "And sent flowers, with a card.",
+     "start": 121.21,
+     "end": 123.15,
+     "words": [
+      {
+       "w": "And",
+       "start": 121.21,
+       "end": 121.464
+      },
+      {
+       "w": "sent",
+       "start": 121.464,
+       "end": 121.775
+      },
+      {
+       "w": "flowers,",
+       "start": 121.775,
+       "end": 122.254
+      },
+      {
+       "w": "with",
+       "start": 122.593,
+       "end": 122.82
+      },
+      {
+       "w": "a",
+       "start": 122.82,
+       "end": 122.923
+      },
+      {
+       "w": "card.",
+       "start": 122.923,
+       "end": 123.15
+      }
+     ]
+    },
+    {
+     "text": "Love forever.",
+     "start": 123.708,
+     "end": 124.567,
+     "words": [
+      {
+       "w": "Love",
+       "start": 123.708,
+       "end": 124.045
+      },
+      {
+       "w": "forever.",
+       "start": 124.045,
+       "end": 124.567
+      }
+     ]
+    },
+    {
+     "text": "Louise.",
+     "start": 125.1,
+     "end": 125.591,
+     "words": [
+      {
+       "w": "Louise.",
+       "start": 125.1,
+       "end": 125.591
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "room1046/vo/line15.mp3",
+   "start": 125.955,
+   "dur": 9.064,
+   "sentences": [
+    {
+     "text": "A year later, a mother in Alabama sees his photo in a magazine.",
+     "start": 125.955,
+     "end": 129.827,
+     "words": [
+      {
+       "w": "A",
+       "start": 125.955,
+       "end": 126.088
+      },
+      {
+       "w": "year",
+       "start": 126.088,
+       "end": 126.38
+      },
+      {
+       "w": "later,",
+       "start": 126.38,
+       "end": 126.726
+      },
+      {
+       "w": "a",
+       "start": 126.972,
+       "end": 127.104
+      },
+      {
+       "w": "mother",
+       "start": 127.104,
+       "end": 127.501
+      },
+      {
+       "w": "in",
+       "start": 127.501,
+       "end": 127.686
+      },
+      {
+       "w": "Alabama",
+       "start": 127.686,
+       "end": 128.135
+      },
+      {
+       "w": "sees",
+       "start": 128.135,
+       "end": 128.426
+      },
+      {
+       "w": "his",
+       "start": 128.426,
+       "end": 128.664
+      },
+      {
+       "w": "photo",
+       "start": 128.664,
+       "end": 129.008
+      },
+      {
+       "w": "in",
+       "start": 129.008,
+       "end": 129.193
+      },
+      {
+       "w": "a",
+       "start": 129.193,
+       "end": 129.325
+      },
+      {
+       "w": "magazine.",
+       "start": 129.325,
+       "end": 129.827
+      }
+     ]
+    },
+    {
+     "text": "His real name was Artemus Ogletree.",
+     "start": 130.393,
+     "end": 132.644,
+     "words": [
+      {
+       "w": "His",
+       "start": 130.393,
+       "end": 130.659
+      },
+      {
+       "w": "real",
+       "start": 130.659,
+       "end": 130.985
+      },
+      {
+       "w": "name",
+       "start": 130.985,
+       "end": 131.311
+      },
+      {
+       "w": "was",
+       "start": 131.311,
+       "end": 131.578
+      },
+      {
+       "w": "Artemus",
+       "start": 131.578,
+       "end": 132.081
+      },
+      {
+       "w": "Ogletree.",
+       "start": 132.081,
+       "end": 132.644
+      }
+     ]
+    },
+    {
+     "text": "He was just 17.",
+     "start": 133.207,
+     "end": 134.734,
+     "words": [
+      {
+       "w": "He",
+       "start": 133.207,
+       "end": 133.522
+      },
+      {
+       "w": "was",
+       "start": 133.522,
+       "end": 133.926
+      },
+      {
+       "w": "just",
+       "start": 133.926,
+       "end": 134.42
+      },
+      {
+       "w": "17.",
+       "start": 134.42,
+       "end": 134.734
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "room1046/vo/line16.mp3",
+   "start": 135.169,
+   "dur": 10.109,
+   "sentences": [
+    {
+     "text": "And it gets stranger.",
+     "start": 135.169,
+     "end": 136.451,
+     "words": [
+      {
+       "w": "And",
+       "start": 135.169,
+       "end": 135.42
+      },
+      {
+       "w": "it",
+       "start": 135.42,
+       "end": 135.615
+      },
+      {
+       "w": "gets",
+       "start": 135.615,
+       "end": 135.922
+      },
+      {
+       "w": "stranger.",
+       "start": 135.922,
+       "end": 136.451
+      }
+     ]
+    },
+    {
+     "text": "After he died, she kept getting typed letters, signed as her son.",
+     "start": 136.944,
+     "end": 141.048,
+     "words": [
+      {
+       "w": "After",
+       "start": 136.944,
+       "end": 137.335
+      },
+      {
+       "w": "he",
+       "start": 137.335,
+       "end": 137.545
+      },
+      {
+       "w": "died,",
+       "start": 137.545,
+       "end": 137.875
+      },
+      {
+       "w": "she",
+       "start": 138.092,
+       "end": 138.329
+      },
+      {
+       "w": "kept",
+       "start": 138.329,
+       "end": 138.619
+      },
+      {
+       "w": "getting",
+       "start": 138.619,
+       "end": 139.068
+      },
+      {
+       "w": "typed",
+       "start": 139.068,
+       "end": 139.41
+      },
+      {
+       "w": "letters,",
+       "start": 139.41,
+       "end": 139.859
+      },
+      {
+       "w": "signed",
+       "start": 139.859,
+       "end": 140.305
+      },
+      {
+       "w": "as",
+       "start": 140.305,
+       "end": 140.513
+      },
+      {
+       "w": "her",
+       "start": 140.513,
+       "end": 140.78
+      },
+      {
+       "w": "son.",
+       "start": 140.78,
+       "end": 141.048
+      }
+     ]
+    },
+    {
+     "text": "And a caller told her Artemus was alive, in Cairo.",
+     "start": 141.423,
+     "end": 145.027,
+     "words": [
+      {
+       "w": "And",
+       "start": 141.423,
+       "end": 141.67
+      },
+      {
+       "w": "a",
+       "start": 141.67,
+       "end": 141.807
+      },
+      {
+       "w": "caller",
+       "start": 141.807,
+       "end": 142.217
+      },
+      {
+       "w": "told",
+       "start": 142.217,
+       "end": 142.519
+      },
+      {
+       "w": "her",
+       "start": 142.519,
+       "end": 142.765
+      },
+      {
+       "w": "Artemus",
+       "start": 142.765,
+       "end": 143.231
+      },
+      {
+       "w": "was",
+       "start": 143.231,
+       "end": 143.477
+      },
+      {
+       "w": "alive,",
+       "start": 143.477,
+       "end": 143.833
+      },
+      {
+       "w": "in",
+       "start": 144.268,
+       "end": 144.534
+      },
+      {
+       "w": "Cairo.",
+       "start": 144.534,
+       "end": 145.027
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "room1046/vo/line17.mp3",
+   "start": 145.429,
+   "dur": 15.308,
+   "sentences": [
+    {
+     "text": "Who was Don?",
+     "start": 145.429,
+     "end": 146.287,
+     "words": [
+      {
+       "w": "Who",
+       "start": 145.429,
+       "end": 145.715
+      },
+      {
+       "w": "was",
+       "start": 145.715,
+       "end": 146.001
+      },
+      {
+       "w": "Don?",
+       "start": 146.001,
+       "end": 146.287
+      }
+     ]
+    },
+    {
+     "text": "Who was Louise?",
+     "start": 146.826,
+     "end": 147.705,
+     "words": [
+      {
+       "w": "Who",
+       "start": 146.826,
+       "end": 147.066
+      },
+      {
+       "w": "was",
+       "start": 147.066,
+       "end": 147.305
+      },
+      {
+       "w": "Louise?",
+       "start": 147.305,
+       "end": 147.705
+      }
+     ]
+    },
+    {
+     "text": "Ninety years later, nobody knows.",
+     "start": 148.241,
+     "end": 150.493,
+     "words": [
+      {
+       "w": "Ninety",
+       "start": 148.241,
+       "end": 148.634
+      },
+      {
+       "w": "years",
+       "start": 148.634,
+       "end": 148.974
+      },
+      {
+       "w": "later,",
+       "start": 148.974,
+       "end": 149.314
+      },
+      {
+       "w": "nobody",
+       "start": 149.629,
+       "end": 150.092
+      },
+      {
+       "w": "knows.",
+       "start": 150.092,
+       "end": 150.493
+      }
+     ]
+    },
+    {
+     "text": "What do you think happened in Room 1046?",
+     "start": 151.051,
+     "end": 153.56,
+     "words": [
+      {
+       "w": "What",
+       "start": 151.051,
+       "end": 151.321
+      },
+      {
+       "w": "do",
+       "start": 151.321,
+       "end": 151.494
+      },
+      {
+       "w": "you",
+       "start": 151.494,
+       "end": 151.715
+      },
+      {
+       "w": "think",
+       "start": 151.715,
+       "end": 152.035
+      },
+      {
+       "w": "happened",
+       "start": 152.035,
+       "end": 152.502
+      },
+      {
+       "w": "in",
+       "start": 152.502,
+       "end": 152.675
+      },
+      {
+       "w": "Room",
+       "start": 152.675,
+       "end": 152.945
+      },
+      {
+       "w": "1046?",
+       "start": 152.945,
+       "end": 153.56
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 153.961,
+     "end": 154.97,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 153.961,
+       "end": 154.17
+      },
+      {
+       "w": "me",
+       "start": 154.17,
+       "end": 154.304
+      },
+      {
+       "w": "in",
+       "start": 154.304,
+       "end": 154.437
+      },
+      {
+       "w": "the",
+       "start": 154.437,
+       "end": 154.608
+      },
+      {
+       "w": "comments.",
+       "start": 154.608,
+       "end": 154.97
+      }
+     ]
+    },
+    {
+     "text": "And watch our Jimmy Hoffa short.",
+     "start": 155.342,
+     "end": 157.217,
+     "words": [
+      {
+       "w": "And",
+       "start": 155.342,
+       "end": 155.583
+      },
+      {
+       "w": "watch",
+       "start": 155.583,
+       "end": 155.931
+      },
+      {
+       "w": "our",
+       "start": 155.931,
+       "end": 156.172
+      },
+      {
+       "w": "Jimmy",
+       "start": 156.172,
+       "end": 156.521
+      },
+      {
+       "w": "Hoffa",
+       "start": 156.521,
+       "end": 156.869
+      },
+      {
+       "w": "short.",
+       "start": 156.869,
+       "end": 157.217
+      }
+     ]
+    },
+    {
+     "text": "Another man who walked in, and never came out.",
+     "start": 157.684,
+     "end": 160.472,
+     "words": [
+      {
+       "w": "Another",
+       "start": 157.684,
+       "end": 158.11
+      },
+      {
+       "w": "man",
+       "start": 158.11,
+       "end": 158.335
+      },
+      {
+       "w": "who",
+       "start": 158.335,
+       "end": 158.561
+      },
+      {
+       "w": "walked",
+       "start": 158.561,
+       "end": 158.937
+      },
+      {
+       "w": "in,",
+       "start": 158.937,
+       "end": 159.112
+      },
+      {
+       "w": "and",
+       "start": 159.379,
+       "end": 159.613
+      },
+      {
+       "w": "never",
+       "start": 159.613,
+       "end": 159.952
+      },
+      {
+       "w": "came",
+       "start": 159.952,
+       "end": 160.238
+      },
+      {
+       "w": "out.",
+       "start": 160.238,
+       "end": 160.472
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

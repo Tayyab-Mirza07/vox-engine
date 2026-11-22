@@ -52,6 +52,8 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
   silhouettes; music re-used from MH370.
 - `BakerSt` — Baker Street "walkie-talkie" bank job (1971); `src/bakerst/`, `public/bakerst/{vo,photos,cta,music.mp3}`.
   Minimal flat-silhouette red/blue duotone style with light sweeps; music re-used from Alcatraz.
+- `Room1046` — Room 1046 / Artemus Ogletree (1935); `src/room1046/`, `public/room1046/{vo,photos,cta,music.mp3}`. 1930s noir
+  motion graphics + Hotel President photos; injuries described, not shown; music re-used from Dyatlov.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.
 
 ## Commands
