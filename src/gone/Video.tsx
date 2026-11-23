@@ -224,16 +224,22 @@ const Outro: React.FC = () => {
 
 // ───────────────────────── Thumbnail (1280×720) ─────────────────────────
 export const GoneThumb: React.FC = () => {
-  const picks = ['flight19', 'sodder', 'flannan', 'mh370'];
+  const picks: [string, string, string][] = [
+    ['flight19/ai/formation.png', '30% 50%', '27 MEN'],
+    ['sodder/ai/fire.png', '52% 50%', '5 KIDS'],
+    ['flannan/ai/storm.png', '61% 50%', '3 KEEPERS'],
+    ['mh370/photos/plane.jpg', '50% 50%', '239 PEOPLE'],
+  ];
   return (
     <AbsoluteFill style={{background: '#000'}}>
       <Board dim={0.35} />
-      {picks.map((id, k) => (
-        <div key={id} style={{position: 'absolute', left: 40 + k * 300, top: 250 + (k % 2) * 30, width: 260, padding: 8, paddingBottom: 8, background: PAPER, transform: `rotate(${[-6, 4, -3, 6][k]}deg)`, boxShadow: '0 16px 30px #000d'}}>
+      {picks.map(([src, pos, label], k) => (
+        <div key={src} style={{position: 'absolute', left: 40 + k * 300, top: 250 + (k % 2) * 30, width: 260, padding: 8, paddingBottom: 8, background: PAPER, transform: `rotate(${[-6, 4, -3, 6][k]}deg)`, boxShadow: '0 16px 30px #000d'}}>
           <div style={{height: 380, overflow: 'hidden', position: 'relative'}}>
-            <Img src={staticFile(`gone/cards/${id}.jpg`)} style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: '50% 30%'}} />
+            <Img src={staticFile(src)} style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: pos}} />
+            <div style={{position: 'absolute', left: 0, right: 0, bottom: 14, textAlign: 'center', fontFamily: DISPLAY, fontSize: 52, color: '#fff', textShadow: '0 4px 0 #000, 0 0 20px #000', zIndex: 2}}>{label}</div>
             <svg width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none" style={{position: 'absolute', inset: 0}}>
-              <path d="M 8 8 L 92 92 M 92 8 L 8 92" stroke={RED} strokeWidth={6} opacity={0.85} />
+              <path d="M 8 8 L 92 92 M 92 8 L 8 92" stroke={RED} strokeWidth={4} opacity={0.75} />
             </svg>
           </div>
         </div>
