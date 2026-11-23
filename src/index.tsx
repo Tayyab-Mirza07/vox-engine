@@ -18,7 +18,7 @@ import {Flight19, T as flight19} from './flight19/Video';
 import {Flight19Thumb} from './flight19/scenes';
 import {Sodder, T as sodder} from './sodder/Video';
 import {SodderThumb} from './sodder/scenes';
-import {Gone, GoneThumb, T as gone} from './gone/Video';
+import {Gone, GoneClipBg, GoneThumb, T as gone} from './gone/Video';
 import {CooperLong, T as cooperlong} from './cooperlong/Video';
 import {CooperThumb} from './cooperlong/Thumb';
 import {CooperThumb2} from './cooperlong/Thumb2';
@@ -49,6 +49,7 @@ const Root: React.FC = () => (
     <Composition id="SodderThumb" component={SodderThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Gone" component={Gone} durationInFrames={gone.totalFrames} fps={FPS} width={1920} height={1080} />
     <Composition id="GoneThumb" component={GoneThumb} durationInFrames={1} fps={FPS} width={1280} height={720} />
+    <Composition id="GoneClipBg" component={GoneClipBg} durationInFrames={200} fps={FPS} width={1920} height={1080} defaultProps={{i: 0}} />
     <Composition id="Economist" component={Economist} durationInFrames={economist.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Alcatraz" component={Alcatraz} durationInFrames={alcatraz.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Dyatlov" component={Dyatlov} durationInFrames={dyatlov.totalFrames} fps={FPS} width={W} height={H} />

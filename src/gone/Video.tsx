@@ -142,7 +142,7 @@ const CaseCard: React.FC<{i: number; dur: number}> = ({i, dur}) => {
 };
 
 // ───────────────────────── Clip in case-file layout ─────────────────────────
-const CaseClip: React.FC<{i: number; dur: number}> = ({i, dur}) => {
+const CaseClip: React.FC<{i: number; dur: number; bg?: boolean}> = ({i, dur, bg}) => {
   const frame = useCurrentFrame();
   const c = CASES[i];
   const row = (label: string, val: string, at: number) => (
@@ -154,8 +154,8 @@ const CaseClip: React.FC<{i: number; dur: number}> = ({i, dur}) => {
   return (
     <AbsoluteFill>
       <Board light={[0.3, 0.4]} />
-      <Frame x={170} y={28} h={1000} r={-1.2}>
-        <OffthreadVideo src={staticFile(`gone/clips/${c.id}.mp4`)} endAt={dur} volume={clipVol(dur)} style={{width: '100%', height: '100%'}} />
+      <Frame x={170} y={28} h={1000} r={bg ? 0 : -1.2}>
+        {bg ? <div style={{width: '100%', height: '100%', background: '#00ff00'}} /> : <OffthreadVideo src={staticFile(`gone/clips/${c.id}.mp4`)} endAt={dur} volume={clipVol(dur)} style={{width: '100%', height: '100%'}} />}
       </Frame>
       <div style={{position: 'absolute', left: 860, top: 70, width: 960, height: 760, background: PAPER, boxShadow: '0 30px 60px #000c', transform: 'rotate(1deg)', padding: '40px 56px', boxSizing: 'border-box'}}>
         <div style={{position: 'absolute', top: -16, left: '50%', marginLeft: -16, width: 32, height: 32, borderRadius: '50%', background: `radial-gradient(circle at 35% 35%, #fff8, ${RED} 45%, #3a0008)`, boxShadow: '0 6px 8px #000a'}} />
@@ -180,6 +180,9 @@ const CaseClip: React.FC<{i: number; dur: number}> = ({i, dur}) => {
     </AbsoluteFill>
   );
 };
+
+/** Still background for a case (video area left as a placeholder; ffmpeg overlays the Short at x=182 y=40, 562x1000). */
+export const GoneClipBg: React.FC<{i: number}> = ({i}) => <CaseClip i={i} dur={9999} bg />;
 
 // ───────────────────────── Outro ─────────────────────────
 const Outro: React.FC = () => {
