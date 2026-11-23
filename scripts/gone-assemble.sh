@@ -10,8 +10,8 @@ for i in 0 1 2 3 4 5 6 7; do
   frames=$(python3 -c "import json;print(json.load(open('$D/clips.json'))[$i]['frames'])")
   dur=$(python3 -c "print($frames/30)")
   fo=$(python3 -c "print(max(0,$frames/30-0.5))")
-  ffmpeg -y -hide_banner -loglevel error -loop 1 -framerate 30 -i $D/bg$i.png -i public/gone/clips/${IDS[$i]}.mp4 \
-    -filter_complex "[1:v]fps=30,trim=end_frame=$frames,setpts=PTS-STARTPTS,scale=563:1000[v];[0:v][v]overlay=182:40,format=yuv420p[o];[1:a]atrim=0:$dur,asetpts=PTS-STARTPTS,afade=t=in:d=0.15,afade=t=out:st=$fo:d=0.5,aresample=48000[a]" \
+  ffmpeg -y -hide_banner -loglevel error -loop 1 -framerate 30 -t $dur -i $D/bg$i.png -i public/gone/clips/${IDS[$i]}.mp4 \
+    -filter_complex "[1:v]fps=30,trim=end_frame=$frames,setpts=PTS-STARTPTS,scale=563:1000[v];[0:v][v]overlay=182:40:shortest=1,format=yuv420p[o];[1:a]atrim=0:$dur,asetpts=PTS-STARTPTS,afade=t=in:d=0.15,afade=t=out:st=$fo:d=0.5,aresample=48000[a]" \
     -map "[o]" -map "[a]" -frames:v $frames -c:v libx264 -preset veryfast -crf 20 -r 30 -c:a aac -b:a 192k -ac 2 $D/clip$i.tmp.mp4
   mv $D/clip$i.tmp.mp4 $D/clip$i.mp4
   echo "clip $i ok"
