@@ -16,6 +16,8 @@ import {Flannan, T as flannan} from './flannan/Video';
 import {FlannanThumb} from './flannan/scenes';
 import {Flight19, T as flight19} from './flight19/Video';
 import {Flight19Thumb} from './flight19/scenes';
+import {Sodder, T as sodder} from './sodder/Video';
+import {SodderThumb} from './sodder/scenes';
 import {CooperLong, T as cooperlong} from './cooperlong/Video';
 import {CooperThumb} from './cooperlong/Thumb';
 import {CooperThumb2} from './cooperlong/Thumb2';
@@ -42,6 +44,8 @@ const Root: React.FC = () => (
     <Composition id="FlannanThumb" component={FlannanThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Flight19" component={Flight19} durationInFrames={flight19.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Flight19Thumb" component={Flight19Thumb} durationInFrames={1} fps={FPS} width={W} height={H} />
+    <Composition id="Sodder" component={Sodder} durationInFrames={sodder.totalFrames} fps={FPS} width={W} height={H} />
+    <Composition id="SodderThumb" component={SodderThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Economist" component={Economist} durationInFrames={economist.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Alcatraz" component={Alcatraz} durationInFrames={alcatraz.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="Dyatlov" component={Dyatlov} durationInFrames={dyatlov.totalFrames} fps={FPS} width={W} height={H} />

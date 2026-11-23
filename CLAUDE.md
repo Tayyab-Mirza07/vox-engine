@@ -66,6 +66,8 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
   style + 4 AI stills + real geograph photos; portrait Shorts thumbnail via the `FlannanThumb` composition.
 - `Flight19` — Flight 19 (1945); `src/flight19/`, `public/flight19/{vo,ai,photos,cta,music.mp3}`. Evidence-board style + 4 AI stills
   + PD Navy photos; music re-used from MH370; portrait thumbnail `Flight19Thumb`.
+- `Sodder` — the Sodder children (1945); `src/sodder/`, `public/sodder/{vo,ai,photos,cta,music.mp3}`. Evidence-board style +
+  4 AI stills; children shown only as silhouettes (no licensed photos); music re-used from Mary Celeste; thumbnail `SodderThumb`.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.
 
 ## Commands

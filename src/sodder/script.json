@@ -1,0 +1,53 @@
+{
+  "title": "5 Children Vanished in a Fire… But There Were No Bones",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.15,
+  "tail": 0.8,
+  "spoken": {
+    "1945.": "nineteen forty five",
+    "1949,": "nineteen forty nine",
+    "1968,": "nineteen sixty eight",
+    "1969.": "nineteen sixty nine",
+    "1989.": "nineteen eighty nine",
+    "1945,": "nineteen forty five"
+  },
+  "lines": [
+    "Christmas Eve, 1945. A house burned to the ground with five children inside. But when the ashes cooled, there were no bodies. Not a single bone.",
+    "This is Fayetteville, West Virginia. George and Jennie Sodder lived here with nine of their ten children. That night, the kids begged to stay up late with their new Christmas toys.",
+    "At half past midnight, the phone rang. Jennie answered. A woman asked for a name she didn't know. In the background, laughter and clinking glasses. Then the line went dead.",
+    "Around one AM, Jennie woke up to smoke. The house was on fire.",
+    "George, Jennie, and four of the children got out. But five were still upstairs. Maurice, Martha, Louis, Jennie, and Betty.",
+    "George ran for the ladder that always leaned against the house. It was gone. He ran to his two trucks. Neither would start. Both had worked the day before.",
+    "The phone was dead. A neighbor drove off to call the fire department. Nobody came until morning.",
+    "By then, the house was ash. And that's when things stopped making sense.",
+    "In the ruins, there were no remains. No bones. No teeth. Nothing. Officials said the fire burned them away.",
+    "But a house fire burns for about an hour. Crematoriums burn for hours at far higher heat, and still leave bones behind.",
+    "Then the clues piled up. The ladder was found far down an embankment. And the phone line hadn't burned. It had been cut.",
+    "Months earlier, an insurance salesman had warned George: your house will go up in smoke, and your children will be destroyed. George had criticized Mussolini.",
+    "So the Sodders came to believe something terrifying. Their children didn't die in the fire. They were taken.",
+    "In 1949, a dig in the ashes found a few bone fragments. The Smithsonian tested them. They came from someone older than the children, and had never been burned.",
+    "The family put up a billboard by the highway, with their children's faces and a reward. It stood for decades.",
+    "Then, in 1968, a letter arrived with no return address. Inside was a photo of a young man. On the back, a message. Louis Sodder. I love brother Frankie.",
+    "He looked like their son Louis, all grown up. They sent a private detective to find him. He was never heard from again.",
+    "George died in 1969. Jennie wore black until her death in 1989. Officially, the children died in the fire. Their family never believed it. What do you think? Tell me in the comments. And watch our Flight 19 short. The same month, twenty seven men vanished without a trace."
+  ],
+  "structure": {
+    "hook": "line 0: house burned with five children inside, no bodies, not a single bone (cold open, not whispered)",
+    "5W1H": "who (George & Jennie Sodder; Maurice, Martha, Louis, Jennie, Betty), what (five children missing after a fire), when (24-25 Dec 1945; 1949 dig; 1968 letter), where (Fayetteville, West Virginia), how (lines 2-6: call, missing ladder, dead trucks, no phone), why (lines 11-12: threat / kidnapping theory vs official fire verdict)",
+    "rehooks": [
+      "line 7: that's when things stopped making sense",
+      "line 10: the clues piled up",
+      "line 12: they were taken",
+      "line 15: the 1968 letter"
+    ],
+    "tension": "lines 2-12",
+    "release": "lines 13-14 (Smithsonian bones, billboard)",
+    "payoff": "lines 15-17: the Louis photo, the vanished detective, official verdict vs family belief",
+    "cta": "line 17: comment question + Flight 19 Short (thumbnail)"
+  },
+  "notes": "Sources: Wikipedia 'Disappearance of the Sodder children'; Smithsonian Magazine (2016) 'The Mystery of the Sodder Children'; FBI file correspondence (1952). Fire around 1 AM 25 Dec 1945; 12:30 call with laughter/glasses; ladder missing, later found at the bottom of an embankment ~75 ft away; trucks failed to start; phone line found cut (a man later admitted cutting it while stealing, thinking it was power); fire dept arrived ~8 AM; coroner ruled accidental (faulty wiring). 1949 dig by pathologist Oscar Hunter: vertebrae from a person ~16-22, no fire exposure (Smithsonian). Insurance salesman's threat re: George's anti-Mussolini remarks. Billboard on Route 16 until 1989. 1968 photo postmarked Kentucky with note 'Louis Sodder / I love brother Frankie / Ilil Boys / A90132 or 35'; PI sent to Kentucky never heard from again. George d. 1969, Jennie d. 1989 (wore black). Official verdict: children died in the fire."
+}
