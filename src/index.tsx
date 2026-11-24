@@ -20,6 +20,8 @@ import {Sodder, T as sodder} from './sodder/Video';
 import {SodderThumb} from './sodder/scenes';
 import {Zodiac, T as zodiac} from './zodiac/Video';
 import {ZodiacThumb} from './zodiac/scenes';
+import {Dunbar, T as dunbar} from './dunbar/Video';
+import {DunbarThumb} from './dunbar/scenes';
 import {Gone, GoneClipBg, GoneThumb, T as gone} from './gone/Video';
 import {CooperLong, T as cooperlong} from './cooperlong/Video';
 import {CooperThumb} from './cooperlong/Thumb';
@@ -51,6 +53,8 @@ const Root: React.FC = () => (
     <Composition id="SodderThumb" component={SodderThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Zodiac" component={Zodiac} durationInFrames={zodiac.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="ZodiacThumb" component={ZodiacThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
+    <Composition id="Dunbar" component={Dunbar} durationInFrames={dunbar.totalFrames} fps={FPS} width={W} height={H} />
+    <Composition id="DunbarThumb" component={DunbarThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Gone" component={Gone} durationInFrames={gone.totalFrames} fps={FPS} width={1920} height={1080} />
     <Composition id="GoneThumb" component={GoneThumb} durationInFrames={1} fps={FPS} width={1280} height={720} />
     <Composition id="GoneClipBg" component={GoneClipBg} durationInFrames={200} fps={FPS} width={1920} height={1080} defaultProps={{i: 0}} />

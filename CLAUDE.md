@@ -71,6 +71,10 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
 - `Zodiac` — the Zodiac Killer (1968–1974); `src/zodiac/`, `public/zodiac/{vo,ai,photos,cta,music.mp3}`. Evidence-board style + 3 AI stills,
   SFPD wanted poster + suspect DMV photo (PD); victims not named or shown; music re-used from Kemper; first Short with the
   "follow for a new unsolved mystery every day" line; thumbnail `ZodiacThumb`.
+- `Dunbar` — Bobby Dunbar (1912 / DNA 2004); `src/dunbar/`, `public/dunbar/{vo,ai,photos,music.mp3}`. First "viral short" format
+  (~67 s, one reveal, loop ending, on-screen FOLLOW button); 3 PD photos + 2 AI stills; music re-used from Sodder; thumbnail `DunbarThumb`.
+- Viral cuts of finished Shorts: `scripts/cut-short.py <in> <out> a-b c-d …` (covers the progress bar, loudnorms) →
+  `videos/mh370-cut.mp4`, `videos/sodder-cut.mp4`.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.
 
 ## Commands
