@@ -1,0 +1,2712 @@
+{
+ "total": 167.753,
+ "lines": [
+  {
+   "index": 0,
+   "file": "zodiac/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 10.58,
+   "sentences": [
+    {
+     "text": "He mailed a newspaper a torn piece of his victim's shirt.",
+     "start": 0.25,
+     "end": 3.314,
+     "words": [
+      {
+       "w": "He",
+       "start": 0.25,
+       "end": 0.424
+      },
+      {
+       "w": "mailed",
+       "start": 0.424,
+       "end": 0.798
+      },
+      {
+       "w": "a",
+       "start": 0.798,
+       "end": 0.923
+      },
+      {
+       "w": "newspaper",
+       "start": 0.923,
+       "end": 1.446
+      },
+      {
+       "w": "a",
+       "start": 1.446,
+       "end": 1.57
+      },
+      {
+       "w": "torn",
+       "start": 1.57,
+       "end": 1.844
+      },
+      {
+       "w": "piece",
+       "start": 1.844,
+       "end": 2.168
+      },
+      {
+       "w": "of",
+       "start": 2.168,
+       "end": 2.343
+      },
+      {
+       "w": "his",
+       "start": 2.343,
+       "end": 2.567
+      },
+      {
+       "w": "victim's",
+       "start": 2.567,
+       "end": 2.99
+      },
+      {
+       "w": "shirt.",
+       "start": 2.99,
+       "end": 3.314
+      }
+     ]
+    },
+    {
+     "text": "Then he signed the letter.",
+     "start": 3.65,
+     "end": 5.101,
+     "words": [
+      {
+       "w": "Then",
+       "start": 3.65,
+       "end": 3.93
+      },
+      {
+       "w": "he",
+       "start": 3.93,
+       "end": 4.108
+      },
+      {
+       "w": "signed",
+       "start": 4.108,
+       "end": 4.49
+      },
+      {
+       "w": "the",
+       "start": 4.49,
+       "end": 4.719
+      },
+      {
+       "w": "letter.",
+       "start": 4.719,
+       "end": 5.101
+      }
+     ]
+    },
+    {
+     "text": "This is the Zodiac speaking.",
+     "start": 5.481,
+     "end": 6.845,
+     "words": [
+      {
+       "w": "This",
+       "start": 5.481,
+       "end": 5.727
+      },
+      {
+       "w": "is",
+       "start": 5.727,
+       "end": 5.884
+      },
+      {
+       "w": "the",
+       "start": 5.884,
+       "end": 6.085
+      },
+      {
+       "w": "Zodiac",
+       "start": 6.085,
+       "end": 6.42
+      },
+      {
+       "w": "speaking.",
+       "start": 6.42,
+       "end": 6.845
+      }
+     ]
+    },
+    {
+     "text": "Over fifty years later, nobody knows who he was.",
+     "start": 7.307,
+     "end": 10.591,
+     "words": [
+      {
+       "w": "Over",
+       "start": 7.307,
+       "end": 7.621
+      },
+      {
+       "w": "fifty",
+       "start": 7.621,
+       "end": 7.993
+      },
+      {
+       "w": "years",
+       "start": 7.993,
+       "end": 8.365
+      },
+      {
+       "w": "later,",
+       "start": 8.365,
+       "end": 8.737
+      },
+      {
+       "w": "nobody",
+       "start": 9.006,
+       "end": 9.454
+      },
+      {
+       "w": "knows",
+       "start": 9.454,
+       "end": 9.843
+      },
+      {
+       "w": "who",
+       "start": 9.843,
+       "end": 10.112
+      },
+      {
+       "w": "he",
+       "start": 10.112,
+       "end": 10.322
+      },
+      {
+       "w": "was.",
+       "start": 10.322,
+       "end": 10.591
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "zodiac/vo/line1.mp3",
+   "start": 10.98,
+   "dur": 11.18,
+   "sentences": [
+    {
+     "text": "Northern California, December 1968.",
+     "start": 10.98,
+     "end": 14.175,
+     "words": [
+      {
+       "w": "Northern",
+       "start": 10.98,
+       "end": 11.487
+      },
+      {
+       "w": "California,",
+       "start": 11.487,
+       "end": 12.101
+      },
+      {
+       "w": "December",
+       "start": 12.444,
+       "end": 13.54
+      },
+      {
+       "w": "1968.",
+       "start": 13.54,
+       "end": 14.175
+      }
+     ]
+    },
+    {
+     "text": "A teenage couple on their first date parked on a quiet road outside Benicia.",
+     "start": 14.636,
+     "end": 18.818,
+     "words": [
+      {
+       "w": "A",
+       "start": 14.636,
+       "end": 14.762
+      },
+      {
+       "w": "teenage",
+       "start": 14.762,
+       "end": 15.191
+      },
+      {
+       "w": "couple",
+       "start": 15.191,
+       "end": 15.568
+      },
+      {
+       "w": "on",
+       "start": 15.568,
+       "end": 15.745
+      },
+      {
+       "w": "their",
+       "start": 15.745,
+       "end": 16.072
+      },
+      {
+       "w": "first",
+       "start": 16.072,
+       "end": 16.4
+      },
+      {
+       "w": "date",
+       "start": 16.4,
+       "end": 16.677
+      },
+      {
+       "w": "parked",
+       "start": 16.677,
+       "end": 17.055
+      },
+      {
+       "w": "on",
+       "start": 17.055,
+       "end": 17.231
+      },
+      {
+       "w": "a",
+       "start": 17.231,
+       "end": 17.357
+      },
+      {
+       "w": "quiet",
+       "start": 17.357,
+       "end": 17.685
+      },
+      {
+       "w": "road",
+       "start": 17.685,
+       "end": 17.962
+      },
+      {
+       "w": "outside",
+       "start": 17.962,
+       "end": 18.39
+      },
+      {
+       "w": "Benicia.",
+       "start": 18.39,
+       "end": 18.818
+      }
+     ]
+    },
+    {
+     "text": "They were both shot.",
+     "start": 19.274,
+     "end": 20.277,
+     "words": [
+      {
+       "w": "They",
+       "start": 19.274,
+       "end": 19.525
+      },
+      {
+       "w": "were",
+       "start": 19.525,
+       "end": 19.776
+      },
+      {
+       "w": "both",
+       "start": 19.776,
+       "end": 20.026
+      },
+      {
+       "w": "shot.",
+       "start": 20.026,
+       "end": 20.277
+      }
+     ]
+    },
+    {
+     "text": "There were no witnesses.",
+     "start": 20.725,
+     "end": 21.945,
+     "words": [
+      {
+       "w": "There",
+       "start": 20.725,
+       "end": 21.03
+      },
+      {
+       "w": "were",
+       "start": 21.03,
+       "end": 21.288
+      },
+      {
+       "w": "no",
+       "start": 21.288,
+       "end": 21.452
+      },
+      {
+       "w": "witnesses.",
+       "start": 21.452,
+       "end": 21.945
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "zodiac/vo/line2.mp3",
+   "start": 22.31,
+   "dur": 10.58,
+   "sentences": [
+    {
+     "text": "Seven months later, the Fourth of July, 1969.",
+     "start": 22.31,
+     "end": 26.01,
+     "words": [
+      {
+       "w": "Seven",
+       "start": 22.31,
+       "end": 22.647
+      },
+      {
+       "w": "months",
+       "start": 22.647,
+       "end": 23.036
+      },
+      {
+       "w": "later,",
+       "start": 23.036,
+       "end": 23.373
+      },
+      {
+       "w": "the",
+       "start": 23.706,
+       "end": 23.914
+      },
+      {
+       "w": "Fourth",
+       "start": 23.914,
+       "end": 24.26
+      },
+      {
+       "w": "of",
+       "start": 24.26,
+       "end": 24.422
+      },
+      {
+       "w": "July,",
+       "start": 24.422,
+       "end": 24.676
+      },
+      {
+       "w": "1969.",
+       "start": 24.831,
+       "end": 26.01
+      }
+     ]
+    },
+    {
+     "text": "Another couple, another parked car, in Vallejo.",
+     "start": 26.457,
+     "end": 29.576,
+     "words": [
+      {
+       "w": "Another",
+       "start": 26.457,
+       "end": 26.871
+      },
+      {
+       "w": "couple,",
+       "start": 26.871,
+       "end": 27.236
+      },
+      {
+       "w": "another",
+       "start": 27.564,
+       "end": 27.996
+      },
+      {
+       "w": "parked",
+       "start": 27.996,
+       "end": 28.377
+      },
+      {
+       "w": "car,",
+       "start": 28.377,
+       "end": 28.606
+      },
+      {
+       "w": "in",
+       "start": 28.959,
+       "end": 29.139
+      },
+      {
+       "w": "Vallejo.",
+       "start": 29.139,
+       "end": 29.576
+      }
+     ]
+    },
+    {
+     "text": "The young woman died.",
+     "start": 30.044,
+     "end": 31.116,
+     "words": [
+      {
+       "w": "The",
+       "start": 30.044,
+       "end": 30.254
+      },
+      {
+       "w": "young",
+       "start": 30.254,
+       "end": 30.557
+      },
+      {
+       "w": "woman",
+       "start": 30.557,
+       "end": 30.86
+      },
+      {
+       "w": "died.",
+       "start": 30.86,
+       "end": 31.116
+      }
+     ]
+    },
+    {
+     "text": "The man survived.",
+     "start": 31.576,
+     "end": 32.633,
+     "words": [
+      {
+       "w": "The",
+       "start": 31.576,
+       "end": 31.834
+      },
+      {
+       "w": "man",
+       "start": 31.834,
+       "end": 32.091
+      },
+      {
+       "w": "survived.",
+       "start": 32.091,
+       "end": 32.633
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "zodiac/vo/line3.mp3",
+   "start": 33.04,
+   "dur": 8.333,
+   "sentences": [
+    {
+     "text": "Less than an hour later, a man called the Vallejo police.",
+     "start": 33.04,
+     "end": 36.399,
+     "words": [
+      {
+       "w": "Less",
+       "start": 33.04,
+       "end": 33.323
+      },
+      {
+       "w": "than",
+       "start": 33.323,
+       "end": 33.606
+      },
+      {
+       "w": "an",
+       "start": 33.606,
+       "end": 33.786
+      },
+      {
+       "w": "hour",
+       "start": 33.786,
+       "end": 34.07
+      },
+      {
+       "w": "later,",
+       "start": 34.07,
+       "end": 34.405
+      },
+      {
+       "w": "a",
+       "start": 34.639,
+       "end": 34.765
+      },
+      {
+       "w": "man",
+       "start": 34.765,
+       "end": 34.991
+      },
+      {
+       "w": "called",
+       "start": 34.991,
+       "end": 35.368
+      },
+      {
+       "w": "the",
+       "start": 35.368,
+       "end": 35.594
+      },
+      {
+       "w": "Vallejo",
+       "start": 35.594,
+       "end": 36.022
+      },
+      {
+       "w": "police.",
+       "start": 36.022,
+       "end": 36.399
+      }
+     ]
+    },
+    {
+     "text": "Calmly, he said he did it.",
+     "start": 36.854,
+     "end": 38.48,
+     "words": [
+      {
+       "w": "Calmly,",
+       "start": 36.854,
+       "end": 37.372
+      },
+      {
+       "w": "he",
+       "start": 37.659,
+       "end": 37.799
+      },
+      {
+       "w": "said",
+       "start": 37.799,
+       "end": 38.02
+      },
+      {
+       "w": "he",
+       "start": 38.02,
+       "end": 38.16
+      },
+      {
+       "w": "did",
+       "start": 38.16,
+       "end": 38.34
+      },
+      {
+       "w": "it.",
+       "start": 38.34,
+       "end": 38.48
+      }
+     ]
+    },
+    {
+     "text": "And the first couple too.",
+     "start": 38.942,
+     "end": 40.073,
+     "words": [
+      {
+       "w": "And",
+       "start": 38.942,
+       "end": 39.127
+      },
+      {
+       "w": "the",
+       "start": 39.127,
+       "end": 39.312
+      },
+      {
+       "w": "first",
+       "start": 39.312,
+       "end": 39.579
+      },
+      {
+       "w": "couple",
+       "start": 39.579,
+       "end": 39.888
+      },
+      {
+       "w": "too.",
+       "start": 39.888,
+       "end": 40.073
+      }
+     ]
+    },
+    {
+     "text": "Then he hung up.",
+     "start": 40.534,
+     "end": 41.158,
+     "words": [
+      {
+       "w": "Then",
+       "start": 40.534,
+       "end": 40.725
+      },
+      {
+       "w": "he",
+       "start": 40.725,
+       "end": 40.846
+      },
+      {
+       "w": "hung",
+       "start": 40.846,
+       "end": 41.037
+      },
+      {
+       "w": "up.",
+       "start": 41.037,
+       "end": 41.158
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "zodiac/vo/line4.mp3",
+   "start": 41.523,
+   "dur": 4.049,
+   "sentences": [
+    {
+     "text": "And then he did something no killer had ever done before.",
+     "start": 41.523,
+     "end": 45.572,
+     "words": [
+      {
+       "w": "And",
+       "start": 41.523,
+       "end": 41.814
+      },
+      {
+       "w": "then",
+       "start": 41.814,
+       "end": 42.17
+      },
+      {
+       "w": "he",
+       "start": 42.17,
+       "end": 42.397
+      },
+      {
+       "w": "did",
+       "start": 42.397,
+       "end": 42.689
+      },
+      {
+       "w": "something",
+       "start": 42.689,
+       "end": 43.369
+      },
+      {
+       "w": "no",
+       "start": 43.369,
+       "end": 43.596
+      },
+      {
+       "w": "killer",
+       "start": 43.596,
+       "end": 44.082
+      },
+      {
+       "w": "had",
+       "start": 44.082,
+       "end": 44.373
+      },
+      {
+       "w": "ever",
+       "start": 44.373,
+       "end": 44.729
+      },
+      {
+       "w": "done",
+       "start": 44.729,
+       "end": 45.086
+      },
+      {
+       "w": "before.",
+       "start": 45.086,
+       "end": 45.572
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "zodiac/vo/line5.mp3",
+   "start": 45.722,
+   "dur": 10.109,
+   "sentences": [
+    {
+     "text": "He mailed three newspapers one third each of a secret code.",
+     "start": 45.722,
+     "end": 49.675,
+     "words": [
+      {
+       "w": "He",
+       "start": 45.722,
+       "end": 45.936
+      },
+      {
+       "w": "mailed",
+       "start": 45.936,
+       "end": 46.396
+      },
+      {
+       "w": "three",
+       "start": 46.396,
+       "end": 46.794
+      },
+      {
+       "w": "newspapers",
+       "start": 46.794,
+       "end": 47.499
+      },
+      {
+       "w": "one",
+       "start": 47.499,
+       "end": 47.775
+      },
+      {
+       "w": "third",
+       "start": 47.775,
+       "end": 48.173
+      },
+      {
+       "w": "each",
+       "start": 48.173,
+       "end": 48.51
+      },
+      {
+       "w": "of",
+       "start": 48.51,
+       "end": 48.725
+      },
+      {
+       "w": "a",
+       "start": 48.725,
+       "end": 48.878
+      },
+      {
+       "w": "secret",
+       "start": 48.878,
+       "end": 49.338
+      },
+      {
+       "w": "code.",
+       "start": 49.338,
+       "end": 49.675
+      }
+     ]
+    },
+    {
+     "text": "Four hundred and eight symbols.",
+     "start": 50.036,
+     "end": 51.693,
+     "words": [
+      {
+       "w": "Four",
+       "start": 50.036,
+       "end": 50.308
+      },
+      {
+       "w": "hundred",
+       "start": 50.308,
+       "end": 50.729
+      },
+      {
+       "w": "and",
+       "start": 50.729,
+       "end": 50.951
+      },
+      {
+       "w": "eight",
+       "start": 50.951,
+       "end": 51.273
+      },
+      {
+       "w": "symbols.",
+       "start": 51.273,
+       "end": 51.693
+      }
+     ]
+    },
+    {
+     "text": "Print it on your front page, he warned, or I kill again.",
+     "start": 52.117,
+     "end": 55.609,
+     "words": [
+      {
+       "w": "Print",
+       "start": 52.117,
+       "end": 52.402
+      },
+      {
+       "w": "it",
+       "start": 52.402,
+       "end": 52.556
+      },
+      {
+       "w": "on",
+       "start": 52.556,
+       "end": 52.71
+      },
+      {
+       "w": "your",
+       "start": 52.71,
+       "end": 52.951
+      },
+      {
+       "w": "front",
+       "start": 52.951,
+       "end": 53.236
+      },
+      {
+       "w": "page,",
+       "start": 53.236,
+       "end": 53.478
+      },
+      {
+       "w": "he",
+       "start": 53.729,
+       "end": 53.874
+      },
+      {
+       "w": "warned,",
+       "start": 53.874,
+       "end": 54.186
+      },
+      {
+       "w": "or",
+       "start": 54.593,
+       "end": 54.791
+      },
+      {
+       "w": "I",
+       "start": 54.791,
+       "end": 54.932
+      },
+      {
+       "w": "kill",
+       "start": 54.932,
+       "end": 55.242
+      },
+      {
+       "w": "again.",
+       "start": 55.242,
+       "end": 55.609
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "zodiac/vo/line6.mp3",
+   "start": 55.981,
+   "dur": 4.833,
+   "sentences": [
+    {
+     "text": "In his next letter, he gave himself a name.",
+     "start": 55.981,
+     "end": 58.547,
+     "words": [
+      {
+       "w": "In",
+       "start": 55.981,
+       "end": 56.147
+      },
+      {
+       "w": "his",
+       "start": 56.147,
+       "end": 56.359
+      },
+      {
+       "w": "next",
+       "start": 56.359,
+       "end": 56.619
+      },
+      {
+       "w": "letter,",
+       "start": 56.619,
+       "end": 56.974
+      },
+      {
+       "w": "he",
+       "start": 57.266,
+       "end": 57.442
+      },
+      {
+       "w": "gave",
+       "start": 57.442,
+       "end": 57.718
+      },
+      {
+       "w": "himself",
+       "start": 57.718,
+       "end": 58.145
+      },
+      {
+       "w": "a",
+       "start": 58.145,
+       "end": 58.27
+      },
+      {
+       "w": "name.",
+       "start": 58.27,
+       "end": 58.547
+      }
+     ]
+    },
+    {
+     "text": "This is the Zodiac speaking.",
+     "start": 58.941,
+     "end": 60.814,
+     "words": [
+      {
+       "w": "This",
+       "start": 58.941,
+       "end": 59.279
+      },
+      {
+       "w": "is",
+       "start": 59.279,
+       "end": 59.494
+      },
+      {
+       "w": "the",
+       "start": 59.494,
+       "end": 59.77
+      },
+      {
+       "w": "Zodiac",
+       "start": 59.77,
+       "end": 60.23
+      },
+      {
+       "w": "speaking.",
+       "start": 60.23,
+       "end": 60.814
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "zodiac/vo/line7.mp3",
+   "start": 60.964,
+   "dur": 8.777,
+   "sentences": [
+    {
+     "text": "Days later, a schoolteacher and his wife in Salinas cracked the code.",
+     "start": 60.964,
+     "end": 65.077,
+     "words": [
+      {
+       "w": "Days",
+       "start": 60.964,
+       "end": 61.314
+      },
+      {
+       "w": "later,",
+       "start": 61.314,
+       "end": 61.727
+      },
+      {
+       "w": "a",
+       "start": 61.944,
+       "end": 62.07
+      },
+      {
+       "w": "schoolteacher",
+       "start": 62.07,
+       "end": 62.803
+      },
+      {
+       "w": "and",
+       "start": 62.803,
+       "end": 63.03
+      },
+      {
+       "w": "his",
+       "start": 63.03,
+       "end": 63.258
+      },
+      {
+       "w": "wife",
+       "start": 63.258,
+       "end": 63.535
+      },
+      {
+       "w": "in",
+       "start": 63.535,
+       "end": 63.712
+      },
+      {
+       "w": "Salinas",
+       "start": 63.712,
+       "end": 64.142
+      },
+      {
+       "w": "cracked",
+       "start": 64.142,
+       "end": 64.571
+      },
+      {
+       "w": "the",
+       "start": 64.571,
+       "end": 64.799
+      },
+      {
+       "w": "code.",
+       "start": 64.799,
+       "end": 65.077
+      }
+     ]
+    },
+    {
+     "text": "It said he liked killing people.",
+     "start": 65.535,
+     "end": 67.32,
+     "words": [
+      {
+       "w": "It",
+       "start": 65.535,
+       "end": 65.714
+      },
+      {
+       "w": "said",
+       "start": 65.714,
+       "end": 65.994
+      },
+      {
+       "w": "he",
+       "start": 65.994,
+       "end": 66.173
+      },
+      {
+       "w": "liked",
+       "start": 66.173,
+       "end": 66.504
+      },
+      {
+       "w": "killing",
+       "start": 66.504,
+       "end": 66.938
+      },
+      {
+       "w": "people.",
+       "start": 66.938,
+       "end": 67.32
+      }
+     ]
+    },
+    {
+     "text": "But he would not give his real name.",
+     "start": 67.788,
+     "end": 69.741,
+     "words": [
+      {
+       "w": "But",
+       "start": 67.788,
+       "end": 68.008
+      },
+      {
+       "w": "he",
+       "start": 68.008,
+       "end": 68.179
+      },
+      {
+       "w": "would",
+       "start": 68.179,
+       "end": 68.496
+      },
+      {
+       "w": "not",
+       "start": 68.496,
+       "end": 68.716
+      },
+      {
+       "w": "give",
+       "start": 68.716,
+       "end": 68.984
+      },
+      {
+       "w": "his",
+       "start": 68.984,
+       "end": 69.204
+      },
+      {
+       "w": "real",
+       "start": 69.204,
+       "end": 69.472
+      },
+      {
+       "w": "name.",
+       "start": 69.472,
+       "end": 69.741
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "zodiac/vo/line8.mp3",
+   "start": 69.891,
+   "dur": 11.494,
+   "sentences": [
+    {
+     "text": "September 1969, Lake Berryessa.",
+     "start": 69.891,
+     "end": 71.75,
+     "words": [
+      {
+       "w": "September",
+       "start": 69.891,
+       "end": 70.501
+      },
+      {
+       "w": "1969,",
+       "start": 70.501,
+       "end": 70.82
+      },
+      {
+       "w": "Lake",
+       "start": 70.82,
+       "end": 71.14
+      },
+      {
+       "w": "Berryessa.",
+       "start": 71.14,
+       "end": 71.75
+      }
+     ]
+    },
+    {
+     "text": "He came in daylight, in a black hood with a white crosshair on the chest.",
+     "start": 72.211,
+     "end": 77.854,
+     "words": [
+      {
+       "w": "He",
+       "start": 72.211,
+       "end": 72.366
+      },
+      {
+       "w": "came",
+       "start": 72.366,
+       "end": 72.608
+      },
+      {
+       "w": "in",
+       "start": 72.608,
+       "end": 72.762
+      },
+      {
+       "w": "daylight,",
+       "start": 72.762,
+       "end": 73.181
+      },
+      {
+       "w": "in",
+       "start": 73.635,
+       "end": 73.892
+      },
+      {
+       "w": "a",
+       "start": 73.892,
+       "end": 74.076
+      },
+      {
+       "w": "black",
+       "start": 74.076,
+       "end": 74.552
+      },
+      {
+       "w": "hood",
+       "start": 74.552,
+       "end": 74.956
+      },
+      {
+       "w": "with",
+       "start": 74.956,
+       "end": 75.359
+      },
+      {
+       "w": "a",
+       "start": 75.359,
+       "end": 75.543
+      },
+      {
+       "w": "white",
+       "start": 75.543,
+       "end": 76.02
+      },
+      {
+       "w": "crosshair",
+       "start": 76.02,
+       "end": 76.79
+      },
+      {
+       "w": "on",
+       "start": 76.79,
+       "end": 77.047
+      },
+      {
+       "w": "the",
+       "start": 77.047,
+       "end": 77.377
+      },
+      {
+       "w": "chest.",
+       "start": 77.377,
+       "end": 77.854
+      }
+     ]
+    },
+    {
+     "text": "Another young couple.",
+     "start": 78.311,
+     "end": 79.434,
+     "words": [
+      {
+       "w": "Another",
+       "start": 78.311,
+       "end": 78.735
+      },
+      {
+       "w": "young",
+       "start": 78.735,
+       "end": 79.06
+      },
+      {
+       "w": "couple.",
+       "start": 79.06,
+       "end": 79.434
+      }
+     ]
+    },
+    {
+     "text": "Only the man survived.",
+     "start": 79.846,
+     "end": 81.385,
+     "words": [
+      {
+       "w": "Only",
+       "start": 79.846,
+       "end": 80.199
+      },
+      {
+       "w": "the",
+       "start": 80.199,
+       "end": 80.487
+      },
+      {
+       "w": "man",
+       "start": 80.487,
+       "end": 80.776
+      },
+      {
+       "w": "survived.",
+       "start": 80.776,
+       "end": 81.385
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "zodiac/vo/line9.mp3",
+   "start": 81.535,
+   "dur": 7.105,
+   "sentences": [
+    {
+     "text": "Before he left, he walked to their car and wrote on the door.",
+     "start": 81.535,
+     "end": 84.914,
+     "words": [
+      {
+       "w": "Before",
+       "start": 81.535,
+       "end": 81.962
+      },
+      {
+       "w": "he",
+       "start": 81.962,
+       "end": 82.161
+      },
+      {
+       "w": "left,",
+       "start": 82.161,
+       "end": 82.474
+      },
+      {
+       "w": "he",
+       "start": 82.754,
+       "end": 82.906
+      },
+      {
+       "w": "walked",
+       "start": 82.906,
+       "end": 83.23
+      },
+      {
+       "w": "to",
+       "start": 83.23,
+       "end": 83.381
+      },
+      {
+       "w": "their",
+       "start": 83.381,
+       "end": 83.661
+      },
+      {
+       "w": "car",
+       "start": 83.661,
+       "end": 83.856
+      },
+      {
+       "w": "and",
+       "start": 83.856,
+       "end": 84.05
+      },
+      {
+       "w": "wrote",
+       "start": 84.05,
+       "end": 84.331
+      },
+      {
+       "w": "on",
+       "start": 84.331,
+       "end": 84.482
+      },
+      {
+       "w": "the",
+       "start": 84.482,
+       "end": 84.677
+      },
+      {
+       "w": "door.",
+       "start": 84.677,
+       "end": 84.914
+      }
+     ]
+    },
+    {
+     "text": "The dates of every attack.",
+     "start": 85.371,
+     "end": 86.976,
+     "words": [
+      {
+       "w": "The",
+       "start": 85.371,
+       "end": 85.625
+      },
+      {
+       "w": "dates",
+       "start": 85.625,
+       "end": 85.991
+      },
+      {
+       "w": "of",
+       "start": 85.991,
+       "end": 86.188
+      },
+      {
+       "w": "every",
+       "start": 86.188,
+       "end": 86.554
+      },
+      {
+       "w": "attack.",
+       "start": 86.554,
+       "end": 86.976
+      }
+     ]
+    },
+    {
+     "text": "And his symbol.",
+     "start": 87.428,
+     "end": 88.368,
+     "words": [
+      {
+       "w": "And",
+       "start": 87.428,
+       "end": 87.685
+      },
+      {
+       "w": "his",
+       "start": 87.685,
+       "end": 87.941
+      },
+      {
+       "w": "symbol.",
+       "start": 87.941,
+       "end": 88.368
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "zodiac/vo/line10.mp3",
+   "start": 88.79,
+   "dur": 7.654,
+   "sentences": [
+    {
+     "text": "Two weeks later, San Francisco.",
+     "start": 88.79,
+     "end": 90.851,
+     "words": [
+      {
+       "w": "Two",
+       "start": 88.79,
+       "end": 89.004
+      },
+      {
+       "w": "weeks",
+       "start": 89.004,
+       "end": 89.313
+      },
+      {
+       "w": "later,",
+       "start": 89.313,
+       "end": 89.621
+      },
+      {
+       "w": "San",
+       "start": 89.995,
+       "end": 90.252
+      },
+      {
+       "w": "Francisco.",
+       "start": 90.252,
+       "end": 90.851
+      }
+     ]
+    },
+    {
+     "text": "A cab driver was shot in a wealthy neighborhood.",
+     "start": 91.311,
+     "end": 93.803,
+     "words": [
+      {
+       "w": "A",
+       "start": 91.311,
+       "end": 91.429
+      },
+      {
+       "w": "cab",
+       "start": 91.429,
+       "end": 91.643
+      },
+      {
+       "w": "driver",
+       "start": 91.643,
+       "end": 91.999
+      },
+      {
+       "w": "was",
+       "start": 91.999,
+       "end": 92.213
+      },
+      {
+       "w": "shot",
+       "start": 92.213,
+       "end": 92.474
+      },
+      {
+       "w": "in",
+       "start": 92.474,
+       "end": 92.64
+      },
+      {
+       "w": "a",
+       "start": 92.64,
+       "end": 92.759
+      },
+      {
+       "w": "wealthy",
+       "start": 92.759,
+       "end": 93.162
+      },
+      {
+       "w": "neighborhood.",
+       "start": 93.162,
+       "end": 93.803
+      }
+     ]
+    },
+    {
+     "text": "But this time, there were witnesses.",
+     "start": 94.265,
+     "end": 96.202,
+     "words": [
+      {
+       "w": "But",
+       "start": 94.265,
+       "end": 94.475
+      },
+      {
+       "w": "this",
+       "start": 94.475,
+       "end": 94.731
+      },
+      {
+       "w": "time,",
+       "start": 94.731,
+       "end": 94.988
+      },
+      {
+       "w": "there",
+       "start": 95.18,
+       "end": 95.475
+      },
+      {
+       "w": "were",
+       "start": 95.475,
+       "end": 95.725
+      },
+      {
+       "w": "witnesses.",
+       "start": 95.725,
+       "end": 96.202
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "zodiac/vo/line11.mp3",
+   "start": 96.594,
+   "dur": 9.326,
+   "sentences": [
+    {
+     "text": "Police raced to the scene.",
+     "start": 96.594,
+     "end": 98.066,
+     "words": [
+      {
+       "w": "Police",
+       "start": 96.594,
+       "end": 96.981
+      },
+      {
+       "w": "raced",
+       "start": 96.981,
+       "end": 97.317
+      },
+      {
+       "w": "to",
+       "start": 97.317,
+       "end": 97.498
+      },
+      {
+       "w": "the",
+       "start": 97.498,
+       "end": 97.73
+      },
+      {
+       "w": "scene.",
+       "start": 97.73,
+       "end": 98.066
+      }
+     ]
+    },
+    {
+     "text": "Two officers passed a man walking calmly away.",
+     "start": 98.534,
+     "end": 101.353,
+     "words": [
+      {
+       "w": "Two",
+       "start": 98.534,
+       "end": 98.787
+      },
+      {
+       "w": "officers",
+       "start": 98.787,
+       "end": 99.323
+      },
+      {
+       "w": "passed",
+       "start": 99.323,
+       "end": 99.746
+      },
+      {
+       "w": "a",
+       "start": 99.746,
+       "end": 99.887
+      },
+      {
+       "w": "man",
+       "start": 99.887,
+       "end": 100.141
+      },
+      {
+       "w": "walking",
+       "start": 100.141,
+       "end": 100.62
+      },
+      {
+       "w": "calmly",
+       "start": 100.62,
+       "end": 101.043
+      },
+      {
+       "w": "away.",
+       "start": 101.043,
+       "end": 101.353
+      }
+     ]
+    },
+    {
+     "text": "But the radio had given the wrong description.",
+     "start": 101.82,
+     "end": 104.075,
+     "words": [
+      {
+       "w": "But",
+       "start": 101.82,
+       "end": 102.023
+      },
+      {
+       "w": "the",
+       "start": 102.023,
+       "end": 102.226
+      },
+      {
+       "w": "radio",
+       "start": 102.226,
+       "end": 102.519
+      },
+      {
+       "w": "had",
+       "start": 102.519,
+       "end": 102.722
+      },
+      {
+       "w": "given",
+       "start": 102.722,
+       "end": 103.015
+      },
+      {
+       "w": "the",
+       "start": 103.015,
+       "end": 103.218
+      },
+      {
+       "w": "wrong",
+       "start": 103.218,
+       "end": 103.511
+      },
+      {
+       "w": "description.",
+       "start": 103.511,
+       "end": 104.075
+      }
+     ]
+    },
+    {
+     "text": "So they let him go.",
+     "start": 104.481,
+     "end": 105.92,
+     "words": [
+      {
+       "w": "So",
+       "start": 104.481,
+       "end": 104.715
+      },
+      {
+       "w": "they",
+       "start": 104.715,
+       "end": 105.083
+      },
+      {
+       "w": "let",
+       "start": 105.083,
+       "end": 105.384
+      },
+      {
+       "w": "him",
+       "start": 105.384,
+       "end": 105.685
+      },
+      {
+       "w": "go.",
+       "start": 105.685,
+       "end": 105.92
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "zodiac/vo/line12.mp3",
+   "start": 106.07,
+   "dur": 8.516,
+   "sentences": [
+    {
+     "text": "Days later, the Chronicle opened an envelope.",
+     "start": 106.07,
+     "end": 108.744,
+     "words": [
+      {
+       "w": "Days",
+       "start": 106.07,
+       "end": 106.417
+      },
+      {
+       "w": "later,",
+       "start": 106.417,
+       "end": 106.827
+      },
+      {
+       "w": "the",
+       "start": 107.087,
+       "end": 107.297
+      },
+      {
+       "w": "Chronicle",
+       "start": 107.297,
+       "end": 107.787
+      },
+      {
+       "w": "opened",
+       "start": 107.787,
+       "end": 108.137
+      },
+      {
+       "w": "an",
+       "start": 108.137,
+       "end": 108.3
+      },
+      {
+       "w": "envelope.",
+       "start": 108.3,
+       "end": 108.744
+      }
+     ]
+    },
+    {
+     "text": "Inside was a piece of the driver's shirt.",
+     "start": 109.21,
+     "end": 111.619,
+     "words": [
+      {
+       "w": "Inside",
+       "start": 109.21,
+       "end": 109.621
+      },
+      {
+       "w": "was",
+       "start": 109.621,
+       "end": 109.867
+      },
+      {
+       "w": "a",
+       "start": 109.867,
+       "end": 110.004
+      },
+      {
+       "w": "piece",
+       "start": 110.004,
+       "end": 110.36
+      },
+      {
+       "w": "of",
+       "start": 110.36,
+       "end": 110.551
+      },
+      {
+       "w": "the",
+       "start": 110.551,
+       "end": 110.798
+      },
+      {
+       "w": "driver's",
+       "start": 110.798,
+       "end": 111.263
+      },
+      {
+       "w": "shirt.",
+       "start": 111.263,
+       "end": 111.619
+      }
+     ]
+    },
+    {
+     "text": "And a threat to attack a school bus.",
+     "start": 112.051,
+     "end": 114.586,
+     "words": [
+      {
+       "w": "And",
+       "start": 112.051,
+       "end": 112.336
+      },
+      {
+       "w": "a",
+       "start": 112.336,
+       "end": 112.495
+      },
+      {
+       "w": "threat",
+       "start": 112.495,
+       "end": 112.97
+      },
+      {
+       "w": "to",
+       "start": 112.97,
+       "end": 113.192
+      },
+      {
+       "w": "attack",
+       "start": 113.192,
+       "end": 113.667
+      },
+      {
+       "w": "a",
+       "start": 113.667,
+       "end": 113.825
+      },
+      {
+       "w": "school",
+       "start": 113.825,
+       "end": 114.3
+      },
+      {
+       "w": "bus.",
+       "start": 114.3,
+       "end": 114.586
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "zodiac/vo/line13.mp3",
+   "start": 114.736,
+   "dur": 7.654,
+   "sentences": [
+    {
+     "text": "Then came a second code.",
+     "start": 114.736,
+     "end": 116.244,
+     "words": [
+      {
+       "w": "Then",
+       "start": 114.736,
+       "end": 115.049
+      },
+      {
+       "w": "came",
+       "start": 115.049,
+       "end": 115.362
+      },
+      {
+       "w": "a",
+       "start": 115.362,
+       "end": 115.504
+      },
+      {
+       "w": "second",
+       "start": 115.504,
+       "end": 115.931
+      },
+      {
+       "w": "code.",
+       "start": 115.931,
+       "end": 116.244
+      }
+     ]
+    },
+    {
+     "text": "Three hundred and forty symbols.",
+     "start": 116.676,
+     "end": 118.722,
+     "words": [
+      {
+       "w": "Three",
+       "start": 116.676,
+       "end": 117.062
+      },
+      {
+       "w": "hundred",
+       "start": 117.062,
+       "end": 117.566
+      },
+      {
+       "w": "and",
+       "start": 117.566,
+       "end": 117.833
+      },
+      {
+       "w": "forty",
+       "start": 117.833,
+       "end": 118.218
+      },
+      {
+       "w": "symbols.",
+       "start": 118.218,
+       "end": 118.722
+      }
+     ]
+    },
+    {
+     "text": "For fifty one years, nobody could crack it.",
+     "start": 119.177,
+     "end": 122.389,
+     "words": [
+      {
+       "w": "For",
+       "start": 119.177,
+       "end": 119.49
+      },
+      {
+       "w": "fifty",
+       "start": 119.49,
+       "end": 119.942
+      },
+      {
+       "w": "one",
+       "start": 119.942,
+       "end": 120.255
+      },
+      {
+       "w": "years,",
+       "start": 120.255,
+       "end": 120.708
+      },
+      {
+       "w": "nobody",
+       "start": 120.921,
+       "end": 121.38
+      },
+      {
+       "w": "could",
+       "start": 121.38,
+       "end": 121.777
+      },
+      {
+       "w": "crack",
+       "start": 121.777,
+       "end": 122.175
+      },
+      {
+       "w": "it.",
+       "start": 122.175,
+       "end": 122.389
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "zodiac/vo/line14.mp3",
+   "start": 122.539,
+   "dur": 9.613,
+   "sentences": [
+    {
+     "text": "In December 2020, three amateur codebreakers finally did.",
+     "start": 122.539,
+     "end": 126.659,
+     "words": [
+      {
+       "w": "In",
+       "start": 122.539,
+       "end": 122.803
+      },
+      {
+       "w": "December",
+       "start": 122.803,
+       "end": 123.519
+      },
+      {
+       "w": "2020,",
+       "start": 123.519,
+       "end": 123.933
+      },
+      {
+       "w": "three",
+       "start": 124.207,
+       "end": 124.591
+      },
+      {
+       "w": "amateur",
+       "start": 124.591,
+       "end": 125.093
+      },
+      {
+       "w": "codebreakers",
+       "start": 125.093,
+       "end": 125.89
+      },
+      {
+       "w": "finally",
+       "start": 125.89,
+       "end": 126.393
+      },
+      {
+       "w": "did.",
+       "start": 126.393,
+       "end": 126.659
+      }
+     ]
+    },
+    {
+     "text": "He hoped we were having fun trying to catch him.",
+     "start": 127.123,
+     "end": 129.393,
+     "words": [
+      {
+       "w": "He",
+       "start": 127.123,
+       "end": 127.272
+      },
+      {
+       "w": "hoped",
+       "start": 127.272,
+       "end": 127.551
+      },
+      {
+       "w": "we",
+       "start": 127.551,
+       "end": 127.701
+      },
+      {
+       "w": "were",
+       "start": 127.701,
+       "end": 127.936
+      },
+      {
+       "w": "having",
+       "start": 127.936,
+       "end": 128.258
+      },
+      {
+       "w": "fun",
+       "start": 128.258,
+       "end": 128.45
+      },
+      {
+       "w": "trying",
+       "start": 128.45,
+       "end": 128.772
+      },
+      {
+       "w": "to",
+       "start": 128.772,
+       "end": 128.922
+      },
+      {
+       "w": "catch",
+       "start": 128.922,
+       "end": 129.2
+      },
+      {
+       "w": "him.",
+       "start": 129.2,
+       "end": 129.393
+      }
+     ]
+    },
+    {
+     "text": "And he was not afraid of the gas chamber.",
+     "start": 129.81,
+     "end": 131.894,
+     "words": [
+      {
+       "w": "And",
+       "start": 129.81,
+       "end": 130.016
+      },
+      {
+       "w": "he",
+       "start": 130.016,
+       "end": 130.176
+      },
+      {
+       "w": "was",
+       "start": 130.176,
+       "end": 130.382
+      },
+      {
+       "w": "not",
+       "start": 130.382,
+       "end": 130.589
+      },
+      {
+       "w": "afraid",
+       "start": 130.589,
+       "end": 130.932
+      },
+      {
+       "w": "of",
+       "start": 130.932,
+       "end": 131.093
+      },
+      {
+       "w": "the",
+       "start": 131.093,
+       "end": 131.299
+      },
+      {
+       "w": "gas",
+       "start": 131.299,
+       "end": 131.505
+      },
+      {
+       "w": "chamber.",
+       "start": 131.505,
+       "end": 131.894
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "zodiac/vo/line15.mp3",
+   "start": 132.302,
+   "dur": 9.744,
+   "sentences": [
+    {
+     "text": "He claimed thirty seven victims.",
+     "start": 132.302,
+     "end": 134.26,
+     "words": [
+      {
+       "w": "He",
+       "start": 132.302,
+       "end": 132.501
+      },
+      {
+       "w": "claimed",
+       "start": 132.501,
+       "end": 132.983
+      },
+      {
+       "w": "thirty",
+       "start": 132.983,
+       "end": 133.409
+      },
+      {
+       "w": "seven",
+       "start": 133.409,
+       "end": 133.778
+      },
+      {
+       "w": "victims.",
+       "start": 133.778,
+       "end": 134.26
+      }
+     ]
+    },
+    {
+     "text": "Police can confirm five dead and two survivors.",
+     "start": 134.715,
+     "end": 137.731,
+     "words": [
+      {
+       "w": "Police",
+       "start": 134.715,
+       "end": 135.159
+      },
+      {
+       "w": "can",
+       "start": 135.159,
+       "end": 135.425
+      },
+      {
+       "w": "confirm",
+       "start": 135.425,
+       "end": 135.928
+      },
+      {
+       "w": "five",
+       "start": 135.928,
+       "end": 136.253
+      },
+      {
+       "w": "dead",
+       "start": 136.253,
+       "end": 136.578
+      },
+      {
+       "w": "and",
+       "start": 136.578,
+       "end": 136.844
+      },
+      {
+       "w": "two",
+       "start": 136.844,
+       "end": 137.11
+      },
+      {
+       "w": "survivors.",
+       "start": 137.11,
+       "end": 137.731
+      }
+     ]
+    },
+    {
+     "text": "Then, by 1974, the letters just stopped.",
+     "start": 138.187,
+     "end": 141.82,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 138.187,
+       "end": 138.6
+      },
+      {
+       "w": "by",
+       "start": 138.803,
+       "end": 139.341
+      },
+      {
+       "w": "1974,",
+       "start": 139.341,
+       "end": 140.188
+      },
+      {
+       "w": "the",
+       "start": 140.53,
+       "end": 140.745
+      },
+      {
+       "w": "letters",
+       "start": 140.745,
+       "end": 141.151
+      },
+      {
+       "w": "just",
+       "start": 141.151,
+       "end": 141.414
+      },
+      {
+       "w": "stopped.",
+       "start": 141.414,
+       "end": 141.82
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "zodiac/vo/line16.mp3",
+   "start": 142.196,
+   "dur": 12.016,
+   "sentences": [
+    {
+     "text": "Police had one main suspect, Arthur Leigh Allen.",
+     "start": 142.196,
+     "end": 145.676,
+     "words": [
+      {
+       "w": "Police",
+       "start": 142.196,
+       "end": 142.671
+      },
+      {
+       "w": "had",
+       "start": 142.671,
+       "end": 142.955
+      },
+      {
+       "w": "one",
+       "start": 142.955,
+       "end": 143.24
+      },
+      {
+       "w": "main",
+       "start": 143.24,
+       "end": 143.588
+      },
+      {
+       "w": "suspect,",
+       "start": 143.588,
+       "end": 144.126
+      },
+      {
+       "w": "Arthur",
+       "start": 144.514,
+       "end": 144.939
+      },
+      {
+       "w": "Leigh",
+       "start": 144.939,
+       "end": 145.308
+      },
+      {
+       "w": "Allen.",
+       "start": 145.308,
+       "end": 145.676
+      }
+     ]
+    },
+    {
+     "text": "But his prints, his handwriting, and a partial DNA test didn't match.",
+     "start": 146.152,
+     "end": 150.567,
+     "words": [
+      {
+       "w": "But",
+       "start": 146.152,
+       "end": 146.376
+      },
+      {
+       "w": "his",
+       "start": 146.376,
+       "end": 146.599
+      },
+      {
+       "w": "prints,",
+       "start": 146.599,
+       "end": 146.972
+      },
+      {
+       "w": "his",
+       "start": 147.155,
+       "end": 147.433
+      },
+      {
+       "w": "handwriting,",
+       "start": 147.433,
+       "end": 148.206
+      },
+      {
+       "w": "and",
+       "start": 148.206,
+       "end": 148.482
+      },
+      {
+       "w": "a",
+       "start": 148.482,
+       "end": 148.636
+      },
+      {
+       "w": "partial",
+       "start": 148.636,
+       "end": 149.157
+      },
+      {
+       "w": "DNA",
+       "start": 149.157,
+       "end": 149.433
+      },
+      {
+       "w": "test",
+       "start": 149.433,
+       "end": 149.77
+      },
+      {
+       "w": "didn't",
+       "start": 149.77,
+       "end": 150.169
+      },
+      {
+       "w": "match.",
+       "start": 150.169,
+       "end": 150.567
+      }
+     ]
+    },
+    {
+     "text": "He died in 1992, never charged.",
+     "start": 151.02,
+     "end": 153.936,
+     "words": [
+      {
+       "w": "He",
+       "start": 151.02,
+       "end": 151.351
+      },
+      {
+       "w": "died",
+       "start": 151.351,
+       "end": 151.871
+      },
+      {
+       "w": "in",
+       "start": 151.871,
+       "end": 152.202
+      },
+      {
+       "w": "1992,",
+       "start": 152.202,
+       "end": 152.721
+      },
+      {
+       "w": "never",
+       "start": 153.083,
+       "end": 153.453
+      },
+      {
+       "w": "charged.",
+       "start": 153.453,
+       "end": 153.936
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "zodiac/vo/line17.mp3",
+   "start": 154.362,
+   "dur": 12.591,
+   "sentences": [
+    {
+     "text": "The case is still open.",
+     "start": 154.362,
+     "end": 155.8,
+     "words": [
+      {
+       "w": "The",
+       "start": 154.362,
+       "end": 154.616
+      },
+      {
+       "w": "case",
+       "start": 154.616,
+       "end": 154.926
+      },
+      {
+       "w": "is",
+       "start": 154.926,
+       "end": 155.123
+      },
+      {
+       "w": "still",
+       "start": 155.123,
+       "end": 155.49
+      },
+      {
+       "w": "open.",
+       "start": 155.49,
+       "end": 155.8
+      }
+     ]
+    },
+    {
+     "text": "Who do you think the Zodiac was?",
+     "start": 156.247,
+     "end": 157.882,
+     "words": [
+      {
+       "w": "Who",
+       "start": 156.247,
+       "end": 156.455
+      },
+      {
+       "w": "do",
+       "start": 156.455,
+       "end": 156.616
+      },
+      {
+       "w": "you",
+       "start": 156.616,
+       "end": 156.823
+      },
+      {
+       "w": "think",
+       "start": 156.823,
+       "end": 157.122
+      },
+      {
+       "w": "the",
+       "start": 157.122,
+       "end": 157.329
+      },
+      {
+       "w": "Zodiac",
+       "start": 157.329,
+       "end": 157.675
+      },
+      {
+       "w": "was?",
+       "start": 157.675,
+       "end": 157.882
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 158.274,
+     "end": 159.26,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 158.274,
+       "end": 158.479
+      },
+      {
+       "w": "me",
+       "start": 158.479,
+       "end": 158.609
+      },
+      {
+       "w": "in",
+       "start": 158.609,
+       "end": 158.74
+      },
+      {
+       "w": "the",
+       "start": 158.74,
+       "end": 158.907
+      },
+      {
+       "w": "comments.",
+       "start": 158.907,
+       "end": 159.26
+      }
+     ]
+    },
+    {
+     "text": "Then watch our short on the killer who drank with the cops hunting him.",
+     "start": 159.661,
+     "end": 163.427,
+     "words": [
+      {
+       "w": "Then",
+       "start": 159.661,
+       "end": 159.927
+      },
+      {
+       "w": "watch",
+       "start": 159.927,
+       "end": 160.241
+      },
+      {
+       "w": "our",
+       "start": 160.241,
+       "end": 160.458
+      },
+      {
+       "w": "short",
+       "start": 160.458,
+       "end": 160.772
+      },
+      {
+       "w": "on",
+       "start": 160.772,
+       "end": 160.941
+      },
+      {
+       "w": "the",
+       "start": 160.941,
+       "end": 161.158
+      },
+      {
+       "w": "killer",
+       "start": 161.158,
+       "end": 161.52
+      },
+      {
+       "w": "who",
+       "start": 161.52,
+       "end": 161.738
+      },
+      {
+       "w": "drank",
+       "start": 161.738,
+       "end": 162.051
+      },
+      {
+       "w": "with",
+       "start": 162.051,
+       "end": 162.317
+      },
+      {
+       "w": "the",
+       "start": 162.317,
+       "end": 162.534
+      },
+      {
+       "w": "cops",
+       "start": 162.534,
+       "end": 162.8
+      },
+      {
+       "w": "hunting",
+       "start": 162.8,
+       "end": 163.21
+      },
+      {
+       "w": "him.",
+       "start": 163.21,
+       "end": 163.427
+      }
+     ]
+    },
+    {
+     "text": "And follow for a new unsolved mystery every day.",
+     "start": 163.811,
+     "end": 166.705,
+     "words": [
+      {
+       "w": "And",
+       "start": 163.811,
+       "end": 164.059
+      },
+      {
+       "w": "follow",
+       "start": 164.059,
+       "end": 164.473
+      },
+      {
+       "w": "for",
+       "start": 164.473,
+       "end": 164.721
+      },
+      {
+       "w": "a",
+       "start": 164.721,
+       "end": 164.859
+      },
+      {
+       "w": "new",
+       "start": 164.859,
+       "end": 165.107
+      },
+      {
+       "w": "unsolved",
+       "start": 165.107,
+       "end": 165.63
+      },
+      {
+       "w": "mystery",
+       "start": 165.63,
+       "end": 166.099
+      },
+      {
+       "w": "every",
+       "start": 166.099,
+       "end": 166.457
+      },
+      {
+       "w": "day.",
+       "start": 166.457,
+       "end": 166.705
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

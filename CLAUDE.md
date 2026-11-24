@@ -68,6 +68,9 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
   + PD Navy photos; music re-used from MH370; portrait thumbnail `Flight19Thumb`.
 - `Sodder` — the Sodder children (1945); `src/sodder/`, `public/sodder/{vo,ai,photos,cta,music.mp3}`. Evidence-board style +
   4 AI stills; children shown only as silhouettes (no licensed photos); music re-used from Mary Celeste; thumbnail `SodderThumb`.
+- `Zodiac` — the Zodiac Killer (1968–1974); `src/zodiac/`, `public/zodiac/{vo,ai,photos,cta,music.mp3}`. Evidence-board style + 3 AI stills,
+  SFPD wanted poster + suspect DMV photo (PD); victims not named or shown; music re-used from Kemper; first Short with the
+  "follow for a new unsolved mystery every day" line; thumbnail `ZodiacThumb`.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.
 
 ## Commands
