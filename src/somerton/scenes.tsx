@@ -22,7 +22,7 @@ const Framed: React.FC<{src: string; t: number; top?: number; h?: number; s0?: n
   <AbsoluteFill>
     <Img src={staticFile(src)} style={{position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', filter: 'blur(24px) brightness(0.35)', transform: 'scale(1.2)'}} />
     <div style={{position: 'absolute', left: 40, right: 40, top, height: h, display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
-      <Img src={staticFile(src)} style={{maxWidth: '100%', maxHeight: '100%', objectFit: 'contain', transform: `scale(${lerp(s0, s1, t)})`, boxShadow: '0 30px 60px #000'}} />
+      <Img src={staticFile(src)} style={{width: '100%', height: '100%', objectFit: 'contain', transform: `scale(${lerp(s0, s1, t)})`, filter: 'drop-shadow(0 30px 40px #000)'}} />
     </div>
   </AbsoluteFill>
 );
