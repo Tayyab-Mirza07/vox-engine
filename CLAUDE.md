@@ -73,6 +73,9 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
   "follow for a new unsolved mystery every day" line; thumbnail `ZodiacThumb`.
 - `Dunbar` — Bobby Dunbar (1912 / DNA 2004); `src/dunbar/`, `public/dunbar/{vo,ai,photos,music.mp3}`. First "viral short" format
   (~67 s, one reveal, loop ending, on-screen FOLLOW button); 3 PD photos + 2 AI stills; music re-used from Sodder; thumbnail `DunbarThumb`.
+- `Somerton` — the Somerton Man / Tamám Shud (1948 / named 2022); `src/somerton/`, `public/somerton/{vo,ai,photos,cta,music.mp3}`.
+  2:39 deep-dive, evidence board + 5 PD police photos + 3 AI stills; nurse not named, her son only a silhouette;
+  music re-used from Fitzgerald; CTA to Zodiac; thumbnail `SomertonThumb`.
 - Viral cuts of finished Shorts: `scripts/cut-short.py <in> <out> a-b c-d …` (covers the progress bar, loudnorms) →
   `videos/mh370-cut.mp4`, `videos/sodder-cut.mp4`.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.

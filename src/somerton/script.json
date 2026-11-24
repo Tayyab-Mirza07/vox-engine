@@ -1,0 +1,50 @@
+{
+  "title": "A Dead Man, a Secret Code and Two Words: Tamám Shud",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.3,
+  "tail": 0.8,
+  "spoken": {
+    "1948.": "nineteen forty eight",
+    "2021,": "twenty twenty one",
+    "2022,": "twenty twenty two"
+  },
+  "lines": [
+    "A dead man on a beach. Every label cut out of his clothes. And hidden in a secret pocket, two words torn from a book of poems. Tamám Shud. It means, it is finished.",
+    "December 1st, 1948. Somerton Beach, Adelaide, Australia. A well dressed man is found slumped against the seawall. No wallet. No ID. No name.",
+    "He looked perfectly healthy. Doctors suspected poison. But they could never find one.",
+    "And his shoes were clean and polished. As if he had never walked across the sand at all.",
+    "His photo and fingerprints were sent around the world. Nobody knew who he was.",
+    "Then the clues started getting strange.",
+    "A month later, his suitcase turned up at the city's train station. Every label had been cut off. Again.",
+    "Then a pathologist found a tiny rolled up paper, hidden in a secret pocket of his trousers. Two words. Tamám Shud.",
+    "Police traced them to a rare book of Persian poetry. And then a man walked in with the actual copy. He had found it in his car, near the beach.",
+    "The last page was torn out. And on the back cover, pressed into the paper, were five lines of strange letters. A code.",
+    "Nobody has ever cracked it. Not the police. Not navy codebreakers. Not modern computers.",
+    "There was one more thing on that cover. A phone number. It belonged to a nurse who lived just four hundred meters from where he died.",
+    "Police showed her a cast of his face. A detective said she looked like she might faint. But she swore she had never seen him.",
+    "Decades later, researchers noticed something chilling. Her young son had the same rare ear shape as the dead man. And the same rare missing teeth. Both traits show up in only about two people in a hundred.",
+    "For seventy four years, he had no name. Then, in 2021, they dug him up.",
+    "A professor and a genealogist built his family tree from DNA in his hair. In 2022, they announced his name. Carl Webb. An electrical engineer from Melbourne.",
+    "He had walked out on his marriage the year before. But why he came to that beach, what killed him, and what the code says, no one knows.",
+    "Officially, the case is still open. Can you crack the code? Tell me in the comments. Then watch our Zodiac short, the killer whose code took fifty one years. And follow for a new mystery every day."
+  ],
+  "structure": {
+    "hook": "line 0: dead man, labels cut out, hidden 'Tamám Shud' slip (cold open, not whispered)",
+    "5W1H": "who (unknown man, later Carl 'Charles' Webb; the nurse), what (unidentified death, hidden slip, code), when (1 Dec 1948; 1949; exhumed 2021; named 2022), where (Somerton Beach, Adelaide; Glenelg; Melbourne), how (suspected poison, none found), why (unknown: code, nurse, motive)",
+    "rehooks": [
+      "line 5: the clues started getting strange",
+      "line 11: one more thing on that cover — a phone number",
+      "line 13: the nurse's son shared two rare traits with the dead man",
+      "line 14: 74 years without a name, then they dug him up"
+    ],
+    "tension": "lines 1-11",
+    "release": "line 13: DNA gives him a name",
+    "payoff": "line 14: the name explains nothing — cause, reason and code still unknown",
+    "cta": "line 15: comment question + Zodiac Short (thumbnail) + follow line"
+  },
+  "notes": "Sources: Wikipedia 'Somerton Man'; University of Adelaide (Derek Abbott) and Colleen Fitzpatrick announcement, July 2022; SA Police statements (exhumation May 2021). Body found 1 Dec 1948 at Somerton Park beach, Adelaide; no ID, clothing labels removed. Pathologist believed poison; none detected. Prints and photo circulated internationally. Suitcase with labels removed found at Adelaide railway station cloakroom, Jan 1949. 'Tamám Shud' slip found in a fob pocket; traced to Rubaiyat of Omar Khayyam; a man handed police a copy found in his car at Glenelg; final page torn; back cover had indentations of five lines of letters and a phone number of a nurse (Jessica 'Jo' Thomson) living ~400 m from the site; detective said she appeared about to faint on seeing the bust; she denied knowing him. Navy/intelligence examined the code; never solved. Exhumed 2021; 2022 identification as Carl 'Charles' Webb (b. 1905, electrical engineer/instrument maker, Melbourne) via hair DNA + genealogy; separated from wife Dorothy in 1947. SA Police had not formally confirmed the ID at the time of the announcement; case treated as open. Added: his shoes were clean and polished (reported at the inquest). Derek Abbott noted the nurse's son Robin shared a cymba larger than cavum (ear) and hypodontia with the Somerton Man; each trait occurs in roughly 1-2% of people (presented as 'about two in a hundred')."
+}

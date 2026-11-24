@@ -1,0 +1,2605 @@
+{
+ "total": 158.966,
+ "lines": [
+  {
+   "index": 0,
+   "file": "somerton/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 12.042,
+   "sentences": [
+    {
+     "text": "A dead man on a beach.",
+     "start": 0.25,
+     "end": 1.628,
+     "words": [
+      {
+       "w": "A",
+       "start": 0.25,
+       "end": 0.388
+      },
+      {
+       "w": "dead",
+       "start": 0.388,
+       "end": 0.691
+      },
+      {
+       "w": "man",
+       "start": 0.691,
+       "end": 0.939
+      },
+      {
+       "w": "on",
+       "start": 0.939,
+       "end": 1.132
+      },
+      {
+       "w": "a",
+       "start": 1.132,
+       "end": 1.27
+      },
+      {
+       "w": "beach.",
+       "start": 1.27,
+       "end": 1.628
+      }
+     ]
+    },
+    {
+     "text": "Every label cut out of his clothes.",
+     "start": 1.978,
+     "end": 4.044,
+     "words": [
+      {
+       "w": "Every",
+       "start": 1.978,
+       "end": 2.327
+      },
+      {
+       "w": "label",
+       "start": 2.327,
+       "end": 2.676
+      },
+      {
+       "w": "cut",
+       "start": 2.676,
+       "end": 2.917
+      },
+      {
+       "w": "out",
+       "start": 2.917,
+       "end": 3.159
+      },
+      {
+       "w": "of",
+       "start": 3.159,
+       "end": 3.347
+      },
+      {
+       "w": "his",
+       "start": 3.347,
+       "end": 3.588
+      },
+      {
+       "w": "clothes.",
+       "start": 3.588,
+       "end": 4.044
+      }
+     ]
+    },
+    {
+     "text": "And hidden in a secret pocket, two words torn from a book of poems.",
+     "start": 4.442,
+     "end": 8.442,
+     "words": [
+      {
+       "w": "And",
+       "start": 4.442,
+       "end": 4.64
+      },
+      {
+       "w": "hidden",
+       "start": 4.64,
+       "end": 4.971
+      },
+      {
+       "w": "in",
+       "start": 4.971,
+       "end": 5.125
+      },
+      {
+       "w": "a",
+       "start": 5.125,
+       "end": 5.235
+      },
+      {
+       "w": "secret",
+       "start": 5.235,
+       "end": 5.565
+      },
+      {
+       "w": "pocket,",
+       "start": 5.565,
+       "end": 5.895
+      },
+      {
+       "w": "two",
+       "start": 6.117,
+       "end": 6.378
+      },
+      {
+       "w": "words",
+       "start": 6.378,
+       "end": 6.756
+      },
+      {
+       "w": "torn",
+       "start": 6.756,
+       "end": 7.076
+      },
+      {
+       "w": "from",
+       "start": 7.076,
+       "end": 7.396
+      },
+      {
+       "w": "a",
+       "start": 7.396,
+       "end": 7.541
+      },
+      {
+       "w": "book",
+       "start": 7.541,
+       "end": 7.861
+      },
+      {
+       "w": "of",
+       "start": 7.861,
+       "end": 8.064
+      },
+      {
+       "w": "poems.",
+       "start": 8.064,
+       "end": 8.442
+      }
+     ]
+    },
+    {
+     "text": "Tamám Shud.",
+     "start": 8.901,
+     "end": 9.765,
+     "words": [
+      {
+       "w": "Tamám",
+       "start": 8.901,
+       "end": 9.333
+      },
+      {
+       "w": "Shud.",
+       "start": 9.333,
+       "end": 9.765
+      }
+     ]
+    },
+    {
+     "text": "It means, it is finished.",
+     "start": 10.231,
+     "end": 12.005,
+     "words": [
+      {
+       "w": "It",
+       "start": 10.231,
+       "end": 10.427
+      },
+      {
+       "w": "means,",
+       "start": 10.427,
+       "end": 10.792
+      },
+      {
+       "w": "it",
+       "start": 11.221,
+       "end": 11.388
+      },
+      {
+       "w": "is",
+       "start": 11.388,
+       "end": 11.554
+      },
+      {
+       "w": "finished.",
+       "start": 11.554,
+       "end": 12.005
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "somerton/vo/line1.mp3",
+   "start": 12.592,
+   "dur": 11.572,
+   "sentences": [
+    {
+     "text": "December 1st, 1948.",
+     "start": 12.592,
+     "end": 14.729,
+     "words": [
+      {
+       "w": "December",
+       "start": 12.592,
+       "end": 13.633
+      },
+      {
+       "w": "1st,",
+       "start": 13.633,
+       "end": 14.126
+      },
+      {
+       "w": "1948.",
+       "start": 14.126,
+       "end": 14.729
+      }
+     ]
+    },
+    {
+     "text": "Somerton Beach, Adelaide, Australia.",
+     "start": 15.178,
+     "end": 17.462,
+     "words": [
+      {
+       "w": "Somerton",
+       "start": 15.178,
+       "end": 15.698
+      },
+      {
+       "w": "Beach,",
+       "start": 15.698,
+       "end": 16.054
+      },
+      {
+       "w": "Adelaide,",
+       "start": 16.306,
+       "end": 16.796
+      },
+      {
+       "w": "Australia.",
+       "start": 16.796,
+       "end": 17.462
+      }
+     ]
+    },
+    {
+     "text": "A well dressed man is found slumped against the seawall.",
+     "start": 17.92,
+     "end": 20.783,
+     "words": [
+      {
+       "w": "A",
+       "start": 17.92,
+       "end": 18.037
+      },
+      {
+       "w": "well",
+       "start": 18.037,
+       "end": 18.296
+      },
+      {
+       "w": "dressed",
+       "start": 18.296,
+       "end": 18.695
+      },
+      {
+       "w": "man",
+       "start": 18.695,
+       "end": 18.906
+      },
+      {
+       "w": "is",
+       "start": 18.906,
+       "end": 19.07
+      },
+      {
+       "w": "found",
+       "start": 19.07,
+       "end": 19.375
+      },
+      {
+       "w": "slumped",
+       "start": 19.375,
+       "end": 19.774
+      },
+      {
+       "w": "against",
+       "start": 19.774,
+       "end": 20.173
+      },
+      {
+       "w": "the",
+       "start": 20.173,
+       "end": 20.384
+      },
+      {
+       "w": "seawall.",
+       "start": 20.384,
+       "end": 20.783
+      }
+     ]
+    },
+    {
+     "text": "No wallet.",
+     "start": 21.248,
+     "end": 21.867,
+     "words": [
+      {
+       "w": "No",
+       "start": 21.248,
+       "end": 21.445
+      },
+      {
+       "w": "wallet.",
+       "start": 21.445,
+       "end": 21.867
+      }
+     ]
+    },
+    {
+     "text": "No ID.",
+     "start": 22.204,
+     "end": 22.942,
+     "words": [
+      {
+       "w": "No",
+       "start": 22.204,
+       "end": 22.573
+      },
+      {
+       "w": "ID.",
+       "start": 22.573,
+       "end": 22.942
+      }
+     ]
+    },
+    {
+     "text": "No name.",
+     "start": 23.309,
+     "end": 23.879,
+     "words": [
+      {
+       "w": "No",
+       "start": 23.309,
+       "end": 23.531
+      },
+      {
+       "w": "name.",
+       "start": 23.531,
+       "end": 23.879
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "somerton/vo/line2.mp3",
+   "start": 24.465,
+   "dur": 5.616,
+   "sentences": [
+    {
+     "text": "He looked perfectly healthy.",
+     "start": 24.465,
+     "end": 25.854,
+     "words": [
+      {
+       "w": "He",
+       "start": 24.465,
+       "end": 24.627
+      },
+      {
+       "w": "looked",
+       "start": 24.627,
+       "end": 24.974
+      },
+      {
+       "w": "perfectly",
+       "start": 24.974,
+       "end": 25.461
+      },
+      {
+       "w": "healthy.",
+       "start": 25.461,
+       "end": 25.854
+      }
+     ]
+    },
+    {
+     "text": "Doctors suspected poison.",
+     "start": 26.319,
+     "end": 28.061,
+     "words": [
+      {
+       "w": "Doctors",
+       "start": 26.319,
+       "end": 26.878
+      },
+      {
+       "w": "suspected",
+       "start": 26.878,
+       "end": 27.568
+      },
+      {
+       "w": "poison.",
+       "start": 27.568,
+       "end": 28.061
+      }
+     ]
+    },
+    {
+     "text": "But they could never find one.",
+     "start": 28.505,
+     "end": 29.881,
+     "words": [
+      {
+       "w": "But",
+       "start": 28.505,
+       "end": 28.693
+      },
+      {
+       "w": "they",
+       "start": 28.693,
+       "end": 28.922
+      },
+      {
+       "w": "could",
+       "start": 28.922,
+       "end": 29.193
+      },
+      {
+       "w": "never",
+       "start": 29.193,
+       "end": 29.464
+      },
+      {
+       "w": "find",
+       "start": 29.464,
+       "end": 29.693
+      },
+      {
+       "w": "one.",
+       "start": 29.693,
+       "end": 29.881
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "somerton/vo/line3.mp3",
+   "start": 30.381,
+   "dur": 5.303,
+   "sentences": [
+    {
+     "text": "And his shoes were clean and polished.",
+     "start": 30.381,
+     "end": 32.618,
+     "words": [
+      {
+       "w": "And",
+       "start": 30.381,
+       "end": 30.624
+      },
+      {
+       "w": "his",
+       "start": 30.624,
+       "end": 30.866
+      },
+      {
+       "w": "shoes",
+       "start": 30.866,
+       "end": 31.216
+      },
+      {
+       "w": "were",
+       "start": 31.216,
+       "end": 31.513
+      },
+      {
+       "w": "clean",
+       "start": 31.513,
+       "end": 31.863
+      },
+      {
+       "w": "and",
+       "start": 31.863,
+       "end": 32.106
+      },
+      {
+       "w": "polished.",
+       "start": 32.106,
+       "end": 32.618
+      }
+     ]
+    },
+    {
+     "text": "As if he had never walked across the sand at all.",
+     "start": 33.056,
+     "end": 35.468,
+     "words": [
+      {
+       "w": "As",
+       "start": 33.056,
+       "end": 33.211
+      },
+      {
+       "w": "if",
+       "start": 33.211,
+       "end": 33.366
+      },
+      {
+       "w": "he",
+       "start": 33.366,
+       "end": 33.521
+      },
+      {
+       "w": "had",
+       "start": 33.521,
+       "end": 33.72
+      },
+      {
+       "w": "never",
+       "start": 33.72,
+       "end": 34.007
+      },
+      {
+       "w": "walked",
+       "start": 34.007,
+       "end": 34.339
+      },
+      {
+       "w": "across",
+       "start": 34.339,
+       "end": 34.671
+      },
+      {
+       "w": "the",
+       "start": 34.671,
+       "end": 34.87
+      },
+      {
+       "w": "sand",
+       "start": 34.87,
+       "end": 35.114
+      },
+      {
+       "w": "at",
+       "start": 35.114,
+       "end": 35.269
+      },
+      {
+       "w": "all.",
+       "start": 35.269,
+       "end": 35.468
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "somerton/vo/line4.mp3",
+   "start": 35.984,
+   "dur": 5.198,
+   "sentences": [
+    {
+     "text": "His photo and fingerprints were sent around the world.",
+     "start": 35.984,
+     "end": 38.971,
+     "words": [
+      {
+       "w": "His",
+       "start": 35.984,
+       "end": 36.214
+      },
+      {
+       "w": "photo",
+       "start": 36.214,
+       "end": 36.546
+      },
+      {
+       "w": "and",
+       "start": 36.546,
+       "end": 36.775
+      },
+      {
+       "w": "fingerprints",
+       "start": 36.775,
+       "end": 37.465
+      },
+      {
+       "w": "were",
+       "start": 37.465,
+       "end": 37.746
+      },
+      {
+       "w": "sent",
+       "start": 37.746,
+       "end": 38.026
+      },
+      {
+       "w": "around",
+       "start": 38.026,
+       "end": 38.409
+      },
+      {
+       "w": "the",
+       "start": 38.409,
+       "end": 38.639
+      },
+      {
+       "w": "world.",
+       "start": 38.639,
+       "end": 38.971
+      }
+     ]
+    },
+    {
+     "text": "Nobody knew who he was.",
+     "start": 39.43,
+     "end": 40.983,
+     "words": [
+      {
+       "w": "Nobody",
+       "start": 39.43,
+       "end": 39.887
+      },
+      {
+       "w": "knew",
+       "start": 39.887,
+       "end": 40.222
+      },
+      {
+       "w": "who",
+       "start": 40.222,
+       "end": 40.496
+      },
+      {
+       "w": "he",
+       "start": 40.496,
+       "end": 40.709
+      },
+      {
+       "w": "was.",
+       "start": 40.709,
+       "end": 40.983
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "somerton/vo/line5.mp3",
+   "start": 41.482,
+   "dur": 3.03,
+   "sentences": [
+    {
+     "text": "Then the clues started getting strange.",
+     "start": 41.482,
+     "end": 44.512,
+     "words": [
+      {
+       "w": "Then",
+       "start": 41.482,
+       "end": 41.879
+      },
+      {
+       "w": "the",
+       "start": 41.879,
+       "end": 42.204
+      },
+      {
+       "w": "clues",
+       "start": 42.204,
+       "end": 42.673
+      },
+      {
+       "w": "started",
+       "start": 42.673,
+       "end": 43.286
+      },
+      {
+       "w": "getting",
+       "start": 43.286,
+       "end": 43.899
+      },
+      {
+       "w": "strange.",
+       "start": 43.899,
+       "end": 44.512
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "somerton/vo/line6.mp3",
+   "start": 44.812,
+   "dur": 7.053,
+   "sentences": [
+    {
+     "text": "A month later, his suitcase turned up at the city's train station.",
+     "start": 44.812,
+     "end": 48.44,
+     "words": [
+      {
+       "w": "A",
+       "start": 44.812,
+       "end": 44.944
+      },
+      {
+       "w": "month",
+       "start": 44.944,
+       "end": 45.285
+      },
+      {
+       "w": "later,",
+       "start": 45.285,
+       "end": 45.626
+      },
+      {
+       "w": "his",
+       "start": 45.885,
+       "end": 46.096
+      },
+      {
+       "w": "suitcase",
+       "start": 46.096,
+       "end": 46.541
+      },
+      {
+       "w": "turned",
+       "start": 46.541,
+       "end": 46.893
+      },
+      {
+       "w": "up",
+       "start": 46.893,
+       "end": 47.057
+      },
+      {
+       "w": "at",
+       "start": 47.057,
+       "end": 47.221
+      },
+      {
+       "w": "the",
+       "start": 47.221,
+       "end": 47.432
+      },
+      {
+       "w": "city's",
+       "start": 47.432,
+       "end": 47.737
+      },
+      {
+       "w": "train",
+       "start": 47.737,
+       "end": 48.042
+      },
+      {
+       "w": "station.",
+       "start": 48.042,
+       "end": 48.44
+      }
+     ]
+    },
+    {
+     "text": "Every label had been cut off.",
+     "start": 48.892,
+     "end": 50.628,
+     "words": [
+      {
+       "w": "Every",
+       "start": 48.892,
+       "end": 49.244
+      },
+      {
+       "w": "label",
+       "start": 49.244,
+       "end": 49.597
+      },
+      {
+       "w": "had",
+       "start": 49.597,
+       "end": 49.841
+      },
+      {
+       "w": "been",
+       "start": 49.841,
+       "end": 50.14
+      },
+      {
+       "w": "cut",
+       "start": 50.14,
+       "end": 50.384
+      },
+      {
+       "w": "off.",
+       "start": 50.384,
+       "end": 50.628
+      }
+     ]
+    },
+    {
+     "text": "Again.",
+     "start": 51.042,
+     "end": 51.644,
+     "words": [
+      {
+       "w": "Again.",
+       "start": 51.042,
+       "end": 51.644
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "somerton/vo/line7.mp3",
+   "start": 52.166,
+   "dur": 8.699,
+   "sentences": [
+    {
+     "text": "Then a pathologist found a tiny rolled up paper, hidden in a secret pocket of his trousers.",
+     "start": 52.166,
+     "end": 57.911,
+     "words": [
+      {
+       "w": "Then",
+       "start": 52.166,
+       "end": 52.507
+      },
+      {
+       "w": "a",
+       "start": 52.507,
+       "end": 52.662
+      },
+      {
+       "w": "pathologist",
+       "start": 52.662,
+       "end": 53.439
+      },
+      {
+       "w": "found",
+       "start": 53.439,
+       "end": 53.842
+      },
+      {
+       "w": "a",
+       "start": 53.842,
+       "end": 53.997
+      },
+      {
+       "w": "tiny",
+       "start": 53.997,
+       "end": 54.339
+      },
+      {
+       "w": "rolled",
+       "start": 54.339,
+       "end": 54.805
+      },
+      {
+       "w": "up",
+       "start": 54.805,
+       "end": 55.022
+      },
+      {
+       "w": "paper,",
+       "start": 55.022,
+       "end": 55.426
+      },
+      {
+       "w": "hidden",
+       "start": 55.682,
+       "end": 56.046
+      },
+      {
+       "w": "in",
+       "start": 56.046,
+       "end": 56.215
+      },
+      {
+       "w": "a",
+       "start": 56.215,
+       "end": 56.337
+      },
+      {
+       "w": "secret",
+       "start": 56.337,
+       "end": 56.7
+      },
+      {
+       "w": "pocket",
+       "start": 56.7,
+       "end": 57.063
+      },
+      {
+       "w": "of",
+       "start": 57.063,
+       "end": 57.233
+      },
+      {
+       "w": "his",
+       "start": 57.233,
+       "end": 57.451
+      },
+      {
+       "w": "trousers.",
+       "start": 57.451,
+       "end": 57.911
+      }
+     ]
+    },
+    {
+     "text": "Two words.",
+     "start": 58.366,
+     "end": 59.124,
+     "words": [
+      {
+       "w": "Two",
+       "start": 58.366,
+       "end": 58.676
+      },
+      {
+       "w": "words.",
+       "start": 58.676,
+       "end": 59.124
+      }
+     ]
+    },
+    {
+     "text": "Tamám Shud.",
+     "start": 59.558,
+     "end": 60.556,
+     "words": [
+      {
+       "w": "Tamám",
+       "start": 59.558,
+       "end": 60.057
+      },
+      {
+       "w": "Shud.",
+       "start": 60.057,
+       "end": 60.556
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "somerton/vo/line8.mp3",
+   "start": 61.164,
+   "dur": 9.639,
+   "sentences": [
+    {
+     "text": "Police traced them to a rare book of Persian poetry.",
+     "start": 61.164,
+     "end": 64.383,
+     "words": [
+      {
+       "w": "Police",
+       "start": 61.164,
+       "end": 61.588
+      },
+      {
+       "w": "traced",
+       "start": 61.588,
+       "end": 62.011
+      },
+      {
+       "w": "them",
+       "start": 62.011,
+       "end": 62.322
+      },
+      {
+       "w": "to",
+       "start": 62.322,
+       "end": 62.52
+      },
+      {
+       "w": "a",
+       "start": 62.52,
+       "end": 62.661
+      },
+      {
+       "w": "rare",
+       "start": 62.661,
+       "end": 62.971
+      },
+      {
+       "w": "book",
+       "start": 62.971,
+       "end": 63.282
+      },
+      {
+       "w": "of",
+       "start": 63.282,
+       "end": 63.48
+      },
+      {
+       "w": "Persian",
+       "start": 63.48,
+       "end": 63.959
+      },
+      {
+       "w": "poetry.",
+       "start": 63.959,
+       "end": 64.383
+      }
+     ]
+    },
+    {
+     "text": "And then a man walked in with the actual copy.",
+     "start": 64.843,
+     "end": 67.876,
+     "words": [
+      {
+       "w": "And",
+       "start": 64.843,
+       "end": 65.111
+      },
+      {
+       "w": "then",
+       "start": 65.111,
+       "end": 65.438
+      },
+      {
+       "w": "a",
+       "start": 65.438,
+       "end": 65.586
+      },
+      {
+       "w": "man",
+       "start": 65.586,
+       "end": 65.854
+      },
+      {
+       "w": "walked",
+       "start": 65.854,
+       "end": 66.3
+      },
+      {
+       "w": "in",
+       "start": 66.3,
+       "end": 66.508
+      },
+      {
+       "w": "with",
+       "start": 66.508,
+       "end": 66.835
+      },
+      {
+       "w": "the",
+       "start": 66.835,
+       "end": 67.103
+      },
+      {
+       "w": "actual",
+       "start": 67.103,
+       "end": 67.549
+      },
+      {
+       "w": "copy.",
+       "start": 67.549,
+       "end": 67.876
+      }
+     ]
+    },
+    {
+     "text": "He had found it in his car, near the beach.",
+     "start": 68.342,
+     "end": 70.525,
+     "words": [
+      {
+       "w": "He",
+       "start": 68.342,
+       "end": 68.493
+      },
+      {
+       "w": "had",
+       "start": 68.493,
+       "end": 68.687
+      },
+      {
+       "w": "found",
+       "start": 68.687,
+       "end": 68.967
+      },
+      {
+       "w": "it",
+       "start": 68.967,
+       "end": 69.118
+      },
+      {
+       "w": "in",
+       "start": 69.118,
+       "end": 69.269
+      },
+      {
+       "w": "his",
+       "start": 69.269,
+       "end": 69.463
+      },
+      {
+       "w": "car,",
+       "start": 69.463,
+       "end": 69.657
+      },
+      {
+       "w": "near",
+       "start": 69.85,
+       "end": 70.075
+      },
+      {
+       "w": "the",
+       "start": 70.075,
+       "end": 70.259
+      },
+      {
+       "w": "beach.",
+       "start": 70.259,
+       "end": 70.525
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "somerton/vo/line9.mp3",
+   "start": 71.103,
+   "dur": 8.281,
+   "sentences": [
+    {
+     "text": "The last page was torn out.",
+     "start": 71.103,
+     "end": 72.839,
+     "words": [
+      {
+       "w": "The",
+       "start": 71.103,
+       "end": 71.364
+      },
+      {
+       "w": "last",
+       "start": 71.364,
+       "end": 71.682
+      },
+      {
+       "w": "page",
+       "start": 71.682,
+       "end": 72
+      },
+      {
+       "w": "was",
+       "start": 72,
+       "end": 72.261
+      },
+      {
+       "w": "torn",
+       "start": 72.261,
+       "end": 72.579
+      },
+      {
+       "w": "out.",
+       "start": 72.579,
+       "end": 72.839
+      }
+     ]
+    },
+    {
+     "text": "And on the back cover, pressed into the paper, were five lines of strange letters.",
+     "start": 73.305,
+     "end": 78.094,
+     "words": [
+      {
+       "w": "And",
+       "start": 73.305,
+       "end": 73.506
+      },
+      {
+       "w": "on",
+       "start": 73.506,
+       "end": 73.662
+      },
+      {
+       "w": "the",
+       "start": 73.662,
+       "end": 73.862
+      },
+      {
+       "w": "back",
+       "start": 73.862,
+       "end": 74.108
+      },
+      {
+       "w": "cover,",
+       "start": 74.108,
+       "end": 74.398
+      },
+      {
+       "w": "pressed",
+       "start": 74.621,
+       "end": 74.994
+      },
+      {
+       "w": "into",
+       "start": 74.994,
+       "end": 75.234
+      },
+      {
+       "w": "the",
+       "start": 75.234,
+       "end": 75.432
+      },
+      {
+       "w": "paper,",
+       "start": 75.432,
+       "end": 75.716
+      },
+      {
+       "w": "were",
+       "start": 75.912,
+       "end": 76.228
+      },
+      {
+       "w": "five",
+       "start": 76.228,
+       "end": 76.544
+      },
+      {
+       "w": "lines",
+       "start": 76.544,
+       "end": 76.917
+      },
+      {
+       "w": "of",
+       "start": 76.917,
+       "end": 77.118
+      },
+      {
+       "w": "strange",
+       "start": 77.118,
+       "end": 77.606
+      },
+      {
+       "w": "letters.",
+       "start": 77.606,
+       "end": 78.094
+      }
+     ]
+    },
+    {
+     "text": "A code.",
+     "start": 78.549,
+     "end": 79.161,
+     "words": [
+      {
+       "w": "A",
+       "start": 78.549,
+       "end": 78.74
+      },
+      {
+       "w": "code.",
+       "start": 78.74,
+       "end": 79.161
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "somerton/vo/line10.mp3",
+   "start": 79.684,
+   "dur": 6.504,
+   "sentences": [
+    {
+     "text": "Nobody has ever cracked it.",
+     "start": 79.684,
+     "end": 81.408,
+     "words": [
+      {
+       "w": "Nobody",
+       "start": 79.684,
+       "end": 80.123
+      },
+      {
+       "w": "has",
+       "start": 80.123,
+       "end": 80.386
+      },
+      {
+       "w": "ever",
+       "start": 80.386,
+       "end": 80.707
+      },
+      {
+       "w": "cracked",
+       "start": 80.707,
+       "end": 81.204
+      },
+      {
+       "w": "it.",
+       "start": 81.204,
+       "end": 81.408
+      }
+     ]
+    },
+    {
+     "text": "Not the police.",
+     "start": 81.826,
+     "end": 82.675,
+     "words": [
+      {
+       "w": "Not",
+       "start": 81.826,
+       "end": 82.057
+      },
+      {
+       "w": "the",
+       "start": 82.057,
+       "end": 82.289
+      },
+      {
+       "w": "police.",
+       "start": 82.289,
+       "end": 82.675
+      }
+     ]
+    },
+    {
+     "text": "Not navy codebreakers.",
+     "start": 82.942,
+     "end": 84.29,
+     "words": [
+      {
+       "w": "Not",
+       "start": 82.942,
+       "end": 83.2
+      },
+      {
+       "w": "navy",
+       "start": 83.2,
+       "end": 83.516
+      },
+      {
+       "w": "codebreakers.",
+       "start": 83.516,
+       "end": 84.29
+      }
+     ]
+    },
+    {
+     "text": "Not modern computers.",
+     "start": 84.678,
+     "end": 85.934,
+     "words": [
+      {
+       "w": "Not",
+       "start": 84.678,
+       "end": 84.929
+      },
+      {
+       "w": "modern",
+       "start": 84.929,
+       "end": 85.348
+      },
+      {
+       "w": "computers.",
+       "start": 85.348,
+       "end": 85.934
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "somerton/vo/line11.mp3",
+   "start": 86.489,
+   "dur": 8.098,
+   "sentences": [
+    {
+     "text": "There was one more thing on that cover.",
+     "start": 86.489,
+     "end": 88.568,
+     "words": [
+      {
+       "w": "There",
+       "start": 86.489,
+       "end": 86.803
+      },
+      {
+       "w": "was",
+       "start": 86.803,
+       "end": 87.021
+      },
+      {
+       "w": "one",
+       "start": 87.021,
+       "end": 87.238
+      },
+      {
+       "w": "more",
+       "start": 87.238,
+       "end": 87.504
+      },
+      {
+       "w": "thing",
+       "start": 87.504,
+       "end": 87.818
+      },
+      {
+       "w": "on",
+       "start": 87.818,
+       "end": 87.987
+      },
+      {
+       "w": "that",
+       "start": 87.987,
+       "end": 88.253
+      },
+      {
+       "w": "cover.",
+       "start": 88.253,
+       "end": 88.568
+      }
+     ]
+    },
+    {
+     "text": "A phone number.",
+     "start": 89.025,
+     "end": 89.783,
+     "words": [
+      {
+       "w": "A",
+       "start": 89.025,
+       "end": 89.14
+      },
+      {
+       "w": "phone",
+       "start": 89.14,
+       "end": 89.439
+      },
+      {
+       "w": "number.",
+       "start": 89.439,
+       "end": 89.783
+      }
+     ]
+    },
+    {
+     "text": "It belonged to a nurse who lived just four hundred meters from where he died.",
+     "start": 90.235,
+     "end": 94.334,
+     "words": [
+      {
+       "w": "It",
+       "start": 90.235,
+       "end": 90.405
+      },
+      {
+       "w": "belonged",
+       "start": 90.405,
+       "end": 90.866
+      },
+      {
+       "w": "to",
+       "start": 90.866,
+       "end": 91.036
+      },
+      {
+       "w": "a",
+       "start": 91.036,
+       "end": 91.157
+      },
+      {
+       "w": "nurse",
+       "start": 91.157,
+       "end": 91.472
+      },
+      {
+       "w": "who",
+       "start": 91.472,
+       "end": 91.69
+      },
+      {
+       "w": "lived",
+       "start": 91.69,
+       "end": 92.006
+      },
+      {
+       "w": "just",
+       "start": 92.006,
+       "end": 92.272
+      },
+      {
+       "w": "four",
+       "start": 92.272,
+       "end": 92.539
+      },
+      {
+       "w": "hundred",
+       "start": 92.539,
+       "end": 92.951
+      },
+      {
+       "w": "meters",
+       "start": 92.951,
+       "end": 93.315
+      },
+      {
+       "w": "from",
+       "start": 93.315,
+       "end": 93.582
+      },
+      {
+       "w": "where",
+       "start": 93.582,
+       "end": 93.897
+      },
+      {
+       "w": "he",
+       "start": 93.897,
+       "end": 94.067
+      },
+      {
+       "w": "died.",
+       "start": 94.067,
+       "end": 94.334
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "somerton/vo/line12.mp3",
+   "start": 94.887,
+   "dur": 8.072,
+   "sentences": [
+    {
+     "text": "Police showed her a cast of his face.",
+     "start": 94.887,
+     "end": 96.994,
+     "words": [
+      {
+       "w": "Police",
+       "start": 94.887,
+       "end": 95.272
+      },
+      {
+       "w": "showed",
+       "start": 95.272,
+       "end": 95.658
+      },
+      {
+       "w": "her",
+       "start": 95.658,
+       "end": 95.889
+      },
+      {
+       "w": "a",
+       "start": 95.889,
+       "end": 96.017
+      },
+      {
+       "w": "cast",
+       "start": 96.017,
+       "end": 96.3
+      },
+      {
+       "w": "of",
+       "start": 96.3,
+       "end": 96.48
+      },
+      {
+       "w": "his",
+       "start": 96.48,
+       "end": 96.711
+      },
+      {
+       "w": "face.",
+       "start": 96.711,
+       "end": 96.994
+      }
+     ]
+    },
+    {
+     "text": "A detective said she looked like she might faint.",
+     "start": 97.454,
+     "end": 99.942,
+     "words": [
+      {
+       "w": "A",
+       "start": 97.454,
+       "end": 97.57
+      },
+      {
+       "w": "detective",
+       "start": 97.57,
+       "end": 98.058
+      },
+      {
+       "w": "said",
+       "start": 98.058,
+       "end": 98.314
+      },
+      {
+       "w": "she",
+       "start": 98.314,
+       "end": 98.524
+      },
+      {
+       "w": "looked",
+       "start": 98.524,
+       "end": 98.872
+      },
+      {
+       "w": "like",
+       "start": 98.872,
+       "end": 99.128
+      },
+      {
+       "w": "she",
+       "start": 99.128,
+       "end": 99.337
+      },
+      {
+       "w": "might",
+       "start": 99.337,
+       "end": 99.64
+      },
+      {
+       "w": "faint.",
+       "start": 99.64,
+       "end": 99.942
+      }
+     ]
+    },
+    {
+     "text": "But she swore she had never seen him.",
+     "start": 100.394,
+     "end": 102.721,
+     "words": [
+      {
+       "w": "But",
+       "start": 100.394,
+       "end": 100.649
+      },
+      {
+       "w": "she",
+       "start": 100.649,
+       "end": 100.905
+      },
+      {
+       "w": "swore",
+       "start": 100.905,
+       "end": 101.274
+      },
+      {
+       "w": "she",
+       "start": 101.274,
+       "end": 101.529
+      },
+      {
+       "w": "had",
+       "start": 101.529,
+       "end": 101.785
+      },
+      {
+       "w": "never",
+       "start": 101.785,
+       "end": 102.154
+      },
+      {
+       "w": "seen",
+       "start": 102.154,
+       "end": 102.466
+      },
+      {
+       "w": "him.",
+       "start": 102.466,
+       "end": 102.721
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "somerton/vo/line13.mp3",
+   "start": 103.259,
+   "dur": 14.158,
+   "sentences": [
+    {
+     "text": "Decades later, researchers noticed something chilling.",
+     "start": 103.259,
+     "end": 106.848,
+     "words": [
+      {
+       "w": "Decades",
+       "start": 103.259,
+       "end": 103.822
+      },
+      {
+       "w": "later,",
+       "start": 103.822,
+       "end": 104.254
+      },
+      {
+       "w": "researchers",
+       "start": 104.641,
+       "end": 105.314
+      },
+      {
+       "w": "noticed",
+       "start": 105.314,
+       "end": 105.771
+      },
+      {
+       "w": "something",
+       "start": 105.771,
+       "end": 106.336
+      },
+      {
+       "w": "chilling.",
+       "start": 106.336,
+       "end": 106.848
+      }
+     ]
+    },
+    {
+     "text": "Her young son had the same rare ear shape as the dead man.",
+     "start": 107.291,
+     "end": 110.733,
+     "words": [
+      {
+       "w": "Her",
+       "start": 107.291,
+       "end": 107.531
+      },
+      {
+       "w": "young",
+       "start": 107.531,
+       "end": 107.878
+      },
+      {
+       "w": "son",
+       "start": 107.878,
+       "end": 108.118
+      },
+      {
+       "w": "had",
+       "start": 108.118,
+       "end": 108.358
+      },
+      {
+       "w": "the",
+       "start": 108.358,
+       "end": 108.599
+      },
+      {
+       "w": "same",
+       "start": 108.599,
+       "end": 108.892
+      },
+      {
+       "w": "rare",
+       "start": 108.892,
+       "end": 109.186
+      },
+      {
+       "w": "ear",
+       "start": 109.186,
+       "end": 109.426
+      },
+      {
+       "w": "shape",
+       "start": 109.426,
+       "end": 109.773
+      },
+      {
+       "w": "as",
+       "start": 109.773,
+       "end": 109.959
+      },
+      {
+       "w": "the",
+       "start": 109.959,
+       "end": 110.2
+      },
+      {
+       "w": "dead",
+       "start": 110.2,
+       "end": 110.493
+      },
+      {
+       "w": "man.",
+       "start": 110.493,
+       "end": 110.733
+      }
+     ]
+    },
+    {
+     "text": "And the same rare missing teeth.",
+     "start": 111.141,
+     "end": 113.474,
+     "words": [
+      {
+       "w": "And",
+       "start": 111.141,
+       "end": 111.441
+      },
+      {
+       "w": "the",
+       "start": 111.441,
+       "end": 111.741
+      },
+      {
+       "w": "same",
+       "start": 111.741,
+       "end": 112.107
+      },
+      {
+       "w": "rare",
+       "start": 112.107,
+       "end": 112.474
+      },
+      {
+       "w": "missing",
+       "start": 112.474,
+       "end": 113.041
+      },
+      {
+       "w": "teeth.",
+       "start": 113.041,
+       "end": 113.474
+      }
+     ]
+    },
+    {
+     "text": "Both traits show up in only about two people in a hundred.",
+     "start": 113.857,
+     "end": 117.143,
+     "words": [
+      {
+       "w": "Both",
+       "start": 113.857,
+       "end": 114.139
+      },
+      {
+       "w": "traits",
+       "start": 114.139,
+       "end": 114.524
+      },
+      {
+       "w": "show",
+       "start": 114.524,
+       "end": 114.807
+      },
+      {
+       "w": "up",
+       "start": 114.807,
+       "end": 114.986
+      },
+      {
+       "w": "in",
+       "start": 114.986,
+       "end": 115.166
+      },
+      {
+       "w": "only",
+       "start": 115.166,
+       "end": 115.448
+      },
+      {
+       "w": "about",
+       "start": 115.448,
+       "end": 115.782
+      },
+      {
+       "w": "two",
+       "start": 115.782,
+       "end": 116.013
+      },
+      {
+       "w": "people",
+       "start": 116.013,
+       "end": 116.398
+      },
+      {
+       "w": "in",
+       "start": 116.398,
+       "end": 116.578
+      },
+      {
+       "w": "a",
+       "start": 116.578,
+       "end": 116.706
+      },
+      {
+       "w": "hundred.",
+       "start": 116.706,
+       "end": 117.143
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "somerton/vo/line14.mp3",
+   "start": 117.717,
+   "dur": 6.165,
+   "sentences": [
+    {
+     "text": "For seventy four years, he had no name.",
+     "start": 117.717,
+     "end": 120.486,
+     "words": [
+      {
+       "w": "For",
+       "start": 117.717,
+       "end": 117.987
+      },
+      {
+       "w": "seventy",
+       "start": 117.987,
+       "end": 118.497
+      },
+      {
+       "w": "four",
+       "start": 118.497,
+       "end": 118.827
+      },
+      {
+       "w": "years,",
+       "start": 118.827,
+       "end": 119.217
+      },
+      {
+       "w": "he",
+       "start": 119.411,
+       "end": 119.632
+      },
+      {
+       "w": "had",
+       "start": 119.632,
+       "end": 119.917
+      },
+      {
+       "w": "no",
+       "start": 119.917,
+       "end": 120.138
+      },
+      {
+       "w": "name.",
+       "start": 120.138,
+       "end": 120.486
+      }
+     ]
+    },
+    {
+     "text": "Then, in 2021, they dug him up.",
+     "start": 120.948,
+     "end": 123.7,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 120.948,
+       "end": 121.414
+      },
+      {
+       "w": "in",
+       "start": 121.414,
+       "end": 121.874
+      },
+      {
+       "w": "2021,",
+       "start": 121.874,
+       "end": 122.596
+      },
+      {
+       "w": "they",
+       "start": 122.988,
+       "end": 123.205
+      },
+      {
+       "w": "dug",
+       "start": 123.205,
+       "end": 123.383
+      },
+      {
+       "w": "him",
+       "start": 123.383,
+       "end": 123.561
+      },
+      {
+       "w": "up.",
+       "start": 123.561,
+       "end": 123.7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "somerton/vo/line15.mp3",
+   "start": 124.182,
+   "dur": 11.337,
+   "sentences": [
+    {
+     "text": "A professor and a genealogist built his family tree from DNA in his hair.",
+     "start": 124.182,
+     "end": 128.983,
+     "words": [
+      {
+       "w": "A",
+       "start": 124.182,
+       "end": 124.332
+      },
+      {
+       "w": "professor",
+       "start": 124.332,
+       "end": 124.962
+      },
+      {
+       "w": "and",
+       "start": 124.962,
+       "end": 125.232
+      },
+      {
+       "w": "a",
+       "start": 125.232,
+       "end": 125.382
+      },
+      {
+       "w": "genealogist",
+       "start": 125.382,
+       "end": 126.132
+      },
+      {
+       "w": "built",
+       "start": 126.132,
+       "end": 126.522
+      },
+      {
+       "w": "his",
+       "start": 126.522,
+       "end": 126.792
+      },
+      {
+       "w": "family",
+       "start": 126.792,
+       "end": 127.242
+      },
+      {
+       "w": "tree",
+       "start": 127.242,
+       "end": 127.572
+      },
+      {
+       "w": "from",
+       "start": 127.572,
+       "end": 127.902
+      },
+      {
+       "w": "DNA",
+       "start": 127.902,
+       "end": 128.172
+      },
+      {
+       "w": "in",
+       "start": 128.172,
+       "end": 128.382
+      },
+      {
+       "w": "his",
+       "start": 128.382,
+       "end": 128.653
+      },
+      {
+       "w": "hair.",
+       "start": 128.653,
+       "end": 128.983
+      }
+     ]
+    },
+    {
+     "text": "In 2022, they announced his name.",
+     "start": 129.441,
+     "end": 131.839,
+     "words": [
+      {
+       "w": "In",
+       "start": 129.441,
+       "end": 129.88
+      },
+      {
+       "w": "2022,",
+       "start": 129.88,
+       "end": 130.571
+      },
+      {
+       "w": "they",
+       "start": 130.74,
+       "end": 130.973
+      },
+      {
+       "w": "announced",
+       "start": 130.973,
+       "end": 131.416
+      },
+      {
+       "w": "his",
+       "start": 131.416,
+       "end": 131.607
+      },
+      {
+       "w": "name.",
+       "start": 131.607,
+       "end": 131.839
+      }
+     ]
+    },
+    {
+     "text": "Carl Webb.",
+     "start": 132.302,
+     "end": 133.081,
+     "words": [
+      {
+       "w": "Carl",
+       "start": 132.302,
+       "end": 132.692
+      },
+      {
+       "w": "Webb.",
+       "start": 132.692,
+       "end": 133.081
+      }
+     ]
+    },
+    {
+     "text": "An electrical engineer from Melbourne.",
+     "start": 133.44,
+     "end": 135.262,
+     "words": [
+      {
+       "w": "An",
+       "start": 133.44,
+       "end": 133.597
+      },
+      {
+       "w": "electrical",
+       "start": 133.597,
+       "end": 134.115
+      },
+      {
+       "w": "engineer",
+       "start": 134.115,
+       "end": 134.542
+      },
+      {
+       "w": "from",
+       "start": 134.542,
+       "end": 134.789
+      },
+      {
+       "w": "Melbourne.",
+       "start": 134.789,
+       "end": 135.262
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "somerton/vo/line16.mp3",
+   "start": 135.819,
+   "dur": 8.568,
+   "sentences": [
+    {
+     "text": "He had walked out on his marriage the year before.",
+     "start": 135.819,
+     "end": 138.162,
+     "words": [
+      {
+       "w": "He",
+       "start": 135.819,
+       "end": 135.968
+      },
+      {
+       "w": "had",
+       "start": 135.968,
+       "end": 136.16
+      },
+      {
+       "w": "walked",
+       "start": 136.16,
+       "end": 136.479
+      },
+      {
+       "w": "out",
+       "start": 136.479,
+       "end": 136.671
+      },
+      {
+       "w": "on",
+       "start": 136.671,
+       "end": 136.82
+      },
+      {
+       "w": "his",
+       "start": 136.82,
+       "end": 137.012
+      },
+      {
+       "w": "marriage",
+       "start": 137.012,
+       "end": 137.416
+      },
+      {
+       "w": "the",
+       "start": 137.416,
+       "end": 137.608
+      },
+      {
+       "w": "year",
+       "start": 137.608,
+       "end": 137.842
+      },
+      {
+       "w": "before.",
+       "start": 137.842,
+       "end": 138.162
+      }
+     ]
+    },
+    {
+     "text": "But why he came to that beach, what killed him, and what the code says, no one knows.",
+     "start": 138.62,
+     "end": 144.149,
+     "words": [
+      {
+       "w": "But",
+       "start": 138.62,
+       "end": 138.844
+      },
+      {
+       "w": "why",
+       "start": 138.844,
+       "end": 139.069
+      },
+      {
+       "w": "he",
+       "start": 139.069,
+       "end": 139.244
+      },
+      {
+       "w": "came",
+       "start": 139.244,
+       "end": 139.518
+      },
+      {
+       "w": "to",
+       "start": 139.518,
+       "end": 139.693
+      },
+      {
+       "w": "that",
+       "start": 139.693,
+       "end": 139.967
+      },
+      {
+       "w": "beach,",
+       "start": 139.967,
+       "end": 140.292
+      },
+      {
+       "w": "what",
+       "start": 140.577,
+       "end": 140.837
+      },
+      {
+       "w": "killed",
+       "start": 140.837,
+       "end": 141.191
+      },
+      {
+       "w": "him,",
+       "start": 141.191,
+       "end": 141.403
+      },
+      {
+       "w": "and",
+       "start": 141.682,
+       "end": 141.889
+      },
+      {
+       "w": "what",
+       "start": 141.889,
+       "end": 142.143
+      },
+      {
+       "w": "the",
+       "start": 142.143,
+       "end": 142.35
+      },
+      {
+       "w": "code",
+       "start": 142.35,
+       "end": 142.604
+      },
+      {
+       "w": "says,",
+       "start": 142.604,
+       "end": 142.857
+      },
+      {
+       "w": "no",
+       "start": 143.317,
+       "end": 143.518
+      },
+      {
+       "w": "one",
+       "start": 143.518,
+       "end": 143.776
+      },
+      {
+       "w": "knows.",
+       "start": 143.776,
+       "end": 144.149
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "somerton/vo/line17.mp3",
+   "start": 144.687,
+   "dur": 13.479,
+   "sentences": [
+    {
+     "text": "Officially, the case is still open.",
+     "start": 144.687,
+     "end": 146.898,
+     "words": [
+      {
+       "w": "Officially,",
+       "start": 144.687,
+       "end": 145.347
+      },
+      {
+       "w": "the",
+       "start": 145.573,
+       "end": 145.807
+      },
+      {
+       "w": "case",
+       "start": 145.807,
+       "end": 146.093
+      },
+      {
+       "w": "is",
+       "start": 146.093,
+       "end": 146.275
+      },
+      {
+       "w": "still",
+       "start": 146.275,
+       "end": 146.612
+      },
+      {
+       "w": "open.",
+       "start": 146.612,
+       "end": 146.898
+      }
+     ]
+    },
+    {
+     "text": "Can you crack the code?",
+     "start": 147.366,
+     "end": 148.38,
+     "words": [
+      {
+       "w": "Can",
+       "start": 147.366,
+       "end": 147.545
+      },
+      {
+       "w": "you",
+       "start": 147.545,
+       "end": 147.724
+      },
+      {
+       "w": "crack",
+       "start": 147.724,
+       "end": 147.983
+      },
+      {
+       "w": "the",
+       "start": 147.983,
+       "end": 148.162
+      },
+      {
+       "w": "code?",
+       "start": 148.162,
+       "end": 148.38
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 148.834,
+     "end": 149.824,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 148.834,
+       "end": 149.04
+      },
+      {
+       "w": "me",
+       "start": 149.04,
+       "end": 149.17
+      },
+      {
+       "w": "in",
+       "start": 149.17,
+       "end": 149.301
+      },
+      {
+       "w": "the",
+       "start": 149.301,
+       "end": 149.469
+      },
+      {
+       "w": "comments.",
+       "start": 149.469,
+       "end": 149.824
+      }
+     ]
+    },
+    {
+     "text": "Then watch our Zodiac short, the killer whose code took fifty one years.",
+     "start": 150.187,
+     "end": 155.258,
+     "words": [
+      {
+       "w": "Then",
+       "start": 150.187,
+       "end": 150.515
+      },
+      {
+       "w": "watch",
+       "start": 150.515,
+       "end": 150.901
+      },
+      {
+       "w": "our",
+       "start": 150.901,
+       "end": 151.169
+      },
+      {
+       "w": "Zodiac",
+       "start": 151.169,
+       "end": 151.615
+      },
+      {
+       "w": "short,",
+       "start": 151.615,
+       "end": 152.002
+      },
+      {
+       "w": "the",
+       "start": 152.365,
+       "end": 152.642
+      },
+      {
+       "w": "killer",
+       "start": 152.642,
+       "end": 153.104
+      },
+      {
+       "w": "whose",
+       "start": 153.104,
+       "end": 153.504
+      },
+      {
+       "w": "code",
+       "start": 153.504,
+       "end": 153.842
+      },
+      {
+       "w": "took",
+       "start": 153.842,
+       "end": 154.181
+      },
+      {
+       "w": "fifty",
+       "start": 154.181,
+       "end": 154.581
+      },
+      {
+       "w": "one",
+       "start": 154.581,
+       "end": 154.858
+      },
+      {
+       "w": "years.",
+       "start": 154.858,
+       "end": 155.258
+      }
+     ]
+    },
+    {
+     "text": "And follow for a new mystery every day.",
+     "start": 155.597,
+     "end": 157.964,
+     "words": [
+      {
+       "w": "And",
+       "start": 155.597,
+       "end": 155.844
+      },
+      {
+       "w": "follow",
+       "start": 155.844,
+       "end": 156.257
+      },
+      {
+       "w": "for",
+       "start": 156.257,
+       "end": 156.505
+      },
+      {
+       "w": "a",
+       "start": 156.505,
+       "end": 156.643
+      },
+      {
+       "w": "new",
+       "start": 156.643,
+       "end": 156.89
+      },
+      {
+       "w": "mystery",
+       "start": 156.89,
+       "end": 157.358
+      },
+      {
+       "w": "every",
+       "start": 157.358,
+       "end": 157.716
+      },
+      {
+       "w": "day.",
+       "start": 157.716,
+       "end": 157.964
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
