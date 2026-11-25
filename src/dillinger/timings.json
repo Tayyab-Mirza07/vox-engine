@@ -1,0 +1,2585 @@
+{
+ "total": 166.582,
+ "lines": [
+  {
+   "index": 0,
+   "file": "dillinger/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 10.109,
+   "sentences": [
+    {
+     "text": "In 1934, America's most wanted man broke out of an escape proof jail.",
+     "start": 0.25,
+     "end": 5.148,
+     "words": [
+      {
+       "w": "In",
+       "start": 0.25,
+       "end": 0.738
+      },
+      {
+       "w": "1934,",
+       "start": 0.738,
+       "end": 1.505
+      },
+      {
+       "w": "America's",
+       "start": 1.663,
+       "end": 2.176
+      },
+      {
+       "w": "most",
+       "start": 2.176,
+       "end": 2.473
+      },
+      {
+       "w": "wanted",
+       "start": 2.473,
+       "end": 2.879
+      },
+      {
+       "w": "man",
+       "start": 2.879,
+       "end": 3.122
+      },
+      {
+       "w": "broke",
+       "start": 3.122,
+       "end": 3.473
+      },
+      {
+       "w": "out",
+       "start": 3.473,
+       "end": 3.716
+      },
+      {
+       "w": "of",
+       "start": 3.716,
+       "end": 3.905
+      },
+      {
+       "w": "an",
+       "start": 3.905,
+       "end": 4.094
+      },
+      {
+       "w": "escape",
+       "start": 4.094,
+       "end": 4.5
+      },
+      {
+       "w": "proof",
+       "start": 4.5,
+       "end": 4.851
+      },
+      {
+       "w": "jail.",
+       "start": 4.851,
+       "end": 5.148
+      }
+     ]
+    },
+    {
+     "text": "His weapon?",
+     "start": 5.514,
+     "end": 6.039,
+     "words": [
+      {
+       "w": "His",
+       "start": 5.514,
+       "end": 5.711
+      },
+      {
+       "w": "weapon?",
+       "start": 5.711,
+       "end": 6.039
+      }
+     ]
+    },
+    {
+     "text": "A gun carved out of wood.",
+     "start": 6.391,
+     "end": 7.982,
+     "words": [
+      {
+       "w": "A",
+       "start": 6.391,
+       "end": 6.533
+      },
+      {
+       "w": "gun",
+       "start": 6.533,
+       "end": 6.789
+      },
+      {
+       "w": "carved",
+       "start": 6.789,
+       "end": 7.215
+      },
+      {
+       "w": "out",
+       "start": 7.215,
+       "end": 7.471
+      },
+      {
+       "w": "of",
+       "start": 7.471,
+       "end": 7.669
+      },
+      {
+       "w": "wood.",
+       "start": 7.669,
+       "end": 7.982
+      }
+     ]
+    },
+    {
+     "text": "And blackened with shoe polish.",
+     "start": 8.392,
+     "end": 10.042,
+     "words": [
+      {
+       "w": "And",
+       "start": 8.392,
+       "end": 8.614
+      },
+      {
+       "w": "blackened",
+       "start": 8.614,
+       "end": 9.131
+      },
+      {
+       "w": "with",
+       "start": 9.131,
+       "end": 9.402
+      },
+      {
+       "w": "shoe",
+       "start": 9.402,
+       "end": 9.673
+      },
+      {
+       "w": "polish.",
+       "start": 9.673,
+       "end": 10.042
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "dillinger/vo/line1.mp3",
+   "start": 11.059,
+   "dur": 7.706,
+   "sentences": [
+    {
+     "text": "His name was John Dillinger.",
+     "start": 11.059,
+     "end": 12.929,
+     "words": [
+      {
+       "w": "His",
+       "start": 11.059,
+       "end": 11.335
+      },
+      {
+       "w": "name",
+       "start": 11.335,
+       "end": 11.672
+      },
+      {
+       "w": "was",
+       "start": 11.672,
+       "end": 11.948
+      },
+      {
+       "w": "John",
+       "start": 11.948,
+       "end": 12.286
+      },
+      {
+       "w": "Dillinger.",
+       "start": 12.286,
+       "end": 12.929
+      }
+     ]
+    },
+    {
+     "text": "An Indiana farm boy who robbed a grocer at twenty one, and got ten years in prison.",
+     "start": 13.39,
+     "end": 18.546,
+     "words": [
+      {
+       "w": "An",
+       "start": 13.39,
+       "end": 13.578
+      },
+      {
+       "w": "Indiana",
+       "start": 13.578,
+       "end": 14.033
+      },
+      {
+       "w": "farm",
+       "start": 14.033,
+       "end": 14.328
+      },
+      {
+       "w": "boy",
+       "start": 14.328,
+       "end": 14.569
+      },
+      {
+       "w": "who",
+       "start": 14.569,
+       "end": 14.81
+      },
+      {
+       "w": "robbed",
+       "start": 14.81,
+       "end": 15.212
+      },
+      {
+       "w": "a",
+       "start": 15.212,
+       "end": 15.346
+      },
+      {
+       "w": "grocer",
+       "start": 15.346,
+       "end": 15.748
+      },
+      {
+       "w": "at",
+       "start": 15.748,
+       "end": 15.936
+      },
+      {
+       "w": "twenty",
+       "start": 15.936,
+       "end": 16.338
+      },
+      {
+       "w": "one,",
+       "start": 16.338,
+       "end": 16.579
+      },
+      {
+       "w": "and",
+       "start": 16.824,
+       "end": 17.074
+      },
+      {
+       "w": "got",
+       "start": 17.074,
+       "end": 17.324
+      },
+      {
+       "w": "ten",
+       "start": 17.324,
+       "end": 17.574
+      },
+      {
+       "w": "years",
+       "start": 17.574,
+       "end": 17.935
+      },
+      {
+       "w": "in",
+       "start": 17.935,
+       "end": 18.13
+      },
+      {
+       "w": "prison.",
+       "start": 18.13,
+       "end": 18.546
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "dillinger/vo/line2.mp3",
+   "start": 19.466,
+   "dur": 6.374,
+   "sentences": [
+    {
+     "text": "Prison didn't fix him.",
+     "start": 19.466,
+     "end": 20.704,
+     "words": [
+      {
+       "w": "Prison",
+       "start": 19.466,
+       "end": 19.869
+      },
+      {
+       "w": "didn't",
+       "start": 19.869,
+       "end": 20.219
+      },
+      {
+       "w": "fix",
+       "start": 20.219,
+       "end": 20.462
+      },
+      {
+       "w": "him.",
+       "start": 20.462,
+       "end": 20.704
+      }
+     ]
+    },
+    {
+     "text": "It trained him.",
+     "start": 21.167,
+     "end": 22.008,
+     "words": [
+      {
+       "w": "It",
+       "start": 21.167,
+       "end": 21.346
+      },
+      {
+       "w": "trained",
+       "start": 21.346,
+       "end": 21.779
+      },
+      {
+       "w": "him.",
+       "start": 21.779,
+       "end": 22.008
+      }
+     ]
+    },
+    {
+     "text": "Inside, he met the bank robbers who would become his gang.",
+     "start": 22.472,
+     "end": 25.626,
+     "words": [
+      {
+       "w": "Inside,",
+       "start": 22.472,
+       "end": 23.054
+      },
+      {
+       "w": "he",
+       "start": 23.221,
+       "end": 23.374
+      },
+      {
+       "w": "met",
+       "start": 23.374,
+       "end": 23.571
+      },
+      {
+       "w": "the",
+       "start": 23.571,
+       "end": 23.768
+      },
+      {
+       "w": "bank",
+       "start": 23.768,
+       "end": 24.008
+      },
+      {
+       "w": "robbers",
+       "start": 24.008,
+       "end": 24.38
+      },
+      {
+       "w": "who",
+       "start": 24.38,
+       "end": 24.576
+      },
+      {
+       "w": "would",
+       "start": 24.576,
+       "end": 24.861
+      },
+      {
+       "w": "become",
+       "start": 24.861,
+       "end": 25.189
+      },
+      {
+       "w": "his",
+       "start": 25.189,
+       "end": 25.385
+      },
+      {
+       "w": "gang.",
+       "start": 25.385,
+       "end": 25.626
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "dillinger/vo/line3.mp3",
+   "start": 26.539,
+   "dur": 10.789,
+   "sentences": [
+    {
+     "text": "Paroled in 1933, he went on a bank robbing spree across the Midwest.",
+     "start": 26.539,
+     "end": 31.503,
+     "words": [
+      {
+       "w": "Paroled",
+       "start": 26.539,
+       "end": 27.417
+      },
+      {
+       "w": "in",
+       "start": 27.417,
+       "end": 27.779
+      },
+      {
+       "w": "1933,",
+       "start": 27.779,
+       "end": 28.346
+      },
+      {
+       "w": "he",
+       "start": 28.668,
+       "end": 28.846
+      },
+      {
+       "w": "went",
+       "start": 28.846,
+       "end": 29.124
+      },
+      {
+       "w": "on",
+       "start": 29.124,
+       "end": 29.301
+      },
+      {
+       "w": "a",
+       "start": 29.301,
+       "end": 29.428
+      },
+      {
+       "w": "bank",
+       "start": 29.428,
+       "end": 29.706
+      },
+      {
+       "w": "robbing",
+       "start": 29.706,
+       "end": 30.137
+      },
+      {
+       "w": "spree",
+       "start": 30.137,
+       "end": 30.466
+      },
+      {
+       "w": "across",
+       "start": 30.466,
+       "end": 30.845
+      },
+      {
+       "w": "the",
+       "start": 30.845,
+       "end": 31.073
+      },
+      {
+       "w": "Midwest.",
+       "start": 31.073,
+       "end": 31.503
+      }
+     ]
+    },
+    {
+     "text": "Fast.",
+     "start": 31.958,
+     "end": 32.54,
+     "words": [
+      {
+       "w": "Fast.",
+       "start": 31.958,
+       "end": 32.54
+      }
+     ]
+    },
+    {
+     "text": "Polite.",
+     "start": 32.845,
+     "end": 33.342,
+     "words": [
+      {
+       "w": "Polite.",
+       "start": 32.845,
+       "end": 33.342
+      }
+     ]
+    },
+    {
+     "text": "Almost theatrical.",
+     "start": 33.776,
+     "end": 34.956,
+     "words": [
+      {
+       "w": "Almost",
+       "start": 33.776,
+       "end": 34.242
+      },
+      {
+       "w": "theatrical.",
+       "start": 34.242,
+       "end": 34.956
+      }
+     ]
+    },
+    {
+     "text": "He would vault right over the counter.",
+     "start": 35.416,
+     "end": 37.11,
+     "words": [
+      {
+       "w": "He",
+       "start": 35.416,
+       "end": 35.559
+      },
+      {
+       "w": "would",
+       "start": 35.559,
+       "end": 35.824
+      },
+      {
+       "w": "vault",
+       "start": 35.824,
+       "end": 36.089
+      },
+      {
+       "w": "right",
+       "start": 36.089,
+       "end": 36.355
+      },
+      {
+       "w": "over",
+       "start": 36.355,
+       "end": 36.579
+      },
+      {
+       "w": "the",
+       "start": 36.579,
+       "end": 36.763
+      },
+      {
+       "w": "counter.",
+       "start": 36.763,
+       "end": 37.11
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "dillinger/vo/line4.mp3",
+   "start": 38.028,
+   "dur": 7.628,
+   "sentences": [
+    {
+     "text": "Then he did something nobody saw coming.",
+     "start": 38.028,
+     "end": 40.618,
+     "words": [
+      {
+       "w": "Then",
+       "start": 38.028,
+       "end": 38.355
+      },
+      {
+       "w": "he",
+       "start": 38.355,
+       "end": 38.564
+      },
+      {
+       "w": "did",
+       "start": 38.564,
+       "end": 38.832
+      },
+      {
+       "w": "something",
+       "start": 38.832,
+       "end": 39.457
+      },
+      {
+       "w": "nobody",
+       "start": 39.457,
+       "end": 39.904
+      },
+      {
+       "w": "saw",
+       "start": 39.904,
+       "end": 40.172
+      },
+      {
+       "w": "coming.",
+       "start": 40.172,
+       "end": 40.618
+      }
+     ]
+    },
+    {
+     "text": "He smuggled guns into his old prison, and ten of his friends broke out.",
+     "start": 41.046,
+     "end": 45.453,
+     "words": [
+      {
+       "w": "He",
+       "start": 41.046,
+       "end": 41.249
+      },
+      {
+       "w": "smuggled",
+       "start": 41.249,
+       "end": 41.799
+      },
+      {
+       "w": "guns",
+       "start": 41.799,
+       "end": 42.118
+      },
+      {
+       "w": "into",
+       "start": 42.118,
+       "end": 42.436
+      },
+      {
+       "w": "his",
+       "start": 42.436,
+       "end": 42.697
+      },
+      {
+       "w": "old",
+       "start": 42.697,
+       "end": 42.958
+      },
+      {
+       "w": "prison,",
+       "start": 42.958,
+       "end": 43.392
+      },
+      {
+       "w": "and",
+       "start": 43.566,
+       "end": 43.798
+      },
+      {
+       "w": "ten",
+       "start": 43.798,
+       "end": 44.031
+      },
+      {
+       "w": "of",
+       "start": 44.031,
+       "end": 44.212
+      },
+      {
+       "w": "his",
+       "start": 44.212,
+       "end": 44.445
+      },
+      {
+       "w": "friends",
+       "start": 44.445,
+       "end": 44.884
+      },
+      {
+       "w": "broke",
+       "start": 44.884,
+       "end": 45.22
+      },
+      {
+       "w": "out.",
+       "start": 45.22,
+       "end": 45.453
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "dillinger/vo/line5.mp3",
+   "start": 46.356,
+   "dur": 6.687,
+   "sentences": [
+    {
+     "text": "Weeks later, they returned the favor, and broke him out of a jail in Ohio.",
+     "start": 46.356,
+     "end": 50.644,
+     "words": [
+      {
+       "w": "Weeks",
+       "start": 46.356,
+       "end": 46.733
+      },
+      {
+       "w": "later,",
+       "start": 46.733,
+       "end": 47.11
+      },
+      {
+       "w": "they",
+       "start": 47.337,
+       "end": 47.59
+      },
+      {
+       "w": "returned",
+       "start": 47.59,
+       "end": 48.026
+      },
+      {
+       "w": "the",
+       "start": 48.026,
+       "end": 48.233
+      },
+      {
+       "w": "favor,",
+       "start": 48.233,
+       "end": 48.532
+      },
+      {
+       "w": "and",
+       "start": 48.714,
+       "end": 48.928
+      },
+      {
+       "w": "broke",
+       "start": 48.928,
+       "end": 49.238
+      },
+      {
+       "w": "him",
+       "start": 49.238,
+       "end": 49.453
+      },
+      {
+       "w": "out",
+       "start": 49.453,
+       "end": 49.667
+      },
+      {
+       "w": "of",
+       "start": 49.667,
+       "end": 49.834
+      },
+      {
+       "w": "a",
+       "start": 49.834,
+       "end": 49.953
+      },
+      {
+       "w": "jail",
+       "start": 49.953,
+       "end": 50.215
+      },
+      {
+       "w": "in",
+       "start": 50.215,
+       "end": 50.382
+      },
+      {
+       "w": "Ohio.",
+       "start": 50.382,
+       "end": 50.644
+      }
+     ]
+    },
+    {
+     "text": "A sheriff was killed that night.",
+     "start": 51.114,
+     "end": 52.756,
+     "words": [
+      {
+       "w": "A",
+       "start": 51.114,
+       "end": 51.231
+      },
+      {
+       "w": "sheriff",
+       "start": 51.231,
+       "end": 51.63
+      },
+      {
+       "w": "was",
+       "start": 51.63,
+       "end": 51.841
+      },
+      {
+       "w": "killed",
+       "start": 51.841,
+       "end": 52.193
+      },
+      {
+       "w": "that",
+       "start": 52.193,
+       "end": 52.451
+      },
+      {
+       "w": "night.",
+       "start": 52.451,
+       "end": 52.756
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "dillinger/vo/line6.mp3",
+   "start": 53.743,
+   "dur": 10.736,
+   "sentences": [
+    {
+     "text": "January 1934.",
+     "start": 53.743,
+     "end": 55.635,
+     "words": [
+      {
+       "w": "January",
+       "start": 53.743,
+       "end": 54.891
+      },
+      {
+       "w": "1934.",
+       "start": 54.891,
+       "end": 55.635
+      }
+     ]
+    },
+    {
+     "text": "A hotel fire in Tucson, Arizona.",
+     "start": 56.092,
+     "end": 58.402,
+     "words": [
+      {
+       "w": "A",
+       "start": 56.092,
+       "end": 56.262
+      },
+      {
+       "w": "hotel",
+       "start": 56.262,
+       "end": 56.704
+      },
+      {
+       "w": "fire",
+       "start": 56.704,
+       "end": 57.077
+      },
+      {
+       "w": "in",
+       "start": 57.077,
+       "end": 57.315
+      },
+      {
+       "w": "Tucson,",
+       "start": 57.315,
+       "end": 57.824
+      },
+      {
+       "w": "Arizona.",
+       "start": 57.824,
+       "end": 58.402
+      }
+     ]
+    },
+    {
+     "text": "Firemen recognized the gang from a detective magazine.",
+     "start": 58.788,
+     "end": 61.688,
+     "words": [
+      {
+       "w": "Firemen",
+       "start": 58.788,
+       "end": 59.213
+      },
+      {
+       "w": "recognized",
+       "start": 59.213,
+       "end": 59.788
+      },
+      {
+       "w": "the",
+       "start": 59.788,
+       "end": 60.013
+      },
+      {
+       "w": "gang",
+       "start": 60.013,
+       "end": 60.288
+      },
+      {
+       "w": "from",
+       "start": 60.288,
+       "end": 60.563
+      },
+      {
+       "w": "a",
+       "start": 60.563,
+       "end": 60.688
+      },
+      {
+       "w": "detective",
+       "start": 60.688,
+       "end": 61.213
+      },
+      {
+       "w": "magazine.",
+       "start": 61.213,
+       "end": 61.688
+      }
+     ]
+    },
+    {
+     "text": "Dillinger was arrested without a shot.",
+     "start": 62.119,
+     "end": 64.479,
+     "words": [
+      {
+       "w": "Dillinger",
+       "start": 62.119,
+       "end": 62.723
+      },
+      {
+       "w": "was",
+       "start": 62.723,
+       "end": 62.983
+      },
+      {
+       "w": "arrested",
+       "start": 62.983,
+       "end": 63.529
+      },
+      {
+       "w": "without",
+       "start": 63.529,
+       "end": 64.019
+      },
+      {
+       "w": "a",
+       "start": 64.019,
+       "end": 64.163
+      },
+      {
+       "w": "shot.",
+       "start": 64.163,
+       "end": 64.479
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "dillinger/vo/line7.mp3",
+   "start": 65.179,
+   "dur": 5.433,
+   "sentences": [
+    {
+     "text": "They sent him to Crown Point, Indiana.",
+     "start": 65.179,
+     "end": 67.193,
+     "words": [
+      {
+       "w": "They",
+       "start": 65.179,
+       "end": 65.453
+      },
+      {
+       "w": "sent",
+       "start": 65.453,
+       "end": 65.726
+      },
+      {
+       "w": "him",
+       "start": 65.726,
+       "end": 65.95
+      },
+      {
+       "w": "to",
+       "start": 65.95,
+       "end": 66.124
+      },
+      {
+       "w": "Crown",
+       "start": 66.124,
+       "end": 66.447
+      },
+      {
+       "w": "Point,",
+       "start": 66.447,
+       "end": 66.77
+      },
+      {
+       "w": "Indiana.",
+       "start": 66.77,
+       "end": 67.193
+      }
+     ]
+    },
+    {
+     "text": "A jail the newspapers called escape proof.",
+     "start": 67.637,
+     "end": 70.366,
+     "words": [
+      {
+       "w": "A",
+       "start": 67.637,
+       "end": 67.787
+      },
+      {
+       "w": "jail",
+       "start": 67.787,
+       "end": 68.117
+      },
+      {
+       "w": "the",
+       "start": 68.117,
+       "end": 68.387
+      },
+      {
+       "w": "newspapers",
+       "start": 68.387,
+       "end": 69.077
+      },
+      {
+       "w": "called",
+       "start": 69.077,
+       "end": 69.526
+      },
+      {
+       "w": "escape",
+       "start": 69.526,
+       "end": 69.976
+      },
+      {
+       "w": "proof.",
+       "start": 69.976,
+       "end": 70.366
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "dillinger/vo/line8.mp3",
+   "start": 71.313,
+   "dur": 5.93,
+   "sentences": [
+    {
+     "text": "There, he posed for a famous photo, his arm around the prosecutor's shoulder.",
+     "start": 71.313,
+     "end": 75.999,
+     "words": [
+      {
+       "w": "There,",
+       "start": 71.313,
+       "end": 71.757
+      },
+      {
+       "w": "he",
+       "start": 71.945,
+       "end": 72.135
+      },
+      {
+       "w": "posed",
+       "start": 72.135,
+       "end": 72.489
+      },
+      {
+       "w": "for",
+       "start": 72.489,
+       "end": 72.733
+      },
+      {
+       "w": "a",
+       "start": 72.733,
+       "end": 72.869
+      },
+      {
+       "w": "famous",
+       "start": 72.869,
+       "end": 73.277
+      },
+      {
+       "w": "photo,",
+       "start": 73.277,
+       "end": 73.631
+      },
+      {
+       "w": "his",
+       "start": 73.955,
+       "end": 74.169
+      },
+      {
+       "w": "arm",
+       "start": 74.169,
+       "end": 74.383
+      },
+      {
+       "w": "around",
+       "start": 74.383,
+       "end": 74.74
+      },
+      {
+       "w": "the",
+       "start": 74.74,
+       "end": 74.954
+      },
+      {
+       "w": "prosecutor's",
+       "start": 74.954,
+       "end": 75.548
+      },
+      {
+       "w": "shoulder.",
+       "start": 75.548,
+       "end": 75.999
+      }
+     ]
+    },
+    {
+     "text": "Smiling.",
+     "start": 76.466,
+     "end": 77.052,
+     "words": [
+      {
+       "w": "Smiling.",
+       "start": 76.466,
+       "end": 77.052
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "dillinger/vo/line9.mp3",
+   "start": 77.943,
+   "dur": 3.944,
+   "sentences": [
+    {
+     "text": "Five weeks later, on March 3rd, he made his move.",
+     "start": 77.943,
+     "end": 81.679,
+     "words": [
+      {
+       "w": "Five",
+       "start": 77.943,
+       "end": 78.267
+      },
+      {
+       "w": "weeks",
+       "start": 78.267,
+       "end": 78.651
+      },
+      {
+       "w": "later,",
+       "start": 78.651,
+       "end": 79.035
+      },
+      {
+       "w": "on",
+       "start": 79.292,
+       "end": 79.521
+      },
+      {
+       "w": "March",
+       "start": 79.521,
+       "end": 79.947
+      },
+      {
+       "w": "3rd,",
+       "start": 79.947,
+       "end": 80.241
+      },
+      {
+       "w": "he",
+       "start": 80.65,
+       "end": 80.84
+      },
+      {
+       "w": "made",
+       "start": 80.84,
+       "end": 81.137
+      },
+      {
+       "w": "his",
+       "start": 81.137,
+       "end": 81.381
+      },
+      {
+       "w": "move.",
+       "start": 81.381,
+       "end": 81.679
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "dillinger/vo/line10.mp3",
+   "start": 82.587,
+   "dur": 5.825,
+   "sentences": [
+    {
+     "text": "He pulled out a pistol carved from wood, blackened with shoe polish.",
+     "start": 82.587,
+     "end": 86.442,
+     "words": [
+      {
+       "w": "He",
+       "start": 82.587,
+       "end": 82.757
+      },
+      {
+       "w": "pulled",
+       "start": 82.757,
+       "end": 83.12
+      },
+      {
+       "w": "out",
+       "start": 83.12,
+       "end": 83.338
+      },
+      {
+       "w": "a",
+       "start": 83.338,
+       "end": 83.459
+      },
+      {
+       "w": "pistol",
+       "start": 83.459,
+       "end": 83.822
+      },
+      {
+       "w": "carved",
+       "start": 83.822,
+       "end": 84.185
+      },
+      {
+       "w": "from",
+       "start": 84.185,
+       "end": 84.452
+      },
+      {
+       "w": "wood,",
+       "start": 84.452,
+       "end": 84.718
+      },
+      {
+       "w": "blackened",
+       "start": 84.942,
+       "end": 85.485
+      },
+      {
+       "w": "with",
+       "start": 85.485,
+       "end": 85.769
+      },
+      {
+       "w": "shoe",
+       "start": 85.769,
+       "end": 86.054
+      },
+      {
+       "w": "polish.",
+       "start": 86.054,
+       "end": 86.442
+      }
+     ]
+    },
+    {
+     "text": "And the guards believed it.",
+     "start": 86.895,
+     "end": 88.412,
+     "words": [
+      {
+       "w": "And",
+       "start": 86.895,
+       "end": 87.127
+      },
+      {
+       "w": "the",
+       "start": 87.127,
+       "end": 87.358
+      },
+      {
+       "w": "guards",
+       "start": 87.358,
+       "end": 87.744
+      },
+      {
+       "w": "believed",
+       "start": 87.744,
+       "end": 88.232
+      },
+      {
+       "w": "it.",
+       "start": 88.232,
+       "end": 88.412
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "dillinger/vo/line11.mp3",
+   "start": 89.112,
+   "dur": 5.303,
+   "sentences": [
+    {
+     "text": "He locked the guards in a cell, grabbed two real machine guns, and walked out the front.",
+     "start": 89.112,
+     "end": 94.159,
+     "words": [
+      {
+       "w": "He",
+       "start": 89.112,
+       "end": 89.266
+      },
+      {
+       "w": "locked",
+       "start": 89.266,
+       "end": 89.595
+      },
+      {
+       "w": "the",
+       "start": 89.595,
+       "end": 89.792
+      },
+      {
+       "w": "guards",
+       "start": 89.792,
+       "end": 90.122
+      },
+      {
+       "w": "in",
+       "start": 90.122,
+       "end": 90.275
+      },
+      {
+       "w": "a",
+       "start": 90.275,
+       "end": 90.385
+      },
+      {
+       "w": "cell,",
+       "start": 90.385,
+       "end": 90.626
+      },
+      {
+       "w": "grabbed",
+       "start": 90.889,
+       "end": 91.394
+      },
+      {
+       "w": "two",
+       "start": 91.394,
+       "end": 91.662
+      },
+      {
+       "w": "real",
+       "start": 91.662,
+       "end": 91.989
+      },
+      {
+       "w": "machine",
+       "start": 91.989,
+       "end": 92.494
+      },
+      {
+       "w": "guns,",
+       "start": 92.494,
+       "end": 92.822
+      },
+      {
+       "w": "and",
+       "start": 93.065,
+       "end": 93.244
+      },
+      {
+       "w": "walked",
+       "start": 93.244,
+       "end": 93.542
+      },
+      {
+       "w": "out",
+       "start": 93.542,
+       "end": 93.721
+      },
+      {
+       "w": "the",
+       "start": 93.721,
+       "end": 93.9
+      },
+      {
+       "w": "front.",
+       "start": 93.9,
+       "end": 94.159
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "dillinger/vo/line12.mp3",
+   "start": 95.115,
+   "dur": 7.001,
+   "sentences": [
+    {
+     "text": "Then he stole the sheriff's own car, and drove it across the state line.",
+     "start": 95.115,
+     "end": 99.524,
+     "words": [
+      {
+       "w": "Then",
+       "start": 95.115,
+       "end": 95.468
+      },
+      {
+       "w": "he",
+       "start": 95.468,
+       "end": 95.693
+      },
+      {
+       "w": "stole",
+       "start": 95.693,
+       "end": 96.109
+      },
+      {
+       "w": "the",
+       "start": 96.109,
+       "end": 96.398
+      },
+      {
+       "w": "sheriff's",
+       "start": 96.398,
+       "end": 97.007
+      },
+      {
+       "w": "own",
+       "start": 97.007,
+       "end": 97.296
+      },
+      {
+       "w": "car,",
+       "start": 97.296,
+       "end": 97.585
+      },
+      {
+       "w": "and",
+       "start": 97.761,
+       "end": 97.967
+      },
+      {
+       "w": "drove",
+       "start": 97.967,
+       "end": 98.265
+      },
+      {
+       "w": "it",
+       "start": 98.265,
+       "end": 98.425
+      },
+      {
+       "w": "across",
+       "start": 98.425,
+       "end": 98.769
+      },
+      {
+       "w": "the",
+       "start": 98.769,
+       "end": 98.975
+      },
+      {
+       "w": "state",
+       "start": 98.975,
+       "end": 99.273
+      },
+      {
+       "w": "line.",
+       "start": 99.273,
+       "end": 99.524
+      }
+     ]
+    },
+    {
+     "text": "That was his biggest mistake.",
+     "start": 99.994,
+     "end": 101.825,
+     "words": [
+      {
+       "w": "That",
+       "start": 99.994,
+       "end": 100.314
+      },
+      {
+       "w": "was",
+       "start": 100.314,
+       "end": 100.575
+      },
+      {
+       "w": "his",
+       "start": 100.575,
+       "end": 100.837
+      },
+      {
+       "w": "biggest",
+       "start": 100.837,
+       "end": 101.331
+      },
+      {
+       "w": "mistake.",
+       "start": 101.331,
+       "end": 101.825
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "dillinger/vo/line13.mp3",
+   "start": 102.816,
+   "dur": 7.105,
+   "sentences": [
+    {
+     "text": "A stolen car across a state line was a federal crime.",
+     "start": 102.816,
+     "end": 106.166,
+     "words": [
+      {
+       "w": "A",
+       "start": 102.816,
+       "end": 102.959
+      },
+      {
+       "w": "stolen",
+       "start": 102.959,
+       "end": 103.389
+      },
+      {
+       "w": "car",
+       "start": 103.389,
+       "end": 103.646
+      },
+      {
+       "w": "across",
+       "start": 103.646,
+       "end": 104.076
+      },
+      {
+       "w": "a",
+       "start": 104.076,
+       "end": 104.219
+      },
+      {
+       "w": "state",
+       "start": 104.219,
+       "end": 104.591
+      },
+      {
+       "w": "line",
+       "start": 104.591,
+       "end": 104.906
+      },
+      {
+       "w": "was",
+       "start": 104.906,
+       "end": 105.164
+      },
+      {
+       "w": "a",
+       "start": 105.164,
+       "end": 105.307
+      },
+      {
+       "w": "federal",
+       "start": 105.307,
+       "end": 105.794
+      },
+      {
+       "w": "crime.",
+       "start": 105.794,
+       "end": 106.166
+      }
+     ]
+    },
+    {
+     "text": "Now J. Edgar Hoover's agents were coming for him.",
+     "start": 106.633,
+     "end": 109.713,
+     "words": [
+      {
+       "w": "Now",
+       "start": 106.633,
+       "end": 106.902
+      },
+      {
+       "w": "J.",
+       "start": 106.902,
+       "end": 107.052
+      },
+      {
+       "w": "Edgar",
+       "start": 107.052,
+       "end": 107.441
+      },
+      {
+       "w": "Hoover's",
+       "start": 107.441,
+       "end": 107.949
+      },
+      {
+       "w": "agents",
+       "start": 107.949,
+       "end": 108.398
+      },
+      {
+       "w": "were",
+       "start": 108.398,
+       "end": 108.727
+      },
+      {
+       "w": "coming",
+       "start": 108.727,
+       "end": 109.175
+      },
+      {
+       "w": "for",
+       "start": 109.175,
+       "end": 109.444
+      },
+      {
+       "w": "him.",
+       "start": 109.444,
+       "end": 109.713
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "dillinger/vo/line14.mp3",
+   "start": 110.621,
+   "dur": 7.314,
+   "sentences": [
+    {
+     "text": "He became Public Enemy Number One.",
+     "start": 110.621,
+     "end": 112.945,
+     "words": [
+      {
+       "w": "He",
+       "start": 110.621,
+       "end": 110.841
+      },
+      {
+       "w": "became",
+       "start": 110.841,
+       "end": 111.312
+      },
+      {
+       "w": "Public",
+       "start": 111.312,
+       "end": 111.783
+      },
+      {
+       "w": "Enemy",
+       "start": 111.783,
+       "end": 112.191
+      },
+      {
+       "w": "Number",
+       "start": 112.191,
+       "end": 112.662
+      },
+      {
+       "w": "One.",
+       "start": 112.662,
+       "end": 112.945
+      }
+     ]
+    },
+    {
+     "text": "He burned off his fingerprints with acid, and had surgery to change his face.",
+     "start": 113.413,
+     "end": 117.936,
+     "words": [
+      {
+       "w": "He",
+       "start": 113.413,
+       "end": 113.75
+      },
+      {
+       "w": "burned",
+       "start": 113.75,
+       "end": 114.472
+      },
+      {
+       "w": "off",
+       "start": 114.472,
+       "end": 114.905
+      },
+      {
+       "w": "his",
+       "start": 114.905,
+       "end": 115.339
+      },
+      {
+       "w": "fingerprints",
+       "start": 115.339,
+       "end": 116.638
+      },
+      {
+       "w": "with",
+       "start": 116.638,
+       "end": 117.168
+      },
+      {
+       "w": "acid,",
+       "start": 117.168,
+       "end": 117.697
+      },
+      {
+       "w": "and",
+       "start": 117.885,
+       "end": 117.891
+      },
+      {
+       "w": "had",
+       "start": 117.891,
+       "end": 117.897
+      },
+      {
+       "w": "surgery",
+       "start": 117.897,
+       "end": 117.908
+      },
+      {
+       "w": "to",
+       "start": 117.908,
+       "end": 117.913
+      },
+      {
+       "w": "change",
+       "start": 117.913,
+       "end": 117.923
+      },
+      {
+       "w": "his",
+       "start": 117.923,
+       "end": 117.929
+      },
+      {
+       "w": "face.",
+       "start": 117.929,
+       "end": 117.936
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "dillinger/vo/line15.mp3",
+   "start": 118.636,
+   "dur": 9.482,
+   "sentences": [
+    {
+     "text": "July 22nd, 1934.",
+     "start": 118.636,
+     "end": 119.77,
+     "words": [
+      {
+       "w": "July",
+       "start": 118.636,
+       "end": 119.014
+      },
+      {
+       "w": "22nd,",
+       "start": 119.014,
+       "end": 119.392
+      },
+      {
+       "w": "1934.",
+       "start": 119.392,
+       "end": 119.77
+      }
+     ]
+    },
+    {
+     "text": "Chicago.",
+     "start": 119.986,
+     "end": 121.06,
+     "words": [
+      {
+       "w": "Chicago.",
+       "start": 119.986,
+       "end": 121.06
+      }
+     ]
+    },
+    {
+     "text": "A woman in an orange dress walked out of a movie theater beside him.",
+     "start": 121.519,
+     "end": 126.236,
+     "words": [
+      {
+       "w": "A",
+       "start": 121.519,
+       "end": 121.676
+      },
+      {
+       "w": "woman",
+       "start": 121.676,
+       "end": 122.085
+      },
+      {
+       "w": "in",
+       "start": 122.085,
+       "end": 122.305
+      },
+      {
+       "w": "an",
+       "start": 122.305,
+       "end": 122.525
+      },
+      {
+       "w": "orange",
+       "start": 122.525,
+       "end": 122.997
+      },
+      {
+       "w": "dress",
+       "start": 122.997,
+       "end": 123.406
+      },
+      {
+       "w": "walked",
+       "start": 123.406,
+       "end": 123.877
+      },
+      {
+       "w": "out",
+       "start": 123.877,
+       "end": 124.16
+      },
+      {
+       "w": "of",
+       "start": 124.16,
+       "end": 124.381
+      },
+      {
+       "w": "a",
+       "start": 124.381,
+       "end": 124.538
+      },
+      {
+       "w": "movie",
+       "start": 124.538,
+       "end": 124.947
+      },
+      {
+       "w": "theater",
+       "start": 124.947,
+       "end": 125.481
+      },
+      {
+       "w": "beside",
+       "start": 125.481,
+       "end": 125.953
+      },
+      {
+       "w": "him.",
+       "start": 125.953,
+       "end": 126.236
+      }
+     ]
+    },
+    {
+     "text": "She had sold him out.",
+     "start": 126.702,
+     "end": 127.88,
+     "words": [
+      {
+       "w": "She",
+       "start": 126.702,
+       "end": 126.927
+      },
+      {
+       "w": "had",
+       "start": 126.927,
+       "end": 127.153
+      },
+      {
+       "w": "sold",
+       "start": 127.153,
+       "end": 127.429
+      },
+      {
+       "w": "him",
+       "start": 127.429,
+       "end": 127.654
+      },
+      {
+       "w": "out.",
+       "start": 127.654,
+       "end": 127.88
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "dillinger/vo/line16.mp3",
+   "start": 128.818,
+   "dur": 6.426,
+   "sentences": [
+    {
+     "text": "Federal agents were waiting.",
+     "start": 128.818,
+     "end": 130.272,
+     "words": [
+      {
+       "w": "Federal",
+       "start": 128.818,
+       "end": 129.23
+      },
+      {
+       "w": "agents",
+       "start": 129.23,
+       "end": 129.593
+      },
+      {
+       "w": "were",
+       "start": 129.593,
+       "end": 129.86
+      },
+      {
+       "w": "waiting.",
+       "start": 129.86,
+       "end": 130.272
+      }
+     ]
+    },
+    {
+     "text": "Dillinger ran for an alley.",
+     "start": 130.742,
+     "end": 132.269,
+     "words": [
+      {
+       "w": "Dillinger",
+       "start": 130.742,
+       "end": 131.285
+      },
+      {
+       "w": "ran",
+       "start": 131.285,
+       "end": 131.518
+      },
+      {
+       "w": "for",
+       "start": 131.518,
+       "end": 131.751
+      },
+      {
+       "w": "an",
+       "start": 131.751,
+       "end": 131.933
+      },
+      {
+       "w": "alley.",
+       "start": 131.933,
+       "end": 132.269
+      }
+     ]
+    },
+    {
+     "text": "He was shot dead.",
+     "start": 132.74,
+     "end": 133.616,
+     "words": [
+      {
+       "w": "He",
+       "start": 132.74,
+       "end": 132.902
+      },
+      {
+       "w": "was",
+       "start": 132.902,
+       "end": 133.109
+      },
+      {
+       "w": "shot",
+       "start": 133.109,
+       "end": 133.363
+      },
+      {
+       "w": "dead.",
+       "start": 133.363,
+       "end": 133.616
+      }
+     ]
+    },
+    {
+     "text": "He was thirty one.",
+     "start": 134.111,
+     "end": 134.996,
+     "words": [
+      {
+       "w": "He",
+       "start": 134.111,
+       "end": 134.266
+      },
+      {
+       "w": "was",
+       "start": 134.266,
+       "end": 134.465
+      },
+      {
+       "w": "thirty",
+       "start": 134.465,
+       "end": 134.797
+      },
+      {
+       "w": "one.",
+       "start": 134.797,
+       "end": 134.996
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "dillinger/vo/line17.mp3",
+   "start": 135.944,
+   "dur": 7.131,
+   "sentences": [
+    {
+     "text": "But here's the twist.",
+     "start": 135.944,
+     "end": 137.105,
+     "words": [
+      {
+       "w": "But",
+       "start": 135.944,
+       "end": 136.182
+      },
+      {
+       "w": "here's",
+       "start": 136.182,
+       "end": 136.525
+      },
+      {
+       "w": "the",
+       "start": 136.525,
+       "end": 136.762
+      },
+      {
+       "w": "twist.",
+       "start": 136.762,
+       "end": 137.105
+      }
+     ]
+    },
+    {
+     "text": "Did he really carve that gun himself?",
+     "start": 137.562,
+     "end": 139.728,
+     "words": [
+      {
+       "w": "Did",
+       "start": 137.562,
+       "end": 137.803
+      },
+      {
+       "w": "he",
+       "start": 137.803,
+       "end": 137.99
+      },
+      {
+       "w": "really",
+       "start": 137.99,
+       "end": 138.391
+      },
+      {
+       "w": "carve",
+       "start": 138.391,
+       "end": 138.739
+      },
+      {
+       "w": "that",
+       "start": 138.739,
+       "end": 139.033
+      },
+      {
+       "w": "gun",
+       "start": 139.033,
+       "end": 139.273
+      },
+      {
+       "w": "himself?",
+       "start": 139.273,
+       "end": 139.728
+      }
+     ]
+    },
+    {
+     "text": "Many believe it was smuggled in, with a bribe.",
+     "start": 140.081,
+     "end": 142.844,
+     "words": [
+      {
+       "w": "Many",
+       "start": 140.081,
+       "end": 140.361
+      },
+      {
+       "w": "believe",
+       "start": 140.361,
+       "end": 140.794
+      },
+      {
+       "w": "it",
+       "start": 140.794,
+       "end": 140.972
+      },
+      {
+       "w": "was",
+       "start": 140.972,
+       "end": 141.201
+      },
+      {
+       "w": "smuggled",
+       "start": 141.201,
+       "end": 141.684
+      },
+      {
+       "w": "in,",
+       "start": 141.684,
+       "end": 141.863
+      },
+      {
+       "w": "with",
+       "start": 142.126,
+       "end": 142.398
+      },
+      {
+       "w": "a",
+       "start": 142.398,
+       "end": 142.522
+      },
+      {
+       "w": "bribe.",
+       "start": 142.522,
+       "end": 142.844
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "file": "dillinger/vo/line18.mp3",
+   "start": 143.776,
+   "dur": 9.456,
+   "sentences": [
+    {
+     "text": "And some still think the man in that alley wasn't Dillinger at all.",
+     "start": 143.776,
+     "end": 147.232,
+     "words": [
+      {
+       "w": "And",
+       "start": 143.776,
+       "end": 143.99
+      },
+      {
+       "w": "some",
+       "start": 143.99,
+       "end": 144.252
+      },
+      {
+       "w": "still",
+       "start": 144.252,
+       "end": 144.562
+      },
+      {
+       "w": "think",
+       "start": 144.562,
+       "end": 144.872
+      },
+      {
+       "w": "the",
+       "start": 144.872,
+       "end": 145.087
+      },
+      {
+       "w": "man",
+       "start": 145.087,
+       "end": 145.301
+      },
+      {
+       "w": "in",
+       "start": 145.301,
+       "end": 145.468
+      },
+      {
+       "w": "that",
+       "start": 145.468,
+       "end": 145.73
+      },
+      {
+       "w": "alley",
+       "start": 145.73,
+       "end": 146.04
+      },
+      {
+       "w": "wasn't",
+       "start": 146.04,
+       "end": 146.35
+      },
+      {
+       "w": "Dillinger",
+       "start": 146.35,
+       "end": 146.85
+      },
+      {
+       "w": "at",
+       "start": 146.85,
+       "end": 147.017
+      },
+      {
+       "w": "all.",
+       "start": 147.017,
+       "end": 147.232
+      }
+     ]
+    },
+    {
+     "text": "In 2019, his family tried to dig him up to find out.",
+     "start": 147.694,
+     "end": 151.253,
+     "words": [
+      {
+       "w": "In",
+       "start": 147.694,
+       "end": 148.132
+      },
+      {
+       "w": "2019,",
+       "start": 148.132,
+       "end": 148.821
+      },
+      {
+       "w": "his",
+       "start": 149,
+       "end": 149.211
+      },
+      {
+       "w": "family",
+       "start": 149.211,
+       "end": 149.563
+      },
+      {
+       "w": "tried",
+       "start": 149.563,
+       "end": 149.868
+      },
+      {
+       "w": "to",
+       "start": 149.868,
+       "end": 150.033
+      },
+      {
+       "w": "dig",
+       "start": 150.033,
+       "end": 150.244
+      },
+      {
+       "w": "him",
+       "start": 150.244,
+       "end": 150.455
+      },
+      {
+       "w": "up",
+       "start": 150.455,
+       "end": 150.619
+      },
+      {
+       "w": "to",
+       "start": 150.619,
+       "end": 150.784
+      },
+      {
+       "w": "find",
+       "start": 150.784,
+       "end": 151.042
+      },
+      {
+       "w": "out.",
+       "start": 151.042,
+       "end": 151.253
+      }
+     ]
+    },
+    {
+     "text": "A court said no.",
+     "start": 151.72,
+     "end": 152.978,
+     "words": [
+      {
+       "w": "A",
+       "start": 151.72,
+       "end": 151.895
+      },
+      {
+       "w": "court",
+       "start": 151.895,
+       "end": 152.349
+      },
+      {
+       "w": "said",
+       "start": 152.349,
+       "end": 152.733
+      },
+      {
+       "w": "no.",
+       "start": 152.733,
+       "end": 152.978
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "file": "dillinger/vo/line19.mp3",
+   "start": 153.932,
+   "dur": 11.05,
+   "sentences": [
+    {
+     "text": "What do you think?",
+     "start": 153.932,
+     "end": 154.557,
+     "words": [
+      {
+       "w": "What",
+       "start": 153.932,
+       "end": 154.104
+      },
+      {
+       "w": "do",
+       "start": 154.104,
+       "end": 154.213
+      },
+      {
+       "w": "you",
+       "start": 154.213,
+       "end": 154.354
+      },
+      {
+       "w": "think?",
+       "start": 154.354,
+       "end": 154.557
+      }
+     ]
+    },
+    {
+     "text": "Was it him?",
+     "start": 154.912,
+     "end": 155.394,
+     "words": [
+      {
+       "w": "Was",
+       "start": 154.912,
+       "end": 155.086
+      },
+      {
+       "w": "it",
+       "start": 155.086,
+       "end": 155.221
+      },
+      {
+       "w": "him?",
+       "start": 155.221,
+       "end": 155.394
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 155.859,
+     "end": 156.835,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 155.859,
+       "end": 156.062
+      },
+      {
+       "w": "me",
+       "start": 156.062,
+       "end": 156.191
+      },
+      {
+       "w": "in",
+       "start": 156.191,
+       "end": 156.32
+      },
+      {
+       "w": "the",
+       "start": 156.32,
+       "end": 156.485
+      },
+      {
+       "w": "comments.",
+       "start": 156.485,
+       "end": 156.835
+      }
+     ]
+    },
+    {
+     "text": "Then watch our Alcatraz short, three men who escaped and were never found.",
+     "start": 157.233,
+     "end": 161.977,
+     "words": [
+      {
+       "w": "Then",
+       "start": 157.233,
+       "end": 157.562
+      },
+      {
+       "w": "watch",
+       "start": 157.562,
+       "end": 157.951
+      },
+      {
+       "w": "our",
+       "start": 157.951,
+       "end": 158.22
+      },
+      {
+       "w": "Alcatraz",
+       "start": 158.22,
+       "end": 158.788
+      },
+      {
+       "w": "short,",
+       "start": 158.788,
+       "end": 159.177
+      },
+      {
+       "w": "three",
+       "start": 159.513,
+       "end": 159.854
+      },
+      {
+       "w": "men",
+       "start": 159.854,
+       "end": 160.09
+      },
+      {
+       "w": "who",
+       "start": 160.09,
+       "end": 160.326
+      },
+      {
+       "w": "escaped",
+       "start": 160.326,
+       "end": 160.772
+      },
+      {
+       "w": "and",
+       "start": 160.772,
+       "end": 161.007
+      },
+      {
+       "w": "were",
+       "start": 161.007,
+       "end": 161.296
+      },
+      {
+       "w": "never",
+       "start": 161.296,
+       "end": 161.636
+      },
+      {
+       "w": "found.",
+       "start": 161.636,
+       "end": 161.977
+      }
+     ]
+    },
+    {
+     "text": "And follow for a new mystery every day.",
+     "start": 162.389,
+     "end": 164.711,
+     "words": [
+      {
+       "w": "And",
+       "start": 162.389,
+       "end": 162.632
+      },
+      {
+       "w": "follow",
+       "start": 162.632,
+       "end": 163.037
+      },
+      {
+       "w": "for",
+       "start": 163.037,
+       "end": 163.28
+      },
+      {
+       "w": "a",
+       "start": 163.28,
+       "end": 163.415
+      },
+      {
+       "w": "new",
+       "start": 163.415,
+       "end": 163.658
+      },
+      {
+       "w": "mystery",
+       "start": 163.658,
+       "end": 164.117
+      },
+      {
+       "w": "every",
+       "start": 164.117,
+       "end": 164.468
+      },
+      {
+       "w": "day.",
+       "start": 164.468,
+       "end": 164.711
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

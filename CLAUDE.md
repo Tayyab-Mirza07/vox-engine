@@ -76,6 +76,10 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
 - `Somerton` — the Somerton Man / Tamám Shud (1948 / named 2022); `src/somerton/`, `public/somerton/{vo,ai,photos,cta,music.mp3}`.
   2:39 deep-dive, evidence board + 5 PD police photos + 3 AI stills; nurse not named, her son only a silhouette;
   music re-used from Fitzgerald; CTA to Zodiac; thumbnail `SomertonThumb`.
+- `Dillinger` — John Dillinger's wooden-gun escape (1934); `src/dillinger/`, `public/dillinger/{vo,photos,cta,music.mp3}`. New
+  flat cartoon-silhouette poster style (cream/ink/red/gold, `src/dillinger/parts.tsx`) with every scene cut and camera
+  move locked to the music beat (`scripts/beats.py <music> <beats.json>`); original piano-noir track; 3 PD FBI photos;
+  CTA to Alcatraz; thumbnail `DillingerThumb`.
 - Viral cuts of finished Shorts: `scripts/cut-short.py <in> <out> a-b c-d …` (covers the progress bar, loudnorms) →
   `videos/mh370-cut.mp4`, `videos/sodder-cut.mp4`.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.
