@@ -28,6 +28,8 @@ import {Dillinger, T as dillinger} from './dillinger/Video';
 import {DillingerThumb} from './dillinger/scenes';
 import {Magee, T as magee} from './magee/Video';
 import {MageeThumb} from './magee/scenes';
+import {Isdal, T as isdal} from './isdal/Video';
+import {IsdalThumb} from './isdal/scenes';
 import {Gone, GoneClipBg, GoneThumb, T as gone} from './gone/Video';
 import {CooperLong, T as cooperlong} from './cooperlong/Video';
 import {CooperThumb} from './cooperlong/Thumb';
@@ -67,6 +69,8 @@ const Root: React.FC = () => (
     <Composition id="DillingerThumb" component={DillingerThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Magee" component={Magee} durationInFrames={magee.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="MageeThumb" component={MageeThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
+    <Composition id="Isdal" component={Isdal} durationInFrames={isdal.totalFrames} fps={FPS} width={W} height={H} />
+    <Composition id="IsdalThumb" component={IsdalThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Gone" component={Gone} durationInFrames={gone.totalFrames} fps={FPS} width={1920} height={1080} />
     <Composition id="GoneThumb" component={GoneThumb} durationInFrames={1} fps={FPS} width={1280} height={720} />
     <Composition id="GoneClipBg" component={GoneClipBg} durationInFrames={200} fps={FPS} width={1920} height={1080} defaultProps={{i: 0}} />

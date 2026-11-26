@@ -1,0 +1,2575 @@
+{
+ "total": 161.741,
+ "lines": [
+  {
+   "index": 0,
+   "file": "isdal/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 9.9,
+   "sentences": [
+    {
+     "text": "She had nine fake names.",
+     "start": 0.25,
+     "end": 2.131,
+     "words": [
+      {
+       "w": "She",
+       "start": 0.25,
+       "end": 0.569
+      },
+      {
+       "w": "had",
+       "start": 0.569,
+       "end": 0.889
+      },
+      {
+       "w": "nine",
+       "start": 0.889,
+       "end": 1.279
+      },
+      {
+       "w": "fake",
+       "start": 1.279,
+       "end": 1.669
+      },
+      {
+       "w": "names.",
+       "start": 1.669,
+       "end": 2.131
+      }
+     ]
+    },
+    {
+     "text": "Every label scraped off her clothes.",
+     "start": 2.311,
+     "end": 4.535,
+     "words": [
+      {
+       "w": "Every",
+       "start": 2.311,
+       "end": 2.682
+      },
+      {
+       "w": "label",
+       "start": 2.682,
+       "end": 3.053
+      },
+      {
+       "w": "scraped",
+       "start": 3.053,
+       "end": 3.537
+      },
+      {
+       "w": "off",
+       "start": 3.537,
+       "end": 3.794
+      },
+      {
+       "w": "her",
+       "start": 3.794,
+       "end": 4.051
+      },
+      {
+       "w": "clothes.",
+       "start": 4.051,
+       "end": 4.535
+      }
+     ]
+    },
+    {
+     "text": "And when they found her, half burned in a frozen valley, nobody could say who she was.",
+     "start": 4.807,
+     "end": 10.15,
+     "words": [
+      {
+       "w": "And",
+       "start": 4.807,
+       "end": 4.976
+      },
+      {
+       "w": "when",
+       "start": 4.976,
+       "end": 5.183
+      },
+      {
+       "w": "they",
+       "start": 5.183,
+       "end": 5.39
+      },
+      {
+       "w": "found",
+       "start": 5.39,
+       "end": 5.634
+      },
+      {
+       "w": "her,",
+       "start": 5.634,
+       "end": 5.803
+      },
+      {
+       "w": "half",
+       "start": 6.017,
+       "end": 6.307
+      },
+      {
+       "w": "burned",
+       "start": 6.307,
+       "end": 6.702
+      },
+      {
+       "w": "in",
+       "start": 6.702,
+       "end": 6.887
+      },
+      {
+       "w": "a",
+       "start": 6.887,
+       "end": 7.018
+      },
+      {
+       "w": "frozen",
+       "start": 7.018,
+       "end": 7.414
+      },
+      {
+       "w": "valley,",
+       "start": 7.414,
+       "end": 7.809
+      },
+      {
+       "w": "nobody",
+       "start": 8.208,
+       "end": 8.663
+      },
+      {
+       "w": "could",
+       "start": 8.663,
+       "end": 9.058
+      },
+      {
+       "w": "say",
+       "start": 9.058,
+       "end": 9.331
+      },
+      {
+       "w": "who",
+       "start": 9.331,
+       "end": 9.604
+      },
+      {
+       "w": "she",
+       "start": 9.604,
+       "end": 9.877
+      },
+      {
+       "w": "was.",
+       "start": 9.877,
+       "end": 10.15
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "isdal/vo/line1.mp3",
+   "start": 10.35,
+   "dur": 9.561,
+   "sentences": [
+    {
+     "text": "November 29th, 1970.",
+     "start": 10.35,
+     "end": 12.636,
+     "words": [
+      {
+       "w": "November",
+       "start": 10.35,
+       "end": 11.087
+      },
+      {
+       "w": "29th,",
+       "start": 11.087,
+       "end": 11.513
+      },
+      {
+       "w": "1970.",
+       "start": 11.669,
+       "end": 12.636
+      }
+     ]
+    },
+    {
+     "text": "Bergen, Norway.",
+     "start": 13.098,
+     "end": 14.196,
+     "words": [
+      {
+       "w": "Bergen,",
+       "start": 13.098,
+       "end": 13.647
+      },
+      {
+       "w": "Norway.",
+       "start": 13.647,
+       "end": 14.196
+      }
+     ]
+    },
+    {
+     "text": "A professor and his two young daughters are hiking in a valley the locals call Death Valley.",
+     "start": 14.661,
+     "end": 19.682,
+     "words": [
+      {
+       "w": "A",
+       "start": 14.661,
+       "end": 14.786
+      },
+      {
+       "w": "professor",
+       "start": 14.786,
+       "end": 15.311
+      },
+      {
+       "w": "and",
+       "start": 15.311,
+       "end": 15.536
+      },
+      {
+       "w": "his",
+       "start": 15.536,
+       "end": 15.76
+      },
+      {
+       "w": "two",
+       "start": 15.76,
+       "end": 15.985
+      },
+      {
+       "w": "young",
+       "start": 15.985,
+       "end": 16.31
+      },
+      {
+       "w": "daughters",
+       "start": 16.31,
+       "end": 16.835
+      },
+      {
+       "w": "are",
+       "start": 16.835,
+       "end": 17.059
+      },
+      {
+       "w": "hiking",
+       "start": 17.059,
+       "end": 17.434
+      },
+      {
+       "w": "in",
+       "start": 17.434,
+       "end": 17.609
+      },
+      {
+       "w": "a",
+       "start": 17.609,
+       "end": 17.734
+      },
+      {
+       "w": "valley",
+       "start": 17.734,
+       "end": 18.109
+      },
+      {
+       "w": "the",
+       "start": 18.109,
+       "end": 18.334
+      },
+      {
+       "w": "locals",
+       "start": 18.334,
+       "end": 18.708
+      },
+      {
+       "w": "call",
+       "start": 18.708,
+       "end": 18.983
+      },
+      {
+       "w": "Death",
+       "start": 18.983,
+       "end": 19.308
+      },
+      {
+       "w": "Valley.",
+       "start": 19.308,
+       "end": 19.682
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "isdal/vo/line2.mp3",
+   "start": 20.111,
+   "dur": 10.475,
+   "sentences": [
+    {
+     "text": "Among the rocks, they find a woman's body.",
+     "start": 20.111,
+     "end": 22.654,
+     "words": [
+      {
+       "w": "Among",
+       "start": 20.111,
+       "end": 20.471
+      },
+      {
+       "w": "the",
+       "start": 20.471,
+       "end": 20.72
+      },
+      {
+       "w": "rocks,",
+       "start": 20.72,
+       "end": 21.079
+      },
+      {
+       "w": "they",
+       "start": 21.325,
+       "end": 21.601
+      },
+      {
+       "w": "find",
+       "start": 21.601,
+       "end": 21.877
+      },
+      {
+       "w": "a",
+       "start": 21.877,
+       "end": 22.002
+      },
+      {
+       "w": "woman's",
+       "start": 22.002,
+       "end": 22.379
+      },
+      {
+       "w": "body.",
+       "start": 22.379,
+       "end": 22.654
+      }
+     ]
+    },
+    {
+     "text": "The front of her body is badly burned.",
+     "start": 23.116,
+     "end": 25.191,
+     "words": [
+      {
+       "w": "The",
+       "start": 23.116,
+       "end": 23.338
+      },
+      {
+       "w": "front",
+       "start": 23.338,
+       "end": 23.66
+      },
+      {
+       "w": "of",
+       "start": 23.66,
+       "end": 23.832
+      },
+      {
+       "w": "her",
+       "start": 23.832,
+       "end": 24.055
+      },
+      {
+       "w": "body",
+       "start": 24.055,
+       "end": 24.327
+      },
+      {
+       "w": "is",
+       "start": 24.327,
+       "end": 24.5
+      },
+      {
+       "w": "badly",
+       "start": 24.5,
+       "end": 24.821
+      },
+      {
+       "w": "burned.",
+       "start": 24.821,
+       "end": 25.191
+      }
+     ]
+    },
+    {
+     "text": "Around her, a melted umbrella, a fur hat, an empty bottle of liquor.",
+     "start": 25.644,
+     "end": 30.337,
+     "words": [
+      {
+       "w": "Around",
+       "start": 25.644,
+       "end": 26.044
+      },
+      {
+       "w": "her,",
+       "start": 26.044,
+       "end": 26.283
+      },
+      {
+       "w": "a",
+       "start": 26.601,
+       "end": 26.726
+      },
+      {
+       "w": "melted",
+       "start": 26.726,
+       "end": 27.099
+      },
+      {
+       "w": "umbrella,",
+       "start": 27.099,
+       "end": 27.571
+      },
+      {
+       "w": "a",
+       "start": 27.909,
+       "end": 28.068
+      },
+      {
+       "w": "fur",
+       "start": 28.068,
+       "end": 28.354
+      },
+      {
+       "w": "hat,",
+       "start": 28.354,
+       "end": 28.64
+      },
+      {
+       "w": "an",
+       "start": 29.028,
+       "end": 29.188
+      },
+      {
+       "w": "empty",
+       "start": 29.188,
+       "end": 29.487
+      },
+      {
+       "w": "bottle",
+       "start": 29.487,
+       "end": 29.831
+      },
+      {
+       "w": "of",
+       "start": 29.831,
+       "end": 29.992
+      },
+      {
+       "w": "liquor.",
+       "start": 29.992,
+       "end": 30.337
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "isdal/vo/line3.mp3",
+   "start": 30.786,
+   "dur": 6.06,
+   "sentences": [
+    {
+     "text": "But someone had removed the labels from everything.",
+     "start": 30.786,
+     "end": 33.65,
+     "words": [
+      {
+       "w": "But",
+       "start": 30.786,
+       "end": 31.021
+      },
+      {
+       "w": "someone",
+       "start": 31.021,
+       "end": 31.463
+      },
+      {
+       "w": "had",
+       "start": 31.463,
+       "end": 31.698
+      },
+      {
+       "w": "removed",
+       "start": 31.698,
+       "end": 32.14
+      },
+      {
+       "w": "the",
+       "start": 32.14,
+       "end": 32.374
+      },
+      {
+       "w": "labels",
+       "start": 32.374,
+       "end": 32.765
+      },
+      {
+       "w": "from",
+       "start": 32.765,
+       "end": 33.051
+      },
+      {
+       "w": "everything.",
+       "start": 33.051,
+       "end": 33.65
+      }
+     ]
+    },
+    {
+     "text": "Her clothes.",
+     "start": 34.108,
+     "end": 34.901,
+     "words": [
+      {
+       "w": "Her",
+       "start": 34.108,
+       "end": 34.383
+      },
+      {
+       "w": "clothes.",
+       "start": 34.383,
+       "end": 34.901
+      }
+     ]
+    },
+    {
+     "text": "The bottles.",
+     "start": 34.901,
+     "end": 35.756,
+     "words": [
+      {
+       "w": "The",
+       "start": 34.901,
+       "end": 35.197
+      },
+      {
+       "w": "bottles.",
+       "start": 35.197,
+       "end": 35.756
+      }
+     ]
+    },
+    {
+     "text": "Everything.",
+     "start": 36.05,
+     "end": 36.624,
+     "words": [
+      {
+       "w": "Everything.",
+       "start": 36.05,
+       "end": 36.624
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "isdal/vo/line4.mp3",
+   "start": 37.047,
+   "dur": 6.818,
+   "sentences": [
+    {
+     "text": "The autopsy found dozens of sleeping pills in her body, and smoke in her lungs.",
+     "start": 37.047,
+     "end": 41.89,
+     "words": [
+      {
+       "w": "The",
+       "start": 37.047,
+       "end": 37.287
+      },
+      {
+       "w": "autopsy",
+       "start": 37.287,
+       "end": 37.74
+      },
+      {
+       "w": "found",
+       "start": 37.74,
+       "end": 38.087
+      },
+      {
+       "w": "dozens",
+       "start": 38.087,
+       "end": 38.487
+      },
+      {
+       "w": "of",
+       "start": 38.487,
+       "end": 38.674
+      },
+      {
+       "w": "sleeping",
+       "start": 38.674,
+       "end": 39.181
+      },
+      {
+       "w": "pills",
+       "start": 39.181,
+       "end": 39.528
+      },
+      {
+       "w": "in",
+       "start": 39.528,
+       "end": 39.715
+      },
+      {
+       "w": "her",
+       "start": 39.715,
+       "end": 39.955
+      },
+      {
+       "w": "body,",
+       "start": 39.955,
+       "end": 40.248
+      },
+      {
+       "w": "and",
+       "start": 40.477,
+       "end": 40.726
+      },
+      {
+       "w": "smoke",
+       "start": 40.726,
+       "end": 41.086
+      },
+      {
+       "w": "in",
+       "start": 41.086,
+       "end": 41.28
+      },
+      {
+       "w": "her",
+       "start": 41.28,
+       "end": 41.529
+      },
+      {
+       "w": "lungs.",
+       "start": 41.529,
+       "end": 41.89
+      }
+     ]
+    },
+    {
+     "text": "There was a bruise on her neck.",
+     "start": 42.345,
+     "end": 43.865,
+     "words": [
+      {
+       "w": "There",
+       "start": 42.345,
+       "end": 42.631
+      },
+      {
+       "w": "was",
+       "start": 42.631,
+       "end": 42.83
+      },
+      {
+       "w": "a",
+       "start": 42.83,
+       "end": 42.94
+      },
+      {
+       "w": "bruise",
+       "start": 42.94,
+       "end": 43.27
+      },
+      {
+       "w": "on",
+       "start": 43.27,
+       "end": 43.424
+      },
+      {
+       "w": "her",
+       "start": 43.424,
+       "end": 43.622
+      },
+      {
+       "w": "neck.",
+       "start": 43.622,
+       "end": 43.865
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "isdal/vo/line5.mp3",
+   "start": 44.065,
+   "dur": 4.937,
+   "sentences": [
+    {
+     "text": "Three days later, police found her two suitcases at Bergen's train station.",
+     "start": 44.065,
+     "end": 48.632,
+     "words": [
+      {
+       "w": "Three",
+       "start": 44.065,
+       "end": 44.449
+      },
+      {
+       "w": "days",
+       "start": 44.449,
+       "end": 44.775
+      },
+      {
+       "w": "later,",
+       "start": 44.775,
+       "end": 45.16
+      },
+      {
+       "w": "police",
+       "start": 45.388,
+       "end": 45.79
+      },
+      {
+       "w": "found",
+       "start": 45.79,
+       "end": 46.139
+      },
+      {
+       "w": "her",
+       "start": 46.139,
+       "end": 46.38
+      },
+      {
+       "w": "two",
+       "start": 46.38,
+       "end": 46.621
+      },
+      {
+       "w": "suitcases",
+       "start": 46.621,
+       "end": 47.184
+      },
+      {
+       "w": "at",
+       "start": 47.184,
+       "end": 47.372
+      },
+      {
+       "w": "Bergen's",
+       "start": 47.372,
+       "end": 47.828
+      },
+      {
+       "w": "train",
+       "start": 47.828,
+       "end": 48.176
+      },
+      {
+       "w": "station.",
+       "start": 48.176,
+       "end": 48.632
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "isdal/vo/line6.mp3",
+   "start": 49.202,
+   "dur": 9.43,
+   "sentences": [
+    {
+     "text": "Inside were wigs.",
+     "start": 49.202,
+     "end": 50.632,
+     "words": [
+      {
+       "w": "Inside",
+       "start": 49.202,
+       "end": 49.782
+      },
+      {
+       "w": "were",
+       "start": 49.782,
+       "end": 50.207
+      },
+      {
+       "w": "wigs.",
+       "start": 50.207,
+       "end": 50.632
+      }
+     ]
+    },
+    {
+     "text": "Glasses with plain glass lenses.",
+     "start": 51.092,
+     "end": 53.046,
+     "words": [
+      {
+       "w": "Glasses",
+       "start": 51.092,
+       "end": 51.573
+      },
+      {
+       "w": "with",
+       "start": 51.573,
+       "end": 51.885
+      },
+      {
+       "w": "plain",
+       "start": 51.885,
+       "end": 52.253
+      },
+      {
+       "w": "glass",
+       "start": 52.253,
+       "end": 52.621
+      },
+      {
+       "w": "lenses.",
+       "start": 52.621,
+       "end": 53.046
+      }
+     ]
+    },
+    {
+     "text": "Five hundred German marks hidden in the lining.",
+     "start": 53.44,
+     "end": 55.952,
+     "words": [
+      {
+       "w": "Five",
+       "start": 53.44,
+       "end": 53.711
+      },
+      {
+       "w": "hundred",
+       "start": 53.711,
+       "end": 54.129
+      },
+      {
+       "w": "German",
+       "start": 54.129,
+       "end": 54.499
+      },
+      {
+       "w": "marks",
+       "start": 54.499,
+       "end": 54.819
+      },
+      {
+       "w": "hidden",
+       "start": 54.819,
+       "end": 55.189
+      },
+      {
+       "w": "in",
+       "start": 55.189,
+       "end": 55.361
+      },
+      {
+       "w": "the",
+       "start": 55.361,
+       "end": 55.583
+      },
+      {
+       "w": "lining.",
+       "start": 55.583,
+       "end": 55.952
+      }
+     ]
+    },
+    {
+     "text": "And a notebook, written in code.",
+     "start": 56.389,
+     "end": 58.345,
+     "words": [
+      {
+       "w": "And",
+       "start": 56.389,
+       "end": 56.602
+      },
+      {
+       "w": "a",
+       "start": 56.602,
+       "end": 56.72
+      },
+      {
+       "w": "notebook,",
+       "start": 56.72,
+       "end": 57.168
+      },
+      {
+       "w": "written",
+       "start": 57.485,
+       "end": 57.903
+      },
+      {
+       "w": "in",
+       "start": 57.903,
+       "end": 58.075
+      },
+      {
+       "w": "code.",
+       "start": 58.075,
+       "end": 58.345
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "isdal/vo/line7.mp3",
+   "start": 58.832,
+   "dur": 7.68,
+   "sentences": [
+    {
+     "text": "The code was cracked quickly.",
+     "start": 58.832,
+     "end": 60.455,
+     "words": [
+      {
+       "w": "The",
+       "start": 58.832,
+       "end": 59.064
+      },
+      {
+       "w": "code",
+       "start": 59.064,
+       "end": 59.347
+      },
+      {
+       "w": "was",
+       "start": 59.347,
+       "end": 59.579
+      },
+      {
+       "w": "cracked",
+       "start": 59.579,
+       "end": 60.017
+      },
+      {
+       "w": "quickly.",
+       "start": 60.017,
+       "end": 60.455
+      }
+     ]
+    },
+    {
+     "text": "It was a list of dates and places.",
+     "start": 60.908,
+     "end": 62.781,
+     "words": [
+      {
+       "w": "It",
+       "start": 60.908,
+       "end": 61.08
+      },
+      {
+       "w": "was",
+       "start": 61.08,
+       "end": 61.302
+      },
+      {
+       "w": "a",
+       "start": 61.302,
+       "end": 61.425
+      },
+      {
+       "w": "list",
+       "start": 61.425,
+       "end": 61.696
+      },
+      {
+       "w": "of",
+       "start": 61.696,
+       "end": 61.869
+      },
+      {
+       "w": "dates",
+       "start": 61.869,
+       "end": 62.189
+      },
+      {
+       "w": "and",
+       "start": 62.189,
+       "end": 62.411
+      },
+      {
+       "w": "places.",
+       "start": 62.411,
+       "end": 62.781
+      }
+     ]
+    },
+    {
+     "text": "She had been moving across Norway, and across Europe.",
+     "start": 63.238,
+     "end": 66.286,
+     "words": [
+      {
+       "w": "She",
+       "start": 63.238,
+       "end": 63.459
+      },
+      {
+       "w": "had",
+       "start": 63.459,
+       "end": 63.679
+      },
+      {
+       "w": "been",
+       "start": 63.679,
+       "end": 63.949
+      },
+      {
+       "w": "moving",
+       "start": 63.949,
+       "end": 64.317
+      },
+      {
+       "w": "across",
+       "start": 64.317,
+       "end": 64.685
+      },
+      {
+       "w": "Norway,",
+       "start": 64.685,
+       "end": 65.053
+      },
+      {
+       "w": "and",
+       "start": 65.226,
+       "end": 65.471
+      },
+      {
+       "w": "across",
+       "start": 65.471,
+       "end": 65.878
+      },
+      {
+       "w": "Europe.",
+       "start": 65.878,
+       "end": 66.286
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "isdal/vo/line8.mp3",
+   "start": 66.712,
+   "dur": 6.609,
+   "sentences": [
+    {
+     "text": "Hotels confirmed it.",
+     "start": 66.712,
+     "end": 67.795,
+     "words": [
+      {
+       "w": "Hotels",
+       "start": 66.712,
+       "end": 67.09
+      },
+      {
+       "w": "confirmed",
+       "start": 67.09,
+       "end": 67.619
+      },
+      {
+       "w": "it.",
+       "start": 67.619,
+       "end": 67.795
+      }
+     ]
+    },
+    {
+     "text": "She had checked in under at least nine different names, with nine fake passports.",
+     "start": 68.193,
+     "end": 73.105,
+     "words": [
+      {
+       "w": "She",
+       "start": 68.193,
+       "end": 68.447
+      },
+      {
+       "w": "had",
+       "start": 68.447,
+       "end": 68.701
+      },
+      {
+       "w": "checked",
+       "start": 68.701,
+       "end": 69.181
+      },
+      {
+       "w": "in",
+       "start": 69.181,
+       "end": 69.379
+      },
+      {
+       "w": "under",
+       "start": 69.379,
+       "end": 69.746
+      },
+      {
+       "w": "at",
+       "start": 69.746,
+       "end": 69.944
+      },
+      {
+       "w": "least",
+       "start": 69.944,
+       "end": 70.31
+      },
+      {
+       "w": "nine",
+       "start": 70.31,
+       "end": 70.621
+      },
+      {
+       "w": "different",
+       "start": 70.621,
+       "end": 71.214
+      },
+      {
+       "w": "names,",
+       "start": 71.214,
+       "end": 71.581
+      },
+      {
+       "w": "with",
+       "start": 71.581,
+       "end": 71.891
+      },
+      {
+       "w": "nine",
+       "start": 71.891,
+       "end": 72.202
+      },
+      {
+       "w": "fake",
+       "start": 72.202,
+       "end": 72.512
+      },
+      {
+       "w": "passports.",
+       "start": 72.512,
+       "end": 73.105
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "isdal/vo/line9.mp3",
+   "start": 73.521,
+   "dur": 9.718,
+   "sentences": [
+    {
+     "text": "Staff remembered her as elegant and quiet, about thirty, speaking German, French, Flemish and English.",
+     "start": 73.521,
+     "end": 80.671,
+     "words": [
+      {
+       "w": "Staff",
+       "start": 73.521,
+       "end": 73.898
+      },
+      {
+       "w": "remembered",
+       "start": 73.898,
+       "end": 74.566
+      },
+      {
+       "w": "her",
+       "start": 74.566,
+       "end": 74.827
+      },
+      {
+       "w": "as",
+       "start": 74.827,
+       "end": 75.031
+      },
+      {
+       "w": "elegant",
+       "start": 75.031,
+       "end": 75.524
+      },
+      {
+       "w": "and",
+       "start": 75.524,
+       "end": 75.786
+      },
+      {
+       "w": "quiet,",
+       "start": 75.786,
+       "end": 76.163
+      },
+      {
+       "w": "about",
+       "start": 76.463,
+       "end": 76.813
+      },
+      {
+       "w": "thirty,",
+       "start": 76.813,
+       "end": 77.217
+      },
+      {
+       "w": "speaking",
+       "start": 77.445,
+       "end": 77.977
+      },
+      {
+       "w": "German,",
+       "start": 77.977,
+       "end": 78.397
+      },
+      {
+       "w": "French,",
+       "start": 78.562,
+       "end": 79.048
+      },
+      {
+       "w": "Flemish",
+       "start": 79.244,
+       "end": 79.808
+      },
+      {
+       "w": "and",
+       "start": 79.808,
+       "end": 80.107
+      },
+      {
+       "w": "English.",
+       "start": 80.107,
+       "end": 80.671
+      }
+     ]
+    },
+    {
+     "text": "She kept asking to change rooms.",
+     "start": 81.094,
+     "end": 82.981,
+     "words": [
+      {
+       "w": "She",
+       "start": 81.094,
+       "end": 81.337
+      },
+      {
+       "w": "kept",
+       "start": 81.337,
+       "end": 81.633
+      },
+      {
+       "w": "asking",
+       "start": 81.633,
+       "end": 82.037
+      },
+      {
+       "w": "to",
+       "start": 82.037,
+       "end": 82.226
+      },
+      {
+       "w": "change",
+       "start": 82.226,
+       "end": 82.63
+      },
+      {
+       "w": "rooms.",
+       "start": 82.63,
+       "end": 82.981
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "isdal/vo/line10.mp3",
+   "start": 83.439,
+   "dur": 8.751,
+   "sentences": [
+    {
+     "text": "On November 23rd, she checked out of a Bergen hotel, paid in cash, and walked away.",
+     "start": 83.439,
+     "end": 88.901,
+     "words": [
+      {
+       "w": "On",
+       "start": 83.439,
+       "end": 83.686
+      },
+      {
+       "w": "November",
+       "start": 83.686,
+       "end": 84.359
+      },
+      {
+       "w": "23rd,",
+       "start": 84.359,
+       "end": 84.748
+      },
+      {
+       "w": "she",
+       "start": 84.984,
+       "end": 85.199
+      },
+      {
+       "w": "checked",
+       "start": 85.199,
+       "end": 85.605
+      },
+      {
+       "w": "out",
+       "start": 85.605,
+       "end": 85.82
+      },
+      {
+       "w": "of",
+       "start": 85.82,
+       "end": 85.987
+      },
+      {
+       "w": "a",
+       "start": 85.987,
+       "end": 86.106
+      },
+      {
+       "w": "Bergen",
+       "start": 86.106,
+       "end": 86.465
+      },
+      {
+       "w": "hotel,",
+       "start": 86.465,
+       "end": 86.775
+      },
+      {
+       "w": "paid",
+       "start": 87.102,
+       "end": 87.426
+      },
+      {
+       "w": "in",
+       "start": 87.426,
+       "end": 87.632
+      },
+      {
+       "w": "cash,",
+       "start": 87.632,
+       "end": 87.956
+      },
+      {
+       "w": "and",
+       "start": 88.13,
+       "end": 88.328
+      },
+      {
+       "w": "walked",
+       "start": 88.328,
+       "end": 88.659
+      },
+      {
+       "w": "away.",
+       "start": 88.659,
+       "end": 88.901
+      }
+     ]
+    },
+    {
+     "text": "Six days later, she was dead in the valley.",
+     "start": 89.366,
+     "end": 91.93,
+     "words": [
+      {
+       "w": "Six",
+       "start": 89.366,
+       "end": 89.637
+      },
+      {
+       "w": "days",
+       "start": 89.637,
+       "end": 89.968
+      },
+      {
+       "w": "later,",
+       "start": 89.968,
+       "end": 90.36
+      },
+      {
+       "w": "she",
+       "start": 90.674,
+       "end": 90.863
+      },
+      {
+       "w": "was",
+       "start": 90.863,
+       "end": 91.051
+      },
+      {
+       "w": "dead",
+       "start": 91.051,
+       "end": 91.281
+      },
+      {
+       "w": "in",
+       "start": 91.281,
+       "end": 91.428
+      },
+      {
+       "w": "the",
+       "start": 91.428,
+       "end": 91.616
+      },
+      {
+       "w": "valley.",
+       "start": 91.616,
+       "end": 91.93
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "isdal/vo/line11.mp3",
+   "start": 92.39,
+   "dur": 9.195,
+   "sentences": [
+    {
+     "text": "Police ruled it a suicide.",
+     "start": 92.39,
+     "end": 94.075,
+     "words": [
+      {
+       "w": "Police",
+       "start": 92.39,
+       "end": 92.833
+      },
+      {
+       "w": "ruled",
+       "start": 92.833,
+       "end": 93.217
+      },
+      {
+       "w": "it",
+       "start": 93.217,
+       "end": 93.424
+      },
+      {
+       "w": "a",
+       "start": 93.424,
+       "end": 93.572
+      },
+      {
+       "w": "suicide.",
+       "start": 93.572,
+       "end": 94.075
+      }
+     ]
+    },
+    {
+     "text": "But how do you set yourself on fire after swallowing that many pills?",
+     "start": 94.532,
+     "end": 98.475,
+     "words": [
+      {
+       "w": "But",
+       "start": 94.532,
+       "end": 94.767
+      },
+      {
+       "w": "how",
+       "start": 94.767,
+       "end": 95.002
+      },
+      {
+       "w": "do",
+       "start": 95.002,
+       "end": 95.185
+      },
+      {
+       "w": "you",
+       "start": 95.185,
+       "end": 95.42
+      },
+      {
+       "w": "set",
+       "start": 95.42,
+       "end": 95.655
+      },
+      {
+       "w": "yourself",
+       "start": 95.655,
+       "end": 96.151
+      },
+      {
+       "w": "on",
+       "start": 96.151,
+       "end": 96.334
+      },
+      {
+       "w": "fire",
+       "start": 96.334,
+       "end": 96.621
+      },
+      {
+       "w": "after",
+       "start": 96.621,
+       "end": 96.96
+      },
+      {
+       "w": "swallowing",
+       "start": 96.96,
+       "end": 97.561
+      },
+      {
+       "w": "that",
+       "start": 97.561,
+       "end": 97.848
+      },
+      {
+       "w": "many",
+       "start": 97.848,
+       "end": 98.135
+      },
+      {
+       "w": "pills?",
+       "start": 98.135,
+       "end": 98.475
+      }
+     ]
+    },
+    {
+     "text": "And why erase your whole identity first?",
+     "start": 98.924,
+     "end": 101.585,
+     "words": [
+      {
+       "w": "And",
+       "start": 98.924,
+       "end": 99.199
+      },
+      {
+       "w": "why",
+       "start": 99.199,
+       "end": 99.474
+      },
+      {
+       "w": "erase",
+       "start": 99.474,
+       "end": 99.872
+      },
+      {
+       "w": "your",
+       "start": 99.872,
+       "end": 100.208
+      },
+      {
+       "w": "whole",
+       "start": 100.208,
+       "end": 100.606
+      },
+      {
+       "w": "identity",
+       "start": 100.606,
+       "end": 101.187
+      },
+      {
+       "w": "first?",
+       "start": 101.187,
+       "end": 101.585
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "isdal/vo/line12.mp3",
+   "start": 101.785,
+   "dur": 8.098,
+   "sentences": [
+    {
+     "text": "Then came the spy theory.",
+     "start": 101.785,
+     "end": 103.44,
+     "words": [
+      {
+       "w": "Then",
+       "start": 101.785,
+       "end": 102.116
+      },
+      {
+       "w": "came",
+       "start": 102.116,
+       "end": 102.447
+      },
+      {
+       "w": "the",
+       "start": 102.447,
+       "end": 102.718
+      },
+      {
+       "w": "spy",
+       "start": 102.718,
+       "end": 102.988
+      },
+      {
+       "w": "theory.",
+       "start": 102.988,
+       "end": 103.44
+      }
+     ]
+    },
+    {
+     "text": "This was the Cold War.",
+     "start": 103.904,
+     "end": 105.152,
+     "words": [
+      {
+       "w": "This",
+       "start": 103.904,
+       "end": 104.184
+      },
+      {
+       "w": "was",
+       "start": 104.184,
+       "end": 104.413
+      },
+      {
+       "w": "the",
+       "start": 104.413,
+       "end": 104.642
+      },
+      {
+       "w": "Cold",
+       "start": 104.642,
+       "end": 104.923
+      },
+      {
+       "w": "War.",
+       "start": 104.923,
+       "end": 105.152
+      }
+     ]
+    },
+    {
+     "text": "And some of the places she visited matched secret Norwegian missile tests.",
+     "start": 105.615,
+     "end": 109.651,
+     "words": [
+      {
+       "w": "And",
+       "start": 105.615,
+       "end": 105.842
+      },
+      {
+       "w": "some",
+       "start": 105.842,
+       "end": 106.12
+      },
+      {
+       "w": "of",
+       "start": 106.12,
+       "end": 106.296
+      },
+      {
+       "w": "the",
+       "start": 106.296,
+       "end": 106.523
+      },
+      {
+       "w": "places",
+       "start": 106.523,
+       "end": 106.902
+      },
+      {
+       "w": "she",
+       "start": 106.902,
+       "end": 107.129
+      },
+      {
+       "w": "visited",
+       "start": 107.129,
+       "end": 107.557
+      },
+      {
+       "w": "matched",
+       "start": 107.557,
+       "end": 107.986
+      },
+      {
+       "w": "secret",
+       "start": 107.986,
+       "end": 108.365
+      },
+      {
+       "w": "Norwegian",
+       "start": 108.365,
+       "end": 108.894
+      },
+      {
+       "w": "missile",
+       "start": 108.894,
+       "end": 109.323
+      },
+      {
+       "w": "tests.",
+       "start": 109.323,
+       "end": 109.651
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "isdal/vo/line13.mp3",
+   "start": 110.083,
+   "dur": 8.281,
+   "sentences": [
+    {
+     "text": "Nobody could prove it.",
+     "start": 110.083,
+     "end": 111.238,
+     "words": [
+      {
+       "w": "Nobody",
+       "start": 110.083,
+       "end": 110.444
+      },
+      {
+       "w": "could",
+       "start": 110.444,
+       "end": 110.757
+      },
+      {
+       "w": "prove",
+       "start": 110.757,
+       "end": 111.07
+      },
+      {
+       "w": "it.",
+       "start": 111.07,
+       "end": 111.238
+      }
+     ]
+    },
+    {
+     "text": "In February 1971, she was buried in a Catholic ceremony.",
+     "start": 111.688,
+     "end": 116.023,
+     "words": [
+      {
+       "w": "In",
+       "start": 111.688,
+       "end": 112.076
+      },
+      {
+       "w": "February",
+       "start": 112.076,
+       "end": 113.127
+      },
+      {
+       "w": "1971,",
+       "start": 113.127,
+       "end": 113.736
+      },
+      {
+       "w": "she",
+       "start": 113.966,
+       "end": 114.189
+      },
+      {
+       "w": "was",
+       "start": 114.189,
+       "end": 114.412
+      },
+      {
+       "w": "buried",
+       "start": 114.412,
+       "end": 114.784
+      },
+      {
+       "w": "in",
+       "start": 114.784,
+       "end": 114.957
+      },
+      {
+       "w": "a",
+       "start": 114.957,
+       "end": 115.081
+      },
+      {
+       "w": "Catholic",
+       "start": 115.081,
+       "end": 115.552
+      },
+      {
+       "w": "ceremony.",
+       "start": 115.552,
+       "end": 116.023
+      }
+     ]
+    },
+    {
+     "text": "Only police officers came.",
+     "start": 116.487,
+     "end": 118.116,
+     "words": [
+      {
+       "w": "Only",
+       "start": 116.487,
+       "end": 116.807
+      },
+      {
+       "w": "police",
+       "start": 116.807,
+       "end": 117.244
+      },
+      {
+       "w": "officers",
+       "start": 117.244,
+       "end": 117.796
+      },
+      {
+       "w": "came.",
+       "start": 117.796,
+       "end": 118.116
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "isdal/vo/line14.mp3",
+   "start": 118.563,
+   "dur": 7.784,
+   "sentences": [
+    {
+     "text": "They buried her in a zinc coffin, so that one day she could be studied again.",
+     "start": 118.563,
+     "end": 122.907,
+     "words": [
+      {
+       "w": "They",
+       "start": 118.563,
+       "end": 118.862
+      },
+      {
+       "w": "buried",
+       "start": 118.862,
+       "end": 119.269
+      },
+      {
+       "w": "her",
+       "start": 119.269,
+       "end": 119.514
+      },
+      {
+       "w": "in",
+       "start": 119.514,
+       "end": 119.704
+      },
+      {
+       "w": "a",
+       "start": 119.704,
+       "end": 119.84
+      },
+      {
+       "w": "zinc",
+       "start": 119.84,
+       "end": 120.138
+      },
+      {
+       "w": "coffin,",
+       "start": 120.138,
+       "end": 120.546
+      },
+      {
+       "w": "so",
+       "start": 120.799,
+       "end": 120.955
+      },
+      {
+       "w": "that",
+       "start": 120.955,
+       "end": 121.199
+      },
+      {
+       "w": "one",
+       "start": 121.199,
+       "end": 121.399
+      },
+      {
+       "w": "day",
+       "start": 121.399,
+       "end": 121.598
+      },
+      {
+       "w": "she",
+       "start": 121.598,
+       "end": 121.798
+      },
+      {
+       "w": "could",
+       "start": 121.798,
+       "end": 122.086
+      },
+      {
+       "w": "be",
+       "start": 122.086,
+       "end": 122.242
+      },
+      {
+       "w": "studied",
+       "start": 122.242,
+       "end": 122.619
+      },
+      {
+       "w": "again.",
+       "start": 122.619,
+       "end": 122.907
+      }
+     ]
+    },
+    {
+     "text": "In 2016, the case was reopened.",
+     "start": 123.372,
+     "end": 126.077,
+     "words": [
+      {
+       "w": "In",
+       "start": 123.372,
+       "end": 123.807
+      },
+      {
+       "w": "2016,",
+       "start": 123.807,
+       "end": 124.492
+      },
+      {
+       "w": "the",
+       "start": 124.76,
+       "end": 125.007
+      },
+      {
+       "w": "case",
+       "start": 125.007,
+       "end": 125.309
+      },
+      {
+       "w": "was",
+       "start": 125.309,
+       "end": 125.556
+      },
+      {
+       "w": "reopened.",
+       "start": 125.556,
+       "end": 126.077
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "isdal/vo/line15.mp3",
+   "start": 126.548,
+   "dur": 9.691,
+   "sentences": [
+    {
+     "text": "Scientists studied her teeth.",
+     "start": 126.548,
+     "end": 128.324,
+     "words": [
+      {
+       "w": "Scientists",
+       "start": 126.548,
+       "end": 127.207
+      },
+      {
+       "w": "studied",
+       "start": 127.207,
+       "end": 127.694
+      },
+      {
+       "w": "her",
+       "start": 127.694,
+       "end": 127.952
+      },
+      {
+       "w": "teeth.",
+       "start": 127.952,
+       "end": 128.324
+      }
+     ]
+    },
+    {
+     "text": "The chemistry inside them showed she was born around 1930, near Nuremberg, Germany, and grew up toward the French border.",
+     "start": 128.745,
+     "end": 136.029,
+     "words": [
+      {
+       "w": "The",
+       "start": 128.745,
+       "end": 129.001
+      },
+      {
+       "w": "chemistry",
+       "start": 129.001,
+       "end": 129.599
+      },
+      {
+       "w": "inside",
+       "start": 129.599,
+       "end": 130.026
+      },
+      {
+       "w": "them",
+       "start": 130.026,
+       "end": 130.339
+      },
+      {
+       "w": "showed",
+       "start": 130.339,
+       "end": 130.765
+      },
+      {
+       "w": "she",
+       "start": 130.765,
+       "end": 131.021
+      },
+      {
+       "w": "was",
+       "start": 131.021,
+       "end": 131.277
+      },
+      {
+       "w": "born",
+       "start": 131.277,
+       "end": 131.59
+      },
+      {
+       "w": "around",
+       "start": 131.59,
+       "end": 132.017
+      },
+      {
+       "w": "1930,",
+       "start": 132.017,
+       "end": 132.33
+      },
+      {
+       "w": "near",
+       "start": 132.33,
+       "end": 132.643
+      },
+      {
+       "w": "Nuremberg,",
+       "start": 132.643,
+       "end": 133.241
+      },
+      {
+       "w": "Germany,",
+       "start": 133.241,
+       "end": 134.021
+      },
+      {
+       "w": "and",
+       "start": 134.353,
+       "end": 134.539
+      },
+      {
+       "w": "grew",
+       "start": 134.539,
+       "end": 134.767
+      },
+      {
+       "w": "up",
+       "start": 134.767,
+       "end": 134.912
+      },
+      {
+       "w": "toward",
+       "start": 134.912,
+       "end": 135.222
+      },
+      {
+       "w": "the",
+       "start": 135.222,
+       "end": 135.408
+      },
+      {
+       "w": "French",
+       "start": 135.408,
+       "end": 135.719
+      },
+      {
+       "w": "border.",
+       "start": 135.719,
+       "end": 136.029
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "isdal/vo/line16.mp3",
+   "start": 136.439,
+   "dur": 4.389,
+   "sentences": [
+    {
+     "text": "Investigators shared her DNA with the world, hoping for a match.",
+     "start": 136.439,
+     "end": 140.642,
+     "words": [
+      {
+       "w": "Investigators",
+       "start": 136.439,
+       "end": 137.288
+      },
+      {
+       "w": "shared",
+       "start": 137.288,
+       "end": 137.727
+      },
+      {
+       "w": "her",
+       "start": 137.727,
+       "end": 137.99
+      },
+      {
+       "w": "DNA",
+       "start": 137.99,
+       "end": 138.254
+      },
+      {
+       "w": "with",
+       "start": 138.254,
+       "end": 138.576
+      },
+      {
+       "w": "the",
+       "start": 138.576,
+       "end": 138.839
+      },
+      {
+       "w": "world,",
+       "start": 138.839,
+       "end": 139.219
+      },
+      {
+       "w": "hoping",
+       "start": 139.486,
+       "end": 139.899
+      },
+      {
+       "w": "for",
+       "start": 139.899,
+       "end": 140.147
+      },
+      {
+       "w": "a",
+       "start": 140.147,
+       "end": 140.285
+      },
+      {
+       "w": "match.",
+       "start": 140.285,
+       "end": 140.642
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "isdal/vo/line17.mp3",
+   "start": 141.028,
+   "dur": 5.094,
+   "sentences": [
+    {
+     "text": "And yet, more than fifty years later, no one has been able to give her a name.",
+     "start": 141.028,
+     "end": 145.808,
+     "words": [
+      {
+       "w": "And",
+       "start": 141.028,
+       "end": 141.357
+      },
+      {
+       "w": "yet,",
+       "start": 141.357,
+       "end": 141.686
+      },
+      {
+       "w": "more",
+       "start": 141.937,
+       "end": 142.271
+      },
+      {
+       "w": "than",
+       "start": 142.271,
+       "end": 142.606
+      },
+      {
+       "w": "fifty",
+       "start": 142.606,
+       "end": 143.001
+      },
+      {
+       "w": "years",
+       "start": 143.001,
+       "end": 143.396
+      },
+      {
+       "w": "later,",
+       "start": 143.396,
+       "end": 143.791
+      },
+      {
+       "w": "no",
+       "start": 143.982,
+       "end": 144.124
+      },
+      {
+       "w": "one",
+       "start": 144.124,
+       "end": 144.307
+      },
+      {
+       "w": "has",
+       "start": 144.307,
+       "end": 144.489
+      },
+      {
+       "w": "been",
+       "start": 144.489,
+       "end": 144.713
+      },
+      {
+       "w": "able",
+       "start": 144.713,
+       "end": 144.936
+      },
+      {
+       "w": "to",
+       "start": 144.936,
+       "end": 145.078
+      },
+      {
+       "w": "give",
+       "start": 145.078,
+       "end": 145.301
+      },
+      {
+       "w": "her",
+       "start": 145.301,
+       "end": 145.483
+      },
+      {
+       "w": "a",
+       "start": 145.483,
+       "end": 145.585
+      },
+      {
+       "w": "name.",
+       "start": 145.585,
+       "end": 145.808
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "file": "isdal/vo/line18.mp3",
+   "start": 146.322,
+   "dur": 14.42,
+   "sentences": [
+    {
+     "text": "Who do you think she was?",
+     "start": 146.322,
+     "end": 147.467,
+     "words": [
+      {
+       "w": "Who",
+       "start": 146.322,
+       "end": 146.506
+      },
+      {
+       "w": "do",
+       "start": 146.506,
+       "end": 146.649
+      },
+      {
+       "w": "you",
+       "start": 146.649,
+       "end": 146.833
+      },
+      {
+       "w": "think",
+       "start": 146.833,
+       "end": 147.099
+      },
+      {
+       "w": "she",
+       "start": 147.099,
+       "end": 147.283
+      },
+      {
+       "w": "was?",
+       "start": 147.283,
+       "end": 147.467
+      }
+     ]
+    },
+    {
+     "text": "A spy, a smuggler, or someone running from her past?",
+     "start": 147.88,
+     "end": 151.823,
+     "words": [
+      {
+       "w": "A",
+       "start": 147.88,
+       "end": 148.096
+      },
+      {
+       "w": "spy,",
+       "start": 148.096,
+       "end": 148.486
+      },
+      {
+       "w": "a",
+       "start": 148.873,
+       "end": 149.011
+      },
+      {
+       "w": "smuggler,",
+       "start": 149.011,
+       "end": 149.535
+      },
+      {
+       "w": "or",
+       "start": 149.919,
+       "end": 150.104
+      },
+      {
+       "w": "someone",
+       "start": 150.104,
+       "end": 150.554
+      },
+      {
+       "w": "running",
+       "start": 150.554,
+       "end": 151.003
+      },
+      {
+       "w": "from",
+       "start": 151.003,
+       "end": 151.294
+      },
+      {
+       "w": "her",
+       "start": 151.294,
+       "end": 151.532
+      },
+      {
+       "w": "past?",
+       "start": 151.532,
+       "end": 151.823
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 152.224,
+     "end": 153.222,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 152.224,
+       "end": 152.431
+      },
+      {
+       "w": "me",
+       "start": 152.431,
+       "end": 152.563
+      },
+      {
+       "w": "in",
+       "start": 152.563,
+       "end": 152.695
+      },
+      {
+       "w": "the",
+       "start": 152.695,
+       "end": 152.864
+      },
+      {
+       "w": "comments.",
+       "start": 152.864,
+       "end": 153.222
+      }
+     ]
+    },
+    {
+     "text": "Then watch our Somerton Man short, the man on the beach with no name.",
+     "start": 153.549,
+     "end": 157.804,
+     "words": [
+      {
+       "w": "Then",
+       "start": 153.549,
+       "end": 153.858
+      },
+      {
+       "w": "watch",
+       "start": 153.858,
+       "end": 154.223
+      },
+      {
+       "w": "our",
+       "start": 154.223,
+       "end": 154.475
+      },
+      {
+       "w": "Somerton",
+       "start": 154.475,
+       "end": 155.009
+      },
+      {
+       "w": "Man",
+       "start": 155.009,
+       "end": 155.261
+      },
+      {
+       "w": "short,",
+       "start": 155.261,
+       "end": 155.626
+      },
+      {
+       "w": "the",
+       "start": 155.95,
+       "end": 156.17
+      },
+      {
+       "w": "man",
+       "start": 156.17,
+       "end": 156.389
+      },
+      {
+       "w": "on",
+       "start": 156.389,
+       "end": 156.56
+      },
+      {
+       "w": "the",
+       "start": 156.56,
+       "end": 156.779
+      },
+      {
+       "w": "beach",
+       "start": 156.779,
+       "end": 157.096
+      },
+      {
+       "w": "with",
+       "start": 157.096,
+       "end": 157.365
+      },
+      {
+       "w": "no",
+       "start": 157.365,
+       "end": 157.535
+      },
+      {
+       "w": "name.",
+       "start": 157.535,
+       "end": 157.804
+      }
+     ]
+    },
+    {
+     "text": "And follow for a new mystery every day.",
+     "start": 158.185,
+     "end": 160.503,
+     "words": [
+      {
+       "w": "And",
+       "start": 158.185,
+       "end": 158.428
+      },
+      {
+       "w": "follow",
+       "start": 158.428,
+       "end": 158.832
+      },
+      {
+       "w": "for",
+       "start": 158.832,
+       "end": 159.075
+      },
+      {
+       "w": "a",
+       "start": 159.075,
+       "end": 159.209
+      },
+      {
+       "w": "new",
+       "start": 159.209,
+       "end": 159.452
+      },
+      {
+       "w": "mystery",
+       "start": 159.452,
+       "end": 159.91
+      },
+      {
+       "w": "every",
+       "start": 159.91,
+       "end": 160.261
+      },
+      {
+       "w": "day.",
+       "start": 160.261,
+       "end": 160.503
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

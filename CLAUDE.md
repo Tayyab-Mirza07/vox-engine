@@ -83,6 +83,11 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
 - `Magee` — Alan Magee, fell ~22,000 ft without a parachute (1943); `src/magee/`, `public/magee/{vo,photos,music.mp3}`. ~68 s viral
   format in the Dillinger cartoon style but softer (no cut flash, small beat punch, new framing every 8 beats);
   2 PD B-17 photos; music re-used from Flight 19; loop ending + on-screen FOLLOW; thumbnail `MageeThumb`.
+- `Isdal` — the Isdal Woman (1970, still unidentified); `src/isdal/`, `public/isdal/{vo,photos,cta,music.mp3}`. First episode in the
+  new **vintage collage** style (owner's favourite: Vox/Fing-like) built from the reusable kit `src/collage/parts.tsx`
+  (paper texture, torn-edge cut-out photos with tape + halftone, typewriter `Typed`, marker `Circle`/`Arrow`, highlighter `Hi`,
+  `Redact`, `Stamp`, `Headline`, 12 fps `jitter`, paper-slide page transitions, fonts Playfair Display + Special Elite);
+  4 real place photos; 2:42; CTA to Somerton; thumbnail `IsdalThumb`. Use this kit for new episodes.
 - Viral cuts of finished Shorts: `scripts/cut-short.py <in> <out> a-b c-d …` (covers the progress bar, loudnorms) →
   `videos/mh370-cut.mp4`, `videos/sodder-cut.mp4`.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.

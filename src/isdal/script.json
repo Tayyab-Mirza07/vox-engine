@@ -1,0 +1,39 @@
+{
+  "title": "Nine Fake Names. A Burned Body. She Still Has No Name.",
+  "style": "vintage collage motion (paper, cut-out archive photos, typewriter, red marker, redaction bars, 12 fps jitter, parallax)",
+  "voice": {"provider": "elevenlabs", "voice_id": "uFIXVu9mmnDZ7dTKCBTX", "model": "eleven_v4"},
+  "gap": 0.2,
+  "tail": 1.0,
+  "spoken": {"1970.": "nineteen seventy", "1971,": "nineteen seventy one", "2016,": "twenty sixteen", "1930,": "nineteen thirty"},
+  "lines": [
+    "She had nine fake names. Every label scraped off her clothes. And when they found her, half burned in a frozen valley, nobody could say who she was.",
+    "November 29th, 1970. Bergen, Norway. A professor and his two young daughters are hiking in a valley the locals call Death Valley.",
+    "Among the rocks, they find a woman's body. The front of her body is badly burned. Around her, a melted umbrella, a fur hat, an empty bottle of liquor.",
+    "But someone had removed the labels from everything. Her clothes. The bottles. Everything.",
+    "The autopsy found dozens of sleeping pills in her body, and smoke in her lungs. There was a bruise on her neck.",
+    "Three days later, police found her two suitcases at Bergen's train station.",
+    "Inside were wigs. Glasses with plain glass lenses. Five hundred German marks hidden in the lining. And a notebook, written in code.",
+    "The code was cracked quickly. It was a list of dates and places. She had been moving across Norway, and across Europe.",
+    "Hotels confirmed it. She had checked in under at least nine different names, with nine fake passports.",
+    "Staff remembered her as elegant and quiet, about thirty, speaking German, French, Flemish and English. She kept asking to change rooms.",
+    "On November 23rd, she checked out of a Bergen hotel, paid in cash, and walked away. Six days later, she was dead in the valley.",
+    "Police ruled it a suicide. But how do you set yourself on fire after swallowing that many pills? And why erase your whole identity first?",
+    "Then came the spy theory. This was the Cold War. And some of the places she visited matched secret Norwegian missile tests.",
+    "Nobody could prove it. In February 1971, she was buried in a Catholic ceremony. Only police officers came.",
+    "They buried her in a zinc coffin, so that one day she could be studied again. In 2016, the case was reopened.",
+    "Scientists studied her teeth. The chemistry inside them showed she was born around 1930, near Nuremberg, Germany, and grew up toward the French border.",
+    "Investigators shared her DNA with the world, hoping for a match.",
+    "And yet, more than fifty years later, no one has been able to give her a name.",
+    "Who do you think she was? A spy, a smuggler, or someone running from her past? Tell me in the comments. Then watch our Somerton Man short, the man on the beach with no name. And follow for a new mystery every day."
+  ],
+  "structure": {
+    "hook": "line 0: nine fake names, labels scraped off, half-burned body, no one knows who she was (cold open, intense)",
+    "5W1H": "who (unidentified woman, ~40 in 1970, born ~1930), what (burned body, erased identity, nine aliases), when (23-29 Nov 1970; buried Feb 1971; reopened 2016-17), where (Isdalen 'Death Valley', Bergen; hotels across Norway/Europe), how (sleeping pills + carbon monoxide; fire), why (spy theory vs suicide ruling)",
+    "rehooks": ["line 5-6: the suitcases and the coded notebook", "line 11: how do you set yourself on fire after that many pills?", "line 12: the spy theory", "line 14: buried in a zinc coffin — reopened 2016"],
+    "tension": "lines 1-12",
+    "release": "lines 15-16: isotope science gives her a birthplace",
+    "payoff": "line 17: still no name after 50+ years",
+    "cta": "line 18: comment question + Somerton Man Short (thumbnail) + follow line"
+  },
+  "notes": "Sources: Wikipedia 'Isdal Woman'; BBC/NRK 'Death in Ice Valley' (2018); NRK 2016-2017 reporting; Mental Floss; All That's Interesting (updated Sep 2025: still unidentified). Body found 29 Nov 1970 in Isdalen ('Death Valley') near Bergen by a professor and his two daughters; front badly burned; items nearby incl. empty St. Hallvard liqueur bottle, plastic bottles, umbrella, fur hat; labels removed from clothes and items. Autopsy: ~50-70 Fenemal (phenobarbital) pills + carbon monoxide; bruise on neck. Two suitcases found at Bergen railway station left-luggage (2 Dec): wigs, non-prescription glasses (her fingerprint), 500 Deutsche Mark in the lining, coded notebook (decoded as dates/places of her travels). At least 9 aliases / fake passports; hotel staff: well dressed, ~30-40, spoke German, French, Flemish, English; changed rooms. Checked out of Hotel Rosenkrantz, Bergen, 23 Nov 1970, paid cash. Police ruled suicide. Spy theory: some travel matched Norwegian Penguin missile tests. Buried 5 Feb 1971, Møllendal cemetery, Catholic rites, zinc coffin; police officers attended. Reopened 2016; 2017 isotope analysis of teeth: born ~1930 (±4) near Nuremberg, moved toward the French/German border region as a child. Still unidentified (no identification reported as of 2025/2026)."
+}
