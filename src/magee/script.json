@@ -1,0 +1,34 @@
+{
+  "title": "He Fell 22,000 Feet With No Parachute… and Lived",
+  "format": "viral-short (~70 s, one reveal, loop ending, on-screen FOLLOW)",
+  "style": "flat cartoon silhouettes (Dillinger parts), cuts on the music beat but softer: no cut flash, small punch, new framing every 8 beats",
+  "voice": {"provider": "elevenlabs", "voice_id": "uFIXVu9mmnDZ7dTKCBTX", "model": "eleven_v4"},
+  "gap": 0.25,
+  "tail": 0.8,
+  "spoken": {"1943.": "nineteen forty three", "1943,": "nineteen forty three", "1945.": "nineteen forty five"},
+  "lines": [
+    "Twenty two thousand feet. No parachute. And this man lived.",
+    "January 3rd, 1943. Alan Magee was a ball turret gunner on a B-17 bomber, over Saint-Nazaire, in occupied France.",
+    "German flak tore into the plane, and it started to spin.",
+    "Magee climbed out of his turret, and found his parachute ripped to shreds.",
+    "So he jumped anyway. At that height there's barely any air. He blacked out.",
+    "He fell more than four miles.",
+    "And then something impossible happened.",
+    "He smashed through the glass roof of the Saint-Nazaire railway station. The glass slowed him down, just enough.",
+    "Twenty eight wounds. A broken leg. His arm nearly torn off. But he was alive.",
+    "German soldiers found him on the station floor, and their doctors saved his life.",
+    "He spent the rest of the war as a prisoner, and went home in 1945.",
+    "Fifty years later, the people of Saint-Nazaire built a memorial to him and his crew.",
+    "He lived to be eighty four."
+  ],
+  "structure": {
+    "hook": "line 0: 22,000 feet, no parachute, he lived (cold open, intense)",
+    "5W1H": "who (Alan Magee, ball turret gunner, B-17 'Snap! Crackle! Pop!'), what (fell without a parachute and survived), when (3 Jan 1943), where (Saint-Nazaire, occupied France), how (glass roof of the railway station slowed him), why (flak damage, shredded parachute)",
+    "rehooks": ["line 6: then something impossible happened"],
+    "tension": "lines 1-5",
+    "release": "lines 7-8",
+    "payoff": "lines 9-12: the enemy saved him; the town honored him 50 years later; lived to 84",
+    "cta": "on-screen FOLLOW button in the last line; loop ending ('lived to be eighty four' -> 'Twenty two thousand feet. No parachute.')"
+  },
+  "notes": "Sources: Wikipedia 'Alan Magee'; 303rd Bomb Group Association (303rdbg.com/magee.html); WeAreTheMighty. Alan Eugene Magee (1919-2003), ball turret gunner, 360th BS / 303rd BG, B-17F 'Snap! Crackle! Pop!'. 3 Jan 1943 raid on Saint-Nazaire; flak damage, aircraft spinning; his parachute was damaged/unusable; he jumped and lost consciousness (altitude/oxygen); fell ~22,000 ft (some sources 20,000; 'over four miles'); crashed through the glass roof of the Saint-Nazaire railway station; 28 shrapnel wounds, broken right leg and ankle, right arm nearly severed; treated by German doctors; POW until May 1945. 3 Jan 1993: Saint-Nazaire unveiled a memorial to Magee and his crew. Died 20 Dec 2003 in San Angelo, Texas, aged 84. Wording written from scratch (not copied from the social post the owner shared)."
+}

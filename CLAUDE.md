@@ -80,6 +80,9 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
   flat cartoon-silhouette poster style (cream/ink/red/gold, `src/dillinger/parts.tsx`) with every scene cut and camera
   move locked to the music beat (`scripts/beats.py <music> <beats.json>`); original piano-noir track; 3 PD FBI photos;
   CTA to Alcatraz; thumbnail `DillingerThumb`.
+- `Magee` — Alan Magee, fell ~22,000 ft without a parachute (1943); `src/magee/`, `public/magee/{vo,photos,music.mp3}`. ~68 s viral
+  format in the Dillinger cartoon style but softer (no cut flash, small beat punch, new framing every 8 beats);
+  2 PD B-17 photos; music re-used from Flight 19; loop ending + on-screen FOLLOW; thumbnail `MageeThumb`.
 - Viral cuts of finished Shorts: `scripts/cut-short.py <in> <out> a-b c-d …` (covers the progress bar, loudnorms) →
   `videos/mh370-cut.mp4`, `videos/sodder-cut.mp4`.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.
