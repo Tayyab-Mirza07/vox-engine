@@ -26,6 +26,8 @@ import {Somerton, T as somerton} from './somerton/Video';
 import {SomertonThumb} from './somerton/scenes';
 import {Dillinger, T as dillinger} from './dillinger/Video';
 import {DillingerThumb} from './dillinger/scenes';
+import {Mcnair, T as mcnair} from './mcnair/Video';
+import {McnairThumb} from './mcnair/scenes';
 import {Magee, T as magee} from './magee/Video';
 import {MageeThumb} from './magee/scenes';
 import {Isdal, T as isdal} from './isdal/Video';
@@ -67,6 +69,8 @@ const Root: React.FC = () => (
     <Composition id="SomertonThumb" component={SomertonThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Dillinger" component={Dillinger} durationInFrames={dillinger.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="DillingerThumb" component={DillingerThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
+    <Composition id="Mcnair" component={Mcnair} durationInFrames={mcnair.totalFrames} fps={FPS} width={W} height={H} />
+    <Composition id="McnairThumb" component={McnairThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Magee" component={Magee} durationInFrames={magee.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="MageeThumb" component={MageeThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Isdal" component={Isdal} durationInFrames={isdal.totalFrames} fps={FPS} width={W} height={H} />

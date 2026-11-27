@@ -1,0 +1,2673 @@
+{
+ "total": 171.265,
+ "lines": [
+  {
+   "index": 0,
+   "file": "mcnair/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 6.896,
+   "sentences": [
+    {
+     "text": "A cop stopped an escaped killer.",
+     "start": 0.25,
+     "end": 2.076,
+     "words": [
+      {
+       "w": "A",
+       "start": 0.25,
+       "end": 0.38
+      },
+      {
+       "w": "cop",
+       "start": 0.38,
+       "end": 0.615
+      },
+      {
+       "w": "stopped",
+       "start": 0.615,
+       "end": 1.059
+      },
+      {
+       "w": "an",
+       "start": 1.059,
+       "end": 1.241
+      },
+      {
+       "w": "escaped",
+       "start": 1.241,
+       "end": 1.685
+      },
+      {
+       "w": "killer.",
+       "start": 1.685,
+       "end": 2.076
+      }
+     ]
+    },
+    {
+     "text": "On camera.",
+     "start": 2.293,
+     "end": 3.18,
+     "words": [
+      {
+       "w": "On",
+       "start": 2.293,
+       "end": 2.575
+      },
+      {
+       "w": "camera.",
+       "start": 2.575,
+       "end": 3.18
+      }
+     ]
+    },
+    {
+     "text": "They talked for ten minutes.",
+     "start": 3.492,
+     "end": 4.964,
+     "words": [
+      {
+       "w": "They",
+       "start": 3.492,
+       "end": 3.757
+      },
+      {
+       "w": "talked",
+       "start": 3.757,
+       "end": 4.119
+      },
+      {
+       "w": "for",
+       "start": 4.119,
+       "end": 4.336
+      },
+      {
+       "w": "ten",
+       "start": 4.336,
+       "end": 4.553
+      },
+      {
+       "w": "minutes.",
+       "start": 4.553,
+       "end": 4.964
+      }
+     ]
+    },
+    {
+     "text": "And then...",
+     "start": 5.353,
+     "end": 5.808,
+     "words": [
+      {
+       "w": "And",
+       "start": 5.353,
+       "end": 5.558
+      },
+      {
+       "w": "then...",
+       "start": 5.558,
+       "end": 5.808
+      }
+     ]
+    },
+    {
+     "text": "he let him go.",
+     "start": 6.365,
+     "end": 7.146,
+     "words": [
+      {
+       "w": "he",
+       "start": 6.365,
+       "end": 6.536
+      },
+      {
+       "w": "let",
+       "start": 6.536,
+       "end": 6.755
+      },
+      {
+       "w": "him",
+       "start": 6.755,
+       "end": 6.975
+      },
+      {
+       "w": "go.",
+       "start": 6.975,
+       "end": 7.146
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "mcnair/vo/line1.mp3",
+   "start": 7.746,
+   "dur": 8.229,
+   "sentences": [
+    {
+     "text": "April 5th, 2006.",
+     "start": 7.746,
+     "end": 9.717,
+     "words": [
+      {
+       "w": "April",
+       "start": 7.746,
+       "end": 8.134
+      },
+      {
+       "w": "5th,",
+       "start": 8.134,
+       "end": 8.521
+      },
+      {
+       "w": "2006.",
+       "start": 8.723,
+       "end": 9.717
+      }
+     ]
+    },
+    {
+     "text": "Ball, Louisiana.",
+     "start": 10.095,
+     "end": 11.316,
+     "words": [
+      {
+       "w": "Ball,",
+       "start": 10.095,
+       "end": 10.515
+      },
+      {
+       "w": "Louisiana.",
+       "start": 10.515,
+       "end": 11.316
+      }
+     ]
+    },
+    {
+     "text": "Officer Carl Bordelon spotted a man running along the railroad tracks.",
+     "start": 11.863,
+     "end": 15.975,
+     "words": [
+      {
+       "w": "Officer",
+       "start": 11.863,
+       "end": 12.326
+      },
+      {
+       "w": "Carl",
+       "start": 12.326,
+       "end": 12.625
+      },
+      {
+       "w": "Bordelon",
+       "start": 12.625,
+       "end": 13.143
+      },
+      {
+       "w": "spotted",
+       "start": 13.143,
+       "end": 13.606
+      },
+      {
+       "w": "a",
+       "start": 13.606,
+       "end": 13.742
+      },
+      {
+       "w": "man",
+       "start": 13.742,
+       "end": 13.987
+      },
+      {
+       "w": "running",
+       "start": 13.987,
+       "end": 14.45
+      },
+      {
+       "w": "along",
+       "start": 14.45,
+       "end": 14.804
+      },
+      {
+       "w": "the",
+       "start": 14.804,
+       "end": 15.049
+      },
+      {
+       "w": "railroad",
+       "start": 15.049,
+       "end": 15.566
+      },
+      {
+       "w": "tracks.",
+       "start": 15.566,
+       "end": 15.975
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "mcnair/vo/line2.mp3",
+   "start": 16.575,
+   "dur": 7.053,
+   "sentences": [
+    {
+     "text": "The man was calm.",
+     "start": 16.575,
+     "end": 17.675,
+     "words": [
+      {
+       "w": "The",
+       "start": 16.575,
+       "end": 16.835
+      },
+      {
+       "w": "man",
+       "start": 16.835,
+       "end": 17.096
+      },
+      {
+       "w": "was",
+       "start": 17.096,
+       "end": 17.357
+      },
+      {
+       "w": "calm.",
+       "start": 17.357,
+       "end": 17.675
+      }
+     ]
+    },
+    {
+     "text": "Friendly.",
+     "start": 18.066,
+     "end": 18.567,
+     "words": [
+      {
+       "w": "Friendly.",
+       "start": 18.066,
+       "end": 18.567
+      }
+     ]
+    },
+    {
+     "text": "He gave a fake name, said he was just out jogging, and even cracked jokes.",
+     "start": 19.125,
+     "end": 23.628,
+     "words": [
+      {
+       "w": "He",
+       "start": 19.125,
+       "end": 19.298
+      },
+      {
+       "w": "gave",
+       "start": 19.298,
+       "end": 19.57
+      },
+      {
+       "w": "a",
+       "start": 19.57,
+       "end": 19.694
+      },
+      {
+       "w": "fake",
+       "start": 19.694,
+       "end": 19.966
+      },
+      {
+       "w": "name,",
+       "start": 19.966,
+       "end": 20.238
+      },
+      {
+       "w": "said",
+       "start": 20.496,
+       "end": 20.759
+      },
+      {
+       "w": "he",
+       "start": 20.759,
+       "end": 20.926
+      },
+      {
+       "w": "was",
+       "start": 20.926,
+       "end": 21.141
+      },
+      {
+       "w": "just",
+       "start": 21.141,
+       "end": 21.404
+      },
+      {
+       "w": "out",
+       "start": 21.404,
+       "end": 21.619
+      },
+      {
+       "w": "jogging,",
+       "start": 21.619,
+       "end": 22.025
+      },
+      {
+       "w": "and",
+       "start": 22.214,
+       "end": 22.469
+      },
+      {
+       "w": "even",
+       "start": 22.469,
+       "end": 22.78
+      },
+      {
+       "w": "cracked",
+       "start": 22.78,
+       "end": 23.26
+      },
+      {
+       "w": "jokes.",
+       "start": 23.26,
+       "end": 23.628
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "mcnair/vo/line3.mp3",
+   "start": 24.228,
+   "dur": 7.497,
+   "sentences": [
+    {
+     "text": "The officer had heard about a prison break nearby.",
+     "start": 24.228,
+     "end": 26.89,
+     "words": [
+      {
+       "w": "The",
+       "start": 24.228,
+       "end": 24.448
+      },
+      {
+       "w": "officer",
+       "start": 24.448,
+       "end": 24.863
+      },
+      {
+       "w": "had",
+       "start": 24.863,
+       "end": 25.083
+      },
+      {
+       "w": "heard",
+       "start": 25.083,
+       "end": 25.4
+      },
+      {
+       "w": "about",
+       "start": 25.4,
+       "end": 25.718
+      },
+      {
+       "w": "a",
+       "start": 25.718,
+       "end": 25.84
+      },
+      {
+       "w": "prison",
+       "start": 25.84,
+       "end": 26.206
+      },
+      {
+       "w": "break",
+       "start": 26.206,
+       "end": 26.524
+      },
+      {
+       "w": "nearby.",
+       "start": 26.524,
+       "end": 26.89
+      }
+     ]
+    },
+    {
+     "text": "But he had no photo, and no reason to hold him.",
+     "start": 27.505,
+     "end": 30.011,
+     "words": [
+      {
+       "w": "But",
+       "start": 27.505,
+       "end": 27.72
+      },
+      {
+       "w": "he",
+       "start": 27.72,
+       "end": 27.888
+      },
+      {
+       "w": "had",
+       "start": 27.888,
+       "end": 28.104
+      },
+      {
+       "w": "no",
+       "start": 28.104,
+       "end": 28.272
+      },
+      {
+       "w": "photo,",
+       "start": 28.272,
+       "end": 28.583
+      },
+      {
+       "w": "and",
+       "start": 28.756,
+       "end": 28.951
+      },
+      {
+       "w": "no",
+       "start": 28.951,
+       "end": 29.102
+      },
+      {
+       "w": "reason",
+       "start": 29.102,
+       "end": 29.427
+      },
+      {
+       "w": "to",
+       "start": 29.427,
+       "end": 29.578
+      },
+      {
+       "w": "hold",
+       "start": 29.578,
+       "end": 29.816
+      },
+      {
+       "w": "him.",
+       "start": 29.816,
+       "end": 30.011
+      }
+     ]
+    },
+    {
+     "text": "So he let him walk away.",
+     "start": 30.461,
+     "end": 31.725,
+     "words": [
+      {
+       "w": "So",
+       "start": 30.461,
+       "end": 30.625
+      },
+      {
+       "w": "he",
+       "start": 30.625,
+       "end": 30.788
+      },
+      {
+       "w": "let",
+       "start": 30.788,
+       "end": 30.999
+      },
+      {
+       "w": "him",
+       "start": 30.999,
+       "end": 31.21
+      },
+      {
+       "w": "walk",
+       "start": 31.21,
+       "end": 31.468
+      },
+      {
+       "w": "away.",
+       "start": 31.468,
+       "end": 31.725
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "mcnair/vo/line4.mp3",
+   "start": 32.325,
+   "dur": 7.967,
+   "sentences": [
+    {
+     "text": "That man was Richard Lee McNair.",
+     "start": 32.325,
+     "end": 34.555,
+     "words": [
+      {
+       "w": "That",
+       "start": 32.325,
+       "end": 32.676
+      },
+      {
+       "w": "man",
+       "start": 32.676,
+       "end": 32.962
+      },
+      {
+       "w": "was",
+       "start": 32.962,
+       "end": 33.249
+      },
+      {
+       "w": "Richard",
+       "start": 33.249,
+       "end": 33.79
+      },
+      {
+       "w": "Lee",
+       "start": 33.79,
+       "end": 34.077
+      },
+      {
+       "w": "McNair.",
+       "start": 34.077,
+       "end": 34.555
+      }
+     ]
+    },
+    {
+     "text": "A convicted murderer.",
+     "start": 34.91,
+     "end": 36.304,
+     "words": [
+      {
+       "w": "A",
+       "start": 34.91,
+       "end": 35.065
+      },
+      {
+       "w": "convicted",
+       "start": 35.065,
+       "end": 35.716
+      },
+      {
+       "w": "murderer.",
+       "start": 35.716,
+       "end": 36.304
+      }
+     ]
+    },
+    {
+     "text": "And this was not his first escape.",
+     "start": 36.899,
+     "end": 38.841,
+     "words": [
+      {
+       "w": "And",
+       "start": 36.899,
+       "end": 37.132
+      },
+      {
+       "w": "this",
+       "start": 37.132,
+       "end": 37.417
+      },
+      {
+       "w": "was",
+       "start": 37.417,
+       "end": 37.65
+      },
+      {
+       "w": "not",
+       "start": 37.65,
+       "end": 37.883
+      },
+      {
+       "w": "his",
+       "start": 37.883,
+       "end": 38.116
+      },
+      {
+       "w": "first",
+       "start": 38.116,
+       "end": 38.453
+      },
+      {
+       "w": "escape.",
+       "start": 38.453,
+       "end": 38.841
+      }
+     ]
+    },
+    {
+     "text": "It was his third.",
+     "start": 39.263,
+     "end": 40.292,
+     "words": [
+      {
+       "w": "It",
+       "start": 39.263,
+       "end": 39.453
+      },
+      {
+       "w": "was",
+       "start": 39.453,
+       "end": 39.696
+      },
+      {
+       "w": "his",
+       "start": 39.696,
+       "end": 39.94
+      },
+      {
+       "w": "third.",
+       "start": 39.94,
+       "end": 40.292
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "mcnair/vo/line5.mp3",
+   "start": 40.892,
+   "dur": 10.893,
+   "sentences": [
+    {
+     "text": "Rewind to 1987.",
+     "start": 40.892,
+     "end": 42.915,
+     "words": [
+      {
+       "w": "Rewind",
+       "start": 40.892,
+       "end": 41.374
+      },
+      {
+       "w": "to",
+       "start": 41.374,
+       "end": 41.599
+      },
+      {
+       "w": "1987.",
+       "start": 41.599,
+       "end": 42.915
+      }
+     ]
+    },
+    {
+     "text": "Minot, North Dakota.",
+     "start": 43.345,
+     "end": 44.536,
+     "words": [
+      {
+       "w": "Minot,",
+       "start": 43.345,
+       "end": 43.723
+      },
+      {
+       "w": "North",
+       "start": 43.723,
+       "end": 44.1
+      },
+      {
+       "w": "Dakota.",
+       "start": 44.1,
+       "end": 44.536
+      }
+     ]
+    },
+    {
+     "text": "McNair, an Air Force sergeant, was caught breaking into a grain elevator.",
+     "start": 45.035,
+     "end": 49.197,
+     "words": [
+      {
+       "w": "McNair,",
+       "start": 45.035,
+       "end": 45.664
+      },
+      {
+       "w": "an",
+       "start": 45.842,
+       "end": 45.998
+      },
+      {
+       "w": "Air",
+       "start": 45.998,
+       "end": 46.199
+      },
+      {
+       "w": "Force",
+       "start": 46.199,
+       "end": 46.488
+      },
+      {
+       "w": "sergeant,",
+       "start": 46.488,
+       "end": 46.911
+      },
+      {
+       "w": "was",
+       "start": 47.118,
+       "end": 47.324
+      },
+      {
+       "w": "caught",
+       "start": 47.324,
+       "end": 47.666
+      },
+      {
+       "w": "breaking",
+       "start": 47.666,
+       "end": 48.1
+      },
+      {
+       "w": "into",
+       "start": 48.1,
+       "end": 48.352
+      },
+      {
+       "w": "a",
+       "start": 48.352,
+       "end": 48.466
+      },
+      {
+       "w": "grain",
+       "start": 48.466,
+       "end": 48.763
+      },
+      {
+       "w": "elevator.",
+       "start": 48.763,
+       "end": 49.197
+      }
+     ]
+    },
+    {
+     "text": "He killed one man, and wounded another.",
+     "start": 49.597,
+     "end": 51.786,
+     "words": [
+      {
+       "w": "He",
+       "start": 49.597,
+       "end": 49.781
+      },
+      {
+       "w": "killed",
+       "start": 49.781,
+       "end": 50.177
+      },
+      {
+       "w": "one",
+       "start": 50.177,
+       "end": 50.414
+      },
+      {
+       "w": "man,",
+       "start": 50.414,
+       "end": 50.652
+      },
+      {
+       "w": "and",
+       "start": 50.652,
+       "end": 50.889
+      },
+      {
+       "w": "wounded",
+       "start": 50.889,
+       "end": 51.337
+      },
+      {
+       "w": "another.",
+       "start": 51.337,
+       "end": 51.786
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "mcnair/vo/line6.mp3",
+   "start": 52.386,
+   "dur": 7.497,
+   "sentences": [
+    {
+     "text": "At the police station, they handcuffed him to a chair.",
+     "start": 52.386,
+     "end": 55.196,
+     "words": [
+      {
+       "w": "At",
+       "start": 52.386,
+       "end": 52.541
+      },
+      {
+       "w": "the",
+       "start": 52.541,
+       "end": 52.742
+      },
+      {
+       "w": "police",
+       "start": 52.742,
+       "end": 53.076
+      },
+      {
+       "w": "station,",
+       "start": 53.076,
+       "end": 53.455
+      },
+      {
+       "w": "they",
+       "start": 53.646,
+       "end": 53.896
+      },
+      {
+       "w": "handcuffed",
+       "start": 53.896,
+       "end": 54.421
+      },
+      {
+       "w": "him",
+       "start": 54.421,
+       "end": 54.626
+      },
+      {
+       "w": "to",
+       "start": 54.626,
+       "end": 54.786
+      },
+      {
+       "w": "a",
+       "start": 54.786,
+       "end": 54.9
+      },
+      {
+       "w": "chair.",
+       "start": 54.9,
+       "end": 55.196
+      }
+     ]
+    },
+    {
+     "text": "He found a tube of lip balm, greased his wrist, and slipped right out.",
+     "start": 55.814,
+     "end": 59.883,
+     "words": [
+      {
+       "w": "He",
+       "start": 55.814,
+       "end": 55.973
+      },
+      {
+       "w": "found",
+       "start": 55.973,
+       "end": 56.27
+      },
+      {
+       "w": "a",
+       "start": 56.27,
+       "end": 56.384
+      },
+      {
+       "w": "tube",
+       "start": 56.384,
+       "end": 56.635
+      },
+      {
+       "w": "of",
+       "start": 56.635,
+       "end": 56.795
+      },
+      {
+       "w": "lip",
+       "start": 56.795,
+       "end": 57.001
+      },
+      {
+       "w": "balm,",
+       "start": 57.001,
+       "end": 57.252
+      },
+      {
+       "w": "greased",
+       "start": 57.541,
+       "end": 57.962
+      },
+      {
+       "w": "his",
+       "start": 57.962,
+       "end": 58.185
+      },
+      {
+       "w": "wrist,",
+       "start": 58.185,
+       "end": 58.507
+      },
+      {
+       "w": "and",
+       "start": 58.746,
+       "end": 58.959
+      },
+      {
+       "w": "slipped",
+       "start": 58.959,
+       "end": 59.362
+      },
+      {
+       "w": "right",
+       "start": 59.362,
+       "end": 59.67
+      },
+      {
+       "w": "out.",
+       "start": 59.67,
+       "end": 59.883
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "mcnair/vo/line7.mp3",
+   "start": 60.483,
+   "dur": 4.023,
+   "sentences": [
+    {
+     "text": "He didn't get far that time.",
+     "start": 60.483,
+     "end": 61.884,
+     "words": [
+      {
+       "w": "He",
+       "start": 60.483,
+       "end": 60.646
+      },
+      {
+       "w": "didn't",
+       "start": 60.646,
+       "end": 60.95
+      },
+      {
+       "w": "get",
+       "start": 60.95,
+       "end": 61.16
+      },
+      {
+       "w": "far",
+       "start": 61.16,
+       "end": 61.37
+      },
+      {
+       "w": "that",
+       "start": 61.37,
+       "end": 61.627
+      },
+      {
+       "w": "time.",
+       "start": 61.627,
+       "end": 61.884
+      }
+     ]
+    },
+    {
+     "text": "But it was a warning of what was coming.",
+     "start": 62.323,
+     "end": 64.506,
+     "words": [
+      {
+       "w": "But",
+       "start": 62.323,
+       "end": 62.543
+      },
+      {
+       "w": "it",
+       "start": 62.543,
+       "end": 62.715
+      },
+      {
+       "w": "was",
+       "start": 62.715,
+       "end": 62.936
+      },
+      {
+       "w": "a",
+       "start": 62.936,
+       "end": 63.058
+      },
+      {
+       "w": "warning",
+       "start": 63.058,
+       "end": 63.475
+      },
+      {
+       "w": "of",
+       "start": 63.475,
+       "end": 63.647
+      },
+      {
+       "w": "what",
+       "start": 63.647,
+       "end": 63.917
+      },
+      {
+       "w": "was",
+       "start": 63.917,
+       "end": 64.138
+      },
+      {
+       "w": "coming.",
+       "start": 64.138,
+       "end": 64.506
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "mcnair/vo/line8.mp3",
+   "start": 65.106,
+   "dur": 7.784,
+   "sentences": [
+    {
+     "text": "He got life in prison.",
+     "start": 65.106,
+     "end": 66.448,
+     "words": [
+      {
+       "w": "He",
+       "start": 65.106,
+       "end": 65.297
+      },
+      {
+       "w": "got",
+       "start": 65.297,
+       "end": 65.544
+      },
+      {
+       "w": "life",
+       "start": 65.544,
+       "end": 65.845
+      },
+      {
+       "w": "in",
+       "start": 65.845,
+       "end": 66.037
+      },
+      {
+       "w": "prison.",
+       "start": 66.037,
+       "end": 66.448
+      }
+     ]
+    },
+    {
+     "text": "In 1992, he and two other inmates crawled out through an air vent in the state penitentiary.",
+     "start": 67.004,
+     "end": 72.89,
+     "words": [
+      {
+       "w": "In",
+       "start": 67.004,
+       "end": 67.203
+      },
+      {
+       "w": "1992,",
+       "start": 67.203,
+       "end": 68.259
+      },
+      {
+       "w": "he",
+       "start": 68.487,
+       "end": 68.657
+      },
+      {
+       "w": "and",
+       "start": 68.657,
+       "end": 68.876
+      },
+      {
+       "w": "two",
+       "start": 68.876,
+       "end": 69.095
+      },
+      {
+       "w": "other",
+       "start": 69.095,
+       "end": 69.411
+      },
+      {
+       "w": "inmates",
+       "start": 69.411,
+       "end": 69.825
+      },
+      {
+       "w": "crawled",
+       "start": 69.825,
+       "end": 70.238
+      },
+      {
+       "w": "out",
+       "start": 70.238,
+       "end": 70.457
+      },
+      {
+       "w": "through",
+       "start": 70.457,
+       "end": 70.871
+      },
+      {
+       "w": "an",
+       "start": 70.871,
+       "end": 71.041
+      },
+      {
+       "w": "air",
+       "start": 71.041,
+       "end": 71.26
+      },
+      {
+       "w": "vent",
+       "start": 71.26,
+       "end": 71.528
+      },
+      {
+       "w": "in",
+       "start": 71.528,
+       "end": 71.698
+      },
+      {
+       "w": "the",
+       "start": 71.698,
+       "end": 71.917
+      },
+      {
+       "w": "state",
+       "start": 71.917,
+       "end": 72.233
+      },
+      {
+       "w": "penitentiary.",
+       "start": 72.233,
+       "end": 72.89
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "mcnair/vo/line9.mp3",
+   "start": 73.49,
+   "dur": 4.493,
+   "sentences": [
+    {
+     "text": "He stayed free for nine months, until police finally caught him in Nebraska.",
+     "start": 73.49,
+     "end": 77.983,
+     "words": [
+      {
+       "w": "He",
+       "start": 73.49,
+       "end": 73.686
+      },
+      {
+       "w": "stayed",
+       "start": 73.686,
+       "end": 74.108
+      },
+      {
+       "w": "free",
+       "start": 74.108,
+       "end": 74.416
+      },
+      {
+       "w": "for",
+       "start": 74.416,
+       "end": 74.669
+      },
+      {
+       "w": "nine",
+       "start": 74.669,
+       "end": 74.978
+      },
+      {
+       "w": "months,",
+       "start": 74.978,
+       "end": 75.399
+      },
+      {
+       "w": "until",
+       "start": 75.618,
+       "end": 75.941
+      },
+      {
+       "w": "police",
+       "start": 75.941,
+       "end": 76.315
+      },
+      {
+       "w": "finally",
+       "start": 76.315,
+       "end": 76.738
+      },
+      {
+       "w": "caught",
+       "start": 76.738,
+       "end": 77.112
+      },
+      {
+       "w": "him",
+       "start": 77.112,
+       "end": 77.336
+      },
+      {
+       "w": "in",
+       "start": 77.336,
+       "end": 77.51
+      },
+      {
+       "w": "Nebraska.",
+       "start": 77.51,
+       "end": 77.983
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "mcnair/vo/line10.mp3",
+   "start": 78.583,
+   "dur": 5.825,
+   "sentences": [
+    {
+     "text": "So they sent him somewhere tougher.",
+     "start": 78.583,
+     "end": 80.463,
+     "words": [
+      {
+       "w": "So",
+       "start": 78.583,
+       "end": 78.756
+      },
+      {
+       "w": "they",
+       "start": 78.756,
+       "end": 79.028
+      },
+      {
+       "w": "sent",
+       "start": 79.028,
+       "end": 79.3
+      },
+      {
+       "w": "him",
+       "start": 79.3,
+       "end": 79.523
+      },
+      {
+       "w": "somewhere",
+       "start": 79.523,
+       "end": 80.042
+      },
+      {
+       "w": "tougher.",
+       "start": 80.042,
+       "end": 80.463
+      }
+     ]
+    },
+    {
+     "text": "A high security federal prison in Pollock, Louisiana.",
+     "start": 80.989,
+     "end": 84.195,
+     "words": [
+      {
+       "w": "A",
+       "start": 80.989,
+       "end": 81.132
+      },
+      {
+       "w": "high",
+       "start": 81.132,
+       "end": 81.447
+      },
+      {
+       "w": "security",
+       "start": 81.447,
+       "end": 81.991
+      },
+      {
+       "w": "federal",
+       "start": 81.991,
+       "end": 82.478
+      },
+      {
+       "w": "prison",
+       "start": 82.478,
+       "end": 82.907
+      },
+      {
+       "w": "in",
+       "start": 82.907,
+       "end": 83.107
+      },
+      {
+       "w": "Pollock,",
+       "start": 83.107,
+       "end": 83.594
+      },
+      {
+       "w": "Louisiana.",
+       "start": 83.594,
+       "end": 84.195
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "mcnair/vo/line11.mp3",
+   "start": 85.008,
+   "dur": 7.993,
+   "sentences": [
+    {
+     "text": "There, McNair had a job.",
+     "start": 85.008,
+     "end": 86.823,
+     "words": [
+      {
+       "w": "There,",
+       "start": 85.008,
+       "end": 85.455
+      },
+      {
+       "w": "McNair",
+       "start": 85.685,
+       "end": 86.134
+      },
+      {
+       "w": "had",
+       "start": 86.134,
+       "end": 86.404
+      },
+      {
+       "w": "a",
+       "start": 86.404,
+       "end": 86.553
+      },
+      {
+       "w": "job.",
+       "start": 86.553,
+       "end": 86.823
+      }
+     ]
+    },
+    {
+     "text": "Repairing old, torn mailbags.",
+     "start": 87.294,
+     "end": 89.612,
+     "words": [
+      {
+       "w": "Repairing",
+       "start": 87.294,
+       "end": 88.016
+      },
+      {
+       "w": "old,",
+       "start": 88.016,
+       "end": 88.325
+      },
+      {
+       "w": "torn",
+       "start": 88.491,
+       "end": 88.902
+      },
+      {
+       "w": "mailbags.",
+       "start": 88.902,
+       "end": 89.612
+      }
+     ]
+    },
+    {
+     "text": "And day after day, he planned.",
+     "start": 90.138,
+     "end": 93.002,
+     "words": [
+      {
+       "w": "And",
+       "start": 90.138,
+       "end": 90.529
+      },
+      {
+       "w": "day",
+       "start": 90.529,
+       "end": 90.921
+      },
+      {
+       "w": "after",
+       "start": 90.921,
+       "end": 91.486
+      },
+      {
+       "w": "day,",
+       "start": 91.486,
+       "end": 91.877
+      },
+      {
+       "w": "he",
+       "start": 92.226,
+       "end": 92.452
+      },
+      {
+       "w": "planned.",
+       "start": 92.452,
+       "end": 93.002
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "mcnair/vo/line12.mp3",
+   "start": 93.602,
+   "dur": 10.292,
+   "sentences": [
+    {
+     "text": "He built a hiding pod under a pile of mailbags, with a tube to breathe through.",
+     "start": 93.602,
+     "end": 97.949,
+     "words": [
+      {
+       "w": "He",
+       "start": 93.602,
+       "end": 93.779
+      },
+      {
+       "w": "built",
+       "start": 93.779,
+       "end": 94.107
+      },
+      {
+       "w": "a",
+       "start": 94.107,
+       "end": 94.234
+      },
+      {
+       "w": "hiding",
+       "start": 94.234,
+       "end": 94.613
+      },
+      {
+       "w": "pod",
+       "start": 94.613,
+       "end": 94.84
+      },
+      {
+       "w": "under",
+       "start": 94.84,
+       "end": 95.169
+      },
+      {
+       "w": "a",
+       "start": 95.169,
+       "end": 95.295
+      },
+      {
+       "w": "pile",
+       "start": 95.295,
+       "end": 95.573
+      },
+      {
+       "w": "of",
+       "start": 95.573,
+       "end": 95.75
+      },
+      {
+       "w": "mailbags,",
+       "start": 95.75,
+       "end": 96.23
+      },
+      {
+       "w": "with",
+       "start": 96.23,
+       "end": 96.508
+      },
+      {
+       "w": "a",
+       "start": 96.508,
+       "end": 96.634
+      },
+      {
+       "w": "tube",
+       "start": 96.634,
+       "end": 96.912
+      },
+      {
+       "w": "to",
+       "start": 96.912,
+       "end": 97.089
+      },
+      {
+       "w": "breathe",
+       "start": 97.089,
+       "end": 97.519
+      },
+      {
+       "w": "through.",
+       "start": 97.519,
+       "end": 97.949
+      }
+     ]
+    },
+    {
+     "text": "The pallet was moved to a warehouse outside the fence.",
+     "start": 98.612,
+     "end": 101.339,
+     "words": [
+      {
+       "w": "The",
+       "start": 98.612,
+       "end": 98.82
+      },
+      {
+       "w": "pallet",
+       "start": 98.82,
+       "end": 99.167
+      },
+      {
+       "w": "was",
+       "start": 99.167,
+       "end": 99.374
+      },
+      {
+       "w": "moved",
+       "start": 99.374,
+       "end": 99.675
+      },
+      {
+       "w": "to",
+       "start": 99.675,
+       "end": 99.837
+      },
+      {
+       "w": "a",
+       "start": 99.837,
+       "end": 99.952
+      },
+      {
+       "w": "warehouse",
+       "start": 99.952,
+       "end": 100.437
+      },
+      {
+       "w": "outside",
+       "start": 100.437,
+       "end": 100.83
+      },
+      {
+       "w": "the",
+       "start": 100.83,
+       "end": 101.038
+      },
+      {
+       "w": "fence.",
+       "start": 101.038,
+       "end": 101.339
+      }
+     ]
+    },
+    {
+     "text": "He cut his way out, and walked away.",
+     "start": 101.881,
+     "end": 103.894,
+     "words": [
+      {
+       "w": "He",
+       "start": 101.881,
+       "end": 102.023
+      },
+      {
+       "w": "cut",
+       "start": 102.023,
+       "end": 102.205
+      },
+      {
+       "w": "his",
+       "start": 102.205,
+       "end": 102.387
+      },
+      {
+       "w": "way",
+       "start": 102.387,
+       "end": 102.57
+      },
+      {
+       "w": "out,",
+       "start": 102.57,
+       "end": 102.752
+      },
+      {
+       "w": "and",
+       "start": 103.089,
+       "end": 103.296
+      },
+      {
+       "w": "walked",
+       "start": 103.296,
+       "end": 103.641
+      },
+      {
+       "w": "away.",
+       "start": 103.641,
+       "end": 103.894
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "mcnair/vo/line13.mp3",
+   "start": 104.494,
+   "dur": 6.635,
+   "sentences": [
+    {
+     "text": "Hours later, he met Officer Bordelon on the tracks, and talked his way free.",
+     "start": 104.494,
+     "end": 108.883,
+     "words": [
+      {
+       "w": "Hours",
+       "start": 104.494,
+       "end": 104.915
+      },
+      {
+       "w": "later,",
+       "start": 104.915,
+       "end": 105.336
+      },
+      {
+       "w": "he",
+       "start": 105.526,
+       "end": 105.688
+      },
+      {
+       "w": "met",
+       "start": 105.688,
+       "end": 105.897
+      },
+      {
+       "w": "Officer",
+       "start": 105.897,
+       "end": 106.29
+      },
+      {
+       "w": "Bordelon",
+       "start": 106.29,
+       "end": 106.73
+      },
+      {
+       "w": "on",
+       "start": 106.73,
+       "end": 106.892
+      },
+      {
+       "w": "the",
+       "start": 106.892,
+       "end": 107.1
+      },
+      {
+       "w": "tracks,",
+       "start": 107.1,
+       "end": 107.447
+      },
+      {
+       "w": "and",
+       "start": 107.447,
+       "end": 107.691
+      },
+      {
+       "w": "talked",
+       "start": 107.691,
+       "end": 108.097
+      },
+      {
+       "w": "his",
+       "start": 108.097,
+       "end": 108.341
+      },
+      {
+       "w": "way",
+       "start": 108.341,
+       "end": 108.585
+      },
+      {
+       "w": "free.",
+       "start": 108.585,
+       "end": 108.883
+      }
+     ]
+    },
+    {
+     "text": "But that was only the beginning.",
+     "start": 109.488,
+     "end": 111.129,
+     "words": [
+      {
+       "w": "But",
+       "start": 109.488,
+       "end": 109.699
+      },
+      {
+       "w": "that",
+       "start": 109.699,
+       "end": 109.957
+      },
+      {
+       "w": "was",
+       "start": 109.957,
+       "end": 110.168
+      },
+      {
+       "w": "only",
+       "start": 110.168,
+       "end": 110.426
+      },
+      {
+       "w": "the",
+       "start": 110.426,
+       "end": 110.637
+      },
+      {
+       "w": "beginning.",
+       "start": 110.637,
+       "end": 111.129
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "mcnair/vo/line14.mp3",
+   "start": 111.729,
+   "dur": 8.725,
+   "sentences": [
+    {
+     "text": "Within days, he was on the US Marshals' 15 Most Wanted list.",
+     "start": 111.729,
+     "end": 115.976,
+     "words": [
+      {
+       "w": "Within",
+       "start": 111.729,
+       "end": 112.26
+      },
+      {
+       "w": "days,",
+       "start": 112.26,
+       "end": 112.649
+      },
+      {
+       "w": "he",
+       "start": 112.827,
+       "end": 113.023
+      },
+      {
+       "w": "was",
+       "start": 113.023,
+       "end": 113.277
+      },
+      {
+       "w": "on",
+       "start": 113.277,
+       "end": 113.473
+      },
+      {
+       "w": "the",
+       "start": 113.473,
+       "end": 113.726
+      },
+      {
+       "w": "US",
+       "start": 113.726,
+       "end": 113.923
+      },
+      {
+       "w": "Marshals'",
+       "start": 113.923,
+       "end": 114.458
+      },
+      {
+       "w": "15",
+       "start": 114.458,
+       "end": 114.936
+      },
+      {
+       "w": "Most",
+       "start": 114.936,
+       "end": 115.245
+      },
+      {
+       "w": "Wanted",
+       "start": 115.245,
+       "end": 115.667
+      },
+      {
+       "w": "list.",
+       "start": 115.667,
+       "end": 115.976
+      }
+     ]
+    },
+    {
+     "text": "About two weeks after the escape, he slipped across the border into Canada.",
+     "start": 116.464,
+     "end": 120.454,
+     "words": [
+      {
+       "w": "About",
+       "start": 116.464,
+       "end": 116.77
+      },
+      {
+       "w": "two",
+       "start": 116.77,
+       "end": 116.982
+      },
+      {
+       "w": "weeks",
+       "start": 116.982,
+       "end": 117.289
+      },
+      {
+       "w": "after",
+       "start": 117.289,
+       "end": 117.596
+      },
+      {
+       "w": "the",
+       "start": 117.596,
+       "end": 117.808
+      },
+      {
+       "w": "escape,",
+       "start": 117.808,
+       "end": 118.161
+      },
+      {
+       "w": "he",
+       "start": 118.449,
+       "end": 118.606
+      },
+      {
+       "w": "slipped",
+       "start": 118.606,
+       "end": 118.989
+      },
+      {
+       "w": "across",
+       "start": 118.989,
+       "end": 119.327
+      },
+      {
+       "w": "the",
+       "start": 119.327,
+       "end": 119.53
+      },
+      {
+       "w": "border",
+       "start": 119.53,
+       "end": 119.868
+      },
+      {
+       "w": "into",
+       "start": 119.868,
+       "end": 120.116
+      },
+      {
+       "w": "Canada.",
+       "start": 120.116,
+       "end": 120.454
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "mcnair/vo/line15.mp3",
+   "start": 121.054,
+   "dur": 7.758,
+   "sentences": [
+    {
+     "text": "In British Columbia, police stopped a stolen car.",
+     "start": 121.054,
+     "end": 124.084,
+     "words": [
+      {
+       "w": "In",
+       "start": 121.054,
+       "end": 121.227
+      },
+      {
+       "w": "British",
+       "start": 121.227,
+       "end": 121.646
+      },
+      {
+       "w": "Columbia,",
+       "start": 121.646,
+       "end": 122.115
+      },
+      {
+       "w": "police",
+       "start": 122.377,
+       "end": 122.797
+      },
+      {
+       "w": "stopped",
+       "start": 122.797,
+       "end": 123.272
+      },
+      {
+       "w": "a",
+       "start": 123.272,
+       "end": 123.412
+      },
+      {
+       "w": "stolen",
+       "start": 123.412,
+       "end": 123.832
+      },
+      {
+       "w": "car.",
+       "start": 123.832,
+       "end": 124.084
+      }
+     ]
+    },
+    {
+     "text": "The driver jumped out and ran.",
+     "start": 124.575,
+     "end": 126.479,
+     "words": [
+      {
+       "w": "The",
+       "start": 124.575,
+       "end": 124.834
+      },
+      {
+       "w": "driver",
+       "start": 124.834,
+       "end": 125.267
+      },
+      {
+       "w": "jumped",
+       "start": 125.267,
+       "end": 125.7
+      },
+      {
+       "w": "out",
+       "start": 125.7,
+       "end": 125.96
+      },
+      {
+       "w": "and",
+       "start": 125.96,
+       "end": 126.219
+      },
+      {
+       "w": "ran.",
+       "start": 126.219,
+       "end": 126.479
+      }
+     ]
+    },
+    {
+     "text": "Even a police dog couldn't find him.",
+     "start": 126.988,
+     "end": 128.812,
+     "words": [
+      {
+       "w": "Even",
+       "start": 126.988,
+       "end": 127.249
+      },
+      {
+       "w": "a",
+       "start": 127.249,
+       "end": 127.367
+      },
+      {
+       "w": "police",
+       "start": 127.367,
+       "end": 127.723
+      },
+      {
+       "w": "dog",
+       "start": 127.723,
+       "end": 127.936
+      },
+      {
+       "w": "couldn't",
+       "start": 127.936,
+       "end": 128.339
+      },
+      {
+       "w": "find",
+       "start": 128.339,
+       "end": 128.599
+      },
+      {
+       "w": "him.",
+       "start": 128.599,
+       "end": 128.812
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "mcnair/vo/line16.mp3",
+   "start": 129.412,
+   "dur": 8.098,
+   "sentences": [
+    {
+     "text": "Then an officer watched America's Most Wanted, and recognized the face.",
+     "start": 129.412,
+     "end": 133.754,
+     "words": [
+      {
+       "w": "Then",
+       "start": 129.412,
+       "end": 129.732
+      },
+      {
+       "w": "an",
+       "start": 129.732,
+       "end": 129.935
+      },
+      {
+       "w": "officer",
+       "start": 129.935,
+       "end": 130.429
+      },
+      {
+       "w": "watched",
+       "start": 130.429,
+       "end": 130.922
+      },
+      {
+       "w": "America's",
+       "start": 130.922,
+       "end": 131.474
+      },
+      {
+       "w": "Most",
+       "start": 131.474,
+       "end": 131.793
+      },
+      {
+       "w": "Wanted,",
+       "start": 131.793,
+       "end": 132.229
+      },
+      {
+       "w": "and",
+       "start": 132.413,
+       "end": 132.646
+      },
+      {
+       "w": "recognized",
+       "start": 132.646,
+       "end": 133.239
+      },
+      {
+       "w": "the",
+       "start": 133.239,
+       "end": 133.471
+      },
+      {
+       "w": "face.",
+       "start": 133.471,
+       "end": 133.754
+      }
+     ]
+    },
+    {
+     "text": "Fingerprints from the car confirmed it.",
+     "start": 134.268,
+     "end": 136.208,
+     "words": [
+      {
+       "w": "Fingerprints",
+       "start": 134.268,
+       "end": 134.892
+      },
+      {
+       "w": "from",
+       "start": 134.892,
+       "end": 135.146
+      },
+      {
+       "w": "the",
+       "start": 135.146,
+       "end": 135.354
+      },
+      {
+       "w": "car",
+       "start": 135.354,
+       "end": 135.562
+      },
+      {
+       "w": "confirmed",
+       "start": 135.562,
+       "end": 136.047
+      },
+      {
+       "w": "it.",
+       "start": 136.047,
+       "end": 136.208
+      }
+     ]
+    },
+    {
+     "text": "It was McNair.",
+     "start": 136.625,
+     "end": 137.51,
+     "words": [
+      {
+       "w": "It",
+       "start": 136.625,
+       "end": 136.825
+      },
+      {
+       "w": "was",
+       "start": 136.825,
+       "end": 137.082
+      },
+      {
+       "w": "McNair.",
+       "start": 137.082,
+       "end": 137.51
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "mcnair/vo/line17.mp3",
+   "start": 138.11,
+   "dur": 8.856,
+   "sentences": [
+    {
+     "text": "October 25th, 2007.",
+     "start": 138.11,
+     "end": 140.318,
+     "words": [
+      {
+       "w": "October",
+       "start": 138.11,
+       "end": 138.598
+      },
+      {
+       "w": "25th,",
+       "start": 138.598,
+       "end": 139.315
+      },
+      {
+       "w": "2007.",
+       "start": 139.315,
+       "end": 140.318
+      }
+     ]
+    },
+    {
+     "text": "Campbellton, New Brunswick.",
+     "start": 140.791,
+     "end": 141.942,
+     "words": [
+      {
+       "w": "Campbellton,",
+       "start": 140.791,
+       "end": 141.314
+      },
+      {
+       "w": "New",
+       "start": 141.314,
+       "end": 141.502
+      },
+      {
+       "w": "Brunswick.",
+       "start": 141.502,
+       "end": 141.942
+      }
+     ]
+    },
+    {
+     "text": "A routine traffic stop by the Mounties.",
+     "start": 142.421,
+     "end": 144.503,
+     "words": [
+      {
+       "w": "A",
+       "start": 142.421,
+       "end": 142.543
+      },
+      {
+       "w": "routine",
+       "start": 142.543,
+       "end": 142.96
+      },
+      {
+       "w": "traffic",
+       "start": 142.96,
+       "end": 143.376
+      },
+      {
+       "w": "stop",
+       "start": 143.376,
+       "end": 143.646
+      },
+      {
+       "w": "by",
+       "start": 143.646,
+       "end": 143.817
+      },
+      {
+       "w": "the",
+       "start": 143.817,
+       "end": 144.037
+      },
+      {
+       "w": "Mounties.",
+       "start": 144.037,
+       "end": 144.503
+      }
+     ]
+    },
+    {
+     "text": "Eighteen months on the run, over.",
+     "start": 145.005,
+     "end": 146.966,
+     "words": [
+      {
+       "w": "Eighteen",
+       "start": 145.005,
+       "end": 145.4
+      },
+      {
+       "w": "months",
+       "start": 145.4,
+       "end": 145.712
+      },
+      {
+       "w": "on",
+       "start": 145.712,
+       "end": 145.858
+      },
+      {
+       "w": "the",
+       "start": 145.858,
+       "end": 146.045
+      },
+      {
+       "w": "run,",
+       "start": 146.045,
+       "end": 146.232
+      },
+      {
+       "w": "over.",
+       "start": 146.643,
+       "end": 146.966
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "file": "mcnair/vo/line18.mp3",
+   "start": 147.566,
+   "dur": 10.893,
+   "sentences": [
+    {
+     "text": "Today he's back behind federal bars, serving life.",
+     "start": 147.566,
+     "end": 151.071,
+     "words": [
+      {
+       "w": "Today",
+       "start": 147.566,
+       "end": 147.646
+      },
+      {
+       "w": "he's",
+       "start": 147.646,
+       "end": 147.702
+      },
+      {
+       "w": "back",
+       "start": 147.702,
+       "end": 147.769
+      },
+      {
+       "w": "behind",
+       "start": 147.769,
+       "end": 147.862
+      },
+      {
+       "w": "federal",
+       "start": 147.862,
+       "end": 147.967
+      },
+      {
+       "w": "bars,",
+       "start": 147.967,
+       "end": 148.035
+      },
+      {
+       "w": "serving",
+       "start": 148.216,
+       "end": 149.95
+      },
+      {
+       "w": "life.",
+       "start": 149.95,
+       "end": 151.071
+      }
+     ]
+    },
+    {
+     "text": "But one question remains.",
+     "start": 151.623,
+     "end": 153.151,
+     "words": [
+      {
+       "w": "But",
+       "start": 151.623,
+       "end": 151.878
+      },
+      {
+       "w": "one",
+       "start": 151.878,
+       "end": 152.132
+      },
+      {
+       "w": "question",
+       "start": 152.132,
+       "end": 152.67
+      },
+      {
+       "w": "remains.",
+       "start": 152.67,
+       "end": 153.151
+      }
+     ]
+    },
+    {
+     "text": "Investigators believe someone helped him.",
+     "start": 153.608,
+     "end": 155.924,
+     "words": [
+      {
+       "w": "Investigators",
+       "start": 153.608,
+       "end": 154.38
+      },
+      {
+       "w": "believe",
+       "start": 154.38,
+       "end": 154.833
+      },
+      {
+       "w": "someone",
+       "start": 154.833,
+       "end": 155.285
+      },
+      {
+       "w": "helped",
+       "start": 155.285,
+       "end": 155.685
+      },
+      {
+       "w": "him.",
+       "start": 155.685,
+       "end": 155.924
+      }
+     ]
+    },
+    {
+     "text": "McNair swears he did it alone.",
+     "start": 156.373,
+     "end": 158.459,
+     "words": [
+      {
+       "w": "McNair",
+       "start": 156.373,
+       "end": 156.847
+      },
+      {
+       "w": "swears",
+       "start": 156.847,
+       "end": 157.321
+      },
+      {
+       "w": "he",
+       "start": 157.321,
+       "end": 157.542
+      },
+      {
+       "w": "did",
+       "start": 157.542,
+       "end": 157.827
+      },
+      {
+       "w": "it",
+       "start": 157.827,
+       "end": 158.048
+      },
+      {
+       "w": "alone.",
+       "start": 158.048,
+       "end": 158.459
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "file": "mcnair/vo/line19.mp3",
+   "start": 159.059,
+   "dur": 10.606,
+   "sentences": [
+    {
+     "text": "Genius, or inside help?",
+     "start": 159.059,
+     "end": 161.209,
+     "words": [
+      {
+       "w": "Genius,",
+       "start": 159.059,
+       "end": 159.766
+      },
+      {
+       "w": "or",
+       "start": 159.952,
+       "end": 160.219
+      },
+      {
+       "w": "inside",
+       "start": 160.219,
+       "end": 160.79
+      },
+      {
+       "w": "help?",
+       "start": 160.79,
+       "end": 161.209
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 161.698,
+     "end": 162.671,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 161.698,
+       "end": 161.9
+      },
+      {
+       "w": "me",
+       "start": 161.9,
+       "end": 162.029
+      },
+      {
+       "w": "in",
+       "start": 162.029,
+       "end": 162.157
+      },
+      {
+       "w": "the",
+       "start": 162.157,
+       "end": 162.322
+      },
+      {
+       "w": "comments.",
+       "start": 162.322,
+       "end": 162.671
+      }
+     ]
+    },
+    {
+     "text": "Then watch ESCAPED number one, the man who broke out with a wooden gun.",
+     "start": 163.098,
+     "end": 167.675,
+     "words": [
+      {
+       "w": "Then",
+       "start": 163.098,
+       "end": 163.45
+      },
+      {
+       "w": "watch",
+       "start": 163.45,
+       "end": 163.867
+      },
+      {
+       "w": "ESCAPED",
+       "start": 163.867,
+       "end": 164.411
+      },
+      {
+       "w": "number",
+       "start": 164.411,
+       "end": 164.891
+      },
+      {
+       "w": "one,",
+       "start": 164.891,
+       "end": 165.179
+      },
+      {
+       "w": "the",
+       "start": 165.47,
+       "end": 165.693
+      },
+      {
+       "w": "man",
+       "start": 165.693,
+       "end": 165.916
+      },
+      {
+       "w": "who",
+       "start": 165.916,
+       "end": 166.139
+      },
+      {
+       "w": "broke",
+       "start": 166.139,
+       "end": 166.461
+      },
+      {
+       "w": "out",
+       "start": 166.461,
+       "end": 166.684
+      },
+      {
+       "w": "with",
+       "start": 166.684,
+       "end": 166.957
+      },
+      {
+       "w": "a",
+       "start": 166.957,
+       "end": 167.081
+      },
+      {
+       "w": "wooden",
+       "start": 167.081,
+       "end": 167.452
+      },
+      {
+       "w": "gun.",
+       "start": 167.452,
+       "end": 167.675
+      }
+     ]
+    },
+    {
+     "text": "And follow for more escapes.",
+     "start": 168.087,
+     "end": 169.665,
+     "words": [
+      {
+       "w": "And",
+       "start": 168.087,
+       "end": 168.32
+      },
+      {
+       "w": "follow",
+       "start": 168.32,
+       "end": 168.708
+      },
+      {
+       "w": "for",
+       "start": 168.708,
+       "end": 168.941
+      },
+      {
+       "w": "more",
+       "start": 168.941,
+       "end": 169.225
+      },
+      {
+       "w": "escapes.",
+       "start": 169.225,
+       "end": 169.665
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

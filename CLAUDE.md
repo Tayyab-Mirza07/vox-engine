@@ -88,6 +88,10 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
   (paper texture, torn-edge cut-out photos with tape + halftone, typewriter `Typed`, marker `Circle`/`Arrow`, highlighter `Hi`,
   `Redact`, `Stamp`, `Headline`, 12 fps `jitter`, paper-slide page transitions, fonts Playfair Display + Special Elite);
   4 real place photos; 2:42; CTA to Somerton; thumbnail `IsdalThumb`. Use this kit for new episodes.
+- `Mcnair` — ESCAPED #2: Richard Lee McNair (1987 / 1992 / 2006 escapes); `src/mcnair/`, `public/mcnair/{vo,photos,cta,music.mp3}`.
+  Dillinger cartoon beat-synced style (parts from `src/dillinger/parts.tsx`, milder camera: max scale 1.16, punch 0.016, softer cut
+  flash) + new props (dash-cam overlay, railroad tracks, patrol car, mailbag pod, fence, Mountie); 2 PD photos (US Marshals mugshot,
+  BOP USP Pollock); Dillinger music re-fitted (atempo 1.0497); victim not named; CTA to Dillinger (ESCAPED #1); thumbnail `McnairThumb`.
 - Viral cuts of finished Shorts: `scripts/cut-short.py <in> <out> a-b c-d …` (covers the progress bar, loudnorms) →
   `videos/mh370-cut.mp4`, `videos/sodder-cut.mp4`.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.
