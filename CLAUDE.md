@@ -92,6 +92,12 @@ Scripts use a strong hook, re-hooks, 5W1H and tension/release; narration should 
   Dillinger cartoon beat-synced style (parts from `src/dillinger/parts.tsx`, milder camera: max scale 1.16, punch 0.016, softer cut
   flash) + new props (dash-cam overlay, railroad tracks, patrol car, mailbag pod, fence, Mountie); 2 PD photos (US Marshals mugshot,
   BOP USP Pollock); Dillinger music re-fitted (atempo 1.0497); victim not named; CTA to Dillinger (ESCAPED #1); thumbnail `McnairThumb`.
+- `Choi` — ESCAPED #3: Choi Gap-bok, the "Korean Houdini" food-slot escape (Daegu 2012); `src/choi/`, `public/choi/{vo,photos,cta,music.mp3}`.
+  Same ESCAPED cartoon beat-synced style; imports helpers exported from `src/mcnair/scenes.tsx` (Title, Tag, Photo, Calendar, DashCam…);
+  new props: steel cell `Door` with food slot, `Squeeze` body pouring out, `Dim` measurement arrows, sleeping-officer desks,
+  helicopter, octopus, newspaper; Choi only a silhouette (no licensed photo); 1 PD Miryang photo; 2:27; CTA to McNair; thumbnail `ChoiThumb`.
+- Disk: Remotion leaves ~750 MB `/tmp/remotion-webpack-bundle-*` per render — delete them (`rm -rf /tmp/remotion-webpack-bundle-*`)
+  before each long render or the disk fills ("No space left on device").
 - Viral cuts of finished Shorts: `scripts/cut-short.py <in> <out> a-b c-d …` (covers the progress bar, loudnorms) →
   `videos/mh370-cut.mp4`, `videos/sodder-cut.mp4`.
   New episodes follow this layout: `src/<ep>/{script.json,timings.json,scenes.tsx,Video.tsx}`.

@@ -28,6 +28,8 @@ import {Dillinger, T as dillinger} from './dillinger/Video';
 import {DillingerThumb} from './dillinger/scenes';
 import {Mcnair, T as mcnair} from './mcnair/Video';
 import {McnairThumb} from './mcnair/scenes';
+import {Choi, T as choi} from './choi/Video';
+import {ChoiThumb} from './choi/scenes';
 import {Magee, T as magee} from './magee/Video';
 import {MageeThumb} from './magee/scenes';
 import {Isdal, T as isdal} from './isdal/Video';
@@ -71,6 +73,8 @@ const Root: React.FC = () => (
     <Composition id="DillingerThumb" component={DillingerThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Mcnair" component={Mcnair} durationInFrames={mcnair.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="McnairThumb" component={McnairThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
+    <Composition id="Choi" component={Choi} durationInFrames={choi.totalFrames} fps={FPS} width={W} height={H} />
+    <Composition id="ChoiThumb" component={ChoiThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Magee" component={Magee} durationInFrames={magee.totalFrames} fps={FPS} width={W} height={H} />
     <Composition id="MageeThumb" component={MageeThumb} durationInFrames={1} fps={FPS} width={W} height={H} />
     <Composition id="Isdal" component={Isdal} durationInFrames={isdal.totalFrames} fps={FPS} width={W} height={H} />

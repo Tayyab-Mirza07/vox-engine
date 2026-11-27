@@ -1,0 +1,2306 @@
+{
+ "total": 146.764,
+ "lines": [
+  {
+   "index": 0,
+   "file": "choi/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 6.452,
+   "sentences": [
+    {
+     "text": "A grown man escaped from a police cell through a hole six inches tall.",
+     "start": 0.25,
+     "end": 4.221,
+     "words": [
+      {
+       "w": "A",
+       "start": 0.25,
+       "end": 0.379
+      },
+      {
+       "w": "grown",
+       "start": 0.379,
+       "end": 0.714
+      },
+      {
+       "w": "man",
+       "start": 0.714,
+       "end": 0.946
+      },
+      {
+       "w": "escaped",
+       "start": 0.946,
+       "end": 1.385
+      },
+      {
+       "w": "from",
+       "start": 1.385,
+       "end": 1.668
+      },
+      {
+       "w": "a",
+       "start": 1.668,
+       "end": 1.797
+      },
+      {
+       "w": "police",
+       "start": 1.797,
+       "end": 2.184
+      },
+      {
+       "w": "cell",
+       "start": 2.184,
+       "end": 2.468
+      },
+      {
+       "w": "through",
+       "start": 2.468,
+       "end": 2.906
+      },
+      {
+       "w": "a",
+       "start": 2.906,
+       "end": 3.035
+      },
+      {
+       "w": "hole",
+       "start": 3.035,
+       "end": 3.319
+      },
+      {
+       "w": "six",
+       "start": 3.319,
+       "end": 3.551
+      },
+      {
+       "w": "inches",
+       "start": 3.551,
+       "end": 3.937
+      },
+      {
+       "w": "tall.",
+       "start": 3.937,
+       "end": 4.221
+      }
+     ]
+    },
+    {
+     "text": "The slot they used to pass him his food.",
+     "start": 4.557,
+     "end": 6.702,
+     "words": [
+      {
+       "w": "The",
+       "start": 4.557,
+       "end": 4.774
+      },
+      {
+       "w": "slot",
+       "start": 4.774,
+       "end": 5.039
+      },
+      {
+       "w": "they",
+       "start": 5.039,
+       "end": 5.304
+      },
+      {
+       "w": "used",
+       "start": 5.304,
+       "end": 5.569
+      },
+      {
+       "w": "to",
+       "start": 5.569,
+       "end": 5.738
+      },
+      {
+       "w": "pass",
+       "start": 5.738,
+       "end": 6.003
+      },
+      {
+       "w": "him",
+       "start": 6.003,
+       "end": 6.22
+      },
+      {
+       "w": "his",
+       "start": 6.22,
+       "end": 6.437
+      },
+      {
+       "w": "food.",
+       "start": 6.437,
+       "end": 6.702
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "choi/vo/line1.mp3",
+   "start": 7.452,
+   "dur": 7.314,
+   "sentences": [
+    {
+     "text": "September 17th, 2012.",
+     "start": 7.452,
+     "end": 9.502,
+     "words": [
+      {
+       "w": "September",
+       "start": 7.452,
+       "end": 7.991
+      },
+      {
+       "w": "17th,",
+       "start": 7.991,
+       "end": 8.632
+      },
+      {
+       "w": "2012.",
+       "start": 8.835,
+       "end": 9.502
+      }
+     ]
+    },
+    {
+     "text": "Daegu, South Korea.",
+     "start": 10.063,
+     "end": 11.311,
+     "words": [
+      {
+       "w": "Daegu,",
+       "start": 10.063,
+       "end": 10.479
+      },
+      {
+       "w": "South",
+       "start": 10.479,
+       "end": 10.895
+      },
+      {
+       "w": "Korea.",
+       "start": 10.895,
+       "end": 11.311
+      }
+     ]
+    },
+    {
+     "text": "Five in the morning, inside Dongbu Police Station.",
+     "start": 11.819,
+     "end": 14.767,
+     "words": [
+      {
+       "w": "Five",
+       "start": 11.819,
+       "end": 12.036
+      },
+      {
+       "w": "in",
+       "start": 12.036,
+       "end": 12.175
+      },
+      {
+       "w": "the",
+       "start": 12.175,
+       "end": 12.353
+      },
+      {
+       "w": "morning,",
+       "start": 12.353,
+       "end": 12.69
+      },
+      {
+       "w": "inside",
+       "start": 13.015,
+       "end": 13.439
+      },
+      {
+       "w": "Dongbu",
+       "start": 13.439,
+       "end": 13.862
+      },
+      {
+       "w": "Police",
+       "start": 13.862,
+       "end": 14.286
+      },
+      {
+       "w": "Station.",
+       "start": 14.286,
+       "end": 14.767
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "choi/vo/line2.mp3",
+   "start": 15.517,
+   "dur": 8.803,
+   "sentences": [
+    {
+     "text": "In one cell sat Choi Gap-bok, a career criminal held on a robbery charge.",
+     "start": 15.517,
+     "end": 20.46,
+     "words": [
+      {
+       "w": "In",
+       "start": 15.517,
+       "end": 15.721
+      },
+      {
+       "w": "one",
+       "start": 15.721,
+       "end": 15.984
+      },
+      {
+       "w": "cell",
+       "start": 15.984,
+       "end": 16.306
+      },
+      {
+       "w": "sat",
+       "start": 16.306,
+       "end": 16.569
+      },
+      {
+       "w": "Choi",
+       "start": 16.569,
+       "end": 16.89
+      },
+      {
+       "w": "Gap-bok,",
+       "start": 16.89,
+       "end": 17.329
+      },
+      {
+       "w": "a",
+       "start": 17.918,
+       "end": 18.053
+      },
+      {
+       "w": "career",
+       "start": 18.053,
+       "end": 18.459
+      },
+      {
+       "w": "criminal",
+       "start": 18.459,
+       "end": 18.972
+      },
+      {
+       "w": "held",
+       "start": 18.972,
+       "end": 19.27
+      },
+      {
+       "w": "on",
+       "start": 19.27,
+       "end": 19.459
+      },
+      {
+       "w": "a",
+       "start": 19.459,
+       "end": 19.595
+      },
+      {
+       "w": "robbery",
+       "start": 19.595,
+       "end": 20.054
+      },
+      {
+       "w": "charge.",
+       "start": 20.054,
+       "end": 20.46
+      }
+     ]
+    },
+    {
+     "text": "He had spent more than twenty years of his life behind bars.",
+     "start": 20.961,
+     "end": 24.32,
+     "words": [
+      {
+       "w": "He",
+       "start": 20.961,
+       "end": 21.139
+      },
+      {
+       "w": "had",
+       "start": 21.139,
+       "end": 21.368
+      },
+      {
+       "w": "spent",
+       "start": 21.368,
+       "end": 21.699
+      },
+      {
+       "w": "more",
+       "start": 21.699,
+       "end": 21.979
+      },
+      {
+       "w": "than",
+       "start": 21.979,
+       "end": 22.259
+      },
+      {
+       "w": "twenty",
+       "start": 22.259,
+       "end": 22.64
+      },
+      {
+       "w": "years",
+       "start": 22.64,
+       "end": 22.971
+      },
+      {
+       "w": "of",
+       "start": 22.971,
+       "end": 23.149
+      },
+      {
+       "w": "his",
+       "start": 23.149,
+       "end": 23.378
+      },
+      {
+       "w": "life",
+       "start": 23.378,
+       "end": 23.658
+      },
+      {
+       "w": "behind",
+       "start": 23.658,
+       "end": 24.04
+      },
+      {
+       "w": "bars.",
+       "start": 24.04,
+       "end": 24.32
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "choi/vo/line3.mp3",
+   "start": 25.07,
+   "dur": 6.426,
+   "sentences": [
+    {
+     "text": "And all that time, he kept his body flexible.",
+     "start": 25.07,
+     "end": 28.037,
+     "words": [
+      {
+       "w": "And",
+       "start": 25.07,
+       "end": 25.344
+      },
+      {
+       "w": "all",
+       "start": 25.344,
+       "end": 25.618
+      },
+      {
+       "w": "that",
+       "start": 25.618,
+       "end": 25.953
+      },
+      {
+       "w": "time,",
+       "start": 25.953,
+       "end": 26.287
+      },
+      {
+       "w": "he",
+       "start": 26.501,
+       "end": 26.689
+      },
+      {
+       "w": "kept",
+       "start": 26.689,
+       "end": 26.986
+      },
+      {
+       "w": "his",
+       "start": 26.986,
+       "end": 27.228
+      },
+      {
+       "w": "body",
+       "start": 27.228,
+       "end": 27.525
+      },
+      {
+       "w": "flexible.",
+       "start": 27.525,
+       "end": 28.037
+      }
+     ]
+    },
+    {
+     "text": "The press would later call him the yoga master.",
+     "start": 28.58,
+     "end": 31.271,
+     "words": [
+      {
+       "w": "The",
+       "start": 28.58,
+       "end": 28.815
+      },
+      {
+       "w": "press",
+       "start": 28.815,
+       "end": 29.154
+      },
+      {
+       "w": "would",
+       "start": 29.154,
+       "end": 29.494
+      },
+      {
+       "w": "later",
+       "start": 29.494,
+       "end": 29.834
+      },
+      {
+       "w": "call",
+       "start": 29.834,
+       "end": 30.121
+      },
+      {
+       "w": "him",
+       "start": 30.121,
+       "end": 30.356
+      },
+      {
+       "w": "the",
+       "start": 30.356,
+       "end": 30.591
+      },
+      {
+       "w": "yoga",
+       "start": 30.591,
+       "end": 30.879
+      },
+      {
+       "w": "master.",
+       "start": 30.879,
+       "end": 31.271
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "choi/vo/line4.mp3",
+   "start": 32.246,
+   "dur": 5.538,
+   "sentences": [
+    {
+     "text": "His cell had a food slot.",
+     "start": 32.246,
+     "end": 33.853,
+     "words": [
+      {
+       "w": "His",
+       "start": 32.246,
+       "end": 32.504
+      },
+      {
+       "w": "cell",
+       "start": 32.504,
+       "end": 32.82
+      },
+      {
+       "w": "had",
+       "start": 32.82,
+       "end": 33.078
+      },
+      {
+       "w": "a",
+       "start": 33.078,
+       "end": 33.222
+      },
+      {
+       "w": "food",
+       "start": 33.222,
+       "end": 33.538
+      },
+      {
+       "w": "slot.",
+       "start": 33.538,
+       "end": 33.853
+      }
+     ]
+    },
+    {
+     "text": "Eighteen inches wide.",
+     "start": 34.361,
+     "end": 35.655,
+     "words": [
+      {
+       "w": "Eighteen",
+       "start": 34.361,
+       "end": 34.907
+      },
+      {
+       "w": "inches",
+       "start": 34.907,
+       "end": 35.339
+      },
+      {
+       "w": "wide.",
+       "start": 35.339,
+       "end": 35.655
+      }
+     ]
+    },
+    {
+     "text": "Just six inches tall.",
+     "start": 35.982,
+     "end": 37.784,
+     "words": [
+      {
+       "w": "Just",
+       "start": 35.982,
+       "end": 36.413
+      },
+      {
+       "w": "six",
+       "start": 36.413,
+       "end": 36.766
+      },
+      {
+       "w": "inches",
+       "start": 36.766,
+       "end": 37.353
+      },
+      {
+       "w": "tall.",
+       "start": 37.353,
+       "end": 37.784
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "choi/vo/line5.mp3",
+   "start": 38.534,
+   "dur": 6.609,
+   "sentences": [
+    {
+     "text": "Days before, the cameras caught him practicing.",
+     "start": 38.534,
+     "end": 41.338,
+     "words": [
+      {
+       "w": "Days",
+       "start": 38.534,
+       "end": 38.932
+      },
+      {
+       "w": "before,",
+       "start": 38.932,
+       "end": 39.474
+      },
+      {
+       "w": "the",
+       "start": 39.658,
+       "end": 39.865
+      },
+      {
+       "w": "cameras",
+       "start": 39.865,
+       "end": 40.257
+      },
+      {
+       "w": "caught",
+       "start": 40.257,
+       "end": 40.602
+      },
+      {
+       "w": "him",
+       "start": 40.602,
+       "end": 40.809
+      },
+      {
+       "w": "practicing.",
+       "start": 40.809,
+       "end": 41.338
+      }
+     ]
+    },
+    {
+     "text": "Three times, he pushed his head and chest through the slot.",
+     "start": 41.845,
+     "end": 45.143,
+     "words": [
+      {
+       "w": "Three",
+       "start": 41.845,
+       "end": 42.183
+      },
+      {
+       "w": "times,",
+       "start": 42.183,
+       "end": 42.52
+      },
+      {
+       "w": "he",
+       "start": 42.52,
+       "end": 42.702
+      },
+      {
+       "w": "pushed",
+       "start": 42.702,
+       "end": 43.091
+      },
+      {
+       "w": "his",
+       "start": 43.091,
+       "end": 43.325
+      },
+      {
+       "w": "head",
+       "start": 43.325,
+       "end": 43.611
+      },
+      {
+       "w": "and",
+       "start": 43.611,
+       "end": 43.844
+      },
+      {
+       "w": "chest",
+       "start": 43.844,
+       "end": 44.182
+      },
+      {
+       "w": "through",
+       "start": 44.182,
+       "end": 44.624
+      },
+      {
+       "w": "the",
+       "start": 44.624,
+       "end": 44.857
+      },
+      {
+       "w": "slot.",
+       "start": 44.857,
+       "end": 45.143
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "choi/vo/line6.mp3",
+   "start": 45.893,
+   "dur": 6.4,
+   "sentences": [
+    {
+     "text": "Then he got a tube of ointment from another detainee.",
+     "start": 45.893,
+     "end": 48.696,
+     "words": [
+      {
+       "w": "Then",
+       "start": 45.893,
+       "end": 46.159
+      },
+      {
+       "w": "he",
+       "start": 46.159,
+       "end": 46.328
+      },
+      {
+       "w": "got",
+       "start": 46.328,
+       "end": 46.545
+      },
+      {
+       "w": "a",
+       "start": 46.545,
+       "end": 46.666
+      },
+      {
+       "w": "tube",
+       "start": 46.666,
+       "end": 46.932
+      },
+      {
+       "w": "of",
+       "start": 46.932,
+       "end": 47.101
+      },
+      {
+       "w": "ointment",
+       "start": 47.101,
+       "end": 47.56
+      },
+      {
+       "w": "from",
+       "start": 47.56,
+       "end": 47.826
+      },
+      {
+       "w": "another",
+       "start": 47.826,
+       "end": 48.237
+      },
+      {
+       "w": "detainee.",
+       "start": 48.237,
+       "end": 48.696
+      }
+     ]
+    },
+    {
+     "text": "He rubbed it on his head, his body, and the bars.",
+     "start": 49.205,
+     "end": 52.293,
+     "words": [
+      {
+       "w": "He",
+       "start": 49.205,
+       "end": 49.344
+      },
+      {
+       "w": "rubbed",
+       "start": 49.344,
+       "end": 49.642
+      },
+      {
+       "w": "it",
+       "start": 49.642,
+       "end": 49.781
+      },
+      {
+       "w": "on",
+       "start": 49.781,
+       "end": 49.92
+      },
+      {
+       "w": "his",
+       "start": 49.92,
+       "end": 50.099
+      },
+      {
+       "w": "head,",
+       "start": 50.099,
+       "end": 50.317
+      },
+      {
+       "w": "his",
+       "start": 50.554,
+       "end": 50.839
+      },
+      {
+       "w": "body,",
+       "start": 50.839,
+       "end": 51.187
+      },
+      {
+       "w": "and",
+       "start": 51.412,
+       "end": 51.686
+      },
+      {
+       "w": "the",
+       "start": 51.686,
+       "end": 51.959
+      },
+      {
+       "w": "bars.",
+       "start": 51.959,
+       "end": 52.293
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "choi/vo/line7.mp3",
+   "start": 53.043,
+   "dur": 5.956,
+   "sentences": [
+    {
+     "text": "That morning, three officers were on duty.",
+     "start": 53.043,
+     "end": 55.577,
+     "words": [
+      {
+       "w": "That",
+       "start": 53.043,
+       "end": 53.31
+      },
+      {
+       "w": "morning,",
+       "start": 53.31,
+       "end": 53.722
+      },
+      {
+       "w": "three",
+       "start": 53.957,
+       "end": 54.302
+      },
+      {
+       "w": "officers",
+       "start": 54.302,
+       "end": 54.807
+      },
+      {
+       "w": "were",
+       "start": 54.807,
+       "end": 55.099
+      },
+      {
+       "w": "on",
+       "start": 55.099,
+       "end": 55.285
+      },
+      {
+       "w": "duty.",
+       "start": 55.285,
+       "end": 55.577
+      }
+     ]
+    },
+    {
+     "text": "Two were asleep.",
+     "start": 56.089,
+     "end": 57.086,
+     "words": [
+      {
+       "w": "Two",
+       "start": 56.089,
+       "end": 56.345
+      },
+      {
+       "w": "were",
+       "start": 56.345,
+       "end": 56.658
+      },
+      {
+       "w": "asleep.",
+       "start": 56.658,
+       "end": 57.086
+      }
+     ]
+    },
+    {
+     "text": "The third was on the internet.",
+     "start": 57.56,
+     "end": 58.999,
+     "words": [
+      {
+       "w": "The",
+       "start": 57.56,
+       "end": 57.756
+      },
+      {
+       "w": "third",
+       "start": 57.756,
+       "end": 58.04
+      },
+      {
+       "w": "was",
+       "start": 58.04,
+       "end": 58.236
+      },
+      {
+       "w": "on",
+       "start": 58.236,
+       "end": 58.389
+      },
+      {
+       "w": "the",
+       "start": 58.389,
+       "end": 58.585
+      },
+      {
+       "w": "internet.",
+       "start": 58.585,
+       "end": 58.999
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "choi/vo/line8.mp3",
+   "start": 59.749,
+   "dur": 6.949,
+   "sentences": [
+    {
+     "text": "Choi slid head first into the slot.",
+     "start": 59.749,
+     "end": 61.883,
+     "words": [
+      {
+       "w": "Choi",
+       "start": 59.749,
+       "end": 60.054
+      },
+      {
+       "w": "slid",
+       "start": 60.054,
+       "end": 60.359
+      },
+      {
+       "w": "head",
+       "start": 60.359,
+       "end": 60.663
+      },
+      {
+       "w": "first",
+       "start": 60.663,
+       "end": 61.024
+      },
+      {
+       "w": "into",
+       "start": 61.024,
+       "end": 61.329
+      },
+      {
+       "w": "the",
+       "start": 61.329,
+       "end": 61.578
+      },
+      {
+       "w": "slot.",
+       "start": 61.578,
+       "end": 61.883
+      }
+     ]
+    },
+    {
+     "text": "Shoulders.",
+     "start": 62.356,
+     "end": 62.979,
+     "words": [
+      {
+       "w": "Shoulders.",
+       "start": 62.356,
+       "end": 62.979
+      }
+     ]
+    },
+    {
+     "text": "Chest.",
+     "start": 63.225,
+     "end": 63.698,
+     "words": [
+      {
+       "w": "Chest.",
+       "start": 63.225,
+       "end": 63.698
+      }
+     ]
+    },
+    {
+     "text": "Hips.",
+     "start": 64.035,
+     "end": 64.462,
+     "words": [
+      {
+       "w": "Hips.",
+       "start": 64.035,
+       "end": 64.462
+      }
+     ]
+    },
+    {
+     "text": "In less than a minute, he was out.",
+     "start": 64.991,
+     "end": 66.697,
+     "words": [
+      {
+       "w": "In",
+       "start": 64.991,
+       "end": 65.13
+      },
+      {
+       "w": "less",
+       "start": 65.13,
+       "end": 65.349
+      },
+      {
+       "w": "than",
+       "start": 65.349,
+       "end": 65.568
+      },
+      {
+       "w": "a",
+       "start": 65.568,
+       "end": 65.667
+      },
+      {
+       "w": "minute,",
+       "start": 65.667,
+       "end": 65.966
+      },
+      {
+       "w": "he",
+       "start": 66.121,
+       "end": 66.283
+      },
+      {
+       "w": "was",
+       "start": 66.283,
+       "end": 66.49
+      },
+      {
+       "w": "out.",
+       "start": 66.49,
+       "end": 66.697
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "choi/vo/line9.mp3",
+   "start": 67.447,
+   "dur": 9.404,
+   "sentences": [
+    {
+     "text": "One investigator said he moved like an octopus.",
+     "start": 67.447,
+     "end": 70.416,
+     "words": [
+      {
+       "w": "One",
+       "start": 67.447,
+       "end": 67.709
+      },
+      {
+       "w": "investigator",
+       "start": 67.709,
+       "end": 68.495
+      },
+      {
+       "w": "said",
+       "start": 68.495,
+       "end": 68.815
+      },
+      {
+       "w": "he",
+       "start": 68.815,
+       "end": 69.019
+      },
+      {
+       "w": "moved",
+       "start": 69.019,
+       "end": 69.397
+      },
+      {
+       "w": "like",
+       "start": 69.397,
+       "end": 69.717
+      },
+      {
+       "w": "an",
+       "start": 69.717,
+       "end": 69.921
+      },
+      {
+       "w": "octopus.",
+       "start": 69.921,
+       "end": 70.416
+      }
+     ]
+    },
+    {
+     "text": "Then, police say, he squeezed through window bars barely five inches apart, and vanished.",
+     "start": 70.881,
+     "end": 76.851,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 70.881,
+       "end": 71.234
+      },
+      {
+       "w": "police",
+       "start": 71.234,
+       "end": 71.748
+      },
+      {
+       "w": "say,",
+       "start": 71.748,
+       "end": 72.057
+      },
+      {
+       "w": "he",
+       "start": 72.362,
+       "end": 72.551
+      },
+      {
+       "w": "squeezed",
+       "start": 72.551,
+       "end": 73.065
+      },
+      {
+       "w": "through",
+       "start": 73.065,
+       "end": 73.524
+      },
+      {
+       "w": "window",
+       "start": 73.524,
+       "end": 73.93
+      },
+      {
+       "w": "bars",
+       "start": 73.93,
+       "end": 74.227
+      },
+      {
+       "w": "barely",
+       "start": 74.227,
+       "end": 74.632
+      },
+      {
+       "w": "five",
+       "start": 74.632,
+       "end": 74.93
+      },
+      {
+       "w": "inches",
+       "start": 74.93,
+       "end": 75.335
+      },
+      {
+       "w": "apart,",
+       "start": 75.335,
+       "end": 75.687
+      },
+      {
+       "w": "and",
+       "start": 76.065,
+       "end": 76.318
+      },
+      {
+       "w": "vanished.",
+       "start": 76.318,
+       "end": 76.851
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "choi/vo/line10.mp3",
+   "start": 77.601,
+   "dur": 5.251,
+   "sentences": [
+    {
+     "text": "He left a note behind.",
+     "start": 77.601,
+     "end": 78.86,
+     "words": [
+      {
+       "w": "He",
+       "start": 77.601,
+       "end": 77.781
+      },
+      {
+       "w": "left",
+       "start": 77.781,
+       "end": 78.064
+      },
+      {
+       "w": "a",
+       "start": 78.064,
+       "end": 78.192
+      },
+      {
+       "w": "note",
+       "start": 78.192,
+       "end": 78.475
+      },
+      {
+       "w": "behind.",
+       "start": 78.475,
+       "end": 78.86
+      }
+     ]
+    },
+    {
+     "text": "I'm sorry, it said.",
+     "start": 79.451,
+     "end": 80.874,
+     "words": [
+      {
+       "w": "I'm",
+       "start": 79.451,
+       "end": 79.678
+      },
+      {
+       "w": "sorry,",
+       "start": 79.678,
+       "end": 80.1
+      },
+      {
+       "w": "it",
+       "start": 80.436,
+       "end": 80.606
+      },
+      {
+       "w": "said.",
+       "start": 80.606,
+       "end": 80.874
+      }
+     ]
+    },
+    {
+     "text": "But I have to clear my name.",
+     "start": 81.412,
+     "end": 82.852,
+     "words": [
+      {
+       "w": "But",
+       "start": 81.412,
+       "end": 81.618
+      },
+      {
+       "w": "I",
+       "start": 81.618,
+       "end": 81.732
+      },
+      {
+       "w": "have",
+       "start": 81.732,
+       "end": 81.984
+      },
+      {
+       "w": "to",
+       "start": 81.984,
+       "end": 82.144
+      },
+      {
+       "w": "clear",
+       "start": 82.144,
+       "end": 82.441
+      },
+      {
+       "w": "my",
+       "start": 82.441,
+       "end": 82.601
+      },
+      {
+       "w": "name.",
+       "start": 82.601,
+       "end": 82.852
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "choi/vo/line11.mp3",
+   "start": 83.602,
+   "dur": 7.497,
+   "sentences": [
+    {
+     "text": "What followed was a massive manhunt.",
+     "start": 83.602,
+     "end": 85.882,
+     "words": [
+      {
+       "w": "What",
+       "start": 83.602,
+       "end": 83.924
+      },
+      {
+       "w": "followed",
+       "start": 83.924,
+       "end": 84.479
+      },
+      {
+       "w": "was",
+       "start": 84.479,
+       "end": 84.742
+      },
+      {
+       "w": "a",
+       "start": 84.742,
+       "end": 84.888
+      },
+      {
+       "w": "massive",
+       "start": 84.888,
+       "end": 85.385
+      },
+      {
+       "w": "manhunt.",
+       "start": 85.385,
+       "end": 85.882
+      }
+     ]
+    },
+    {
+     "text": "Thousands of police.",
+     "start": 86.222,
+     "end": 87.564,
+     "words": [
+      {
+       "w": "Thousands",
+       "start": 86.222,
+       "end": 86.877
+      },
+      {
+       "w": "of",
+       "start": 86.877,
+       "end": 87.096
+      },
+      {
+       "w": "police.",
+       "start": 87.096,
+       "end": 87.564
+      }
+     ]
+    },
+    {
+     "text": "Search dogs.",
+     "start": 87.787,
+     "end": 88.672,
+     "words": [
+      {
+       "w": "Search",
+       "start": 87.787,
+       "end": 88.297
+      },
+      {
+       "w": "dogs.",
+       "start": 88.297,
+       "end": 88.672
+      }
+     ]
+    },
+    {
+     "text": "Helicopters with thermal cameras.",
+     "start": 88.986,
+     "end": 90.907,
+     "words": [
+      {
+       "w": "Helicopters",
+       "start": 88.986,
+       "end": 89.672
+      },
+      {
+       "w": "with",
+       "start": 89.672,
+       "end": 89.974
+      },
+      {
+       "w": "thermal",
+       "start": 89.974,
+       "end": 90.44
+      },
+      {
+       "w": "cameras.",
+       "start": 90.44,
+       "end": 90.907
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "choi/vo/line12.mp3",
+   "start": 91.849,
+   "dur": 3.5,
+   "sentences": [
+    {
+     "text": "He was spotted near Cheongdo.",
+     "start": 91.849,
+     "end": 93.308,
+     "words": [
+      {
+       "w": "He",
+       "start": 91.849,
+       "end": 92.011
+      },
+      {
+       "w": "was",
+       "start": 92.011,
+       "end": 92.22
+      },
+      {
+       "w": "spotted",
+       "start": 92.22,
+       "end": 92.614
+      },
+      {
+       "w": "near",
+       "start": 92.614,
+       "end": 92.868
+      },
+      {
+       "w": "Cheongdo.",
+       "start": 92.868,
+       "end": 93.308
+      }
+     ]
+    },
+    {
+     "text": "Then he disappeared again.",
+     "start": 93.807,
+     "end": 95.35,
+     "words": [
+      {
+       "w": "Then",
+       "start": 93.807,
+       "end": 94.11
+      },
+      {
+       "w": "he",
+       "start": 94.11,
+       "end": 94.303
+      },
+      {
+       "w": "disappeared",
+       "start": 94.303,
+       "end": 94.991
+      },
+      {
+       "w": "again.",
+       "start": 94.991,
+       "end": 95.35
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "choi/vo/line13.mp3",
+   "start": 96.1,
+   "dur": 3.866,
+   "sentences": [
+    {
+     "text": "The newspapers gave him a new name.",
+     "start": 96.1,
+     "end": 98.044,
+     "words": [
+      {
+       "w": "The",
+       "start": 96.1,
+       "end": 96.327
+      },
+      {
+       "w": "newspapers",
+       "start": 96.327,
+       "end": 96.908
+      },
+      {
+       "w": "gave",
+       "start": 96.908,
+       "end": 97.185
+      },
+      {
+       "w": "him",
+       "start": 97.185,
+       "end": 97.413
+      },
+      {
+       "w": "a",
+       "start": 97.413,
+       "end": 97.539
+      },
+      {
+       "w": "new",
+       "start": 97.539,
+       "end": 97.766
+      },
+      {
+       "w": "name.",
+       "start": 97.766,
+       "end": 98.044
+      }
+     ]
+    },
+    {
+     "text": "The Korean Houdini.",
+     "start": 98.53,
+     "end": 99.966,
+     "words": [
+      {
+       "w": "The",
+       "start": 98.53,
+       "end": 98.845
+      },
+      {
+       "w": "Korean",
+       "start": 98.845,
+       "end": 99.371
+      },
+      {
+       "w": "Houdini.",
+       "start": 99.371,
+       "end": 99.966
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "choi/vo/line14.mp3",
+   "start": 100.716,
+   "dur": 6.243,
+   "sentences": [
+    {
+     "text": "But many people didn't buy the story.",
+     "start": 100.716,
+     "end": 102.84,
+     "words": [
+      {
+       "w": "But",
+       "start": 100.716,
+       "end": 100.958
+      },
+      {
+       "w": "many",
+       "start": 100.958,
+       "end": 101.253
+      },
+      {
+       "w": "people",
+       "start": 101.253,
+       "end": 101.657
+      },
+      {
+       "w": "didn't",
+       "start": 101.657,
+       "end": 102.006
+      },
+      {
+       "w": "buy",
+       "start": 102.006,
+       "end": 102.248
+      },
+      {
+       "w": "the",
+       "start": 102.248,
+       "end": 102.49
+      },
+      {
+       "w": "story.",
+       "start": 102.49,
+       "end": 102.84
+      }
+     ]
+    },
+    {
+     "text": "Could an adult's head and shoulders really fit through six inches?",
+     "start": 103.312,
+     "end": 106.959,
+     "words": [
+      {
+       "w": "Could",
+       "start": 103.312,
+       "end": 103.649
+      },
+      {
+       "w": "an",
+       "start": 103.649,
+       "end": 103.83
+      },
+      {
+       "w": "adult's",
+       "start": 103.83,
+       "end": 104.217
+      },
+      {
+       "w": "head",
+       "start": 104.217,
+       "end": 104.502
+      },
+      {
+       "w": "and",
+       "start": 104.502,
+       "end": 104.735
+      },
+      {
+       "w": "shoulders",
+       "start": 104.735,
+       "end": 105.278
+      },
+      {
+       "w": "really",
+       "start": 105.278,
+       "end": 105.666
+      },
+      {
+       "w": "fit",
+       "start": 105.666,
+       "end": 105.899
+      },
+      {
+       "w": "through",
+       "start": 105.899,
+       "end": 106.338
+      },
+      {
+       "w": "six",
+       "start": 106.338,
+       "end": 106.571
+      },
+      {
+       "w": "inches?",
+       "start": 106.571,
+       "end": 106.959
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "choi/vo/line15.mp3",
+   "start": 107.709,
+   "dur": 5.747,
+   "sentences": [
+    {
+     "text": "Some suspected something simpler.",
+     "start": 107.709,
+     "end": 109.559,
+     "words": [
+      {
+       "w": "Some",
+       "start": 107.709,
+       "end": 108
+      },
+      {
+       "w": "suspected",
+       "start": 108,
+       "end": 108.555
+      },
+      {
+       "w": "something",
+       "start": 108.555,
+       "end": 109.11
+      },
+      {
+       "w": "simpler.",
+       "start": 109.11,
+       "end": 109.559
+      }
+     ]
+    },
+    {
+     "text": "That the cell was left unlocked, and the police were covering it up.",
+     "start": 110.056,
+     "end": 113.456,
+     "words": [
+      {
+       "w": "That",
+       "start": 110.056,
+       "end": 110.31
+      },
+      {
+       "w": "the",
+       "start": 110.31,
+       "end": 110.518
+      },
+      {
+       "w": "cell",
+       "start": 110.518,
+       "end": 110.773
+      },
+      {
+       "w": "was",
+       "start": 110.773,
+       "end": 110.981
+      },
+      {
+       "w": "left",
+       "start": 110.981,
+       "end": 111.235
+      },
+      {
+       "w": "unlocked,",
+       "start": 111.235,
+       "end": 111.675
+      },
+      {
+       "w": "and",
+       "start": 111.675,
+       "end": 111.883
+      },
+      {
+       "w": "the",
+       "start": 111.883,
+       "end": 112.091
+      },
+      {
+       "w": "police",
+       "start": 112.091,
+       "end": 112.438
+      },
+      {
+       "w": "were",
+       "start": 112.438,
+       "end": 112.693
+      },
+      {
+       "w": "covering",
+       "start": 112.693,
+       "end": 113.132
+      },
+      {
+       "w": "it",
+       "start": 113.132,
+       "end": 113.294
+      },
+      {
+       "w": "up.",
+       "start": 113.294,
+       "end": 113.456
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "choi/vo/line16.mp3",
+   "start": 114.206,
+   "dur": 6.74,
+   "sentences": [
+    {
+     "text": "September 22nd.",
+     "start": 114.206,
+     "end": 115.558,
+     "words": [
+      {
+       "w": "September",
+       "start": 114.206,
+       "end": 114.797
+      },
+      {
+       "w": "22nd.",
+       "start": 114.797,
+       "end": 115.558
+      }
+     ]
+    },
+    {
+     "text": "Five days on the run.",
+     "start": 115.959,
+     "end": 117.313,
+     "words": [
+      {
+       "w": "Five",
+       "start": 115.959,
+       "end": 116.276
+      },
+      {
+       "w": "days",
+       "start": 116.276,
+       "end": 116.593
+      },
+      {
+       "w": "on",
+       "start": 116.593,
+       "end": 116.794
+      },
+      {
+       "w": "the",
+       "start": 116.794,
+       "end": 117.053
+      },
+      {
+       "w": "run.",
+       "start": 117.053,
+       "end": 117.313
+      }
+     ]
+    },
+    {
+     "text": "Police found him on the rooftop of an apartment building in Miryang.",
+     "start": 117.852,
+     "end": 120.946,
+     "words": [
+      {
+       "w": "Police",
+       "start": 117.852,
+       "end": 118.165
+      },
+      {
+       "w": "found",
+       "start": 118.165,
+       "end": 118.437
+      },
+      {
+       "w": "him",
+       "start": 118.437,
+       "end": 118.625
+      },
+      {
+       "w": "on",
+       "start": 118.625,
+       "end": 118.772
+      },
+      {
+       "w": "the",
+       "start": 118.772,
+       "end": 118.96
+      },
+      {
+       "w": "rooftop",
+       "start": 118.96,
+       "end": 119.315
+      },
+      {
+       "w": "of",
+       "start": 119.315,
+       "end": 119.461
+      },
+      {
+       "w": "an",
+       "start": 119.461,
+       "end": 119.608
+      },
+      {
+       "w": "apartment",
+       "start": 119.608,
+       "end": 120.047
+      },
+      {
+       "w": "building",
+       "start": 120.047,
+       "end": 120.444
+      },
+      {
+       "w": "in",
+       "start": 120.444,
+       "end": 120.59
+      },
+      {
+       "w": "Miryang.",
+       "start": 120.59,
+       "end": 120.946
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "choi/vo/line17.mp3",
+   "start": 121.696,
+   "dur": 5.747,
+   "sentences": [
+    {
+     "text": "This time, they locked him in a different cell.",
+     "start": 121.696,
+     "end": 124.199,
+     "words": [
+      {
+       "w": "This",
+       "start": 121.696,
+       "end": 122.024
+      },
+      {
+       "w": "time,",
+       "start": 122.024,
+       "end": 122.352
+      },
+      {
+       "w": "they",
+       "start": 122.549,
+       "end": 122.778
+      },
+      {
+       "w": "locked",
+       "start": 122.778,
+       "end": 123.092
+      },
+      {
+       "w": "him",
+       "start": 123.092,
+       "end": 123.28
+      },
+      {
+       "w": "in",
+       "start": 123.28,
+       "end": 123.426
+      },
+      {
+       "w": "a",
+       "start": 123.426,
+       "end": 123.531
+      },
+      {
+       "w": "different",
+       "start": 123.531,
+       "end": 123.969
+      },
+      {
+       "w": "cell.",
+       "start": 123.969,
+       "end": 124.199
+      }
+     ]
+    },
+    {
+     "text": "Its food slot was barely four inches tall.",
+     "start": 124.68,
+     "end": 127.442,
+     "words": [
+      {
+       "w": "Its",
+       "start": 124.68,
+       "end": 124.95
+      },
+      {
+       "w": "food",
+       "start": 124.95,
+       "end": 125.28
+      },
+      {
+       "w": "slot",
+       "start": 125.28,
+       "end": 125.611
+      },
+      {
+       "w": "was",
+       "start": 125.611,
+       "end": 125.881
+      },
+      {
+       "w": "barely",
+       "start": 125.881,
+       "end": 126.331
+      },
+      {
+       "w": "four",
+       "start": 126.331,
+       "end": 126.662
+      },
+      {
+       "w": "inches",
+       "start": 126.662,
+       "end": 127.112
+      },
+      {
+       "w": "tall.",
+       "start": 127.112,
+       "end": 127.442
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "file": "choi/vo/line18.mp3",
+   "start": 128.192,
+   "dur": 6.896,
+   "sentences": [
+    {
+     "text": "He got six years in prison.",
+     "start": 128.192,
+     "end": 129.953,
+     "words": [
+      {
+       "w": "He",
+       "start": 128.192,
+       "end": 128.398
+      },
+      {
+       "w": "got",
+       "start": 128.398,
+       "end": 128.662
+      },
+      {
+       "w": "six",
+       "start": 128.662,
+       "end": 128.926
+      },
+      {
+       "w": "years",
+       "start": 128.926,
+       "end": 129.308
+      },
+      {
+       "w": "in",
+       "start": 129.308,
+       "end": 129.513
+      },
+      {
+       "w": "prison.",
+       "start": 129.513,
+       "end": 129.953
+      }
+     ]
+    },
+    {
+     "text": "But the question never went away.",
+     "start": 130.539,
+     "end": 132.316,
+     "words": [
+      {
+       "w": "But",
+       "start": 130.539,
+       "end": 130.761
+      },
+      {
+       "w": "the",
+       "start": 130.761,
+       "end": 130.983
+      },
+      {
+       "w": "question",
+       "start": 130.983,
+       "end": 131.452
+      },
+      {
+       "w": "never",
+       "start": 131.452,
+       "end": 131.773
+      },
+      {
+       "w": "went",
+       "start": 131.773,
+       "end": 132.044
+      },
+      {
+       "w": "away.",
+       "start": 132.044,
+       "end": 132.316
+      }
+     ]
+    },
+    {
+     "text": "Yoga master, or police cover-up?",
+     "start": 132.802,
+     "end": 135.089,
+     "words": [
+      {
+       "w": "Yoga",
+       "start": 132.802,
+       "end": 133.149
+      },
+      {
+       "w": "master,",
+       "start": 133.149,
+       "end": 133.623
+      },
+      {
+       "w": "or",
+       "start": 133.913,
+       "end": 134.124
+      },
+      {
+       "w": "police",
+       "start": 134.124,
+       "end": 134.576
+      },
+      {
+       "w": "cover-up?",
+       "start": 134.576,
+       "end": 135.089
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "file": "choi/vo/line19.mp3",
+   "start": 135.839,
+   "dur": 9.326,
+   "sentences": [
+    {
+     "text": "What do you believe?",
+     "start": 135.839,
+     "end": 136.786,
+     "words": [
+      {
+       "w": "What",
+       "start": 135.839,
+       "end": 136.075
+      },
+      {
+       "w": "do",
+       "start": 136.075,
+       "end": 136.226
+      },
+      {
+       "w": "you",
+       "start": 136.226,
+       "end": 136.42
+      },
+      {
+       "w": "believe?",
+       "start": 136.42,
+       "end": 136.786
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 137.226,
+     "end": 138.205,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 137.226,
+       "end": 137.429
+      },
+      {
+       "w": "me",
+       "start": 137.429,
+       "end": 137.559
+      },
+      {
+       "w": "in",
+       "start": 137.559,
+       "end": 137.688
+      },
+      {
+       "w": "the",
+       "start": 137.688,
+       "end": 137.854
+      },
+      {
+       "w": "comments.",
+       "start": 137.854,
+       "end": 138.205
+      }
+     ]
+    },
+    {
+     "text": "Then watch ESCAPED number two, the cop who let a killer walk away.",
+     "start": 138.601,
+     "end": 142.96,
+     "words": [
+      {
+       "w": "Then",
+       "start": 138.601,
+       "end": 138.944
+      },
+      {
+       "w": "watch",
+       "start": 138.944,
+       "end": 139.349
+      },
+      {
+       "w": "ESCAPED",
+       "start": 139.349,
+       "end": 139.879
+      },
+      {
+       "w": "number",
+       "start": 139.879,
+       "end": 140.346
+      },
+      {
+       "w": "two,",
+       "start": 140.346,
+       "end": 140.627
+      },
+      {
+       "w": "the",
+       "start": 140.997,
+       "end": 141.224
+      },
+      {
+       "w": "cop",
+       "start": 141.224,
+       "end": 141.45
+      },
+      {
+       "w": "who",
+       "start": 141.45,
+       "end": 141.677
+      },
+      {
+       "w": "let",
+       "start": 141.677,
+       "end": 141.903
+      },
+      {
+       "w": "a",
+       "start": 141.903,
+       "end": 142.029
+      },
+      {
+       "w": "killer",
+       "start": 142.029,
+       "end": 142.407
+      },
+      {
+       "w": "walk",
+       "start": 142.407,
+       "end": 142.684
+      },
+      {
+       "w": "away.",
+       "start": 142.684,
+       "end": 142.96
+      }
+     ]
+    },
+    {
+     "text": "And follow for more escapes.",
+     "start": 143.431,
+     "end": 145.164,
+     "words": [
+      {
+       "w": "And",
+       "start": 143.431,
+       "end": 143.687
+      },
+      {
+       "w": "follow",
+       "start": 143.687,
+       "end": 144.113
+      },
+      {
+       "w": "for",
+       "start": 144.113,
+       "end": 144.369
+      },
+      {
+       "w": "more",
+       "start": 144.369,
+       "end": 144.681
+      },
+      {
+       "w": "escapes.",
+       "start": 144.681,
+       "end": 145.164
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

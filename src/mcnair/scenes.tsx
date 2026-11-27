@@ -10,11 +10,11 @@ const PH = 'mcnair/photos/';
 const real = (n: string) => (has(`${PH}${n}`) ? `${PH}${n}` : null);
 const lin = (n: number) => n;
 
-const pop = (frame: number, at: number) => {
+export const pop = (frame: number, at: number) => {
   const t = p(frame, at, 8);
   return {opacity: frame >= at ? 1 : 0, transform: `scale(${frame >= at ? 1 + 0.25 * Math.sin(Math.min(1, t) * Math.PI) * (1 - t) + (1 - t) * 0.3 : 0.7})`};
 };
-const Title: React.FC<{at: number; until?: number; top?: number; size?: number; color?: string; shadow?: string; children: React.ReactNode}> = ({at, until = 1e9, top = 170, size = 110, color = INK, shadow = RED, children}) => {
+export const Title: React.FC<{at: number; until?: number; top?: number; size?: number; color?: string; shadow?: string; children: React.ReactNode}> = ({at, until = 1e9, top = 170, size = 110, color = INK, shadow = RED, children}) => {
   const frame = useCurrentFrame();
   if (frame < at || frame >= until) return null;
   return (
@@ -23,7 +23,7 @@ const Title: React.FC<{at: number; until?: number; top?: number; size?: number; 
     </div>
   );
 };
-const Tag: React.FC<{at: number; until?: number; x: number; y: number; r?: number; size?: number; bg?: string; color?: string; children: React.ReactNode}> = ({at, until = 1e9, x, y, r = -6, size = 64, bg = RED, color = CREAM, children}) => {
+export const Tag: React.FC<{at: number; until?: number; x: number; y: number; r?: number; size?: number; bg?: string; color?: string; children: React.ReactNode}> = ({at, until = 1e9, x, y, r = -6, size = 64, bg = RED, color = CREAM, children}) => {
   const frame = useCurrentFrame();
   if (frame < at || frame >= until) return null;
   const s = pop(frame, at);
@@ -33,8 +33,8 @@ const Tag: React.FC<{at: number; until?: number; x: number; y: number; r?: numbe
     </div>
   );
 };
-const Credit: React.FC<{t: string; light?: boolean}> = ({t, light}) => <div style={{position: 'absolute', left: 30, bottom: 150, fontFamily: 'Inter', fontWeight: 800, fontSize: 20, color: light ? '#ffffff99' : '#00000088', zIndex: 7}}>{t}</div>;
-const Photo: React.FC<{src: string; w: number; h: number; x: number; y: number; r?: number; at?: number; pos?: string; color?: boolean}> = ({src, w, h, x, y, r = -3, at = 0, pos = '50% 30%', color}) => {
+export const Credit: React.FC<{t: string; light?: boolean}> = ({t, light}) => <div style={{position: 'absolute', left: 30, bottom: 150, fontFamily: 'Inter', fontWeight: 800, fontSize: 20, color: light ? '#ffffff99' : '#00000088', zIndex: 7}}>{t}</div>;
+export const Photo: React.FC<{src: string; w: number; h: number; x: number; y: number; r?: number; at?: number; pos?: string; color?: boolean}> = ({src, w, h, x, y, r = -3, at = 0, pos = '50% 30%', color}) => {
   const frame = useCurrentFrame();
   if (frame < at) return null;
   return (
@@ -46,7 +46,7 @@ const Photo: React.FC<{src: string; w: number; h: number; x: number; y: number; 
 
 // ───────────── props drawn in code ─────────────
 /** Modern patrol car, side view, with a light bar. */
-const Cruiser: React.FC<{w: number; lights?: boolean; color?: string}> = ({w, lights, color = INK}) => {
+export const Cruiser: React.FC<{w: number; lights?: boolean; color?: string}> = ({w, lights, color = INK}) => {
   const frame = useCurrentFrame();
   const on = Math.floor(frame / 5) % 2 === 0;
   return (
@@ -66,7 +66,7 @@ const Cruiser: React.FC<{w: number; lights?: boolean; color?: string}> = ({w, li
   );
 };
 /** Dash-cam overlay: REC dot, timestamp, frame corners. */
-const DashCam: React.FC<{stamp?: string}> = ({stamp = '04/05/2006  15:42'}) => {
+export const DashCam: React.FC<{stamp?: string}> = ({stamp = '04/05/2006  15:42'}) => {
   const frame = useCurrentFrame();
   const c = (s: React.CSSProperties) => <div style={{position: 'absolute', width: 70, height: 70, borderColor: CREAM, borderStyle: 'solid', borderWidth: 0, ...s}} />;
   return (
@@ -85,7 +85,7 @@ const DashCam: React.FC<{stamp?: string}> = ({stamp = '04/05/2006  15:42'}) => {
   );
 };
 /** Railroad tracks in perspective, scrolling toward the viewer. */
-const Tracks: React.FC<{top?: number; speed?: number}> = ({top = 900, speed = 6}) => {
+export const Tracks: React.FC<{top?: number; speed?: number}> = ({top = 900, speed = 6}) => {
   const frame = useCurrentFrame();
   const h = 1920 - top;
   return (
@@ -104,7 +104,7 @@ const Tracks: React.FC<{top?: number; speed?: number}> = ({top = 900, speed = 6}
     </div>
   );
 };
-const Calendar: React.FC<{x: number; y: number; month: string; day: string; year: string; at?: number; w?: number}> = ({x, y, month, day, year, at = 0, w = 460}) => {
+export const Calendar: React.FC<{x: number; y: number; month: string; day: string; year: string; at?: number; w?: number}> = ({x, y, month, day, year, at = 0, w = 460}) => {
   const frame = useCurrentFrame();
   const flip = p(frame, at, 14);
   return (
@@ -116,7 +116,7 @@ const Calendar: React.FC<{x: number; y: number; month: string; day: string; year
   );
 };
 /** Grey U.S. mail sack. */
-const Sack: React.FC<{w: number; r?: number; label?: boolean}> = ({w, r = 0, label}) => (
+export const Sack: React.FC<{w: number; r?: number; label?: boolean}> = ({w, r = 0, label}) => (
   <svg width={w} height={w * 0.7} viewBox="0 0 200 140" style={{overflow: 'visible', transform: `rotate(${r}deg)`}}>
     <path d="M14 40 Q10 10 40 14 L170 18 Q194 18 190 46 L184 120 Q182 134 164 134 L30 132 Q12 130 12 114 Z" fill="#8d8a7e" stroke={INK} strokeWidth={6} />
     <path d="M40 30 Q60 46 44 70 M150 34 Q132 54 152 80" stroke={INK} strokeWidth={4} fill="none" opacity={0.5} />
@@ -131,13 +131,13 @@ const Pallet: React.FC<{w: number}> = ({w}) => (
   </svg>
 );
 /** Chain-link fence with razor wire. */
-const Fence: React.FC<{top: number; color?: string}> = ({top, color = '#cfc6ad'}) => (
+export const Fence: React.FC<{top: number; color?: string}> = ({top, color = '#cfc6ad'}) => (
   <div style={{position: 'absolute', left: 0, right: 0, top, height: 520, backgroundImage: `repeating-linear-gradient(45deg, ${color}99 0 4px, transparent 4px 46px), repeating-linear-gradient(-45deg, ${color}99 0 4px, transparent 4px 46px)`, borderTop: `14px solid ${color}`}}>
     {Array.from({length: 12}, (_, i) => <div key={i} style={{position: 'absolute', left: i * 96 - 20, top: -72, width: 90, height: 60, border: `5px solid ${color}`, borderRadius: '50%'}} />)}
     {Array.from({length: 6}, (_, i) => <div key={i} style={{position: 'absolute', left: i * 210 + 10, top: -20, width: 18, height: 540, background: color}} />)}
   </div>
 );
-const Dog: React.FC<{w: number; flip?: boolean}> = ({w, flip}) => (
+export const Dog: React.FC<{w: number; flip?: boolean}> = ({w, flip}) => (
   <svg width={w} height={w * 0.7} viewBox="0 0 200 140" style={{transform: flip ? 'scaleX(-1)' : undefined}}>
     <path d="M30 60 Q40 44 70 48 L140 48 Q156 30 158 14 L170 10 L176 26 Q196 30 196 44 L172 56 L162 80 L158 136 L146 136 L142 90 L80 92 L72 136 L60 136 L58 92 Q34 88 30 60 Z M30 60 L6 40 L10 34 L34 52 Z" fill={INK} />
   </svg>
@@ -157,7 +157,7 @@ const LipBalm: React.FC<{h: number}> = ({h}) => (
   </svg>
 );
 /** Tally marks for "third escape". */
-const Tally: React.FC<{n: number; at: number[]; size?: number; color?: string}> = ({n, at, size = 200, color = RED}) => {
+export const Tally: React.FC<{n: number; at: number[]; size?: number; color?: string}> = ({n, at, size = 200, color = RED}) => {
   const frame = useCurrentFrame();
   return (
     <div style={{display: 'flex', gap: size * 0.25}}>
@@ -167,11 +167,11 @@ const Tally: React.FC<{n: number; at: number[]; size?: number; color?: string}> 
     </div>
   );
 };
-const Badge: React.FC<{n: number; x?: number; y?: number}> = ({n, x = 540, y = 470}) => (
+export const Badge: React.FC<{n: number; x?: number; y?: number}> = ({n, x = 540, y = 470}) => (
   <div style={{position: 'absolute', left: x, top: y, transform: 'translate(-50%, -50%) rotate(-4deg)', fontFamily: DISPLAY, fontSize: 54, color: GOLD, background: INK, padding: '4px 24px', border: `5px solid ${GOLD}`, letterSpacing: 4, zIndex: 6}}>ESCAPED #{n}</div>
 );
 /** Mountie silhouette: campaign hat + red coat. */
-const Mountie: React.FC<{h: number; flip?: boolean}> = ({h, flip}) => (
+export const Mountie: React.FC<{h: number; flip?: boolean}> = ({h, flip}) => (
   <div style={{position: 'relative', width: h / 2, height: h}}>
     <Man h={h} hat="none" color={INK} flip={flip} />
     <svg width={h / 2} height={h} viewBox="0 0 200 400" style={{position: 'absolute', left: 0, top: 0, transform: flip ? 'scaleX(-1)' : undefined}}>
@@ -180,7 +180,7 @@ const Mountie: React.FC<{h: number; flip?: boolean}> = ({h, flip}) => (
     </svg>
   </div>
 );
-const Rewind: React.FC = () => {
+export const Rewind: React.FC = () => {
   const frame = useCurrentFrame();
   if (frame > 18) return null;
   return (
@@ -237,7 +237,7 @@ export const Ball: React.FC<SceneProps> = ({cue, beat}) => {
 };
 
 // ───────────── 2 · Calm, friendly ─────────────
-const Bubble: React.FC<{at: number; x: number; y: number; children: React.ReactNode; flip?: boolean}> = ({at, x, y, children, flip}) => {
+export const Bubble: React.FC<{at: number; x: number; y: number; children: React.ReactNode; flip?: boolean}> = ({at, x, y, children, flip}) => {
   const frame = useCurrentFrame();
   if (frame < at) return null;
   return (

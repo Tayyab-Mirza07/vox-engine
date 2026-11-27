@@ -1,0 +1,41 @@
+{
+  "title": "He Escaped Through a 6-Inch Food Slot",
+  "series": "ESCAPED #3",
+  "style": "Dillinger/McNair flat cartoon-silhouette poster style, cuts locked to the music beat (ESCAPED theme re-used); CC/PD place photos; Choi shown only as a silhouette (no licensed photo)",
+  "voice": {"provider": "elevenlabs", "voice_id": "uFIXVu9mmnDZ7dTKCBTX", "model": "eleven_v4"},
+  "gap": 0.75,
+  "tail": 1.6,
+  "spoken": {"2012": "twenty twelve", "17th": "seventeenth", "22nd": "twenty second", "5": "five"},
+  "lines": [
+    "A grown man escaped from a police cell through a hole six inches tall. The slot they used to pass him his food.",
+    "September 17th, 2012. Daegu, South Korea. Five in the morning, inside Dongbu Police Station.",
+    "In one cell sat Choi Gap-bok, a career criminal held on a robbery charge. He had spent more than twenty years of his life behind bars.",
+    "And all that time, he kept his body flexible. The press would later call him the yoga master.",
+    "His cell had a food slot. Eighteen inches wide. Just six inches tall.",
+    "Days before, the cameras caught him practicing. Three times, he pushed his head and chest through the slot.",
+    "Then he got a tube of ointment from another detainee. He rubbed it on his head, his body, and the bars.",
+    "That morning, three officers were on duty. Two were asleep. The third was on the internet.",
+    "Choi slid head first into the slot. Shoulders. Chest. Hips. In less than a minute, he was out.",
+    "One investigator said he moved like an octopus. Then, police say, he squeezed through window bars barely five inches apart, and vanished.",
+    "He left a note behind. I'm sorry, it said. But I have to clear my name.",
+    "What followed was a massive manhunt. Thousands of police. Search dogs. Helicopters with thermal cameras.",
+    "He was spotted near Cheongdo. Then he disappeared again.",
+    "The newspapers gave him a new name. The Korean Houdini.",
+    "But many people didn't buy the story. Could an adult's head and shoulders really fit through six inches?",
+    "Some suspected something simpler. That the cell was left unlocked, and the police were covering it up.",
+    "September 22nd. Five days on the run. Police found him on the rooftop of an apartment building in Miryang.",
+    "This time, they locked him in a different cell. Its food slot was barely four inches tall.",
+    "He got six years in prison. But the question never went away. Yoga master, or police cover-up?",
+    "What do you believe? Tell me in the comments. Then watch ESCAPED number two, the cop who let a killer walk away. And follow for more escapes."
+  ],
+  "structure": {
+    "hook": "line 0: a grown man escaped through a six-inch food slot (cold open)",
+    "5W1H": "who (Choi Gap-bok, three duty officers, Daegu police), what (escape through a 15 x 45 cm food slot, then 13.5 cm window bars), when (17 Sep 2012 ~5 a.m.; caught 22 Sep 2012), where (Dongbu Police Station, Daegu; Cheongdo; Miryang), how (rehearsed, ointment, flexibility), why (note: 'to clear my name')",
+    "rehooks": ["line 5: the cameras caught him practicing", "line 10: the note he left", "line 14: many didn't buy the story"],
+    "tension": "lines 4-15",
+    "release": "line 16: found on an apartment rooftop in Miryang",
+    "payoff": "lines 17-18: re-jailed behind a 4-inch slot; yoga master or cover-up?",
+    "cta": "line 19: comment question + ESCAPED #2 McNair Short (thumbnail) + follow line"
+  },
+  "notes": "Sources: Korea Times 'Korean Houdini jail-breaks again' (21 Sep 2012) and 'Police suspect still on the run' (18 Sep 2012); Korea JoongAng Daily 'Tightest of squeezes for a prison break in Daegu', 'Police hold back on details about Daegu's Houdini', 'Prison cell Houdini still on run despite manhunt'; Money Today 뉴스속오늘 (2026); Hankyung, Maeil, Kyunghyang, JKN 2012 coverage. Facts: escaped ~5:03 a.m. 17 Sep 2012 through a food slot 45 cm wide x 15 cm high; ointment on head/body/bars (police first said shampoo); CCTV showed three rehearsals pushing head and chest through; under a minute ('like an octopus', investigator); then 13.5 cm window bars (police account); two of three officers asleep, one on the internet; held on robbery-causing-injury charge (July 2012), moved to Dongbu on 12 Sep; ~23 years of past detention; 'yoga master' nickname; note: sorry / must clear my name; manhunt with thousands of police, dogs, thermal helicopters; seen in Cheongdo; caught 22 Sep 4:50 p.m. on an apartment rooftop in Miryang; re-jailed in cell 2 with an 11 cm slot; 7 years at first instance, 6 years on appeal (2013). Doubts: police withheld CCTV at first; suspicion the cell was left unlocked. No licensed photo of Choi: silhouette only."
+}
