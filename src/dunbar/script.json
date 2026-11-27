@@ -1,0 +1,29 @@
+{
+  "title": "They Got Their Missing Boy Back… DNA Says It Wasn't Him",
+  "format": "viral-short (45-75 s, one reveal, loop ending)",
+  "voice": {"provider": "elevenlabs", "voice_id": "uFIXVu9mmnDZ7dTKCBTX", "model": "eleven_v4"},
+  "gap": 0.12,
+  "tail": 0.6,
+  "spoken": {"1913,": "nineteen thirteen", "1912,": "nineteen twelve", "1966.": "nineteen sixty six", "2004,": "two thousand four"},
+  "lines": [
+    "In 1913, a family got their missing little boy back. Ninety years later, a DNA test proved he was never their son.",
+    "August 1912, Louisiana. Four year old Bobby Dunbar vanished on a family fishing trip at a swamp lake. For eight months, the whole country searched.",
+    "Then, in Mississippi, police found a boy traveling with a wandering handyman. The Dunbars said, that's our Bobby.",
+    "But a poor single mother from North Carolina came forward. Julia Anderson. She said, that's my son, Bruce.",
+    "Two mothers. One little boy. And a court had to choose.",
+    "The judge gave him to the Dunbars. The handyman was convicted of kidnapping. Julia went home alone.",
+    "The boy grew up as Bobby Dunbar. He married, had children, and died in 1966.",
+    "Then in 2004, his granddaughter asked for a DNA test. The result? He was not a Dunbar.",
+    "He was almost certainly Bruce Anderson. Which means the real Bobby Dunbar was never found."
+  ],
+  "structure": {
+    "hook": "line 0: family got their boy back, DNA 90 years later says it was never him (cold open, not whispered)",
+    "5W1H": "who (Bobby Dunbar, Julia Anderson, William Walters), what (disputed identity of a recovered child), when (Aug 1912, Apr 1913, 2004), where (Swayze Lake, Louisiana; Mississippi; North Carolina), how (court decision; Y-DNA test), why (two families claimed the same boy)",
+    "rehooks": ["line 4: two mothers, one boy, a court had to choose", "line 7: the 2004 DNA test"],
+    "tension": "lines 1-5",
+    "release": "line 6 (he grew up as Bobby)",
+    "payoff": "lines 7-8: not a Dunbar; the real Bobby was never found",
+    "cta": "on-screen FOLLOW button during line 8; loop ending (\"never found\" -> \"In 1913, a family got their boy back\")"
+  },
+  "notes": "Sources: Wikipedia 'Disappearance of Bobby Dunbar'; NPR This American Life ep. 'The Ghosts of Bobby Dunbar' (2008); AP 2004 report on the DNA test. Bobby Dunbar (4) disappeared 23 Aug 1912 at Swayze Lake, Louisiana. Found ~8 months later (Apr 1913) in Mississippi with William Cantwell Walters, an itinerant handyman/piano tuner. Julia Anderson, unmarried, from North Carolina, said the boy was her son Bruce. Court awarded custody to the Dunbars; Walters convicted of kidnapping (conviction later overturned). The boy lived as Bobby Dunbar, had children, died 1966. 2004 Y-DNA comparison arranged after research by granddaughter Margaret Dunbar Cutright: no match to the Dunbar line; widely concluded he was Bruce Anderson. The real Bobby Dunbar's fate is unknown."
+}

@@ -1,0 +1,2777 @@
+{
+ "total": 171.829,
+ "lines": [
+  {
+   "index": 0,
+   "file": "sodder/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 11.024,
+   "sentences": [
+    {
+     "text": "Christmas Eve, 1945.",
+     "start": 0.25,
+     "end": 2.537,
+     "words": [
+      {
+       "w": "Christmas",
+       "start": 0.25,
+       "end": 1.422
+      },
+      {
+       "w": "Eve,",
+       "start": 1.422,
+       "end": 1.924
+      },
+      {
+       "w": "1945.",
+       "start": 1.924,
+       "end": 2.537
+      }
+     ]
+    },
+    {
+     "text": "A house burned to the ground with five children inside.",
+     "start": 2.983,
+     "end": 5.889,
+     "words": [
+      {
+       "w": "A",
+       "start": 2.983,
+       "end": 3.104
+      },
+      {
+       "w": "house",
+       "start": 3.104,
+       "end": 3.419
+      },
+      {
+       "w": "burned",
+       "start": 3.419,
+       "end": 3.782
+      },
+      {
+       "w": "to",
+       "start": 3.782,
+       "end": 3.952
+      },
+      {
+       "w": "the",
+       "start": 3.952,
+       "end": 4.17
+      },
+      {
+       "w": "ground",
+       "start": 4.17,
+       "end": 4.533
+      },
+      {
+       "w": "with",
+       "start": 4.533,
+       "end": 4.799
+      },
+      {
+       "w": "five",
+       "start": 4.799,
+       "end": 5.066
+      },
+      {
+       "w": "children",
+       "start": 5.066,
+       "end": 5.526
+      },
+      {
+       "w": "inside.",
+       "start": 5.526,
+       "end": 5.889
+      }
+     ]
+    },
+    {
+     "text": "But when the ashes cooled, there were no bodies.",
+     "start": 6.343,
+     "end": 8.988,
+     "words": [
+      {
+       "w": "But",
+       "start": 6.343,
+       "end": 6.529
+      },
+      {
+       "w": "when",
+       "start": 6.529,
+       "end": 6.757
+      },
+      {
+       "w": "the",
+       "start": 6.757,
+       "end": 6.944
+      },
+      {
+       "w": "ashes",
+       "start": 6.944,
+       "end": 7.213
+      },
+      {
+       "w": "cooled,",
+       "start": 7.213,
+       "end": 7.524
+      },
+      {
+       "w": "there",
+       "start": 7.914,
+       "end": 8.217
+      },
+      {
+       "w": "were",
+       "start": 8.217,
+       "end": 8.474
+      },
+      {
+       "w": "no",
+       "start": 8.474,
+       "end": 8.638
+      },
+      {
+       "w": "bodies.",
+       "start": 8.638,
+       "end": 8.988
+      }
+     ]
+    },
+    {
+     "text": "Not a single bone.",
+     "start": 9.449,
+     "end": 10.843,
+     "words": [
+      {
+       "w": "Not",
+       "start": 9.449,
+       "end": 9.763
+      },
+      {
+       "w": "a",
+       "start": 9.763,
+       "end": 9.937
+      },
+      {
+       "w": "single",
+       "start": 9.937,
+       "end": 10.46
+      },
+      {
+       "w": "bone.",
+       "start": 10.46,
+       "end": 10.843
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "sodder/vo/line1.mp3",
+   "start": 11.424,
+   "dur": 10.945,
+   "sentences": [
+    {
+     "text": "This is Fayetteville, West Virginia.",
+     "start": 11.424,
+     "end": 13.51,
+     "words": [
+      {
+       "w": "This",
+       "start": 11.424,
+       "end": 11.73
+      },
+      {
+       "w": "is",
+       "start": 11.73,
+       "end": 11.924
+      },
+      {
+       "w": "Fayetteville,",
+       "start": 11.924,
+       "end": 12.675
+      },
+      {
+       "w": "West",
+       "start": 12.675,
+       "end": 12.981
+      },
+      {
+       "w": "Virginia.",
+       "start": 12.981,
+       "end": 13.51
+      }
+     ]
+    },
+    {
+     "text": "George and Jennie Sodder lived here with nine of their ten children.",
+     "start": 13.976,
+     "end": 17.668,
+     "words": [
+      {
+       "w": "George",
+       "start": 13.976,
+       "end": 14.35
+      },
+      {
+       "w": "and",
+       "start": 14.35,
+       "end": 14.575
+      },
+      {
+       "w": "Jennie",
+       "start": 14.575,
+       "end": 14.949
+      },
+      {
+       "w": "Sodder",
+       "start": 14.949,
+       "end": 15.323
+      },
+      {
+       "w": "lived",
+       "start": 15.323,
+       "end": 15.648
+      },
+      {
+       "w": "here",
+       "start": 15.648,
+       "end": 15.922
+      },
+      {
+       "w": "with",
+       "start": 15.922,
+       "end": 16.197
+      },
+      {
+       "w": "nine",
+       "start": 16.197,
+       "end": 16.471
+      },
+      {
+       "w": "of",
+       "start": 16.471,
+       "end": 16.646
+      },
+      {
+       "w": "their",
+       "start": 16.646,
+       "end": 16.97
+      },
+      {
+       "w": "ten",
+       "start": 16.97,
+       "end": 17.194
+      },
+      {
+       "w": "children.",
+       "start": 17.194,
+       "end": 17.668
+      }
+     ]
+    },
+    {
+     "text": "That night, the kids begged to stay up late with their new Christmas toys.",
+     "start": 18.114,
+     "end": 22.178,
+     "words": [
+      {
+       "w": "That",
+       "start": 18.114,
+       "end": 18.426
+      },
+      {
+       "w": "night,",
+       "start": 18.426,
+       "end": 18.795
+      },
+      {
+       "w": "the",
+       "start": 18.95,
+       "end": 19.164
+      },
+      {
+       "w": "kids",
+       "start": 19.164,
+       "end": 19.425
+      },
+      {
+       "w": "begged",
+       "start": 19.425,
+       "end": 19.781
+      },
+      {
+       "w": "to",
+       "start": 19.781,
+       "end": 19.947
+      },
+      {
+       "w": "stay",
+       "start": 19.947,
+       "end": 20.208
+      },
+      {
+       "w": "up",
+       "start": 20.208,
+       "end": 20.374
+      },
+      {
+       "w": "late",
+       "start": 20.374,
+       "end": 20.635
+      },
+      {
+       "w": "with",
+       "start": 20.635,
+       "end": 20.896
+      },
+      {
+       "w": "their",
+       "start": 20.896,
+       "end": 21.205
+      },
+      {
+       "w": "new",
+       "start": 21.205,
+       "end": 21.418
+      },
+      {
+       "w": "Christmas",
+       "start": 21.418,
+       "end": 21.917
+      },
+      {
+       "w": "toys.",
+       "start": 21.917,
+       "end": 22.178
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "sodder/vo/line2.mp3",
+   "start": 22.519,
+   "dur": 11.755,
+   "sentences": [
+    {
+     "text": "At half past midnight, the phone rang.",
+     "start": 22.519,
+     "end": 24.916,
+     "words": [
+      {
+       "w": "At",
+       "start": 22.519,
+       "end": 22.723
+      },
+      {
+       "w": "half",
+       "start": 22.723,
+       "end": 23.043
+      },
+      {
+       "w": "past",
+       "start": 23.043,
+       "end": 23.363
+      },
+      {
+       "w": "midnight,",
+       "start": 23.363,
+       "end": 23.916
+      },
+      {
+       "w": "the",
+       "start": 24.193,
+       "end": 24.39
+      },
+      {
+       "w": "phone",
+       "start": 24.39,
+       "end": 24.675
+      },
+      {
+       "w": "rang.",
+       "start": 24.675,
+       "end": 24.916
+      }
+     ]
+    },
+    {
+     "text": "Jennie answered.",
+     "start": 25.352,
+     "end": 26.127,
+     "words": [
+      {
+       "w": "Jennie",
+       "start": 25.352,
+       "end": 25.694
+      },
+      {
+       "w": "answered.",
+       "start": 25.694,
+       "end": 26.127
+      }
+     ]
+    },
+    {
+     "text": "A woman asked for a name she didn't know.",
+     "start": 26.588,
+     "end": 28.714,
+     "words": [
+      {
+       "w": "A",
+       "start": 26.588,
+       "end": 26.708
+      },
+      {
+       "w": "woman",
+       "start": 26.708,
+       "end": 27.018
+      },
+      {
+       "w": "asked",
+       "start": 27.018,
+       "end": 27.329
+      },
+      {
+       "w": "for",
+       "start": 27.329,
+       "end": 27.544
+      },
+      {
+       "w": "a",
+       "start": 27.544,
+       "end": 27.663
+      },
+      {
+       "w": "name",
+       "start": 27.663,
+       "end": 27.926
+      },
+      {
+       "w": "she",
+       "start": 27.926,
+       "end": 28.141
+      },
+      {
+       "w": "didn't",
+       "start": 28.141,
+       "end": 28.452
+      },
+      {
+       "w": "know.",
+       "start": 28.452,
+       "end": 28.714
+      }
+     ]
+    },
+    {
+     "text": "In the background, laughter and clinking glasses.",
+     "start": 29.18,
+     "end": 32.045,
+     "words": [
+      {
+       "w": "In",
+       "start": 29.18,
+       "end": 29.32
+      },
+      {
+       "w": "the",
+       "start": 29.32,
+       "end": 29.5
+      },
+      {
+       "w": "background,",
+       "start": 29.5,
+       "end": 29.96
+      },
+      {
+       "w": "laughter",
+       "start": 30.278,
+       "end": 30.803
+      },
+      {
+       "w": "and",
+       "start": 30.803,
+       "end": 31.051
+      },
+      {
+       "w": "clinking",
+       "start": 31.051,
+       "end": 31.576
+      },
+      {
+       "w": "glasses.",
+       "start": 31.576,
+       "end": 32.045
+      }
+     ]
+    },
+    {
+     "text": "Then the line went dead.",
+     "start": 32.502,
+     "end": 34.056,
+     "words": [
+      {
+       "w": "Then",
+       "start": 32.502,
+       "end": 32.824
+      },
+      {
+       "w": "the",
+       "start": 32.824,
+       "end": 33.088
+      },
+      {
+       "w": "line",
+       "start": 33.088,
+       "end": 33.411
+      },
+      {
+       "w": "went",
+       "start": 33.411,
+       "end": 33.733
+      },
+      {
+       "w": "dead.",
+       "start": 33.733,
+       "end": 34.056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "sodder/vo/line3.mp3",
+   "start": 34.424,
+   "dur": 4.65,
+   "sentences": [
+    {
+     "text": "Around one AM, Jennie woke up to smoke.",
+     "start": 34.424,
+     "end": 36.985,
+     "words": [
+      {
+       "w": "Around",
+       "start": 34.424,
+       "end": 34.924
+      },
+      {
+       "w": "one",
+       "start": 34.924,
+       "end": 35.224
+      },
+      {
+       "w": "AM,",
+       "start": 35.224,
+       "end": 35.457
+      },
+      {
+       "w": "Jennie",
+       "start": 35.65,
+       "end": 36.028
+      },
+      {
+       "w": "woke",
+       "start": 36.028,
+       "end": 36.305
+      },
+      {
+       "w": "up",
+       "start": 36.305,
+       "end": 36.481
+      },
+      {
+       "w": "to",
+       "start": 36.481,
+       "end": 36.658
+      },
+      {
+       "w": "smoke.",
+       "start": 36.658,
+       "end": 36.985
+      }
+     ]
+    },
+    {
+     "text": "The house was on fire.",
+     "start": 37.363,
+     "end": 39.074,
+     "words": [
+      {
+       "w": "The",
+       "start": 37.363,
+       "end": 37.677
+      },
+      {
+       "w": "house",
+       "start": 37.677,
+       "end": 38.131
+      },
+      {
+       "w": "was",
+       "start": 38.131,
+       "end": 38.445
+      },
+      {
+       "w": "on",
+       "start": 38.445,
+       "end": 38.69
+      },
+      {
+       "w": "fire.",
+       "start": 38.69,
+       "end": 39.074
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "sodder/vo/line4.mp3",
+   "start": 39.224,
+   "dur": 8.673,
+   "sentences": [
+    {
+     "text": "George, Jennie, and four of the children got out.",
+     "start": 39.224,
+     "end": 41.773,
+     "words": [
+      {
+       "w": "George,",
+       "start": 39.224,
+       "end": 39.595
+      },
+      {
+       "w": "Jennie,",
+       "start": 39.595,
+       "end": 39.966
+      },
+      {
+       "w": "and",
+       "start": 39.966,
+       "end": 40.189
+      },
+      {
+       "w": "four",
+       "start": 40.189,
+       "end": 40.461
+      },
+      {
+       "w": "of",
+       "start": 40.461,
+       "end": 40.635
+      },
+      {
+       "w": "the",
+       "start": 40.635,
+       "end": 40.857
+      },
+      {
+       "w": "children",
+       "start": 40.857,
+       "end": 41.328
+      },
+      {
+       "w": "got",
+       "start": 41.328,
+       "end": 41.551
+      },
+      {
+       "w": "out.",
+       "start": 41.551,
+       "end": 41.773
+      }
+     ]
+    },
+    {
+     "text": "But five were still upstairs.",
+     "start": 42.056,
+     "end": 43.797,
+     "words": [
+      {
+       "w": "But",
+       "start": 42.056,
+       "end": 42.305
+      },
+      {
+       "w": "five",
+       "start": 42.305,
+       "end": 42.609
+      },
+      {
+       "w": "were",
+       "start": 42.609,
+       "end": 42.912
+      },
+      {
+       "w": "still",
+       "start": 42.912,
+       "end": 43.272
+      },
+      {
+       "w": "upstairs.",
+       "start": 43.272,
+       "end": 43.797
+      }
+     ]
+    },
+    {
+     "text": "Maurice, Martha, Louis, Jennie, and Betty.",
+     "start": 44.263,
+     "end": 47.623,
+     "words": [
+      {
+       "w": "Maurice,",
+       "start": 44.263,
+       "end": 44.874
+      },
+      {
+       "w": "Martha,",
+       "start": 45.074,
+       "end": 45.593
+      },
+      {
+       "w": "Louis,",
+       "start": 45.91,
+       "end": 46.44
+      },
+      {
+       "w": "Jennie,",
+       "start": 46.64,
+       "end": 47.006
+      },
+      {
+       "w": "and",
+       "start": 47.191,
+       "end": 47.368
+      },
+      {
+       "w": "Betty.",
+       "start": 47.368,
+       "end": 47.623
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "sodder/vo/line5.mp3",
+   "start": 48.047,
+   "dur": 9.352,
+   "sentences": [
+    {
+     "text": "George ran for the ladder that always leaned against the house.",
+     "start": 48.047,
+     "end": 50.942,
+     "words": [
+      {
+       "w": "George",
+       "start": 48.047,
+       "end": 48.364
+      },
+      {
+       "w": "ran",
+       "start": 48.364,
+       "end": 48.554
+      },
+      {
+       "w": "for",
+       "start": 48.554,
+       "end": 48.744
+      },
+      {
+       "w": "the",
+       "start": 48.744,
+       "end": 48.934
+      },
+      {
+       "w": "ladder",
+       "start": 48.934,
+       "end": 49.251
+      },
+      {
+       "w": "that",
+       "start": 49.251,
+       "end": 49.484
+      },
+      {
+       "w": "always",
+       "start": 49.484,
+       "end": 49.801
+      },
+      {
+       "w": "leaned",
+       "start": 49.801,
+       "end": 50.118
+      },
+      {
+       "w": "against",
+       "start": 50.118,
+       "end": 50.477
+      },
+      {
+       "w": "the",
+       "start": 50.477,
+       "end": 50.667
+      },
+      {
+       "w": "house.",
+       "start": 50.667,
+       "end": 50.942
+      }
+     ]
+    },
+    {
+     "text": "It was gone.",
+     "start": 51.306,
+     "end": 52.038,
+     "words": [
+      {
+       "w": "It",
+       "start": 51.306,
+       "end": 51.496
+      },
+      {
+       "w": "was",
+       "start": 51.496,
+       "end": 51.74
+      },
+      {
+       "w": "gone.",
+       "start": 51.74,
+       "end": 52.038
+      }
+     ]
+    },
+    {
+     "text": "He ran to his two trucks.",
+     "start": 52.471,
+     "end": 53.676,
+     "words": [
+      {
+       "w": "He",
+       "start": 52.471,
+       "end": 52.621
+      },
+      {
+       "w": "ran",
+       "start": 52.621,
+       "end": 52.815
+      },
+      {
+       "w": "to",
+       "start": 52.815,
+       "end": 52.966
+      },
+      {
+       "w": "his",
+       "start": 52.966,
+       "end": 53.159
+      },
+      {
+       "w": "two",
+       "start": 53.159,
+       "end": 53.353
+      },
+      {
+       "w": "trucks.",
+       "start": 53.353,
+       "end": 53.676
+      }
+     ]
+    },
+    {
+     "text": "Neither would start.",
+     "start": 53.954,
+     "end": 54.908,
+     "words": [
+      {
+       "w": "Neither",
+       "start": 53.954,
+       "end": 54.331
+      },
+      {
+       "w": "would",
+       "start": 54.331,
+       "end": 54.62
+      },
+      {
+       "w": "start.",
+       "start": 54.62,
+       "end": 54.908
+      }
+     ]
+    },
+    {
+     "text": "Both had worked the day before.",
+     "start": 55.318,
+     "end": 57.025,
+     "words": [
+      {
+       "w": "Both",
+       "start": 55.318,
+       "end": 55.594
+      },
+      {
+       "w": "had",
+       "start": 55.594,
+       "end": 55.82
+      },
+      {
+       "w": "worked",
+       "start": 55.82,
+       "end": 56.196
+      },
+      {
+       "w": "the",
+       "start": 56.196,
+       "end": 56.422
+      },
+      {
+       "w": "day",
+       "start": 56.422,
+       "end": 56.648
+      },
+      {
+       "w": "before.",
+       "start": 56.648,
+       "end": 57.025
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "sodder/vo/line6.mp3",
+   "start": 57.548,
+   "dur": 6.191,
+   "sentences": [
+    {
+     "text": "The phone was dead.",
+     "start": 57.548,
+     "end": 58.66,
+     "words": [
+      {
+       "w": "The",
+       "start": 57.548,
+       "end": 57.787
+      },
+      {
+       "w": "phone",
+       "start": 57.787,
+       "end": 58.131
+      },
+      {
+       "w": "was",
+       "start": 58.131,
+       "end": 58.369
+      },
+      {
+       "w": "dead.",
+       "start": 58.369,
+       "end": 58.66
+      }
+     ]
+    },
+    {
+     "text": "A neighbor drove off to call the fire department.",
+     "start": 59.095,
+     "end": 61.351,
+     "words": [
+      {
+       "w": "A",
+       "start": 59.095,
+       "end": 59.201
+      },
+      {
+       "w": "neighbor",
+       "start": 59.201,
+       "end": 59.601
+      },
+      {
+       "w": "drove",
+       "start": 59.601,
+       "end": 59.875
+      },
+      {
+       "w": "off",
+       "start": 59.875,
+       "end": 60.065
+      },
+      {
+       "w": "to",
+       "start": 60.065,
+       "end": 60.212
+      },
+      {
+       "w": "call",
+       "start": 60.212,
+       "end": 60.444
+      },
+      {
+       "w": "the",
+       "start": 60.444,
+       "end": 60.634
+      },
+      {
+       "w": "fire",
+       "start": 60.634,
+       "end": 60.866
+      },
+      {
+       "w": "department.",
+       "start": 60.866,
+       "end": 61.351
+      }
+     ]
+    },
+    {
+     "text": "Nobody came until morning.",
+     "start": 61.804,
+     "end": 63.532,
+     "words": [
+      {
+       "w": "Nobody",
+       "start": 61.804,
+       "end": 62.267
+      },
+      {
+       "w": "came",
+       "start": 62.267,
+       "end": 62.606
+      },
+      {
+       "w": "until",
+       "start": 62.606,
+       "end": 63.007
+      },
+      {
+       "w": "morning.",
+       "start": 63.007,
+       "end": 63.532
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "sodder/vo/line7.mp3",
+   "start": 63.889,
+   "dur": 6.217,
+   "sentences": [
+    {
+     "text": "By then, the house was ash.",
+     "start": 63.889,
+     "end": 66.824,
+     "words": [
+      {
+       "w": "By",
+       "start": 63.889,
+       "end": 64.251
+      },
+      {
+       "w": "then,",
+       "start": 64.251,
+       "end": 64.819
+      },
+      {
+       "w": "the",
+       "start": 65.096,
+       "end": 65.485
+      },
+      {
+       "w": "house",
+       "start": 65.485,
+       "end": 66.046
+      },
+      {
+       "w": "was",
+       "start": 66.046,
+       "end": 66.435
+      },
+      {
+       "w": "ash.",
+       "start": 66.435,
+       "end": 66.824
+      }
+     ]
+    },
+    {
+     "text": "And that's when things stopped making sense.",
+     "start": 67.27,
+     "end": 69.87,
+     "words": [
+      {
+       "w": "And",
+       "start": 67.27,
+       "end": 67.522
+      },
+      {
+       "w": "that's",
+       "start": 67.522,
+       "end": 67.885
+      },
+      {
+       "w": "when",
+       "start": 67.885,
+       "end": 68.193
+      },
+      {
+       "w": "things",
+       "start": 68.193,
+       "end": 68.612
+      },
+      {
+       "w": "stopped",
+       "start": 68.612,
+       "end": 69.087
+      },
+      {
+       "w": "making",
+       "start": 69.087,
+       "end": 69.507
+      },
+      {
+       "w": "sense.",
+       "start": 69.507,
+       "end": 69.87
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "sodder/vo/line8.mp3",
+   "start": 70.257,
+   "dur": 8.359,
+   "sentences": [
+    {
+     "text": "In the ruins, there were no remains.",
+     "start": 70.257,
+     "end": 72.519,
+     "words": [
+      {
+       "w": "In",
+       "start": 70.257,
+       "end": 70.458
+      },
+      {
+       "w": "the",
+       "start": 70.458,
+       "end": 70.716
+      },
+      {
+       "w": "ruins,",
+       "start": 70.716,
+       "end": 71.089
+      },
+      {
+       "w": "there",
+       "start": 71.26,
+       "end": 71.601
+      },
+      {
+       "w": "were",
+       "start": 71.601,
+       "end": 71.889
+      },
+      {
+       "w": "no",
+       "start": 71.889,
+       "end": 72.073
+      },
+      {
+       "w": "remains.",
+       "start": 72.073,
+       "end": 72.519
+      }
+     ]
+    },
+    {
+     "text": "No bones.",
+     "start": 72.914,
+     "end": 73.756,
+     "words": [
+      {
+       "w": "No",
+       "start": 72.914,
+       "end": 73.209
+      },
+      {
+       "w": "bones.",
+       "start": 73.209,
+       "end": 73.756
+      }
+     ]
+    },
+    {
+     "text": "No teeth.",
+     "start": 73.963,
+     "end": 74.636,
+     "words": [
+      {
+       "w": "No",
+       "start": 73.963,
+       "end": 74.198
+      },
+      {
+       "w": "teeth.",
+       "start": 74.198,
+       "end": 74.636
+      }
+     ]
+    },
+    {
+     "text": "Nothing.",
+     "start": 75.067,
+     "end": 75.555,
+     "words": [
+      {
+       "w": "Nothing.",
+       "start": 75.067,
+       "end": 75.555
+      }
+     ]
+    },
+    {
+     "text": "Officials said the fire burned them away.",
+     "start": 75.984,
+     "end": 78.339,
+     "words": [
+      {
+       "w": "Officials",
+       "start": 75.984,
+       "end": 76.54
+      },
+      {
+       "w": "said",
+       "start": 76.54,
+       "end": 76.831
+      },
+      {
+       "w": "the",
+       "start": 76.831,
+       "end": 77.069
+      },
+      {
+       "w": "fire",
+       "start": 77.069,
+       "end": 77.36
+      },
+      {
+       "w": "burned",
+       "start": 77.36,
+       "end": 77.757
+      },
+      {
+       "w": "them",
+       "start": 77.757,
+       "end": 78.048
+      },
+      {
+       "w": "away.",
+       "start": 78.048,
+       "end": 78.339
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "sodder/vo/line9.mp3",
+   "start": 78.766,
+   "dur": 7.967,
+   "sentences": [
+    {
+     "text": "But a house fire burns for about an hour.",
+     "start": 78.766,
+     "end": 81.071,
+     "words": [
+      {
+       "w": "But",
+       "start": 78.766,
+       "end": 78.994
+      },
+      {
+       "w": "a",
+       "start": 78.994,
+       "end": 79.12
+      },
+      {
+       "w": "house",
+       "start": 79.12,
+       "end": 79.45
+      },
+      {
+       "w": "fire",
+       "start": 79.45,
+       "end": 79.729
+      },
+      {
+       "w": "burns",
+       "start": 79.729,
+       "end": 80.058
+      },
+      {
+       "w": "for",
+       "start": 80.058,
+       "end": 80.286
+      },
+      {
+       "w": "about",
+       "start": 80.286,
+       "end": 80.615
+      },
+      {
+       "w": "an",
+       "start": 80.615,
+       "end": 80.793
+      },
+      {
+       "w": "hour.",
+       "start": 80.793,
+       "end": 81.071
+      }
+     ]
+    },
+    {
+     "text": "Crematoriums burn for hours at far higher heat, and still leave bones behind.",
+     "start": 81.533,
+     "end": 86.463,
+     "words": [
+      {
+       "w": "Crematoriums",
+       "start": 81.533,
+       "end": 82.371
+      },
+      {
+       "w": "burn",
+       "start": 82.371,
+       "end": 82.712
+      },
+      {
+       "w": "for",
+       "start": 82.712,
+       "end": 82.991
+      },
+      {
+       "w": "hours",
+       "start": 82.991,
+       "end": 83.395
+      },
+      {
+       "w": "at",
+       "start": 83.395,
+       "end": 83.612
+      },
+      {
+       "w": "far",
+       "start": 83.612,
+       "end": 83.891
+      },
+      {
+       "w": "higher",
+       "start": 83.891,
+       "end": 84.357
+      },
+      {
+       "w": "heat,",
+       "start": 84.357,
+       "end": 84.698
+      },
+      {
+       "w": "and",
+       "start": 84.894,
+       "end": 85.118
+      },
+      {
+       "w": "still",
+       "start": 85.118,
+       "end": 85.442
+      },
+      {
+       "w": "leave",
+       "start": 85.442,
+       "end": 85.766
+      },
+      {
+       "w": "bones",
+       "start": 85.766,
+       "end": 86.09
+      },
+      {
+       "w": "behind.",
+       "start": 86.09,
+       "end": 86.463
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "sodder/vo/line10.mp3",
+   "start": 86.883,
+   "dur": 8.647,
+   "sentences": [
+    {
+     "text": "Then the clues piled up.",
+     "start": 86.883,
+     "end": 88.776,
+     "words": [
+      {
+       "w": "Then",
+       "start": 86.883,
+       "end": 87.276
+      },
+      {
+       "w": "the",
+       "start": 87.276,
+       "end": 87.598
+      },
+      {
+       "w": "clues",
+       "start": 87.598,
+       "end": 88.062
+      },
+      {
+       "w": "piled",
+       "start": 88.062,
+       "end": 88.526
+      },
+      {
+       "w": "up.",
+       "start": 88.526,
+       "end": 88.776
+      }
+     ]
+    },
+    {
+     "text": "The ladder was found far down an embankment.",
+     "start": 89.234,
+     "end": 91.733,
+     "words": [
+      {
+       "w": "The",
+       "start": 89.234,
+       "end": 89.468
+      },
+      {
+       "w": "ladder",
+       "start": 89.468,
+       "end": 89.859
+      },
+      {
+       "w": "was",
+       "start": 89.859,
+       "end": 90.093
+      },
+      {
+       "w": "found",
+       "start": 90.093,
+       "end": 90.431
+      },
+      {
+       "w": "far",
+       "start": 90.431,
+       "end": 90.666
+      },
+      {
+       "w": "down",
+       "start": 90.666,
+       "end": 90.952
+      },
+      {
+       "w": "an",
+       "start": 90.952,
+       "end": 91.134
+      },
+      {
+       "w": "embankment.",
+       "start": 91.134,
+       "end": 91.733
+      }
+     ]
+    },
+    {
+     "text": "And the phone line hadn't burned.",
+     "start": 92.187,
+     "end": 93.915,
+     "words": [
+      {
+       "w": "And",
+       "start": 92.187,
+       "end": 92.409
+      },
+      {
+       "w": "the",
+       "start": 92.409,
+       "end": 92.632
+      },
+      {
+       "w": "phone",
+       "start": 92.632,
+       "end": 92.953
+      },
+      {
+       "w": "line",
+       "start": 92.953,
+       "end": 93.224
+      },
+      {
+       "w": "hadn't",
+       "start": 93.224,
+       "end": 93.545
+      },
+      {
+       "w": "burned.",
+       "start": 93.545,
+       "end": 93.915
+      }
+     ]
+    },
+    {
+     "text": "It had been cut.",
+     "start": 94.373,
+     "end": 95.289,
+     "words": [
+      {
+       "w": "It",
+       "start": 94.373,
+       "end": 94.551
+      },
+      {
+       "w": "had",
+       "start": 94.551,
+       "end": 94.78
+      },
+      {
+       "w": "been",
+       "start": 94.78,
+       "end": 95.06
+      },
+      {
+       "w": "cut.",
+       "start": 95.06,
+       "end": 95.289
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "sodder/vo/line11.mp3",
+   "start": 95.68,
+   "dur": 10.553,
+   "sentences": [
+    {
+     "text": "Months earlier, an insurance salesman had warned George: your house will go up in smoke, and your children will be destroyed.",
+     "start": 95.68,
+     "end": 103.462,
+     "words": [
+      {
+       "w": "Months",
+       "start": 95.68,
+       "end": 96.123
+      },
+      {
+       "w": "earlier,",
+       "start": 96.123,
+       "end": 96.627
+      },
+      {
+       "w": "an",
+       "start": 96.855,
+       "end": 97.034
+      },
+      {
+       "w": "insurance",
+       "start": 97.034,
+       "end": 97.571
+      },
+      {
+       "w": "salesman",
+       "start": 97.571,
+       "end": 98.057
+      },
+      {
+       "w": "had",
+       "start": 98.057,
+       "end": 98.287
+      },
+      {
+       "w": "warned",
+       "start": 98.287,
+       "end": 98.671
+      },
+      {
+       "w": "George:",
+       "start": 98.671,
+       "end": 99.054
+      },
+      {
+       "w": "your",
+       "start": 99.436,
+       "end": 99.733
+      },
+      {
+       "w": "house",
+       "start": 99.733,
+       "end": 100.084
+      },
+      {
+       "w": "will",
+       "start": 100.084,
+       "end": 100.38
+      },
+      {
+       "w": "go",
+       "start": 100.38,
+       "end": 100.569
+      },
+      {
+       "w": "up",
+       "start": 100.569,
+       "end": 100.758
+      },
+      {
+       "w": "in",
+       "start": 100.758,
+       "end": 100.947
+      },
+      {
+       "w": "smoke,",
+       "start": 100.947,
+       "end": 101.298
+      },
+      {
+       "w": "and",
+       "start": 101.502,
+       "end": 101.728
+      },
+      {
+       "w": "your",
+       "start": 101.728,
+       "end": 102.004
+      },
+      {
+       "w": "children",
+       "start": 102.004,
+       "end": 102.482
+      },
+      {
+       "w": "will",
+       "start": 102.482,
+       "end": 102.758
+      },
+      {
+       "w": "be",
+       "start": 102.758,
+       "end": 102.934
+      },
+      {
+       "w": "destroyed.",
+       "start": 102.934,
+       "end": 103.462
+      }
+     ]
+    },
+    {
+     "text": "George had criticized Mussolini.",
+     "start": 103.929,
+     "end": 105.948,
+     "words": [
+      {
+       "w": "George",
+       "start": 103.929,
+       "end": 104.375
+      },
+      {
+       "w": "had",
+       "start": 104.375,
+       "end": 104.642
+      },
+      {
+       "w": "criticized",
+       "start": 104.642,
+       "end": 105.324
+      },
+      {
+       "w": "Mussolini.",
+       "start": 105.324,
+       "end": 105.948
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "sodder/vo/line12.mp3",
+   "start": 106.383,
+   "dur": 6.922,
+   "sentences": [
+    {
+     "text": "So the Sodders came to believe something terrifying.",
+     "start": 106.383,
+     "end": 109.284,
+     "words": [
+      {
+       "w": "So",
+       "start": 106.383,
+       "end": 106.564
+      },
+      {
+       "w": "the",
+       "start": 106.564,
+       "end": 106.798
+      },
+      {
+       "w": "Sodders",
+       "start": 106.798,
+       "end": 107.238
+      },
+      {
+       "w": "came",
+       "start": 107.238,
+       "end": 107.523
+      },
+      {
+       "w": "to",
+       "start": 107.523,
+       "end": 107.704
+      },
+      {
+       "w": "believe",
+       "start": 107.704,
+       "end": 108.145
+      },
+      {
+       "w": "something",
+       "start": 108.145,
+       "end": 108.689
+      },
+      {
+       "w": "terrifying.",
+       "start": 108.689,
+       "end": 109.284
+      }
+     ]
+    },
+    {
+     "text": "Their children didn't die in the fire.",
+     "start": 109.732,
+     "end": 111.747,
+     "words": [
+      {
+       "w": "Their",
+       "start": 109.732,
+       "end": 110.055
+      },
+      {
+       "w": "children",
+       "start": 110.055,
+       "end": 110.528
+      },
+      {
+       "w": "didn't",
+       "start": 110.528,
+       "end": 110.851
+      },
+      {
+       "w": "die",
+       "start": 110.851,
+       "end": 111.075
+      },
+      {
+       "w": "in",
+       "start": 111.075,
+       "end": 111.25
+      },
+      {
+       "w": "the",
+       "start": 111.25,
+       "end": 111.473
+      },
+      {
+       "w": "fire.",
+       "start": 111.473,
+       "end": 111.747
+      }
+     ]
+    },
+    {
+     "text": "They were taken.",
+     "start": 112.172,
+     "end": 113.125,
+     "words": [
+      {
+       "w": "They",
+       "start": 112.172,
+       "end": 112.471
+      },
+      {
+       "w": "were",
+       "start": 112.471,
+       "end": 112.771
+      },
+      {
+       "w": "taken.",
+       "start": 112.771,
+       "end": 113.125
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "sodder/vo/line13.mp3",
+   "start": 113.456,
+   "dur": 10.58,
+   "sentences": [
+    {
+     "text": "In 1949, a dig in the ashes found a few bone fragments.",
+     "start": 113.456,
+     "end": 117.821,
+     "words": [
+      {
+       "w": "In",
+       "start": 113.456,
+       "end": 113.983
+      },
+      {
+       "w": "1949,",
+       "start": 113.983,
+       "end": 114.812
+      },
+      {
+       "w": "a",
+       "start": 115.041,
+       "end": 115.178
+      },
+      {
+       "w": "dig",
+       "start": 115.178,
+       "end": 115.423
+      },
+      {
+       "w": "in",
+       "start": 115.423,
+       "end": 115.614
+      },
+      {
+       "w": "the",
+       "start": 115.614,
+       "end": 115.859
+      },
+      {
+       "w": "ashes",
+       "start": 115.859,
+       "end": 116.213
+      },
+      {
+       "w": "found",
+       "start": 116.213,
+       "end": 116.568
+      },
+      {
+       "w": "a",
+       "start": 116.568,
+       "end": 116.704
+      },
+      {
+       "w": "few",
+       "start": 116.704,
+       "end": 116.949
+      },
+      {
+       "w": "bone",
+       "start": 116.949,
+       "end": 117.249
+      },
+      {
+       "w": "fragments.",
+       "start": 117.249,
+       "end": 117.821
+      }
+     ]
+    },
+    {
+     "text": "The Smithsonian tested them.",
+     "start": 118.275,
+     "end": 119.679,
+     "words": [
+      {
+       "w": "The",
+       "start": 118.275,
+       "end": 118.485
+      },
+      {
+       "w": "Smithsonian",
+       "start": 118.485,
+       "end": 119.07
+      },
+      {
+       "w": "tested",
+       "start": 119.07,
+       "end": 119.421
+      },
+      {
+       "w": "them.",
+       "start": 119.421,
+       "end": 119.679
+      }
+     ]
+    },
+    {
+     "text": "They came from someone older than the children, and had never been burned.",
+     "start": 120.146,
+     "end": 123.795,
+     "words": [
+      {
+       "w": "They",
+       "start": 120.146,
+       "end": 120.398
+      },
+      {
+       "w": "came",
+       "start": 120.398,
+       "end": 120.651
+      },
+      {
+       "w": "from",
+       "start": 120.651,
+       "end": 120.903
+      },
+      {
+       "w": "someone",
+       "start": 120.903,
+       "end": 121.293
+      },
+      {
+       "w": "older",
+       "start": 121.293,
+       "end": 121.592
+      },
+      {
+       "w": "than",
+       "start": 121.592,
+       "end": 121.844
+      },
+      {
+       "w": "the",
+       "start": 121.844,
+       "end": 122.051
+      },
+      {
+       "w": "children,",
+       "start": 122.051,
+       "end": 122.487
+      },
+      {
+       "w": "and",
+       "start": 122.487,
+       "end": 122.693
+      },
+      {
+       "w": "had",
+       "start": 122.693,
+       "end": 122.9
+      },
+      {
+       "w": "never",
+       "start": 122.9,
+       "end": 123.198
+      },
+      {
+       "w": "been",
+       "start": 123.198,
+       "end": 123.45
+      },
+      {
+       "w": "burned.",
+       "start": 123.45,
+       "end": 123.795
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "sodder/vo/line14.mp3",
+   "start": 124.185,
+   "dur": 6.635,
+   "sentences": [
+    {
+     "text": "The family put up a billboard by the highway, with their children's faces and a reward.",
+     "start": 124.185,
+     "end": 128.862,
+     "words": [
+      {
+       "w": "The",
+       "start": 124.185,
+       "end": 124.399
+      },
+      {
+       "w": "family",
+       "start": 124.399,
+       "end": 124.757
+      },
+      {
+       "w": "put",
+       "start": 124.757,
+       "end": 124.971
+      },
+      {
+       "w": "up",
+       "start": 124.971,
+       "end": 125.138
+      },
+      {
+       "w": "a",
+       "start": 125.138,
+       "end": 125.257
+      },
+      {
+       "w": "billboard",
+       "start": 125.257,
+       "end": 125.757
+      },
+      {
+       "w": "by",
+       "start": 125.757,
+       "end": 125.924
+      },
+      {
+       "w": "the",
+       "start": 125.924,
+       "end": 126.138
+      },
+      {
+       "w": "highway,",
+       "start": 126.138,
+       "end": 126.543
+      },
+      {
+       "w": "with",
+       "start": 126.732,
+       "end": 127.001
+      },
+      {
+       "w": "their",
+       "start": 127.001,
+       "end": 127.32
+      },
+      {
+       "w": "children's",
+       "start": 127.32,
+       "end": 127.834
+      },
+      {
+       "w": "faces",
+       "start": 127.834,
+       "end": 128.152
+      },
+      {
+       "w": "and",
+       "start": 128.152,
+       "end": 128.372
+      },
+      {
+       "w": "a",
+       "start": 128.372,
+       "end": 128.495
+      },
+      {
+       "w": "reward.",
+       "start": 128.495,
+       "end": 128.862
+      }
+     ]
+    },
+    {
+     "text": "It stood for decades.",
+     "start": 129.308,
+     "end": 130.619,
+     "words": [
+      {
+       "w": "It",
+       "start": 129.308,
+       "end": 129.508
+      },
+      {
+       "w": "stood",
+       "start": 129.508,
+       "end": 129.878
+      },
+      {
+       "w": "for",
+       "start": 129.878,
+       "end": 130.134
+      },
+      {
+       "w": "decades.",
+       "start": 130.134,
+       "end": 130.619
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "sodder/vo/line15.mp3",
+   "start": 130.97,
+   "dur": 13.061,
+   "sentences": [
+    {
+     "text": "Then, in 1968, a letter arrived with no return address.",
+     "start": 130.97,
+     "end": 135.801,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 130.97,
+       "end": 131.444
+      },
+      {
+       "w": "in",
+       "start": 131.773,
+       "end": 132.329
+      },
+      {
+       "w": "1968,",
+       "start": 132.329,
+       "end": 133.203
+      },
+      {
+       "w": "a",
+       "start": 133.475,
+       "end": 133.609
+      },
+      {
+       "w": "letter",
+       "start": 133.609,
+       "end": 134.01
+      },
+      {
+       "w": "arrived",
+       "start": 134.01,
+       "end": 134.464
+      },
+      {
+       "w": "with",
+       "start": 134.464,
+       "end": 134.758
+      },
+      {
+       "w": "no",
+       "start": 134.758,
+       "end": 134.946
+      },
+      {
+       "w": "return",
+       "start": 134.946,
+       "end": 135.346
+      },
+      {
+       "w": "address.",
+       "start": 135.346,
+       "end": 135.801
+      }
+     ]
+    },
+    {
+     "text": "Inside was a photo of a young man.",
+     "start": 136.261,
+     "end": 138.304,
+     "words": [
+      {
+       "w": "Inside",
+       "start": 136.261,
+       "end": 136.664
+      },
+      {
+       "w": "was",
+       "start": 136.664,
+       "end": 136.906
+      },
+      {
+       "w": "a",
+       "start": 136.906,
+       "end": 137.04
+      },
+      {
+       "w": "photo",
+       "start": 137.04,
+       "end": 137.39
+      },
+      {
+       "w": "of",
+       "start": 137.39,
+       "end": 137.578
+      },
+      {
+       "w": "a",
+       "start": 137.578,
+       "end": 137.712
+      },
+      {
+       "w": "young",
+       "start": 137.712,
+       "end": 138.062
+      },
+      {
+       "w": "man.",
+       "start": 138.062,
+       "end": 138.304
+      }
+     ]
+    },
+    {
+     "text": "On the back, a message.",
+     "start": 138.766,
+     "end": 140.335,
+     "words": [
+      {
+       "w": "On",
+       "start": 138.766,
+       "end": 138.92
+      },
+      {
+       "w": "the",
+       "start": 138.92,
+       "end": 139.117
+      },
+      {
+       "w": "back,",
+       "start": 139.117,
+       "end": 139.359
+      },
+      {
+       "w": "a",
+       "start": 139.705,
+       "end": 139.848
+      },
+      {
+       "w": "message.",
+       "start": 139.848,
+       "end": 140.335
+      }
+     ]
+    },
+    {
+     "text": "Louis Sodder.",
+     "start": 140.781,
+     "end": 141.909,
+     "words": [
+      {
+       "w": "Louis",
+       "start": 140.781,
+       "end": 141.305
+      },
+      {
+       "w": "Sodder.",
+       "start": 141.305,
+       "end": 141.909
+      }
+     ]
+    },
+    {
+     "text": "I love brother Frankie.",
+     "start": 142.337,
+     "end": 143.782,
+     "words": [
+      {
+       "w": "I",
+       "start": 142.337,
+       "end": 142.481
+      },
+      {
+       "w": "love",
+       "start": 142.481,
+       "end": 142.799
+      },
+      {
+       "w": "brother",
+       "start": 142.799,
+       "end": 143.29
+      },
+      {
+       "w": "Frankie.",
+       "start": 143.29,
+       "end": 143.782
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "sodder/vo/line16.mp3",
+   "start": 144.181,
+   "dur": 7.863,
+   "sentences": [
+    {
+     "text": "He looked like their son Louis, all grown up.",
+     "start": 144.181,
+     "end": 146.807,
+     "words": [
+      {
+       "w": "He",
+       "start": 144.181,
+       "end": 144.349
+      },
+      {
+       "w": "looked",
+       "start": 144.349,
+       "end": 144.707
+      },
+      {
+       "w": "like",
+       "start": 144.707,
+       "end": 144.97
+      },
+      {
+       "w": "their",
+       "start": 144.97,
+       "end": 145.28
+      },
+      {
+       "w": "son",
+       "start": 145.28,
+       "end": 145.495
+      },
+      {
+       "w": "Louis,",
+       "start": 145.495,
+       "end": 145.806
+      },
+      {
+       "w": "all",
+       "start": 145.977,
+       "end": 146.234
+      },
+      {
+       "w": "grown",
+       "start": 146.234,
+       "end": 146.606
+      },
+      {
+       "w": "up.",
+       "start": 146.606,
+       "end": 146.807
+      }
+     ]
+    },
+    {
+     "text": "They sent a private detective to find him.",
+     "start": 147.271,
+     "end": 149.395,
+     "words": [
+      {
+       "w": "They",
+       "start": 147.271,
+       "end": 147.525
+      },
+      {
+       "w": "sent",
+       "start": 147.525,
+       "end": 147.779
+      },
+      {
+       "w": "a",
+       "start": 147.779,
+       "end": 147.895
+      },
+      {
+       "w": "private",
+       "start": 147.895,
+       "end": 148.287
+      },
+      {
+       "w": "detective",
+       "start": 148.287,
+       "end": 148.772
+      },
+      {
+       "w": "to",
+       "start": 148.772,
+       "end": 148.934
+      },
+      {
+       "w": "find",
+       "start": 148.934,
+       "end": 149.188
+      },
+      {
+       "w": "him.",
+       "start": 149.188,
+       "end": 149.395
+      }
+     ]
+    },
+    {
+     "text": "He was never heard from again.",
+     "start": 149.863,
+     "end": 151.796,
+     "words": [
+      {
+       "w": "He",
+       "start": 149.863,
+       "end": 150.068
+      },
+      {
+       "w": "was",
+       "start": 150.068,
+       "end": 150.332
+      },
+      {
+       "w": "never",
+       "start": 150.332,
+       "end": 150.713
+      },
+      {
+       "w": "heard",
+       "start": 150.713,
+       "end": 151.093
+      },
+      {
+       "w": "from",
+       "start": 151.093,
+       "end": 151.416
+      },
+      {
+       "w": "again.",
+       "start": 151.416,
+       "end": 151.796
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "sodder/vo/line17.mp3",
+   "start": 152.194,
+   "dur": 18.834,
+   "sentences": [
+    {
+     "text": "George died in 1969.",
+     "start": 152.194,
+     "end": 154.215,
+     "words": [
+      {
+       "w": "George",
+       "start": 152.194,
+       "end": 152.883
+      },
+      {
+       "w": "died",
+       "start": 152.883,
+       "end": 153.388
+      },
+      {
+       "w": "in",
+       "start": 153.388,
+       "end": 153.71
+      },
+      {
+       "w": "1969.",
+       "start": 153.71,
+       "end": 154.215
+      }
+     ]
+    },
+    {
+     "text": "Jennie wore black until her death in 1989.",
+     "start": 154.567,
+     "end": 157.416,
+     "words": [
+      {
+       "w": "Jennie",
+       "start": 154.567,
+       "end": 155.031
+      },
+      {
+       "w": "wore",
+       "start": 155.031,
+       "end": 155.372
+      },
+      {
+       "w": "black",
+       "start": 155.372,
+       "end": 155.775
+      },
+      {
+       "w": "until",
+       "start": 155.775,
+       "end": 156.177
+      },
+      {
+       "w": "her",
+       "start": 156.177,
+       "end": 156.456
+      },
+      {
+       "w": "death",
+       "start": 156.456,
+       "end": 156.858
+      },
+      {
+       "w": "in",
+       "start": 156.858,
+       "end": 157.075
+      },
+      {
+       "w": "1989.",
+       "start": 157.075,
+       "end": 157.416
+      }
+     ]
+    },
+    {
+     "text": "Officially, the children died in the fire.",
+     "start": 157.784,
+     "end": 160.265,
+     "words": [
+      {
+       "w": "Officially,",
+       "start": 157.784,
+       "end": 158.48
+      },
+      {
+       "w": "the",
+       "start": 158.673,
+       "end": 158.89
+      },
+      {
+       "w": "children",
+       "start": 158.89,
+       "end": 159.348
+      },
+      {
+       "w": "died",
+       "start": 159.348,
+       "end": 159.614
+      },
+      {
+       "w": "in",
+       "start": 159.614,
+       "end": 159.783
+      },
+      {
+       "w": "the",
+       "start": 159.783,
+       "end": 160
+      },
+      {
+       "w": "fire.",
+       "start": 160,
+       "end": 160.265
+      }
+     ]
+    },
+    {
+     "text": "Their family never believed it.",
+     "start": 160.701,
+     "end": 162.086,
+     "words": [
+      {
+       "w": "Their",
+       "start": 160.701,
+       "end": 160.97
+      },
+      {
+       "w": "family",
+       "start": 160.97,
+       "end": 161.28
+      },
+      {
+       "w": "never",
+       "start": 161.28,
+       "end": 161.549
+      },
+      {
+       "w": "believed",
+       "start": 161.549,
+       "end": 161.942
+      },
+      {
+       "w": "it.",
+       "start": 161.942,
+       "end": 162.086
+      }
+     ]
+    },
+    {
+     "text": "What do you think?",
+     "start": 162.552,
+     "end": 163.255,
+     "words": [
+      {
+       "w": "What",
+       "start": 162.552,
+       "end": 162.745
+      },
+      {
+       "w": "do",
+       "start": 162.745,
+       "end": 162.868
+      },
+      {
+       "w": "you",
+       "start": 162.868,
+       "end": 163.026
+      },
+      {
+       "w": "think?",
+       "start": 163.026,
+       "end": 163.255
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 163.565,
+     "end": 164.53,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 163.565,
+       "end": 163.766
+      },
+      {
+       "w": "me",
+       "start": 163.766,
+       "end": 163.893
+      },
+      {
+       "w": "in",
+       "start": 163.893,
+       "end": 164.02
+      },
+      {
+       "w": "the",
+       "start": 164.02,
+       "end": 164.184
+      },
+      {
+       "w": "comments.",
+       "start": 164.184,
+       "end": 164.53
+      }
+     ]
+    },
+    {
+     "text": "And watch our Flight 19 short.",
+     "start": 164.793,
+     "end": 166.693,
+     "words": [
+      {
+       "w": "And",
+       "start": 164.793,
+       "end": 165.052
+      },
+      {
+       "w": "watch",
+       "start": 165.052,
+       "end": 165.426
+      },
+      {
+       "w": "our",
+       "start": 165.426,
+       "end": 165.685
+      },
+      {
+       "w": "Flight",
+       "start": 165.685,
+       "end": 166.117
+      },
+      {
+       "w": "19",
+       "start": 166.117,
+       "end": 166.319
+      },
+      {
+       "w": "short.",
+       "start": 166.319,
+       "end": 166.693
+      }
+     ]
+    },
+    {
+     "text": "The same month, twenty seven men vanished without a trace.",
+     "start": 167.134,
+     "end": 170.795,
+     "words": [
+      {
+       "w": "The",
+       "start": 167.134,
+       "end": 167.364
+      },
+      {
+       "w": "same",
+       "start": 167.364,
+       "end": 167.645
+      },
+      {
+       "w": "month,",
+       "start": 167.645,
+       "end": 167.977
+      },
+      {
+       "w": "twenty",
+       "start": 168.197,
+       "end": 168.625
+      },
+      {
+       "w": "seven",
+       "start": 168.625,
+       "end": 168.997
+      },
+      {
+       "w": "men",
+       "start": 168.997,
+       "end": 169.253
+      },
+      {
+       "w": "vanished",
+       "start": 169.253,
+       "end": 169.796
+      },
+      {
+       "w": "without",
+       "start": 169.796,
+       "end": 170.281
+      },
+      {
+       "w": "a",
+       "start": 170.281,
+       "end": 170.424
+      },
+      {
+       "w": "trace.",
+       "start": 170.424,
+       "end": 170.795
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

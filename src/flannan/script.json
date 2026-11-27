@@ -1,0 +1,45 @@
+{
+  "title": "3 Men Vanished From a Lighthouse… One Left His Coat Behind",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.15,
+  "tail": 0.8,
+  "spoken": {
+    "1900.": "nineteen hundred",
+    "15th,": "fifteenth",
+    "26th.": "twenty sixth"
+  },
+  "lines": [
+    "Three men vanished from a lighthouse, on a tiny island in the middle of the ocean. The door was shut. The clock had stopped. And one man's coat was still hanging on its hook.",
+    "This is Eilean Mor, in the Flannan Isles. A lump of rock in the Atlantic, twenty miles off the coast of Scotland. No trees. No people. Just a lighthouse, and the men who kept it burning.",
+    "December, 1900. There were three of them. James Ducat, the principal keeper. Thomas Marshall. And Donald MacArthur, filling in for a man who was off sick.",
+    "Their job was simple. Keep the light burning, every single night. Because out here, if the light goes dark, ships die.",
+    "On December 15th, a steamer called the Archtor sailed past in a storm. The crew looked for the light. It was dark.",
+    "But no one could reach the island. Storms kept the relief boat away, for eleven days.",
+    "December 26th. The relief ship Hesperus finally arrives. They sound the horn. They fire a flare. Nobody comes down to meet them.",
+    "Relief keeper Joseph Moore climbs the steep path up the rock, alone. The gate is closed. The front door is closed.",
+    "Inside, the beds are unmade. The fireplace is cold. And the kitchen clock has stopped.",
+    "Two of the men's waterproof coats are gone. But the third is still hanging by the door.",
+    "So where would a man go, in a winter storm, without his coat?",
+    "Moore searched every room, every ledge. The three keepers were gone. Their bodies were never found.",
+    "Then the legends began. A famous poem described a meal left untouched, and a chair knocked over. Later, someone even wrote fake log entries. Storm. MacArthur crying. God is over all.",
+    "None of that is in the real records. The poem was fiction. The log entries were made up, decades later.",
+    "The real clue was down at the west landing. Iron railings were bent. A box of ropes, kept high up the cliff, was gone. Turf was torn away, far above the sea.",
+    "The investigator, Robert Muirhead, believed the men went down to secure their gear in the storm, and a huge wave swept them off the rock.",
+    "One theory says the third man saw that wave coming, and ran out without his coat, to warn the others. If so, he never made it back.",
+    "But nobody saw it happen. And the sea never gave them back. What do you think happened on Eilean Mor? Tell me in the comments. And watch our Alcatraz short. Three more men, who vanished into the water."
+  ],
+  "structure": {
+    "hook": "line 0: three men vanished, door shut, clock stopped, one coat still on its hook (cold open, not whispered)",
+    "5W1H": "who (Ducat, Marshall, MacArthur; Moore; Muirhead), what (three keepers vanished), when (15-26 Dec 1900), where (Eilean Mor, Flannan Isles, Outer Hebrides), how (lines 14-16: storm wave at the west landing), why (line 16 theory)",
+    "rehooks": ["line 5: eleven days", "line 10: where would a man go without his coat?", "line 12: then the legends began", "line 14: the real clue"],
+    "tension": "lines 4-11",
+    "release": "lines 12-13 (legends debunked), 14-15 (real evidence, Muirhead)",
+    "payoff": "lines 15-17: the wave theory and the third man; sea never gave them back",
+    "cta": "line 17: comment question + Alcatraz Short (thumbnail)"
+  },
+  "notes": "Sources: Wikipedia 'Flannan Isles Lighthouse'; National Records of Scotland ('The Flannan Islands Lighthouse - a disappearance'); Royal Museums Greenwich. Archtor saw the light out on 15 Dec 1900; Hesperus arrived 26 Dec; Moore found gate/door closed, beds unmade, clock stopped, one oilskin left; Muirhead (NLB superintendent) inspected 29 Dec and found storm damage at the west landing. The untouched meal / overturned chair come from Wilfrid Gibson's 1912 poem 'Flannan Isle'; the 'log entries' are later fabrications. 'One theory' is labelled as such."
+}

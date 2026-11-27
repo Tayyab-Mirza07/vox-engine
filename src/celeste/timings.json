@@ -1,0 +1,2681 @@
+{
+ "total": 172.079,
+ "lines": [
+  {
+   "index": 0,
+   "file": "celeste/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 14.994,
+   "sentences": [
+    {
+     "text": "December 1872.",
+     "start": 0.25,
+     "end": 2.312,
+     "words": [
+      {
+       "w": "December",
+       "start": 0.25,
+       "end": 0.925
+      },
+      {
+       "w": "1872.",
+       "start": 0.925,
+       "end": 2.312
+      }
+     ]
+    },
+    {
+     "text": "Sailors spot a ship drifting in the middle of the Atlantic.",
+     "start": 2.865,
+     "end": 6.011,
+     "words": [
+      {
+       "w": "Sailors",
+       "start": 2.865,
+       "end": 3.28
+      },
+      {
+       "w": "spot",
+       "start": 3.28,
+       "end": 3.548
+      },
+      {
+       "w": "a",
+       "start": 3.548,
+       "end": 3.67
+      },
+      {
+       "w": "ship",
+       "start": 3.67,
+       "end": 3.938
+      },
+      {
+       "w": "drifting",
+       "start": 3.938,
+       "end": 4.401
+      },
+      {
+       "w": "in",
+       "start": 4.401,
+       "end": 4.572
+      },
+      {
+       "w": "the",
+       "start": 4.572,
+       "end": 4.791
+      },
+      {
+       "w": "middle",
+       "start": 4.791,
+       "end": 5.157
+      },
+      {
+       "w": "of",
+       "start": 5.157,
+       "end": 5.328
+      },
+      {
+       "w": "the",
+       "start": 5.328,
+       "end": 5.547
+      },
+      {
+       "w": "Atlantic.",
+       "start": 5.547,
+       "end": 6.011
+      }
+     ]
+    },
+    {
+     "text": "Her sails are up.",
+     "start": 6.493,
+     "end": 7.364,
+     "words": [
+      {
+       "w": "Her",
+       "start": 6.493,
+       "end": 6.699
+      },
+      {
+       "w": "sails",
+       "start": 6.699,
+       "end": 6.997
+      },
+      {
+       "w": "are",
+       "start": 6.997,
+       "end": 7.203
+      },
+      {
+       "w": "up.",
+       "start": 7.203,
+       "end": 7.364
+      }
+     ]
+    },
+    {
+     "text": "Her cargo is untouched.",
+     "start": 7.721,
+     "end": 9.219,
+     "words": [
+      {
+       "w": "Her",
+       "start": 7.721,
+       "end": 7.991
+      },
+      {
+       "w": "cargo",
+       "start": 7.991,
+       "end": 8.38
+      },
+      {
+       "w": "is",
+       "start": 8.38,
+       "end": 8.59
+      },
+      {
+       "w": "untouched.",
+       "start": 8.59,
+       "end": 9.219
+      }
+     ]
+    },
+    {
+     "text": "There's food on board for six months.",
+     "start": 9.627,
+     "end": 11.847,
+     "words": [
+      {
+       "w": "There's",
+       "start": 9.627,
+       "end": 10.049
+      },
+      {
+       "w": "food",
+       "start": 10.049,
+       "end": 10.358
+      },
+      {
+       "w": "on",
+       "start": 10.358,
+       "end": 10.555
+      },
+      {
+       "w": "board",
+       "start": 10.555,
+       "end": 10.92
+      },
+      {
+       "w": "for",
+       "start": 10.92,
+       "end": 11.173
+      },
+      {
+       "w": "six",
+       "start": 11.173,
+       "end": 11.426
+      },
+      {
+       "w": "months.",
+       "start": 11.426,
+       "end": 11.847
+      }
+     ]
+    },
+    {
+     "text": "But there's not a single person on board.",
+     "start": 12.852,
+     "end": 14.973,
+     "words": [
+      {
+       "w": "But",
+       "start": 12.852,
+       "end": 13.069
+      },
+      {
+       "w": "there's",
+       "start": 13.069,
+       "end": 13.431
+      },
+      {
+       "w": "not",
+       "start": 13.431,
+       "end": 13.647
+      },
+      {
+       "w": "a",
+       "start": 13.647,
+       "end": 13.768
+      },
+      {
+       "w": "single",
+       "start": 13.768,
+       "end": 14.129
+      },
+      {
+       "w": "person",
+       "start": 14.129,
+       "end": 14.491
+      },
+      {
+       "w": "on",
+       "start": 14.491,
+       "end": 14.659
+      },
+      {
+       "w": "board.",
+       "start": 14.659,
+       "end": 14.973
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "celeste/vo/line1.mp3",
+   "start": 15.494,
+   "dur": 8.359,
+   "sentences": [
+    {
+     "text": "Ten people had set sail on the Mary Celeste, including the captain's wife and their two-year-old daughter.",
+     "start": 15.494,
+     "end": 21.159,
+     "words": [
+      {
+       "w": "Ten",
+       "start": 15.494,
+       "end": 15.732
+      },
+      {
+       "w": "people",
+       "start": 15.732,
+       "end": 16.127
+      },
+      {
+       "w": "had",
+       "start": 16.127,
+       "end": 16.365
+      },
+      {
+       "w": "set",
+       "start": 16.365,
+       "end": 16.602
+      },
+      {
+       "w": "sail",
+       "start": 16.602,
+       "end": 16.892
+      },
+      {
+       "w": "on",
+       "start": 16.892,
+       "end": 17.077
+      },
+      {
+       "w": "the",
+       "start": 17.077,
+       "end": 17.315
+      },
+      {
+       "w": "Mary",
+       "start": 17.315,
+       "end": 17.605
+      },
+      {
+       "w": "Celeste,",
+       "start": 17.605,
+       "end": 18.053
+      },
+      {
+       "w": "including",
+       "start": 18.358,
+       "end": 18.832
+      },
+      {
+       "w": "the",
+       "start": 18.832,
+       "end": 19.035
+      },
+      {
+       "w": "captain's",
+       "start": 19.035,
+       "end": 19.465
+      },
+      {
+       "w": "wife",
+       "start": 19.465,
+       "end": 19.713
+      },
+      {
+       "w": "and",
+       "start": 19.713,
+       "end": 19.917
+      },
+      {
+       "w": "their",
+       "start": 19.917,
+       "end": 20.21
+      },
+      {
+       "w": "two-year-old",
+       "start": 20.21,
+       "end": 20.73
+      },
+      {
+       "w": "daughter.",
+       "start": 20.73,
+       "end": 21.159
+      }
+     ]
+    },
+    {
+     "text": "None of them were ever seen again.",
+     "start": 21.854,
+     "end": 23.853,
+     "words": [
+      {
+       "w": "None",
+       "start": 21.854,
+       "end": 22.148
+      },
+      {
+       "w": "of",
+       "start": 22.148,
+       "end": 22.334
+      },
+      {
+       "w": "them",
+       "start": 22.334,
+       "end": 22.627
+      },
+      {
+       "w": "were",
+       "start": 22.627,
+       "end": 22.921
+      },
+      {
+       "w": "ever",
+       "start": 22.921,
+       "end": 23.214
+      },
+      {
+       "w": "seen",
+       "start": 23.214,
+       "end": 23.507
+      },
+      {
+       "w": "again.",
+       "start": 23.507,
+       "end": 23.853
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "celeste/vo/line2.mp3",
+   "start": 24.103,
+   "dur": 9.247,
+   "sentences": [
+    {
+     "text": "So what makes a captain abandon a perfectly good ship, in the middle of the ocean, with his own family?",
+     "start": 24.103,
+     "end": 29.945,
+     "words": [
+      {
+       "w": "So",
+       "start": 24.103,
+       "end": 24.297
+      },
+      {
+       "w": "what",
+       "start": 24.297,
+       "end": 24.602
+      },
+      {
+       "w": "makes",
+       "start": 24.602,
+       "end": 24.962
+      },
+      {
+       "w": "a",
+       "start": 24.962,
+       "end": 25.1
+      },
+      {
+       "w": "captain",
+       "start": 25.1,
+       "end": 25.571
+      },
+      {
+       "w": "abandon",
+       "start": 25.571,
+       "end": 26.042
+      },
+      {
+       "w": "a",
+       "start": 26.042,
+       "end": 26.18
+      },
+      {
+       "w": "perfectly",
+       "start": 26.18,
+       "end": 26.762
+      },
+      {
+       "w": "good",
+       "start": 26.762,
+       "end": 27.067
+      },
+      {
+       "w": "ship,",
+       "start": 27.067,
+       "end": 27.371
+      },
+      {
+       "w": "in",
+       "start": 27.576,
+       "end": 27.717
+      },
+      {
+       "w": "the",
+       "start": 27.717,
+       "end": 27.899
+      },
+      {
+       "w": "middle",
+       "start": 27.899,
+       "end": 28.202
+      },
+      {
+       "w": "of",
+       "start": 28.202,
+       "end": 28.343
+      },
+      {
+       "w": "the",
+       "start": 28.343,
+       "end": 28.525
+      },
+      {
+       "w": "ocean,",
+       "start": 28.525,
+       "end": 28.787
+      },
+      {
+       "w": "with",
+       "start": 28.787,
+       "end": 29.077
+      },
+      {
+       "w": "his",
+       "start": 29.077,
+       "end": 29.314
+      },
+      {
+       "w": "own",
+       "start": 29.314,
+       "end": 29.55
+      },
+      {
+       "w": "family?",
+       "start": 29.55,
+       "end": 29.945
+      }
+     ]
+    },
+    {
+     "text": "To find out, we go back one month.",
+     "start": 30.823,
+     "end": 33.351,
+     "words": [
+      {
+       "w": "To",
+       "start": 30.823,
+       "end": 31.024
+      },
+      {
+       "w": "find",
+       "start": 31.024,
+       "end": 31.341
+      },
+      {
+       "w": "out,",
+       "start": 31.341,
+       "end": 31.6
+      },
+      {
+       "w": "we",
+       "start": 31.842,
+       "end": 32.066
+      },
+      {
+       "w": "go",
+       "start": 32.066,
+       "end": 32.291
+      },
+      {
+       "w": "back",
+       "start": 32.291,
+       "end": 32.644
+      },
+      {
+       "w": "one",
+       "start": 32.644,
+       "end": 32.933
+      },
+      {
+       "w": "month.",
+       "start": 32.933,
+       "end": 33.351
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "celeste/vo/line3.mp3",
+   "start": 33.601,
+   "dur": 14.446,
+   "sentences": [
+    {
+     "text": "November 1872.",
+     "start": 33.601,
+     "end": 35.491,
+     "words": [
+      {
+       "w": "November",
+       "start": 33.601,
+       "end": 34.22
+      },
+      {
+       "w": "1872.",
+       "start": 34.22,
+       "end": 35.491
+      }
+     ]
+    },
+    {
+     "text": "New York.",
+     "start": 35.963,
+     "end": 36.47,
+     "words": [
+      {
+       "w": "New",
+       "start": 35.963,
+       "end": 36.191
+      },
+      {
+       "w": "York.",
+       "start": 36.191,
+       "end": 36.47
+      }
+     ]
+    },
+    {
+     "text": "Captain Benjamin Briggs, a careful and experienced sailor, sets out for Genoa, Italy.",
+     "start": 37.073,
+     "end": 42.467,
+     "words": [
+      {
+       "w": "Captain",
+       "start": 37.073,
+       "end": 37.556
+      },
+      {
+       "w": "Benjamin",
+       "start": 37.556,
+       "end": 38.095
+      },
+      {
+       "w": "Briggs,",
+       "start": 38.095,
+       "end": 38.521
+      },
+      {
+       "w": "a",
+       "start": 38.736,
+       "end": 38.872
+      },
+      {
+       "w": "careful",
+       "start": 38.872,
+       "end": 39.335
+      },
+      {
+       "w": "and",
+       "start": 39.335,
+       "end": 39.58
+      },
+      {
+       "w": "experienced",
+       "start": 39.58,
+       "end": 40.261
+      },
+      {
+       "w": "sailor,",
+       "start": 40.261,
+       "end": 40.669
+      },
+      {
+       "w": "sets",
+       "start": 40.909,
+       "end": 41.213
+      },
+      {
+       "w": "out",
+       "start": 41.213,
+       "end": 41.462
+      },
+      {
+       "w": "for",
+       "start": 41.462,
+       "end": 41.711
+      },
+      {
+       "w": "Genoa,",
+       "start": 41.711,
+       "end": 42.071
+      },
+      {
+       "w": "Italy.",
+       "start": 42.071,
+       "end": 42.467
+      }
+     ]
+    },
+    {
+     "text": "In the hold: 1,701 barrels of industrial alcohol.",
+     "start": 43.121,
+     "end": 47.755,
+     "words": [
+      {
+       "w": "In",
+       "start": 43.121,
+       "end": 43.286
+      },
+      {
+       "w": "the",
+       "start": 43.286,
+       "end": 43.497
+      },
+      {
+       "w": "hold:",
+       "start": 43.497,
+       "end": 43.755
+      },
+      {
+       "w": "1,701",
+       "start": 44.149,
+       "end": 45.676
+      },
+      {
+       "w": "barrels",
+       "start": 45.676,
+       "end": 46.228
+      },
+      {
+       "w": "of",
+       "start": 46.228,
+       "end": 46.456
+      },
+      {
+       "w": "industrial",
+       "start": 46.456,
+       "end": 47.203
+      },
+      {
+       "w": "alcohol.",
+       "start": 47.203,
+       "end": 47.755
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "celeste/vo/line4.mp3",
+   "start": 48.297,
+   "dur": 11.546,
+   "sentences": [
+    {
+     "text": "The voyage is calm.",
+     "start": 48.297,
+     "end": 49.71,
+     "words": [
+      {
+       "w": "The",
+       "start": 48.297,
+       "end": 48.599
+      },
+      {
+       "w": "voyage",
+       "start": 48.599,
+       "end": 49.104
+      },
+      {
+       "w": "is",
+       "start": 49.104,
+       "end": 49.34
+      },
+      {
+       "w": "calm.",
+       "start": 49.34,
+       "end": 49.71
+      }
+     ]
+    },
+    {
+     "text": "On November 25th, the last entry in the ship's log notes an island in the Azores.",
+     "start": 50.332,
+     "end": 55.383,
+     "words": [
+      {
+       "w": "On",
+       "start": 50.332,
+       "end": 50.506
+      },
+      {
+       "w": "November",
+       "start": 50.506,
+       "end": 50.98
+      },
+      {
+       "w": "25th,",
+       "start": 50.98,
+       "end": 51.604
+      },
+      {
+       "w": "the",
+       "start": 51.892,
+       "end": 52.121
+      },
+      {
+       "w": "last",
+       "start": 52.121,
+       "end": 52.401
+      },
+      {
+       "w": "entry",
+       "start": 52.401,
+       "end": 52.733
+      },
+      {
+       "w": "in",
+       "start": 52.733,
+       "end": 52.911
+      },
+      {
+       "w": "the",
+       "start": 52.911,
+       "end": 53.14
+      },
+      {
+       "w": "ship's",
+       "start": 53.14,
+       "end": 53.472
+      },
+      {
+       "w": "log",
+       "start": 53.472,
+       "end": 53.701
+      },
+      {
+       "w": "notes",
+       "start": 53.701,
+       "end": 54.032
+      },
+      {
+       "w": "an",
+       "start": 54.032,
+       "end": 54.211
+      },
+      {
+       "w": "island",
+       "start": 54.211,
+       "end": 54.593
+      },
+      {
+       "w": "in",
+       "start": 54.593,
+       "end": 54.771
+      },
+      {
+       "w": "the",
+       "start": 54.771,
+       "end": 55
+      },
+      {
+       "w": "Azores.",
+       "start": 55,
+       "end": 55.383
+      }
+     ]
+    },
+    {
+     "text": "Nothing unusual.",
+     "start": 55.815,
+     "end": 56.623,
+     "words": [
+      {
+       "w": "Nothing",
+       "start": 55.815,
+       "end": 56.219
+      },
+      {
+       "w": "unusual.",
+       "start": 56.219,
+       "end": 56.623
+      }
+     ]
+    },
+    {
+     "text": "Then, the log goes silent.",
+     "start": 57.586,
+     "end": 59.65,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 57.586,
+       "end": 58.044
+      },
+      {
+       "w": "the",
+       "start": 58.367,
+       "end": 58.629
+      },
+      {
+       "w": "log",
+       "start": 58.629,
+       "end": 58.892
+      },
+      {
+       "w": "goes",
+       "start": 58.892,
+       "end": 59.213
+      },
+      {
+       "w": "silent.",
+       "start": 59.213,
+       "end": 59.65
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "celeste/vo/line5.mp3",
+   "start": 60.093,
+   "dur": 8.281,
+   "sentences": [
+    {
+     "text": "Nine days later, another ship, the Dei Gratia, finds her drifting between the Azores and Portugal.",
+     "start": 60.093,
+     "end": 66.24,
+     "words": [
+      {
+       "w": "Nine",
+       "start": 60.093,
+       "end": 60.432
+      },
+      {
+       "w": "days",
+       "start": 60.432,
+       "end": 60.771
+      },
+      {
+       "w": "later,",
+       "start": 60.771,
+       "end": 61.172
+      },
+      {
+       "w": "another",
+       "start": 61.413,
+       "end": 61.838
+      },
+      {
+       "w": "ship,",
+       "start": 61.838,
+       "end": 62.113
+      },
+      {
+       "w": "the",
+       "start": 62.38,
+       "end": 62.639
+      },
+      {
+       "w": "Dei",
+       "start": 62.639,
+       "end": 62.898
+      },
+      {
+       "w": "Gratia,",
+       "start": 62.898,
+       "end": 63.33
+      },
+      {
+       "w": "finds",
+       "start": 63.564,
+       "end": 63.88
+      },
+      {
+       "w": "her",
+       "start": 63.88,
+       "end": 64.099
+      },
+      {
+       "w": "drifting",
+       "start": 64.099,
+       "end": 64.561
+      },
+      {
+       "w": "between",
+       "start": 64.561,
+       "end": 64.975
+      },
+      {
+       "w": "the",
+       "start": 64.975,
+       "end": 65.194
+      },
+      {
+       "w": "Azores",
+       "start": 65.194,
+       "end": 65.559
+      },
+      {
+       "w": "and",
+       "start": 65.559,
+       "end": 65.778
+      },
+      {
+       "w": "Portugal.",
+       "start": 65.778,
+       "end": 66.24
+      }
+     ]
+    },
+    {
+     "text": "Her crew climbs aboard.",
+     "start": 66.86,
+     "end": 68.107,
+     "words": [
+      {
+       "w": "Her",
+       "start": 66.86,
+       "end": 67.085
+      },
+      {
+       "w": "crew",
+       "start": 67.085,
+       "end": 67.359
+      },
+      {
+       "w": "climbs",
+       "start": 67.359,
+       "end": 67.733
+      },
+      {
+       "w": "aboard.",
+       "start": 67.733,
+       "end": 68.107
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "celeste/vo/line6.mp3",
+   "start": 68.623,
+   "dur": 10.527,
+   "sentences": [
+    {
+     "text": "Below deck, everything is damp, but in order.",
+     "start": 68.623,
+     "end": 71.839,
+     "words": [
+      {
+       "w": "Below",
+       "start": 68.623,
+       "end": 69.042
+      },
+      {
+       "w": "deck,",
+       "start": 69.042,
+       "end": 69.396
+      },
+      {
+       "w": "everything",
+       "start": 69.628,
+       "end": 70.279
+      },
+      {
+       "w": "is",
+       "start": 70.279,
+       "end": 70.477
+      },
+      {
+       "w": "damp,",
+       "start": 70.477,
+       "end": 70.789
+      },
+      {
+       "w": "but",
+       "start": 71.055,
+       "end": 71.298
+      },
+      {
+       "w": "in",
+       "start": 71.298,
+       "end": 71.488
+      },
+      {
+       "w": "order.",
+       "start": 71.488,
+       "end": 71.839
+      }
+     ]
+    },
+    {
+     "text": "The crew's boots and pipes are still there.",
+     "start": 72.386,
+     "end": 74.39,
+     "words": [
+      {
+       "w": "The",
+       "start": 72.386,
+       "end": 72.582
+      },
+      {
+       "w": "crew's",
+       "start": 72.582,
+       "end": 72.865
+      },
+      {
+       "w": "boots",
+       "start": 72.865,
+       "end": 73.148
+      },
+      {
+       "w": "and",
+       "start": 73.148,
+       "end": 73.344
+      },
+      {
+       "w": "pipes",
+       "start": 73.344,
+       "end": 73.627
+      },
+      {
+       "w": "are",
+       "start": 73.627,
+       "end": 73.823
+      },
+      {
+       "w": "still",
+       "start": 73.823,
+       "end": 74.106
+      },
+      {
+       "w": "there.",
+       "start": 74.106,
+       "end": 74.39
+      }
+     ]
+    },
+    {
+     "text": "Their belongings are untouched.",
+     "start": 74.862,
+     "end": 76.528,
+     "words": [
+      {
+       "w": "Their",
+       "start": 74.862,
+       "end": 75.19
+      },
+      {
+       "w": "belongings",
+       "start": 75.19,
+       "end": 75.77
+      },
+      {
+       "w": "are",
+       "start": 75.77,
+       "end": 75.998
+      },
+      {
+       "w": "untouched.",
+       "start": 75.998,
+       "end": 76.528
+      }
+     ]
+    },
+    {
+     "text": "But the only lifeboat is gone.",
+     "start": 76.868,
+     "end": 78.874,
+     "words": [
+      {
+       "w": "But",
+       "start": 76.868,
+       "end": 77.142
+      },
+      {
+       "w": "the",
+       "start": 77.142,
+       "end": 77.415
+      },
+      {
+       "w": "only",
+       "start": 77.415,
+       "end": 77.75
+      },
+      {
+       "w": "lifeboat",
+       "start": 77.75,
+       "end": 78.327
+      },
+      {
+       "w": "is",
+       "start": 78.327,
+       "end": 78.54
+      },
+      {
+       "w": "gone.",
+       "start": 78.54,
+       "end": 78.874
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "celeste/vo/line7.mp3",
+   "start": 79.401,
+   "dur": 10.371,
+   "sentences": [
+    {
+     "text": "No sign of a storm.",
+     "start": 79.401,
+     "end": 80.765,
+     "words": [
+      {
+       "w": "No",
+       "start": 79.401,
+       "end": 79.623
+      },
+      {
+       "w": "sign",
+       "start": 79.623,
+       "end": 79.972
+      },
+      {
+       "w": "of",
+       "start": 79.972,
+       "end": 80.194
+      },
+      {
+       "w": "a",
+       "start": 80.194,
+       "end": 80.352
+      },
+      {
+       "w": "storm.",
+       "start": 80.352,
+       "end": 80.765
+      }
+     ]
+    },
+    {
+     "text": "No sign of a fight.",
+     "start": 81.144,
+     "end": 82.269,
+     "words": [
+      {
+       "w": "No",
+       "start": 81.144,
+       "end": 81.327
+      },
+      {
+       "w": "sign",
+       "start": 81.327,
+       "end": 81.615
+      },
+      {
+       "w": "of",
+       "start": 81.615,
+       "end": 81.798
+      },
+      {
+       "w": "a",
+       "start": 81.798,
+       "end": 81.929
+      },
+      {
+       "w": "fight.",
+       "start": 81.929,
+       "end": 82.269
+      }
+     ]
+    },
+    {
+     "text": "Nothing stolen.",
+     "start": 82.653,
+     "end": 83.62,
+     "words": [
+      {
+       "w": "Nothing",
+       "start": 82.653,
+       "end": 83.167
+      },
+      {
+       "w": "stolen.",
+       "start": 83.167,
+       "end": 83.62
+      }
+     ]
+    },
+    {
+     "text": "So why would ten people leave the safest place in the ocean, for a tiny open boat?",
+     "start": 84.116,
+     "end": 89.771,
+     "words": [
+      {
+       "w": "So",
+       "start": 84.116,
+       "end": 84.31
+      },
+      {
+       "w": "why",
+       "start": 84.31,
+       "end": 84.561
+      },
+      {
+       "w": "would",
+       "start": 84.561,
+       "end": 84.922
+      },
+      {
+       "w": "ten",
+       "start": 84.922,
+       "end": 85.172
+      },
+      {
+       "w": "people",
+       "start": 85.172,
+       "end": 85.589
+      },
+      {
+       "w": "leave",
+       "start": 85.589,
+       "end": 85.95
+      },
+      {
+       "w": "the",
+       "start": 85.95,
+       "end": 86.2
+      },
+      {
+       "w": "safest",
+       "start": 86.2,
+       "end": 86.617
+      },
+      {
+       "w": "place",
+       "start": 86.617,
+       "end": 86.978
+      },
+      {
+       "w": "in",
+       "start": 86.978,
+       "end": 87.173
+      },
+      {
+       "w": "the",
+       "start": 87.173,
+       "end": 87.423
+      },
+      {
+       "w": "ocean,",
+       "start": 87.423,
+       "end": 87.784
+      },
+      {
+       "w": "for",
+       "start": 87.989,
+       "end": 88.33
+      },
+      {
+       "w": "a",
+       "start": 88.33,
+       "end": 88.52
+      },
+      {
+       "w": "tiny",
+       "start": 88.52,
+       "end": 88.937
+      },
+      {
+       "w": "open",
+       "start": 88.937,
+       "end": 89.354
+      },
+      {
+       "w": "boat?",
+       "start": 89.354,
+       "end": 89.771
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "celeste/vo/line8.mp3",
+   "start": 90.021,
+   "dur": 10.266,
+   "sentences": [
+    {
+     "text": "You might have heard the tea was still warm on the table.",
+     "start": 90.021,
+     "end": 93.036,
+     "words": [
+      {
+       "w": "You",
+       "start": 90.021,
+       "end": 90.237
+      },
+      {
+       "w": "might",
+       "start": 90.237,
+       "end": 90.548
+      },
+      {
+       "w": "have",
+       "start": 90.548,
+       "end": 90.811
+      },
+      {
+       "w": "heard",
+       "start": 90.811,
+       "end": 91.122
+      },
+      {
+       "w": "the",
+       "start": 91.122,
+       "end": 91.337
+      },
+      {
+       "w": "tea",
+       "start": 91.337,
+       "end": 91.553
+      },
+      {
+       "w": "was",
+       "start": 91.553,
+       "end": 91.768
+      },
+      {
+       "w": "still",
+       "start": 91.768,
+       "end": 92.079
+      },
+      {
+       "w": "warm",
+       "start": 92.079,
+       "end": 92.342
+      },
+      {
+       "w": "on",
+       "start": 92.342,
+       "end": 92.51
+      },
+      {
+       "w": "the",
+       "start": 92.51,
+       "end": 92.725
+      },
+      {
+       "w": "table.",
+       "start": 92.725,
+       "end": 93.036
+      }
+     ]
+    },
+    {
+     "text": "That's a myth.",
+     "start": 93.475,
+     "end": 94.275,
+     "words": [
+      {
+       "w": "That's",
+       "start": 93.475,
+       "end": 93.833
+      },
+      {
+       "w": "a",
+       "start": 93.833,
+       "end": 93.971
+      },
+      {
+       "w": "myth.",
+       "start": 93.971,
+       "end": 94.275
+      }
+     ]
+    },
+    {
+     "text": "It comes from a story written by a young Arthur Conan Doyle, before he created Sherlock Holmes.",
+     "start": 94.727,
+     "end": 100.055,
+     "words": [
+      {
+       "w": "It",
+       "start": 94.727,
+       "end": 94.904
+      },
+      {
+       "w": "comes",
+       "start": 94.904,
+       "end": 95.231
+      },
+      {
+       "w": "from",
+       "start": 95.231,
+       "end": 95.508
+      },
+      {
+       "w": "a",
+       "start": 95.508,
+       "end": 95.634
+      },
+      {
+       "w": "story",
+       "start": 95.634,
+       "end": 95.961
+      },
+      {
+       "w": "written",
+       "start": 95.961,
+       "end": 96.389
+      },
+      {
+       "w": "by",
+       "start": 96.389,
+       "end": 96.566
+      },
+      {
+       "w": "a",
+       "start": 96.566,
+       "end": 96.692
+      },
+      {
+       "w": "young",
+       "start": 96.692,
+       "end": 97.019
+      },
+      {
+       "w": "Arthur",
+       "start": 97.019,
+       "end": 97.397
+      },
+      {
+       "w": "Conan",
+       "start": 97.397,
+       "end": 97.724
+      },
+      {
+       "w": "Doyle,",
+       "start": 97.724,
+       "end": 98.052
+      },
+      {
+       "w": "before",
+       "start": 98.232,
+       "end": 98.607
+      },
+      {
+       "w": "he",
+       "start": 98.607,
+       "end": 98.782
+      },
+      {
+       "w": "created",
+       "start": 98.782,
+       "end": 99.206
+      },
+      {
+       "w": "Sherlock",
+       "start": 99.206,
+       "end": 99.681
+      },
+      {
+       "w": "Holmes.",
+       "start": 99.681,
+       "end": 100.055
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "celeste/vo/line9.mp3",
+   "start": 100.538,
+   "dur": 11.468,
+   "sentences": [
+    {
+     "text": "The real clues were stranger.",
+     "start": 100.538,
+     "end": 102.318,
+     "words": [
+      {
+       "w": "The",
+       "start": 100.538,
+       "end": 100.792
+      },
+      {
+       "w": "real",
+       "start": 100.792,
+       "end": 101.103
+      },
+      {
+       "w": "clues",
+       "start": 101.103,
+       "end": 101.47
+      },
+      {
+       "w": "were",
+       "start": 101.47,
+       "end": 101.781
+      },
+      {
+       "w": "stranger.",
+       "start": 101.781,
+       "end": 102.318
+      }
+     ]
+    },
+    {
+     "text": "The hatches were open.",
+     "start": 102.866,
+     "end": 104.134,
+     "words": [
+      {
+       "w": "The",
+       "start": 102.866,
+       "end": 103.104
+      },
+      {
+       "w": "hatches",
+       "start": 103.104,
+       "end": 103.553
+      },
+      {
+       "w": "were",
+       "start": 103.553,
+       "end": 103.844
+      },
+      {
+       "w": "open.",
+       "start": 103.844,
+       "end": 104.134
+      }
+     ]
+    },
+    {
+     "text": "And when the cargo was unloaded in Italy, nine of the barrels were empty.",
+     "start": 104.637,
+     "end": 108.671,
+     "words": [
+      {
+       "w": "And",
+       "start": 104.637,
+       "end": 104.838
+      },
+      {
+       "w": "when",
+       "start": 104.838,
+       "end": 105.083
+      },
+      {
+       "w": "the",
+       "start": 105.083,
+       "end": 105.284
+      },
+      {
+       "w": "cargo",
+       "start": 105.284,
+       "end": 105.574
+      },
+      {
+       "w": "was",
+       "start": 105.574,
+       "end": 105.775
+      },
+      {
+       "w": "unloaded",
+       "start": 105.775,
+       "end": 106.198
+      },
+      {
+       "w": "in",
+       "start": 106.198,
+       "end": 106.354
+      },
+      {
+       "w": "Italy,",
+       "start": 106.354,
+       "end": 106.644
+      },
+      {
+       "w": "nine",
+       "start": 106.959,
+       "end": 107.236
+      },
+      {
+       "w": "of",
+       "start": 107.236,
+       "end": 107.413
+      },
+      {
+       "w": "the",
+       "start": 107.413,
+       "end": 107.639
+      },
+      {
+       "w": "barrels",
+       "start": 107.639,
+       "end": 108.067
+      },
+      {
+       "w": "were",
+       "start": 108.067,
+       "end": 108.344
+      },
+      {
+       "w": "empty.",
+       "start": 108.344,
+       "end": 108.671
+      }
+     ]
+    },
+    {
+     "text": "That may be the key to everything.",
+     "start": 109.862,
+     "end": 111.796,
+     "words": [
+      {
+       "w": "That",
+       "start": 109.862,
+       "end": 110.146
+      },
+      {
+       "w": "may",
+       "start": 110.146,
+       "end": 110.378
+      },
+      {
+       "w": "be",
+       "start": 110.378,
+       "end": 110.558
+      },
+      {
+       "w": "the",
+       "start": 110.558,
+       "end": 110.79
+      },
+      {
+       "w": "key",
+       "start": 110.79,
+       "end": 111.022
+      },
+      {
+       "w": "to",
+       "start": 111.022,
+       "end": 111.203
+      },
+      {
+       "w": "everything.",
+       "start": 111.203,
+       "end": 111.796
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "celeste/vo/line10.mp3",
+   "start": 112.255,
+   "dur": 10.266,
+   "sentences": [
+    {
+     "text": "One theory: fumes from those barrels built up below deck.",
+     "start": 112.255,
+     "end": 115.985,
+     "words": [
+      {
+       "w": "One",
+       "start": 112.255,
+       "end": 112.51
+      },
+      {
+       "w": "theory:",
+       "start": 112.51,
+       "end": 112.935
+      },
+      {
+       "w": "fumes",
+       "start": 113.424,
+       "end": 113.764
+      },
+      {
+       "w": "from",
+       "start": 113.764,
+       "end": 114.051
+      },
+      {
+       "w": "those",
+       "start": 114.051,
+       "end": 114.391
+      },
+      {
+       "w": "barrels",
+       "start": 114.391,
+       "end": 114.835
+      },
+      {
+       "w": "built",
+       "start": 114.835,
+       "end": 115.175
+      },
+      {
+       "w": "up",
+       "start": 115.175,
+       "end": 115.357
+      },
+      {
+       "w": "below",
+       "start": 115.357,
+       "end": 115.697
+      },
+      {
+       "w": "deck.",
+       "start": 115.697,
+       "end": 115.985
+      }
+     ]
+    },
+    {
+     "text": "If Briggs smelled them, or heard a rumble from the hold, he may have feared the ship was about to explode.",
+     "start": 116.444,
+     "end": 122.26,
+     "words": [
+      {
+       "w": "If",
+       "start": 116.444,
+       "end": 116.622
+      },
+      {
+       "w": "Briggs",
+       "start": 116.622,
+       "end": 117.003
+      },
+      {
+       "w": "smelled",
+       "start": 117.003,
+       "end": 117.434
+      },
+      {
+       "w": "them,",
+       "start": 117.434,
+       "end": 117.714
+      },
+      {
+       "w": "or",
+       "start": 117.714,
+       "end": 117.89
+      },
+      {
+       "w": "heard",
+       "start": 117.89,
+       "end": 118.218
+      },
+      {
+       "w": "a",
+       "start": 118.218,
+       "end": 118.344
+      },
+      {
+       "w": "rumble",
+       "start": 118.344,
+       "end": 118.722
+      },
+      {
+       "w": "from",
+       "start": 118.722,
+       "end": 118.999
+      },
+      {
+       "w": "the",
+       "start": 118.999,
+       "end": 119.226
+      },
+      {
+       "w": "hold,",
+       "start": 119.226,
+       "end": 119.503
+      },
+      {
+       "w": "he",
+       "start": 119.833,
+       "end": 119.99
+      },
+      {
+       "w": "may",
+       "start": 119.99,
+       "end": 120.192
+      },
+      {
+       "w": "have",
+       "start": 120.192,
+       "end": 120.44
+      },
+      {
+       "w": "feared",
+       "start": 120.44,
+       "end": 120.777
+      },
+      {
+       "w": "the",
+       "start": 120.777,
+       "end": 120.979
+      },
+      {
+       "w": "ship",
+       "start": 120.979,
+       "end": 121.226
+      },
+      {
+       "w": "was",
+       "start": 121.226,
+       "end": 121.429
+      },
+      {
+       "w": "about",
+       "start": 121.429,
+       "end": 121.721
+      },
+      {
+       "w": "to",
+       "start": 121.721,
+       "end": 121.878
+      },
+      {
+       "w": "explode.",
+       "start": 121.878,
+       "end": 122.26
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "celeste/vo/line11.mp3",
+   "start": 122.771,
+   "dur": 5.642,
+   "sentences": [
+    {
+     "text": "So he got everyone into the lifeboat, still tied to the ship by a long rope, and waited.",
+     "start": 122.771,
+     "end": 128.181,
+     "words": [
+      {
+       "w": "So",
+       "start": 122.771,
+       "end": 122.954
+      },
+      {
+       "w": "he",
+       "start": 122.954,
+       "end": 123.138
+      },
+      {
+       "w": "got",
+       "start": 123.138,
+       "end": 123.373
+      },
+      {
+       "w": "everyone",
+       "start": 123.373,
+       "end": 123.87
+      },
+      {
+       "w": "into",
+       "start": 123.87,
+       "end": 124.157
+      },
+      {
+       "w": "the",
+       "start": 124.157,
+       "end": 124.393
+      },
+      {
+       "w": "lifeboat,",
+       "start": 124.393,
+       "end": 124.89
+      },
+      {
+       "w": "still",
+       "start": 125.13,
+       "end": 125.455
+      },
+      {
+       "w": "tied",
+       "start": 125.455,
+       "end": 125.729
+      },
+      {
+       "w": "to",
+       "start": 125.729,
+       "end": 125.904
+      },
+      {
+       "w": "the",
+       "start": 125.904,
+       "end": 126.129
+      },
+      {
+       "w": "ship",
+       "start": 126.129,
+       "end": 126.404
+      },
+      {
+       "w": "by",
+       "start": 126.404,
+       "end": 126.578
+      },
+      {
+       "w": "a",
+       "start": 126.578,
+       "end": 126.703
+      },
+      {
+       "w": "long",
+       "start": 126.703,
+       "end": 126.978
+      },
+      {
+       "w": "rope,",
+       "start": 126.978,
+       "end": 127.252
+      },
+      {
+       "w": "and",
+       "start": 127.664,
+       "end": 127.858
+      },
+      {
+       "w": "waited.",
+       "start": 127.858,
+       "end": 128.181
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "celeste/vo/line12.mp3",
+   "start": 128.664,
+   "dur": 11.389,
+   "sentences": [
+    {
+     "text": "In 2006, a chemist recreated that scenario in a lab.",
+     "start": 128.664,
+     "end": 132.809,
+     "words": [
+      {
+       "w": "In",
+       "start": 128.664,
+       "end": 128.901
+      },
+      {
+       "w": "2006,",
+       "start": 128.901,
+       "end": 129.95
+      },
+      {
+       "w": "a",
+       "start": 130.171,
+       "end": 130.312
+      },
+      {
+       "w": "chemist",
+       "start": 130.312,
+       "end": 130.789
+      },
+      {
+       "w": "recreated",
+       "start": 130.789,
+       "end": 131.378
+      },
+      {
+       "w": "that",
+       "start": 131.378,
+       "end": 131.687
+      },
+      {
+       "w": "scenario",
+       "start": 131.687,
+       "end": 132.22
+      },
+      {
+       "w": "in",
+       "start": 132.22,
+       "end": 132.416
+      },
+      {
+       "w": "a",
+       "start": 132.416,
+       "end": 132.557
+      },
+      {
+       "w": "lab.",
+       "start": 132.557,
+       "end": 132.809
+      }
+     ]
+    },
+    {
+     "text": "The alcohol vapor exploded in a flash of flame, but left no scorch marks.",
+     "start": 133.314,
+     "end": 138.23,
+     "words": [
+      {
+       "w": "The",
+       "start": 133.314,
+       "end": 133.583
+      },
+      {
+       "w": "alcohol",
+       "start": 133.583,
+       "end": 134.09
+      },
+      {
+       "w": "vapor",
+       "start": 134.09,
+       "end": 134.478
+      },
+      {
+       "w": "exploded",
+       "start": 134.478,
+       "end": 135.046
+      },
+      {
+       "w": "in",
+       "start": 135.046,
+       "end": 135.255
+      },
+      {
+       "w": "a",
+       "start": 135.255,
+       "end": 135.404
+      },
+      {
+       "w": "flash",
+       "start": 135.404,
+       "end": 135.792
+      },
+      {
+       "w": "of",
+       "start": 135.792,
+       "end": 136.001
+      },
+      {
+       "w": "flame,",
+       "start": 136.001,
+       "end": 136.39
+      },
+      {
+       "w": "but",
+       "start": 136.676,
+       "end": 136.931
+      },
+      {
+       "w": "left",
+       "start": 136.931,
+       "end": 137.241
+      },
+      {
+       "w": "no",
+       "start": 137.241,
+       "end": 137.439
+      },
+      {
+       "w": "scorch",
+       "start": 137.439,
+       "end": 137.863
+      },
+      {
+       "w": "marks.",
+       "start": 137.863,
+       "end": 138.23
+      }
+     ]
+    },
+    {
+     "text": "Just like the empty ship.",
+     "start": 138.636,
+     "end": 139.797,
+     "words": [
+      {
+       "w": "Just",
+       "start": 138.636,
+       "end": 138.869
+      },
+      {
+       "w": "like",
+       "start": 138.869,
+       "end": 139.101
+      },
+      {
+       "w": "the",
+       "start": 139.101,
+       "end": 139.291
+      },
+      {
+       "w": "empty",
+       "start": 139.291,
+       "end": 139.565
+      },
+      {
+       "w": "ship.",
+       "start": 139.565,
+       "end": 139.797
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "celeste/vo/line13.mp3",
+   "start": 140.303,
+   "dur": 9.326,
+   "sentences": [
+    {
+     "text": "And if that rope snapped, the Mary Celeste would have sailed on without them.",
+     "start": 140.303,
+     "end": 144.467,
+     "words": [
+      {
+       "w": "And",
+       "start": 140.303,
+       "end": 140.533
+      },
+      {
+       "w": "if",
+       "start": 140.533,
+       "end": 140.712
+      },
+      {
+       "w": "that",
+       "start": 140.712,
+       "end": 140.994
+      },
+      {
+       "w": "rope",
+       "start": 140.994,
+       "end": 141.275
+      },
+      {
+       "w": "snapped,",
+       "start": 141.275,
+       "end": 141.71
+      },
+      {
+       "w": "the",
+       "start": 142.045,
+       "end": 142.241
+      },
+      {
+       "w": "Mary",
+       "start": 142.241,
+       "end": 142.481
+      },
+      {
+       "w": "Celeste",
+       "start": 142.481,
+       "end": 142.852
+      },
+      {
+       "w": "would",
+       "start": 142.852,
+       "end": 143.136
+      },
+      {
+       "w": "have",
+       "start": 143.136,
+       "end": 143.376
+      },
+      {
+       "w": "sailed",
+       "start": 143.376,
+       "end": 143.703
+      },
+      {
+       "w": "on",
+       "start": 143.703,
+       "end": 143.856
+      },
+      {
+       "w": "without",
+       "start": 143.856,
+       "end": 144.227
+      },
+      {
+       "w": "them.",
+       "start": 144.227,
+       "end": 144.467
+      }
+     ]
+    },
+    {
+     "text": "Ten people, alone in a tiny boat, in the middle of the Atlantic.",
+     "start": 145.018,
+     "end": 149.413,
+     "words": [
+      {
+       "w": "Ten",
+       "start": 145.018,
+       "end": 145.303
+      },
+      {
+       "w": "people,",
+       "start": 145.303,
+       "end": 145.779
+      },
+      {
+       "w": "alone",
+       "start": 146.163,
+       "end": 146.589
+      },
+      {
+       "w": "in",
+       "start": 146.589,
+       "end": 146.818
+      },
+      {
+       "w": "a",
+       "start": 146.818,
+       "end": 146.981
+      },
+      {
+       "w": "tiny",
+       "start": 146.981,
+       "end": 147.341
+      },
+      {
+       "w": "boat,",
+       "start": 147.341,
+       "end": 147.701
+      },
+      {
+       "w": "in",
+       "start": 148.117,
+       "end": 148.255
+      },
+      {
+       "w": "the",
+       "start": 148.255,
+       "end": 148.431
+      },
+      {
+       "w": "middle",
+       "start": 148.431,
+       "end": 148.726
+      },
+      {
+       "w": "of",
+       "start": 148.726,
+       "end": 148.863
+      },
+      {
+       "w": "the",
+       "start": 148.863,
+       "end": 149.04
+      },
+      {
+       "w": "Atlantic.",
+       "start": 149.04,
+       "end": 149.413
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "celeste/vo/line14.mp3",
+   "start": 149.879,
+   "dur": 8.202,
+   "sentences": [
+    {
+     "text": "As for the ship?",
+     "start": 149.879,
+     "end": 150.786,
+     "words": [
+      {
+       "w": "As",
+       "start": 149.879,
+       "end": 150.055
+      },
+      {
+       "w": "for",
+       "start": 150.055,
+       "end": 150.282
+      },
+      {
+       "w": "the",
+       "start": 150.282,
+       "end": 150.509
+      },
+      {
+       "w": "ship?",
+       "start": 150.509,
+       "end": 150.786
+      }
+     ]
+    },
+    {
+     "text": "Thirteen years later, her last captain ran her onto a reef in Haiti, on purpose, for the insurance money.",
+     "start": 151.203,
+     "end": 157.854,
+     "words": [
+      {
+       "w": "Thirteen",
+       "start": 151.203,
+       "end": 151.684
+      },
+      {
+       "w": "years",
+       "start": 151.684,
+       "end": 152.012
+      },
+      {
+       "w": "later,",
+       "start": 152.012,
+       "end": 152.341
+      },
+      {
+       "w": "her",
+       "start": 152.571,
+       "end": 152.801
+      },
+      {
+       "w": "last",
+       "start": 152.801,
+       "end": 153.083
+      },
+      {
+       "w": "captain",
+       "start": 153.083,
+       "end": 153.518
+      },
+      {
+       "w": "ran",
+       "start": 153.518,
+       "end": 153.748
+      },
+      {
+       "w": "her",
+       "start": 153.748,
+       "end": 153.979
+      },
+      {
+       "w": "onto",
+       "start": 153.979,
+       "end": 154.26
+      },
+      {
+       "w": "a",
+       "start": 154.26,
+       "end": 154.388
+      },
+      {
+       "w": "reef",
+       "start": 154.388,
+       "end": 154.67
+      },
+      {
+       "w": "in",
+       "start": 154.67,
+       "end": 154.849
+      },
+      {
+       "w": "Haiti,",
+       "start": 154.849,
+       "end": 155.182
+      },
+      {
+       "w": "on",
+       "start": 155.639,
+       "end": 155.879
+      },
+      {
+       "w": "purpose,",
+       "start": 155.879,
+       "end": 156.459
+      },
+      {
+       "w": "for",
+       "start": 156.826,
+       "end": 157.004
+      },
+      {
+       "w": "the",
+       "start": 157.004,
+       "end": 157.182
+      },
+      {
+       "w": "insurance",
+       "start": 157.182,
+       "end": 157.597
+      },
+      {
+       "w": "money.",
+       "start": 157.597,
+       "end": 157.854
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "celeste/vo/line15.mp3",
+   "start": 158.331,
+   "dur": 12.748,
+   "sentences": [
+    {
+     "text": "If you love mysteries like this, watch the man who jumped from a plane with $200,000 and vanished.",
+     "start": 158.331,
+     "end": 164.9,
+     "words": [
+      {
+       "w": "If",
+       "start": 158.331,
+       "end": 158.51
+      },
+      {
+       "w": "you",
+       "start": 158.51,
+       "end": 158.74
+      },
+      {
+       "w": "love",
+       "start": 158.74,
+       "end": 159.02
+      },
+      {
+       "w": "mysteries",
+       "start": 159.02,
+       "end": 159.556
+      },
+      {
+       "w": "like",
+       "start": 159.556,
+       "end": 159.837
+      },
+      {
+       "w": "this,",
+       "start": 159.837,
+       "end": 160.117
+      },
+      {
+       "w": "watch",
+       "start": 160.359,
+       "end": 160.695
+      },
+      {
+       "w": "the",
+       "start": 160.695,
+       "end": 160.927
+      },
+      {
+       "w": "man",
+       "start": 160.927,
+       "end": 161.159
+      },
+      {
+       "w": "who",
+       "start": 161.159,
+       "end": 161.391
+      },
+      {
+       "w": "jumped",
+       "start": 161.391,
+       "end": 161.778
+      },
+      {
+       "w": "from",
+       "start": 161.778,
+       "end": 162.062
+      },
+      {
+       "w": "a",
+       "start": 162.062,
+       "end": 162.191
+      },
+      {
+       "w": "plane",
+       "start": 162.191,
+       "end": 162.527
+      },
+      {
+       "w": "with",
+       "start": 162.527,
+       "end": 162.81
+      },
+      {
+       "w": "$200,000",
+       "start": 162.81,
+       "end": 164.178
+      },
+      {
+       "w": "and",
+       "start": 164.178,
+       "end": 164.41
+      },
+      {
+       "w": "vanished.",
+       "start": 164.41,
+       "end": 164.9
+      }
+     ]
+    },
+    {
+     "text": "Or the killer who called the police on himself.",
+     "start": 165.225,
+     "end": 167.961,
+     "words": [
+      {
+       "w": "Or",
+       "start": 165.225,
+       "end": 165.411
+      },
+      {
+       "w": "the",
+       "start": 165.411,
+       "end": 165.65
+      },
+      {
+       "w": "killer",
+       "start": 165.65,
+       "end": 166.049
+      },
+      {
+       "w": "who",
+       "start": 166.049,
+       "end": 166.288
+      },
+      {
+       "w": "called",
+       "start": 166.288,
+       "end": 166.686
+      },
+      {
+       "w": "the",
+       "start": 166.686,
+       "end": 166.925
+      },
+      {
+       "w": "police",
+       "start": 166.925,
+       "end": 167.323
+      },
+      {
+       "w": "on",
+       "start": 167.323,
+       "end": 167.509
+      },
+      {
+       "w": "himself.",
+       "start": 167.509,
+       "end": 167.961
+      }
+     ]
+    },
+    {
+     "text": "Both are on this channel.",
+     "start": 168.199,
+     "end": 169.407,
+     "words": [
+      {
+       "w": "Both",
+       "start": 168.199,
+       "end": 168.44
+      },
+      {
+       "w": "are",
+       "start": 168.44,
+       "end": 168.638
+      },
+      {
+       "w": "on",
+       "start": 168.638,
+       "end": 168.792
+      },
+      {
+       "w": "this",
+       "start": 168.792,
+       "end": 169.033
+      },
+      {
+       "w": "channel.",
+       "start": 169.033,
+       "end": 169.407
+      }
+     ]
+    },
+    {
+     "text": "Tap and watch next.",
+     "start": 169.636,
+     "end": 171.079,
+     "words": [
+      {
+       "w": "Tap",
+       "start": 169.636,
+       "end": 169.945
+      },
+      {
+       "w": "and",
+       "start": 169.945,
+       "end": 170.254
+      },
+      {
+       "w": "watch",
+       "start": 170.254,
+       "end": 170.701
+      },
+      {
+       "w": "next.",
+       "start": 170.701,
+       "end": 171.079
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

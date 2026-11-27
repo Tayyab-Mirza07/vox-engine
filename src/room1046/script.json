@@ -1,0 +1,49 @@
+{
+  "title": "The Unsolved Murder in Room 1046",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.15,
+  "tail": 0.8,
+  "spoken": {
+    "1046.": "ten forty six",
+    "1046": "ten forty six",
+    "1046?": "ten forty six",
+    "2nd,": "second",
+    "1935.": "nineteen thirty five",
+    "4th.": "fourth",
+    "17.": "seventeen"
+  },
+  "lines": [
+    "He was found tied up, stabbed, his skull cracked, in Room 1046. And with his last breath, he swore nobody did it. He just fell against the bathtub.",
+    "Kansas City. January 2nd, 1935. A young man checks into the Hotel President. He signs his name: Roland T Owen, of Los Angeles.",
+    "He has no luggage. Just a comb, a toothbrush and toothpaste. And he asks for an inside room, away from the street.",
+    "The next morning, the maid finds the shades pulled down. One dim lamp. Owen looks nervous. Leave the door unlocked, he tells her. A friend is coming.",
+    "Later, she finds him lying on the bed in the dark, fully dressed. On the desk, a note. Don. I will be back in fifteen minutes. Wait.",
+    "Who was Don? Nobody ever found out.",
+    "Then she hears him on the phone. No, Don. I don't want to eat. I'm not hungry.",
+    "That night, guests on the tenth floor hear a man and a woman, arguing.",
+    "January 4th. The phone in 1046 is off the hook. A bellboy knocks. A deep voice says, come in, turn on the lights. But the door is locked.",
+    "When they finally open that door, they find a nightmare.",
+    "Owen is on his knees, covered in blood. His wrists, ankles and neck had been tied with cord. He has been stabbed in the chest. His skull is fractured.",
+    "A detective asks who did this. Owen says: Nobody. I fell against the bathtub. Hours later, he is dead.",
+    "And the room is wrong. His clothes are gone. Every piece. Police find fingerprints on the phone stand they believe are a woman's.",
+    "And Roland T Owen? There was no such man in Los Angeles. The name was fake.",
+    "Then came the funeral. A stranger paid for it. And sent flowers, with a card. Love forever. Louise.",
+    "A year later, a mother in Alabama sees his photo in a magazine. His real name was Artemus Ogletree. He was just 17.",
+    "And it gets stranger. After he died, she kept getting typed letters, signed as her son. And a caller told her Artemus was alive, in Cairo.",
+    "Who was Don? Who was Louise? Ninety years later, nobody knows. What do you think happened in Room 1046? Tell me in the comments. And watch our Jimmy Hoffa short. Another man who walked in, and never came out."
+  ],
+  "structure": {
+    "hook": "line 0: tied, stabbed, skull cracked, 'I fell against the bathtub' (cold open, not whispered)",
+    "5W1H": "who (Roland T. Owen = Artemus Ogletree, 17), what (murder), when (Jan 2-4, 1935), where (Hotel President, Kansas City, Room 1046), how (lines 8-11), why (unknown; lines 12-17)",
+    "rehooks": ["line 5: who was Don?", "line 9: they find a nightmare", "line 13: the name was fake", "line 16: and it gets stranger"],
+    "tension": "lines 3-10",
+    "release": "line 15 (identified as Artemus Ogletree)",
+    "payoff": "lines 14-17: Louise, the letters, Cairo; still unsolved",
+    "cta": "line 17: comment question + Jimmy Hoffa Short (thumbnail)"
+  },
+  "notes": "Sources: Wikipedia 'Murder of Artemus Ogletree', Mental Floss 'Love Forever, Louise', Kansas City Magazine. Year is 1935 (not 1934). Details vary between accounts (bellboy names, timeline); script keeps to the consistent core. Advertiser-friendly: injuries described, not shown; blood shown only as abstract red."
+}

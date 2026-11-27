@@ -1,0 +1,58 @@
+{
+  "title": "A Cop Stopped an Escaped Killer… and Let Him Go",
+  "series": "ESCAPED #2",
+  "style": "Dillinger flat cartoon-silhouette poster style, cuts locked to the music beat (music re-used from Dillinger); PD US Marshals / BOP photos as evidence inserts",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.6,
+  "tail": 1.6,
+  "spoken": {
+    "2006": "twenty oh six",
+    "1987": "nineteen eighty seven",
+    "1992": "nineteen ninety two",
+    "2007": "two thousand seven",
+    "15": "fifteen",
+    "5th": "fifth",
+    "25th": "twenty fifth"
+  },
+  "lines": [
+    "A cop stopped an escaped killer. On camera. They talked for ten minutes. And then... he let him go.",
+    "April 5th, 2006. Ball, Louisiana. Officer Carl Bordelon spotted a man running along the railroad tracks.",
+    "The man was calm. Friendly. He gave a fake name, said he was just out jogging, and even cracked jokes.",
+    "The officer had heard about a prison break nearby. But he had no photo, and no reason to hold him. So he let him walk away.",
+    "That man was Richard Lee McNair. A convicted murderer. And this was not his first escape. It was his third.",
+    "Rewind to 1987. Minot, North Dakota. McNair, an Air Force sergeant, was caught breaking into a grain elevator. He killed one man, and wounded another.",
+    "At the police station, they handcuffed him to a chair. He found a tube of lip balm, greased his wrist, and slipped right out.",
+    "He didn't get far that time. But it was a warning of what was coming.",
+    "He got life in prison. In 1992, he and two other inmates crawled out through an air vent in the state penitentiary.",
+    "He stayed free for nine months, until police finally caught him in Nebraska.",
+    "So they sent him somewhere tougher. A high security federal prison in Pollock, Louisiana.",
+    "There, McNair had a job. Repairing old, torn mailbags. And day after day, he planned.",
+    "He built a hiding pod under a pile of mailbags, with a tube to breathe through. The pallet was moved to a warehouse outside the fence. He cut his way out, and walked away.",
+    "Hours later, he met Officer Bordelon on the tracks, and talked his way free. But that was only the beginning.",
+    "Within days, he was on the US Marshals' 15 Most Wanted list. About two weeks after the escape, he slipped across the border into Canada.",
+    "In British Columbia, police stopped a stolen car. The driver jumped out and ran. Even a police dog couldn't find him.",
+    "Then an officer watched America's Most Wanted, and recognized the face. Fingerprints from the car confirmed it. It was McNair.",
+    "October 25th, 2007. Campbellton, New Brunswick. A routine traffic stop by the Mounties. Eighteen months on the run, over.",
+    "Today he's back behind federal bars, serving life. But one question remains. Investigators believe someone helped him. McNair swears he did it alone.",
+    "Genius, or inside help? Tell me in the comments. Then watch ESCAPED number one, the man who broke out with a wooden gun. And follow for more escapes."
+  ],
+  "structure": {
+    "hook": "line 0: a cop stopped an escaped killer on camera and let him go (cold open)",
+    "5W1H": "who (Richard Lee McNair, Officer Carl Bordelon, US Marshals, RCMP), what (three escapes: lip balm 1988, air vent 1992, mailbag pod 2006), when (1987-2007; 5 Apr 2006; 25 Oct 2007), where (Minot & Bismarck ND, Pollock & Ball LA, British Columbia, Campbellton NB), how (lip balm, air vent, mailbag pod with breathing tube), why (outside help?)",
+    "rehooks": [
+      "line 4: it was his third escape",
+      "line 10: so they sent him somewhere tougher",
+      "line 13: but that was only the beginning",
+      "line 18: one question remains"
+    ],
+    "tension": "lines 1-16",
+    "release": "line 17: caught at a traffic stop after 18 months",
+    "payoff": "line 18: did someone help him? he says he acted alone",
+    "cta": "line 19: comment question + ESCAPED #1 Dillinger Short (thumbnail) + follow line"
+  },
+  "notes": "Sources: Wikipedia 'Richard Lee McNair'; NBC News 'Through cunning, killer escaped time and again' (2007); Fox News 'Cunning escaped killer is captured in Canada' / 'One of nation's most wanted fugitives captured'; Prairie Public 'McNair Escapes' (Dakota Datebook 2022); CBC 'Mounties capture most-wanted killer in N.B.'; US Marshals release 25 Oct 2007; BOP press release April 2006; Castanet 'U.S. Fugitive in Penticton'; byronchristopher.org on Bordelon. Facts: 17 Nov 1987 Minot grain elevator burglary, killed one man (not named on screen), wounded another; Air Force sergeant at Minot AFB. Early 1988 lip balm slipped handcuffs at Minot police station (sources differ on details). 9 Oct 1992 escaped NDSP Bismarck with two others via ventilation duct, recaptured 5 Jul 1993 Grand Island, Nebraska. Moved to federal custody; USP Pollock. 5 Apr 2006 escaped hidden in a pallet of mailbags (worked repairing mailbags); dashcam encounter with Ball officer Carl Bordelon on railroad tracks the same day. 13 Apr 2006 Marshals 15 Most Wanted; crossed into BC from Blaine WA ~2 weeks later; Penticton: fled on foot from stolen car, dog unit failed; identified via America's Most Wanted + fingerprints. 25 Oct 2007 RCMP traffic stop Campbellton NB; $25,000 reward. Investigators believed outside help; McNair says he acted alone. Do not claim ADX/supermax; Wikipedia lists USP McCreary."
+}

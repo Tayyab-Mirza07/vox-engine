@@ -1,0 +1,50 @@
+{
+  "title": "The REAL Annabelle Isn't What You Think",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.15,
+  "tail": 0.8,
+  "spoken": {
+    "2025,": "twenty twenty five",
+    "1970.": "nineteen seventy",
+    "1980": "nineteen eighty",
+    "7-year-old": "seven year old",
+    "1046": "ten forty six"
+  },
+  "lines": [
+    "This doll is locked in a glass case, behind a sign that says: positively do not open. And in 2025, the man who carried it across America was found dead in a hotel room.",
+    "Her name is Annabelle. And she is not the porcelain monster from the movies. The real Annabelle is a Raggedy Ann. A soft, smiling, cloth doll.",
+    "Connecticut, 1970. A nursing student named Donna gets the doll from her mother, as a birthday gift. She shares a small apartment with her roommate, Angie.",
+    "Soon, they say, the doll starts moving. Arms crossed. Legs folded. Then, sitting in a different room.",
+    "Then came the notes. Scraps of parchment paper, in a child's handwriting. Help us. Help Lou.",
+    "Lou was their friend, and he hated that doll. He claimed he woke up unable to move, with the doll at his feet. Days later, red scratch marks appeared across his chest.",
+    "A medium told them the doll held the spirit of a 7-year-old girl, named Annabelle Higgins. So they let her stay. That, the Warrens would later say, was their biggest mistake.",
+    "Ed and Lorraine Warren, the couple behind The Conjuring, said this was no little girl. It was something inhuman, using the doll to get close to a human soul.",
+    "They took Annabelle home. And on that drive, they said, their brakes failed, again and again.",
+    "She was locked in a case at their Occult Museum, with a warning. Legend says a young man who mocked her died in a motorcycle crash, on his way home.",
+    "But here's where the story starts to crack.",
+    "Donna and Angie never told their story in public. Not once. No police report. No doctor's record. Almost everything we know comes from the Warrens' side, in a 1980 book called The Demonologist.",
+    "So what does science say? Psychologists call it pareidolia, our brain's habit of seeing faces and intent where there are none. And suggestion. Once you're told a doll is evil, every creak becomes proof.",
+    "Then, in 2025, Annabelle went on tour, called Devils on the Run. In July, her handler, investigator Dan Rivera, was found dead in a hotel room near Gettysburg.",
+    "The internet blamed Annabelle. But the coroner ruled it natural. A heart problem, with a known history. And the doll wasn't even in the room.",
+    "So, is Annabelle the most haunted doll in the world? Or the most successful ghost story ever told? Either way, she helped build a horror universe worth billions. And she's still locked in that case.",
+    "Would you keep her in your house? Tell me in the comments. And watch our Room 1046 short. A mystery that's still unsolved."
+  ],
+  "structure": {
+    "hook": "line 0: locked case, 'positively do not open', handler found dead in 2025 (cold open, not whispered; resolved in line 15)",
+    "5W1H": "who (Donna, Angie, Lou, the Warrens, Dan Rivera), what (alleged haunted Raggedy Ann), when (1970; 2025 tour), where (Connecticut; Warren museum, Monroe CT; Gettysburg PA), how (lines 3-9 claims), why (lines 11-13 evidence and psychology)",
+    "rehooks": [
+      "line 6: their biggest mistake",
+      "line 10: where the story starts to crack",
+      "line 13: the 2025 death"
+    ],
+    "tension": "lines 3-9, 13",
+    "release": "lines 11-12 (no evidence, psychology), line 14 (coroner: natural)",
+    "payoff": "line 15: haunted doll or the most successful ghost story; still locked in the case",
+    "cta": "line 16: comment question + Room 1046 Short (thumbnail)"
+  },
+  "notes": "Claims are attributed ('they say', 'the Warrens said', 'legend says'). Sources: Wikipedia 'Annabelle (doll)', History vs Hollywood, SlashFilm; NBC News / FOX (Sept 2025): Adams County coroner Francis Dutrow ruled Rivera's death cardiac-related, natural, known cardiac history, doll not in the room. Movie Annabelle (porcelain) is never shown; the AI frames show a generic vintage rag doll. Line 'Even their versions don't match...' was cut for length (owner asked for max 2:40); its audio is kept in public/annabelle/vo-full/line12.mp3. Voice lines sped up x1.07 after trimming pauses."
+}

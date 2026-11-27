@@ -1,0 +1,2727 @@
+{
+ "total": 159.061,
+ "lines": [
+  {
+   "index": 0,
+   "file": "annabelle/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 10.998,
+   "sentences": [
+    {
+     "text": "This doll is locked in a glass case, behind a sign that says: positively do not open.",
+     "start": 0.25,
+     "end": 5.66,
+     "words": [
+      {
+       "w": "This",
+       "start": 0.25,
+       "end": 0.575
+      },
+      {
+       "w": "doll",
+       "start": 0.575,
+       "end": 0.9
+      },
+      {
+       "w": "is",
+       "start": 0.9,
+       "end": 1.107
+      },
+      {
+       "w": "locked",
+       "start": 1.107,
+       "end": 1.551
+      },
+      {
+       "w": "in",
+       "start": 1.551,
+       "end": 1.758
+      },
+      {
+       "w": "a",
+       "start": 1.758,
+       "end": 1.906
+      },
+      {
+       "w": "glass",
+       "start": 1.906,
+       "end": 2.29
+      },
+      {
+       "w": "case,",
+       "start": 2.29,
+       "end": 2.615
+      },
+      {
+       "w": "behind",
+       "start": 2.615,
+       "end": 2.896
+      },
+      {
+       "w": "a",
+       "start": 2.896,
+       "end": 2.99
+      },
+      {
+       "w": "sign",
+       "start": 2.99,
+       "end": 3.197
+      },
+      {
+       "w": "that",
+       "start": 3.197,
+       "end": 3.403
+      },
+      {
+       "w": "says:",
+       "start": 3.403,
+       "end": 3.61
+      },
+      {
+       "w": "positively",
+       "start": 3.844,
+       "end": 4.68
+      },
+      {
+       "w": "do",
+       "start": 4.68,
+       "end": 4.934
+      },
+      {
+       "w": "not",
+       "start": 4.934,
+       "end": 5.261
+      },
+      {
+       "w": "open.",
+       "start": 5.261,
+       "end": 5.66
+      }
+     ]
+    },
+    {
+     "text": "And in 2025, the man who carried it across America was found dead in a hotel room.",
+     "start": 5.976,
+     "end": 10.881,
+     "words": [
+      {
+       "w": "And",
+       "start": 5.976,
+       "end": 6.371
+      },
+      {
+       "w": "in",
+       "start": 6.371,
+       "end": 6.679
+      },
+      {
+       "w": "2025,",
+       "start": 6.679,
+       "end": 7.163
+      },
+      {
+       "w": "the",
+       "start": 7.396,
+       "end": 7.602
+      },
+      {
+       "w": "man",
+       "start": 7.602,
+       "end": 7.808
+      },
+      {
+       "w": "who",
+       "start": 7.808,
+       "end": 8.015
+      },
+      {
+       "w": "carried",
+       "start": 8.015,
+       "end": 8.405
+      },
+      {
+       "w": "it",
+       "start": 8.405,
+       "end": 8.565
+      },
+      {
+       "w": "across",
+       "start": 8.565,
+       "end": 8.909
+      },
+      {
+       "w": "America",
+       "start": 8.909,
+       "end": 9.299
+      },
+      {
+       "w": "was",
+       "start": 9.299,
+       "end": 9.505
+      },
+      {
+       "w": "found",
+       "start": 9.505,
+       "end": 9.804
+      },
+      {
+       "w": "dead",
+       "start": 9.804,
+       "end": 10.056
+      },
+      {
+       "w": "in",
+       "start": 10.056,
+       "end": 10.216
+      },
+      {
+       "w": "a",
+       "start": 10.216,
+       "end": 10.331
+      },
+      {
+       "w": "hotel",
+       "start": 10.331,
+       "end": 10.629
+      },
+      {
+       "w": "room.",
+       "start": 10.629,
+       "end": 10.881
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "annabelle/vo/line1.mp3",
+   "start": 11.398,
+   "dur": 9.117,
+   "sentences": [
+    {
+     "text": "Her name is Annabelle.",
+     "start": 11.398,
+     "end": 12.607,
+     "words": [
+      {
+       "w": "Her",
+       "start": 11.398,
+       "end": 11.624
+      },
+      {
+       "w": "name",
+       "start": 11.624,
+       "end": 11.901
+      },
+      {
+       "w": "is",
+       "start": 11.901,
+       "end": 12.078
+      },
+      {
+       "w": "Annabelle.",
+       "start": 12.078,
+       "end": 12.607
+      }
+     ]
+    },
+    {
+     "text": "And she is not the porcelain monster from the movies.",
+     "start": 12.944,
+     "end": 15.546,
+     "words": [
+      {
+       "w": "And",
+       "start": 12.944,
+       "end": 13.146
+      },
+      {
+       "w": "she",
+       "start": 13.146,
+       "end": 13.348
+      },
+      {
+       "w": "is",
+       "start": 13.348,
+       "end": 13.505
+      },
+      {
+       "w": "not",
+       "start": 13.505,
+       "end": 13.707
+      },
+      {
+       "w": "the",
+       "start": 13.707,
+       "end": 13.909
+      },
+      {
+       "w": "porcelain",
+       "start": 13.909,
+       "end": 14.38
+      },
+      {
+       "w": "monster",
+       "start": 14.38,
+       "end": 14.761
+      },
+      {
+       "w": "from",
+       "start": 14.761,
+       "end": 15.008
+      },
+      {
+       "w": "the",
+       "start": 15.008,
+       "end": 15.21
+      },
+      {
+       "w": "movies.",
+       "start": 15.21,
+       "end": 15.546
+      }
+     ]
+    },
+    {
+     "text": "The real Annabelle is a Raggedy Ann.",
+     "start": 15.853,
+     "end": 17.848,
+     "words": [
+      {
+       "w": "The",
+       "start": 15.853,
+       "end": 16.08
+      },
+      {
+       "w": "real",
+       "start": 16.08,
+       "end": 16.358
+      },
+      {
+       "w": "Annabelle",
+       "start": 16.358,
+       "end": 16.888
+      },
+      {
+       "w": "is",
+       "start": 16.888,
+       "end": 17.065
+      },
+      {
+       "w": "a",
+       "start": 17.065,
+       "end": 17.191
+      },
+      {
+       "w": "Raggedy",
+       "start": 17.191,
+       "end": 17.62
+      },
+      {
+       "w": "Ann.",
+       "start": 17.62,
+       "end": 17.848
+      }
+     ]
+    },
+    {
+     "text": "A soft, smiling, cloth doll.",
+     "start": 18.172,
+     "end": 20.514,
+     "words": [
+      {
+       "w": "A",
+       "start": 18.172,
+       "end": 18.377
+      },
+      {
+       "w": "soft,",
+       "start": 18.377,
+       "end": 18.829
+      },
+      {
+       "w": "smiling,",
+       "start": 18.829,
+       "end": 20.245
+      },
+      {
+       "w": "cloth",
+       "start": 20.464,
+       "end": 20.491
+      },
+      {
+       "w": "doll.",
+       "start": 20.491,
+       "end": 20.514
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "annabelle/vo/line2.mp3",
+   "start": 20.664,
+   "dur": 8.96,
+   "sentences": [
+    {
+     "text": "Connecticut, 1970.",
+     "start": 20.664,
+     "end": 21.196,
+     "words": [
+      {
+       "w": "Connecticut,",
+       "start": 20.664,
+       "end": 21.033
+      },
+      {
+       "w": "1970.",
+       "start": 21.033,
+       "end": 21.196
+      }
+     ]
+    },
+    {
+     "text": "A nursing student named Donna gets the doll from her mother, as a birthday gift.",
+     "start": 21.519,
+     "end": 26.528,
+     "words": [
+      {
+       "w": "A",
+       "start": 21.519,
+       "end": 21.554
+      },
+      {
+       "w": "nursing",
+       "start": 21.554,
+       "end": 21.674
+      },
+      {
+       "w": "student",
+       "start": 21.674,
+       "end": 21.794
+      },
+      {
+       "w": "named",
+       "start": 21.794,
+       "end": 21.885
+      },
+      {
+       "w": "Donna",
+       "start": 21.885,
+       "end": 21.977
+      },
+      {
+       "w": "gets",
+       "start": 21.977,
+       "end": 22.054
+      },
+      {
+       "w": "the",
+       "start": 22.054,
+       "end": 22.118
+      },
+      {
+       "w": "doll",
+       "start": 22.118,
+       "end": 22.195
+      },
+      {
+       "w": "from",
+       "start": 22.195,
+       "end": 22.273
+      },
+      {
+       "w": "her",
+       "start": 22.273,
+       "end": 22.336
+      },
+      {
+       "w": "mother,",
+       "start": 22.336,
+       "end": 22.442
+      },
+      {
+       "w": "as",
+       "start": 22.767,
+       "end": 23.394
+      },
+      {
+       "w": "a",
+       "start": 23.394,
+       "end": 23.842
+      },
+      {
+       "w": "birthday",
+       "start": 23.842,
+       "end": 25.543
+      },
+      {
+       "w": "gift.",
+       "start": 25.543,
+       "end": 26.528
+      }
+     ]
+    },
+    {
+     "text": "She shares a small apartment with her roommate, Angie.",
+     "start": 26.853,
+     "end": 29.438,
+     "words": [
+      {
+       "w": "She",
+       "start": 26.853,
+       "end": 27.031
+      },
+      {
+       "w": "shares",
+       "start": 27.031,
+       "end": 27.328
+      },
+      {
+       "w": "a",
+       "start": 27.328,
+       "end": 27.426
+      },
+      {
+       "w": "small",
+       "start": 27.426,
+       "end": 27.684
+      },
+      {
+       "w": "apartment",
+       "start": 27.684,
+       "end": 28.099
+      },
+      {
+       "w": "with",
+       "start": 28.099,
+       "end": 28.317
+      },
+      {
+       "w": "her",
+       "start": 28.317,
+       "end": 28.495
+      },
+      {
+       "w": "roommate,",
+       "start": 28.495,
+       "end": 28.871
+      },
+      {
+       "w": "Angie.",
+       "start": 29.039,
+       "end": 29.438
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "annabelle/vo/line3.mp3",
+   "start": 29.774,
+   "dur": 7.68,
+   "sentences": [
+    {
+     "text": "Soon, they say, the doll starts moving.",
+     "start": 29.774,
+     "end": 32.701,
+     "words": [
+      {
+       "w": "Soon,",
+       "start": 29.774,
+       "end": 30.299
+      },
+      {
+       "w": "they",
+       "start": 30.483,
+       "end": 30.736
+      },
+      {
+       "w": "say,",
+       "start": 30.736,
+       "end": 30.942
+      },
+      {
+       "w": "the",
+       "start": 31.406,
+       "end": 31.639
+      },
+      {
+       "w": "doll",
+       "start": 31.639,
+       "end": 31.924
+      },
+      {
+       "w": "starts",
+       "start": 31.924,
+       "end": 32.313
+      },
+      {
+       "w": "moving.",
+       "start": 32.313,
+       "end": 32.701
+      }
+     ]
+    },
+    {
+     "text": "Arms crossed.",
+     "start": 33.015,
+     "end": 33.842,
+     "words": [
+      {
+       "w": "Arms",
+       "start": 33.015,
+       "end": 33.34
+      },
+      {
+       "w": "crossed.",
+       "start": 33.34,
+       "end": 33.842
+      }
+     ]
+    },
+    {
+     "text": "Legs folded.",
+     "start": 34.156,
+     "end": 34.944,
+     "words": [
+      {
+       "w": "Legs",
+       "start": 34.156,
+       "end": 34.489
+      },
+      {
+       "w": "folded.",
+       "start": 34.489,
+       "end": 34.944
+      }
+     ]
+    },
+    {
+     "text": "Then, sitting in a different room.",
+     "start": 35.274,
+     "end": 37.253,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 35.274,
+       "end": 35.674
+      },
+      {
+       "w": "sitting",
+       "start": 36.029,
+       "end": 36.37
+      },
+      {
+       "w": "in",
+       "start": 36.37,
+       "end": 36.511
+      },
+      {
+       "w": "a",
+       "start": 36.511,
+       "end": 36.611
+      },
+      {
+       "w": "different",
+       "start": 36.611,
+       "end": 37.033
+      },
+      {
+       "w": "room.",
+       "start": 37.033,
+       "end": 37.253
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "annabelle/vo/line4.mp3",
+   "start": 37.604,
+   "dur": 6.766,
+   "sentences": [
+    {
+     "text": "Then came the notes.",
+     "start": 37.604,
+     "end": 38.914,
+     "words": [
+      {
+       "w": "Then",
+       "start": 37.604,
+       "end": 37.932
+      },
+      {
+       "w": "came",
+       "start": 37.932,
+       "end": 38.259
+      },
+      {
+       "w": "the",
+       "start": 38.259,
+       "end": 38.527
+      },
+      {
+       "w": "notes.",
+       "start": 38.527,
+       "end": 38.914
+      }
+     ]
+    },
+    {
+     "text": "Scraps of parchment paper, in a child's handwriting.",
+     "start": 39.229,
+     "end": 42.003,
+     "words": [
+      {
+       "w": "Scraps",
+       "start": 39.229,
+       "end": 39.593
+      },
+      {
+       "w": "of",
+       "start": 39.593,
+       "end": 39.763
+      },
+      {
+       "w": "parchment",
+       "start": 39.763,
+       "end": 40.273
+      },
+      {
+       "w": "paper,",
+       "start": 40.273,
+       "end": 40.589
+      },
+      {
+       "w": "in",
+       "start": 40.864,
+       "end": 41.017
+      },
+      {
+       "w": "a",
+       "start": 41.017,
+       "end": 41.127
+      },
+      {
+       "w": "child's",
+       "start": 41.127,
+       "end": 41.456
+      },
+      {
+       "w": "handwriting.",
+       "start": 41.456,
+       "end": 42.003
+      }
+     ]
+    },
+    {
+     "text": "Help us.",
+     "start": 42.325,
+     "end": 42.915,
+     "words": [
+      {
+       "w": "Help",
+       "start": 42.325,
+       "end": 42.685
+      },
+      {
+       "w": "us.",
+       "start": 42.685,
+       "end": 42.915
+      }
+     ]
+    },
+    {
+     "text": "Help Lou.",
+     "start": 43.366,
+     "end": 44.053,
+     "words": [
+      {
+       "w": "Help",
+       "start": 43.366,
+       "end": 43.744
+      },
+      {
+       "w": "Lou.",
+       "start": 43.744,
+       "end": 44.053
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "annabelle/vo/line5.mp3",
+   "start": 44.52,
+   "dur": 10.449,
+   "sentences": [
+    {
+     "text": "Lou was their friend, and he hated that doll.",
+     "start": 44.52,
+     "end": 47.196,
+     "words": [
+      {
+       "w": "Lou",
+       "start": 44.52,
+       "end": 44.735
+      },
+      {
+       "w": "was",
+       "start": 44.735,
+       "end": 44.949
+      },
+      {
+       "w": "their",
+       "start": 44.949,
+       "end": 45.259
+      },
+      {
+       "w": "friend,",
+       "start": 45.259,
+       "end": 45.617
+      },
+      {
+       "w": "and",
+       "start": 45.869,
+       "end": 46.103
+      },
+      {
+       "w": "he",
+       "start": 46.103,
+       "end": 46.285
+      },
+      {
+       "w": "hated",
+       "start": 46.285,
+       "end": 46.624
+      },
+      {
+       "w": "that",
+       "start": 46.624,
+       "end": 46.91
+      },
+      {
+       "w": "doll.",
+       "start": 46.91,
+       "end": 47.196
+      }
+     ]
+    },
+    {
+     "text": "He claimed he woke up unable to move, with the doll at his feet.",
+     "start": 47.508,
+     "end": 51.041,
+     "words": [
+      {
+       "w": "He",
+       "start": 47.508,
+       "end": 47.692
+      },
+      {
+       "w": "claimed",
+       "start": 47.692,
+       "end": 48.139
+      },
+      {
+       "w": "he",
+       "start": 48.139,
+       "end": 48.324
+      },
+      {
+       "w": "woke",
+       "start": 48.324,
+       "end": 48.613
+      },
+      {
+       "w": "up",
+       "start": 48.613,
+       "end": 48.797
+      },
+      {
+       "w": "unable",
+       "start": 48.797,
+       "end": 49.192
+      },
+      {
+       "w": "to",
+       "start": 49.192,
+       "end": 49.377
+      },
+      {
+       "w": "move,",
+       "start": 49.377,
+       "end": 49.666
+      },
+      {
+       "w": "with",
+       "start": 49.873,
+       "end": 50.095
+      },
+      {
+       "w": "the",
+       "start": 50.095,
+       "end": 50.276
+      },
+      {
+       "w": "doll",
+       "start": 50.276,
+       "end": 50.498
+      },
+      {
+       "w": "at",
+       "start": 50.498,
+       "end": 50.639
+      },
+      {
+       "w": "his",
+       "start": 50.639,
+       "end": 50.82
+      },
+      {
+       "w": "feet.",
+       "start": 50.82,
+       "end": 51.041
+      }
+     ]
+    },
+    {
+     "text": "Days later, red scratch marks appeared across his chest.",
+     "start": 51.369,
+     "end": 54.768,
+     "words": [
+      {
+       "w": "Days",
+       "start": 51.369,
+       "end": 51.723
+      },
+      {
+       "w": "later,",
+       "start": 51.723,
+       "end": 52.141
+      },
+      {
+       "w": "red",
+       "start": 52.338,
+       "end": 52.569
+      },
+      {
+       "w": "scratch",
+       "start": 52.569,
+       "end": 53.003
+      },
+      {
+       "w": "marks",
+       "start": 53.003,
+       "end": 53.336
+      },
+      {
+       "w": "appeared",
+       "start": 53.336,
+       "end": 53.822
+      },
+      {
+       "w": "across",
+       "start": 53.822,
+       "end": 54.205
+      },
+      {
+       "w": "his",
+       "start": 54.205,
+       "end": 54.436
+      },
+      {
+       "w": "chest.",
+       "start": 54.436,
+       "end": 54.768
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "annabelle/vo/line6.mp3",
+   "start": 55.119,
+   "dur": 10.527,
+   "sentences": [
+    {
+     "text": "A medium told them the doll held the spirit of a 7-year-old girl, named Annabelle Higgins.",
+     "start": 55.119,
+     "end": 60.042,
+     "words": [
+      {
+       "w": "A",
+       "start": 55.119,
+       "end": 55.243
+      },
+      {
+       "w": "medium",
+       "start": 55.243,
+       "end": 55.616
+      },
+      {
+       "w": "told",
+       "start": 55.616,
+       "end": 55.89
+      },
+      {
+       "w": "them",
+       "start": 55.89,
+       "end": 56.163
+      },
+      {
+       "w": "the",
+       "start": 56.163,
+       "end": 56.387
+      },
+      {
+       "w": "doll",
+       "start": 56.387,
+       "end": 56.66
+      },
+      {
+       "w": "held",
+       "start": 56.66,
+       "end": 56.934
+      },
+      {
+       "w": "the",
+       "start": 56.934,
+       "end": 57.158
+      },
+      {
+       "w": "spirit",
+       "start": 57.158,
+       "end": 57.531
+      },
+      {
+       "w": "of",
+       "start": 57.531,
+       "end": 57.705
+      },
+      {
+       "w": "a",
+       "start": 57.705,
+       "end": 57.829
+      },
+      {
+       "w": "7-year-old",
+       "start": 57.829,
+       "end": 58.5
+      },
+      {
+       "w": "girl,",
+       "start": 58.5,
+       "end": 58.774
+      },
+      {
+       "w": "named",
+       "start": 58.774,
+       "end": 59.097
+      },
+      {
+       "w": "Annabelle",
+       "start": 59.097,
+       "end": 59.619
+      },
+      {
+       "w": "Higgins.",
+       "start": 59.619,
+       "end": 60.042
+      }
+     ]
+    },
+    {
+     "text": "So they let her stay.",
+     "start": 60.34,
+     "end": 61.583,
+     "words": [
+      {
+       "w": "So",
+       "start": 60.34,
+       "end": 60.525
+      },
+      {
+       "w": "they",
+       "start": 60.525,
+       "end": 60.816
+      },
+      {
+       "w": "let",
+       "start": 60.816,
+       "end": 61.054
+      },
+      {
+       "w": "her",
+       "start": 61.054,
+       "end": 61.292
+      },
+      {
+       "w": "stay.",
+       "start": 61.292,
+       "end": 61.583
+      }
+     ]
+    },
+    {
+     "text": "That, the Warrens would later say, was their biggest mistake.",
+     "start": 61.897,
+     "end": 65.434,
+     "words": [
+      {
+       "w": "That,",
+       "start": 61.897,
+       "end": 62.374
+      },
+      {
+       "w": "the",
+       "start": 62.631,
+       "end": 62.809
+      },
+      {
+       "w": "Warrens",
+       "start": 62.809,
+       "end": 63.147
+      },
+      {
+       "w": "would",
+       "start": 63.147,
+       "end": 63.405
+      },
+      {
+       "w": "later",
+       "start": 63.405,
+       "end": 63.663
+      },
+      {
+       "w": "say,",
+       "start": 63.663,
+       "end": 63.842
+      },
+      {
+       "w": "was",
+       "start": 64.164,
+       "end": 64.368
+      },
+      {
+       "w": "their",
+       "start": 64.368,
+       "end": 64.663
+      },
+      {
+       "w": "biggest",
+       "start": 64.663,
+       "end": 65.049
+      },
+      {
+       "w": "mistake.",
+       "start": 65.049,
+       "end": 65.434
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "annabelle/vo/line7.mp3",
+   "start": 65.796,
+   "dur": 9.665,
+   "sentences": [
+    {
+     "text": "Ed and Lorraine Warren, the couple behind The Conjuring, said this was no little girl.",
+     "start": 65.796,
+     "end": 70.617,
+     "words": [
+      {
+       "w": "Ed",
+       "start": 65.796,
+       "end": 65.967
+      },
+      {
+       "w": "and",
+       "start": 65.967,
+       "end": 66.187
+      },
+      {
+       "w": "Lorraine",
+       "start": 66.187,
+       "end": 66.651
+      },
+      {
+       "w": "Warren,",
+       "start": 66.651,
+       "end": 67.017
+      },
+      {
+       "w": "the",
+       "start": 67.248,
+       "end": 67.426
+      },
+      {
+       "w": "couple",
+       "start": 67.426,
+       "end": 67.722
+      },
+      {
+       "w": "behind",
+       "start": 67.722,
+       "end": 68.019
+      },
+      {
+       "w": "The",
+       "start": 68.019,
+       "end": 68.197
+      },
+      {
+       "w": "Conjuring,",
+       "start": 68.197,
+       "end": 68.612
+      },
+      {
+       "w": "said",
+       "start": 68.946,
+       "end": 69.233
+      },
+      {
+       "w": "this",
+       "start": 69.233,
+       "end": 69.52
+      },
+      {
+       "w": "was",
+       "start": 69.52,
+       "end": 69.755
+      },
+      {
+       "w": "no",
+       "start": 69.755,
+       "end": 69.938
+      },
+      {
+       "w": "little",
+       "start": 69.938,
+       "end": 70.33
+      },
+      {
+       "w": "girl.",
+       "start": 70.33,
+       "end": 70.617
+      }
+     ]
+    },
+    {
+     "text": "It was something inhuman, using the doll to get close to a human soul.",
+     "start": 70.945,
+     "end": 75.196,
+     "words": [
+      {
+       "w": "It",
+       "start": 70.945,
+       "end": 71.128
+      },
+      {
+       "w": "was",
+       "start": 71.128,
+       "end": 71.365
+      },
+      {
+       "w": "something",
+       "start": 71.365,
+       "end": 71.916
+      },
+      {
+       "w": "inhuman,",
+       "start": 71.916,
+       "end": 72.363
+      },
+      {
+       "w": "using",
+       "start": 72.69,
+       "end": 73.022
+      },
+      {
+       "w": "the",
+       "start": 73.022,
+       "end": 73.253
+      },
+      {
+       "w": "doll",
+       "start": 73.253,
+       "end": 73.534
+      },
+      {
+       "w": "to",
+       "start": 73.534,
+       "end": 73.713
+      },
+      {
+       "w": "get",
+       "start": 73.713,
+       "end": 73.943
+      },
+      {
+       "w": "close",
+       "start": 73.943,
+       "end": 74.276
+      },
+      {
+       "w": "to",
+       "start": 74.276,
+       "end": 74.455
+      },
+      {
+       "w": "a",
+       "start": 74.455,
+       "end": 74.583
+      },
+      {
+       "w": "human",
+       "start": 74.583,
+       "end": 74.915
+      },
+      {
+       "w": "soul.",
+       "start": 74.915,
+       "end": 75.196
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "annabelle/vo/line8.mp3",
+   "start": 75.612,
+   "dur": 5.982,
+   "sentences": [
+    {
+     "text": "They took Annabelle home.",
+     "start": 75.612,
+     "end": 76.895,
+     "words": [
+      {
+       "w": "They",
+       "start": 75.612,
+       "end": 75.873
+      },
+      {
+       "w": "took",
+       "start": 75.873,
+       "end": 76.134
+      },
+      {
+       "w": "Annabelle",
+       "start": 76.134,
+       "end": 76.633
+      },
+      {
+       "w": "home.",
+       "start": 76.633,
+       "end": 76.895
+      }
+     ]
+    },
+    {
+     "text": "And on that drive, they said, their brakes failed, again and again.",
+     "start": 77.228,
+     "end": 81.39,
+     "words": [
+      {
+       "w": "And",
+       "start": 77.228,
+       "end": 77.542
+      },
+      {
+       "w": "on",
+       "start": 77.542,
+       "end": 77.786
+      },
+      {
+       "w": "that",
+       "start": 77.786,
+       "end": 78.169
+      },
+      {
+       "w": "drive,",
+       "start": 78.169,
+       "end": 78.622
+      },
+      {
+       "w": "they",
+       "start": 78.905,
+       "end": 78.988
+      },
+      {
+       "w": "said,",
+       "start": 78.988,
+       "end": 79.071
+      },
+      {
+       "w": "their",
+       "start": 79.071,
+       "end": 79.309
+      },
+      {
+       "w": "brakes",
+       "start": 79.309,
+       "end": 79.585
+      },
+      {
+       "w": "failed,",
+       "start": 79.585,
+       "end": 79.86
+      },
+      {
+       "w": "again",
+       "start": 80.156,
+       "end": 80.614
+      },
+      {
+       "w": "and",
+       "start": 80.614,
+       "end": 80.932
+      },
+      {
+       "w": "again.",
+       "start": 80.932,
+       "end": 81.39
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "annabelle/vo/line9.mp3",
+   "start": 81.744,
+   "dur": 8.699,
+   "sentences": [
+    {
+     "text": "She was locked in a case at their Occult Museum, with a warning.",
+     "start": 81.744,
+     "end": 85.098,
+     "words": [
+      {
+       "w": "She",
+       "start": 81.744,
+       "end": 81.947
+      },
+      {
+       "w": "was",
+       "start": 81.947,
+       "end": 82.15
+      },
+      {
+       "w": "locked",
+       "start": 82.15,
+       "end": 82.488
+      },
+      {
+       "w": "in",
+       "start": 82.488,
+       "end": 82.646
+      },
+      {
+       "w": "a",
+       "start": 82.646,
+       "end": 82.759
+      },
+      {
+       "w": "case",
+       "start": 82.759,
+       "end": 83.007
+      },
+      {
+       "w": "at",
+       "start": 83.007,
+       "end": 83.165
+      },
+      {
+       "w": "their",
+       "start": 83.165,
+       "end": 83.459
+      },
+      {
+       "w": "Occult",
+       "start": 83.459,
+       "end": 83.797
+      },
+      {
+       "w": "Museum,",
+       "start": 83.797,
+       "end": 84.135
+      },
+      {
+       "w": "with",
+       "start": 84.384,
+       "end": 84.622
+      },
+      {
+       "w": "a",
+       "start": 84.622,
+       "end": 84.73
+      },
+      {
+       "w": "warning.",
+       "start": 84.73,
+       "end": 85.098
+      }
+     ]
+    },
+    {
+     "text": "Legend says a young man who mocked her died in a motorcycle crash, on his way home.",
+     "start": 85.411,
+     "end": 90.189,
+     "words": [
+      {
+       "w": "Legend",
+       "start": 85.411,
+       "end": 85.807
+      },
+      {
+       "w": "says",
+       "start": 85.807,
+       "end": 86.097
+      },
+      {
+       "w": "a",
+       "start": 86.097,
+       "end": 86.229
+      },
+      {
+       "w": "young",
+       "start": 86.229,
+       "end": 86.573
+      },
+      {
+       "w": "man",
+       "start": 86.573,
+       "end": 86.81
+      },
+      {
+       "w": "who",
+       "start": 86.81,
+       "end": 87.048
+      },
+      {
+       "w": "mocked",
+       "start": 87.048,
+       "end": 87.444
+      },
+      {
+       "w": "her",
+       "start": 87.444,
+       "end": 87.681
+      },
+      {
+       "w": "died",
+       "start": 87.681,
+       "end": 87.972
+      },
+      {
+       "w": "in",
+       "start": 87.972,
+       "end": 88.157
+      },
+      {
+       "w": "a",
+       "start": 88.157,
+       "end": 88.289
+      },
+      {
+       "w": "motorcycle",
+       "start": 88.289,
+       "end": 88.896
+      },
+      {
+       "w": "crash,",
+       "start": 88.896,
+       "end": 89.239
+      },
+      {
+       "w": "on",
+       "start": 89.239,
+       "end": 89.424
+      },
+      {
+       "w": "his",
+       "start": 89.424,
+       "end": 89.661
+      },
+      {
+       "w": "way",
+       "start": 89.661,
+       "end": 89.899
+      },
+      {
+       "w": "home.",
+       "start": 89.899,
+       "end": 90.189
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "annabelle/vo/line10.mp3",
+   "start": 90.592,
+   "dur": 2.743,
+   "sentences": [
+    {
+     "text": "But here's where the story starts to crack.",
+     "start": 90.592,
+     "end": 93.027,
+     "words": [
+      {
+       "w": "But",
+       "start": 90.592,
+       "end": 90.831
+      },
+      {
+       "w": "here's",
+       "start": 90.831,
+       "end": 91.175
+      },
+      {
+       "w": "where",
+       "start": 91.175,
+       "end": 91.519
+      },
+      {
+       "w": "the",
+       "start": 91.519,
+       "end": 91.757
+      },
+      {
+       "w": "story",
+       "start": 91.757,
+       "end": 92.101
+      },
+      {
+       "w": "starts",
+       "start": 92.101,
+       "end": 92.498
+      },
+      {
+       "w": "to",
+       "start": 92.498,
+       "end": 92.683
+      },
+      {
+       "w": "crack.",
+       "start": 92.683,
+       "end": 93.027
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "annabelle/vo/line11.mp3",
+   "start": 93.485,
+   "dur": 12.591,
+   "sentences": [
+    {
+     "text": "Donna and Angie never told their story in public.",
+     "start": 93.485,
+     "end": 96.2,
+     "words": [
+      {
+       "w": "Donna",
+       "start": 93.485,
+       "end": 93.815
+      },
+      {
+       "w": "and",
+       "start": 93.815,
+       "end": 94.044
+      },
+      {
+       "w": "Angie",
+       "start": 94.044,
+       "end": 94.373
+      },
+      {
+       "w": "never",
+       "start": 94.373,
+       "end": 94.703
+      },
+      {
+       "w": "told",
+       "start": 94.703,
+       "end": 94.982
+      },
+      {
+       "w": "their",
+       "start": 94.982,
+       "end": 95.312
+      },
+      {
+       "w": "story",
+       "start": 95.312,
+       "end": 95.642
+      },
+      {
+       "w": "in",
+       "start": 95.642,
+       "end": 95.82
+      },
+      {
+       "w": "public.",
+       "start": 95.82,
+       "end": 96.2
+      }
+     ]
+    },
+    {
+     "text": "Not once.",
+     "start": 96.547,
+     "end": 97.369,
+     "words": [
+      {
+       "w": "Not",
+       "start": 96.547,
+       "end": 96.917
+      },
+      {
+       "w": "once.",
+       "start": 96.917,
+       "end": 97.369
+      }
+     ]
+    },
+    {
+     "text": "No police report.",
+     "start": 97.681,
+     "end": 98.586,
+     "words": [
+      {
+       "w": "No",
+       "start": 97.681,
+       "end": 97.852
+      },
+      {
+       "w": "police",
+       "start": 97.852,
+       "end": 98.219
+      },
+      {
+       "w": "report.",
+       "start": 98.219,
+       "end": 98.586
+      }
+     ]
+    },
+    {
+     "text": "No doctor's record.",
+     "start": 98.885,
+     "end": 99.864,
+     "words": [
+      {
+       "w": "No",
+       "start": 98.885,
+       "end": 99.06
+      },
+      {
+       "w": "doctor's",
+       "start": 99.06,
+       "end": 99.487
+      },
+      {
+       "w": "record.",
+       "start": 99.487,
+       "end": 99.864
+      }
+     ]
+    },
+    {
+     "text": "Almost everything we know comes from the Warrens' side, in a 1980 book called The Demonologist.",
+     "start": 100.191,
+     "end": 105.836,
+     "words": [
+      {
+       "w": "Almost",
+       "start": 100.191,
+       "end": 100.539
+      },
+      {
+       "w": "everything",
+       "start": 100.539,
+       "end": 101.073
+      },
+      {
+       "w": "we",
+       "start": 101.073,
+       "end": 101.235
+      },
+      {
+       "w": "know",
+       "start": 101.235,
+       "end": 101.491
+      },
+      {
+       "w": "comes",
+       "start": 101.491,
+       "end": 101.793
+      },
+      {
+       "w": "from",
+       "start": 101.793,
+       "end": 102.048
+      },
+      {
+       "w": "the",
+       "start": 102.048,
+       "end": 102.257
+      },
+      {
+       "w": "Warrens'",
+       "start": 102.257,
+       "end": 102.652
+      },
+      {
+       "w": "side,",
+       "start": 102.652,
+       "end": 102.907
+      },
+      {
+       "w": "in",
+       "start": 103.139,
+       "end": 103.318
+      },
+      {
+       "w": "a",
+       "start": 103.318,
+       "end": 103.447
+      },
+      {
+       "w": "1980",
+       "start": 103.447,
+       "end": 104.243
+      },
+      {
+       "w": "book",
+       "start": 104.243,
+       "end": 104.526
+      },
+      {
+       "w": "called",
+       "start": 104.526,
+       "end": 104.911
+      },
+      {
+       "w": "The",
+       "start": 104.911,
+       "end": 105.142
+      },
+      {
+       "w": "Demonologist.",
+       "start": 105.142,
+       "end": 105.836
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "annabelle/vo/line12.mp3",
+   "start": 106.226,
+   "dur": 12.774,
+   "sentences": [
+    {
+     "text": "So what does science say?",
+     "start": 106.226,
+     "end": 107.66,
+     "words": [
+      {
+       "w": "So",
+       "start": 106.226,
+       "end": 106.409
+      },
+      {
+       "w": "what",
+       "start": 106.409,
+       "end": 106.696
+      },
+      {
+       "w": "does",
+       "start": 106.696,
+       "end": 106.982
+      },
+      {
+       "w": "science",
+       "start": 106.982,
+       "end": 107.426
+      },
+      {
+       "w": "say?",
+       "start": 107.426,
+       "end": 107.66
+      }
+     ]
+    },
+    {
+     "text": "Psychologists call it pareidolia, our brain's habit of seeing faces and intent where there are none.",
+     "start": 107.966,
+     "end": 113.52,
+     "words": [
+      {
+       "w": "Psychologists",
+       "start": 107.966,
+       "end": 108.754
+      },
+      {
+       "w": "call",
+       "start": 108.754,
+       "end": 109.053
+      },
+      {
+       "w": "it",
+       "start": 109.053,
+       "end": 109.243
+      },
+      {
+       "w": "pareidolia,",
+       "start": 109.243,
+       "end": 109.868
+      },
+      {
+       "w": "our",
+       "start": 110.171,
+       "end": 110.383
+      },
+      {
+       "w": "brain's",
+       "start": 110.383,
+       "end": 110.737
+      },
+      {
+       "w": "habit",
+       "start": 110.737,
+       "end": 111.044
+      },
+      {
+       "w": "of",
+       "start": 111.044,
+       "end": 111.209
+      },
+      {
+       "w": "seeing",
+       "start": 111.209,
+       "end": 111.563
+      },
+      {
+       "w": "faces",
+       "start": 111.563,
+       "end": 111.869
+      },
+      {
+       "w": "and",
+       "start": 111.869,
+       "end": 112.082
+      },
+      {
+       "w": "intent",
+       "start": 112.082,
+       "end": 112.435
+      },
+      {
+       "w": "where",
+       "start": 112.435,
+       "end": 112.742
+      },
+      {
+       "w": "there",
+       "start": 112.742,
+       "end": 113.049
+      },
+      {
+       "w": "are",
+       "start": 113.049,
+       "end": 113.261
+      },
+      {
+       "w": "none.",
+       "start": 113.261,
+       "end": 113.52
+      }
+     ]
+    },
+    {
+     "text": "And suggestion.",
+     "start": 113.841,
+     "end": 114.994,
+     "words": [
+      {
+       "w": "And",
+       "start": 113.841,
+       "end": 114.165
+      },
+      {
+       "w": "suggestion.",
+       "start": 114.165,
+       "end": 114.994
+      }
+     ]
+    },
+    {
+     "text": "Once you're told a doll is evil, every creak becomes proof.",
+     "start": 115.302,
+     "end": 119,
+     "words": [
+      {
+       "w": "Once",
+       "start": 115.302,
+       "end": 115.56
+      },
+      {
+       "w": "you're",
+       "start": 115.56,
+       "end": 115.865
+      },
+      {
+       "w": "told",
+       "start": 115.865,
+       "end": 116.123
+      },
+      {
+       "w": "a",
+       "start": 116.123,
+       "end": 116.241
+      },
+      {
+       "w": "doll",
+       "start": 116.241,
+       "end": 116.499
+      },
+      {
+       "w": "is",
+       "start": 116.499,
+       "end": 116.663
+      },
+      {
+       "w": "evil,",
+       "start": 116.663,
+       "end": 116.921
+      },
+      {
+       "w": "every",
+       "start": 117.192,
+       "end": 117.612
+      },
+      {
+       "w": "creak",
+       "start": 117.612,
+       "end": 118.032
+      },
+      {
+       "w": "becomes",
+       "start": 118.032,
+       "end": 118.58
+      },
+      {
+       "w": "proof.",
+       "start": 118.58,
+       "end": 119
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "annabelle/vo/line13.mp3",
+   "start": 119.15,
+   "dur": 10.736,
+   "sentences": [
+    {
+     "text": "Then, in 2025, Annabelle went on tour, called Devils on the Run.",
+     "start": 119.15,
+     "end": 123.62,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 119.15,
+       "end": 119.517
+      },
+      {
+       "w": "in",
+       "start": 119.517,
+       "end": 119.996
+      },
+      {
+       "w": "2025,",
+       "start": 119.996,
+       "end": 120.75
+      },
+      {
+       "w": "Annabelle",
+       "start": 120.979,
+       "end": 121.318
+      },
+      {
+       "w": "went",
+       "start": 121.318,
+       "end": 121.495
+      },
+      {
+       "w": "on",
+       "start": 121.495,
+       "end": 121.608
+      },
+      {
+       "w": "tour,",
+       "start": 121.608,
+       "end": 121.785
+      },
+      {
+       "w": "called",
+       "start": 121.785,
+       "end": 122.285
+      },
+      {
+       "w": "Devils",
+       "start": 122.285,
+       "end": 122.786
+      },
+      {
+       "w": "on",
+       "start": 122.786,
+       "end": 123.019
+      },
+      {
+       "w": "the",
+       "start": 123.019,
+       "end": 123.319
+      },
+      {
+       "w": "Run.",
+       "start": 123.319,
+       "end": 123.62
+      }
+     ]
+    },
+    {
+     "text": "In July, her handler, investigator Dan Rivera, was found dead in a hotel room near Gettysburg.",
+     "start": 123.954,
+     "end": 129.65,
+     "words": [
+      {
+       "w": "In",
+       "start": 123.954,
+       "end": 124.207
+      },
+      {
+       "w": "July,",
+       "start": 124.207,
+       "end": 124.604
+      },
+      {
+       "w": "her",
+       "start": 124.808,
+       "end": 125.021
+      },
+      {
+       "w": "handler,",
+       "start": 125.021,
+       "end": 125.423
+      },
+      {
+       "w": "investigator",
+       "start": 125.617,
+       "end": 126.373
+      },
+      {
+       "w": "Dan",
+       "start": 126.373,
+       "end": 126.625
+      },
+      {
+       "w": "Rivera,",
+       "start": 126.625,
+       "end": 127.045
+      },
+      {
+       "w": "was",
+       "start": 127.228,
+       "end": 127.439
+      },
+      {
+       "w": "found",
+       "start": 127.439,
+       "end": 127.745
+      },
+      {
+       "w": "dead",
+       "start": 127.745,
+       "end": 128.004
+      },
+      {
+       "w": "in",
+       "start": 128.004,
+       "end": 128.168
+      },
+      {
+       "w": "a",
+       "start": 128.168,
+       "end": 128.286
+      },
+      {
+       "w": "hotel",
+       "start": 128.286,
+       "end": 128.592
+      },
+      {
+       "w": "room",
+       "start": 128.592,
+       "end": 128.85
+      },
+      {
+       "w": "near",
+       "start": 128.85,
+       "end": 129.109
+      },
+      {
+       "w": "Gettysburg.",
+       "start": 129.109,
+       "end": 129.65
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "annabelle/vo/line14.mp3",
+   "start": 130.037,
+   "dur": 7.889,
+   "sentences": [
+    {
+     "text": "The internet blamed Annabelle.",
+     "start": 130.037,
+     "end": 131.616,
+     "words": [
+      {
+       "w": "The",
+       "start": 130.037,
+       "end": 130.259
+      },
+      {
+       "w": "internet",
+       "start": 130.259,
+       "end": 130.728
+      },
+      {
+       "w": "blamed",
+       "start": 130.728,
+       "end": 131.098
+      },
+      {
+       "w": "Annabelle.",
+       "start": 131.098,
+       "end": 131.616
+      }
+     ]
+    },
+    {
+     "text": "But the coroner ruled it natural.",
+     "start": 131.933,
+     "end": 133.473,
+     "words": [
+      {
+       "w": "But",
+       "start": 131.933,
+       "end": 132.125
+      },
+      {
+       "w": "the",
+       "start": 132.125,
+       "end": 132.318
+      },
+      {
+       "w": "coroner",
+       "start": 132.318,
+       "end": 132.682
+      },
+      {
+       "w": "ruled",
+       "start": 132.682,
+       "end": 132.96
+      },
+      {
+       "w": "it",
+       "start": 132.96,
+       "end": 133.109
+      },
+      {
+       "w": "natural.",
+       "start": 133.109,
+       "end": 133.473
+      }
+     ]
+    },
+    {
+     "text": "A heart problem, with a known history.",
+     "start": 133.793,
+     "end": 135.683,
+     "words": [
+      {
+       "w": "A",
+       "start": 133.793,
+       "end": 133.898
+      },
+      {
+       "w": "heart",
+       "start": 133.898,
+       "end": 134.17
+      },
+      {
+       "w": "problem,",
+       "start": 134.17,
+       "end": 134.526
+      },
+      {
+       "w": "with",
+       "start": 134.763,
+       "end": 134.983
+      },
+      {
+       "w": "a",
+       "start": 134.983,
+       "end": 135.083
+      },
+      {
+       "w": "known",
+       "start": 135.083,
+       "end": 135.343
+      },
+      {
+       "w": "history.",
+       "start": 135.343,
+       "end": 135.683
+      }
+     ]
+    },
+    {
+     "text": "And the doll wasn't even in the room.",
+     "start": 136.001,
+     "end": 137.689,
+     "words": [
+      {
+       "w": "And",
+       "start": 136.001,
+       "end": 136.191
+      },
+      {
+       "w": "the",
+       "start": 136.191,
+       "end": 136.381
+      },
+      {
+       "w": "doll",
+       "start": 136.381,
+       "end": 136.613
+      },
+      {
+       "w": "wasn't",
+       "start": 136.613,
+       "end": 136.887
+      },
+      {
+       "w": "even",
+       "start": 136.887,
+       "end": 137.119
+      },
+      {
+       "w": "in",
+       "start": 137.119,
+       "end": 137.267
+      },
+      {
+       "w": "the",
+       "start": 137.267,
+       "end": 137.457
+      },
+      {
+       "w": "room.",
+       "start": 137.457,
+       "end": 137.689
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "annabelle/vo/line15.mp3",
+   "start": 138.076,
+   "dur": 12.33,
+   "sentences": [
+    {
+     "text": "So, is Annabelle the most haunted doll in the world?",
+     "start": 138.076,
+     "end": 141.091,
+     "words": [
+      {
+       "w": "So,",
+       "start": 138.076,
+       "end": 138.521
+      },
+      {
+       "w": "is",
+       "start": 138.783,
+       "end": 138.937
+      },
+      {
+       "w": "Annabelle",
+       "start": 138.937,
+       "end": 139.399
+      },
+      {
+       "w": "the",
+       "start": 139.399,
+       "end": 139.596
+      },
+      {
+       "w": "most",
+       "start": 139.596,
+       "end": 139.838
+      },
+      {
+       "w": "haunted",
+       "start": 139.838,
+       "end": 140.212
+      },
+      {
+       "w": "doll",
+       "start": 140.212,
+       "end": 140.453
+      },
+      {
+       "w": "in",
+       "start": 140.453,
+       "end": 140.607
+      },
+      {
+       "w": "the",
+       "start": 140.607,
+       "end": 140.805
+      },
+      {
+       "w": "world?",
+       "start": 140.805,
+       "end": 141.091
+      }
+     ]
+    },
+    {
+     "text": "Or the most successful ghost story ever told?",
+     "start": 141.412,
+     "end": 144.138,
+     "words": [
+      {
+       "w": "Or",
+       "start": 141.412,
+       "end": 141.607
+      },
+      {
+       "w": "the",
+       "start": 141.607,
+       "end": 141.857
+      },
+      {
+       "w": "most",
+       "start": 141.857,
+       "end": 142.163
+      },
+      {
+       "w": "successful",
+       "start": 142.163,
+       "end": 142.803
+      },
+      {
+       "w": "ghost",
+       "start": 142.803,
+       "end": 143.164
+      },
+      {
+       "w": "story",
+       "start": 143.164,
+       "end": 143.526
+      },
+      {
+       "w": "ever",
+       "start": 143.526,
+       "end": 143.832
+      },
+      {
+       "w": "told?",
+       "start": 143.832,
+       "end": 144.138
+      }
+     ]
+    },
+    {
+     "text": "Either way, she helped build a horror universe worth billions.",
+     "start": 144.457,
+     "end": 148.144,
+     "words": [
+      {
+       "w": "Either",
+       "start": 144.457,
+       "end": 144.826
+      },
+      {
+       "w": "way,",
+       "start": 144.826,
+       "end": 145.048
+      },
+      {
+       "w": "she",
+       "start": 145.269,
+       "end": 145.509
+      },
+      {
+       "w": "helped",
+       "start": 145.509,
+       "end": 145.908
+      },
+      {
+       "w": "build",
+       "start": 145.908,
+       "end": 146.254
+      },
+      {
+       "w": "a",
+       "start": 146.254,
+       "end": 146.387
+      },
+      {
+       "w": "horror",
+       "start": 146.387,
+       "end": 146.786
+      },
+      {
+       "w": "universe",
+       "start": 146.786,
+       "end": 147.292
+      },
+      {
+       "w": "worth",
+       "start": 147.292,
+       "end": 147.638
+      },
+      {
+       "w": "billions.",
+       "start": 147.638,
+       "end": 148.144
+      }
+     ]
+    },
+    {
+     "text": "And she's still locked in that case.",
+     "start": 148.464,
+     "end": 150.405,
+     "words": [
+      {
+       "w": "And",
+       "start": 148.464,
+       "end": 148.691
+      },
+      {
+       "w": "she's",
+       "start": 148.691,
+       "end": 148.968
+      },
+      {
+       "w": "still",
+       "start": 148.968,
+       "end": 149.296
+      },
+      {
+       "w": "locked",
+       "start": 149.296,
+       "end": 149.674
+      },
+      {
+       "w": "in",
+       "start": 149.674,
+       "end": 149.851
+      },
+      {
+       "w": "that",
+       "start": 149.851,
+       "end": 150.128
+      },
+      {
+       "w": "case.",
+       "start": 150.128,
+       "end": 150.405
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "annabelle/vo/line16.mp3",
+   "start": 150.555,
+   "dur": 7.706,
+   "sentences": [
+    {
+     "text": "Would you keep her in your house?",
+     "start": 150.555,
+     "end": 151.927,
+     "words": [
+      {
+       "w": "Would",
+       "start": 150.555,
+       "end": 150.8
+      },
+      {
+       "w": "you",
+       "start": 150.8,
+       "end": 150.969
+      },
+      {
+       "w": "keep",
+       "start": 150.969,
+       "end": 151.175
+      },
+      {
+       "w": "her",
+       "start": 151.175,
+       "end": 151.344
+      },
+      {
+       "w": "in",
+       "start": 151.344,
+       "end": 151.476
+      },
+      {
+       "w": "your",
+       "start": 151.476,
+       "end": 151.683
+      },
+      {
+       "w": "house?",
+       "start": 151.683,
+       "end": 151.927
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 152.224,
+     "end": 153.143,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 152.224,
+       "end": 152.415
+      },
+      {
+       "w": "me",
+       "start": 152.415,
+       "end": 152.536
+      },
+      {
+       "w": "in",
+       "start": 152.536,
+       "end": 152.657
+      },
+      {
+       "w": "the",
+       "start": 152.657,
+       "end": 152.813
+      },
+      {
+       "w": "comments.",
+       "start": 152.813,
+       "end": 153.143
+      }
+     ]
+    },
+    {
+     "text": "And watch our Room 1046 short.",
+     "start": 153.448,
+     "end": 155.697,
+     "words": [
+      {
+       "w": "And",
+       "start": 153.448,
+       "end": 153.701
+      },
+      {
+       "w": "watch",
+       "start": 153.701,
+       "end": 154.066
+      },
+      {
+       "w": "our",
+       "start": 154.066,
+       "end": 154.319
+      },
+      {
+       "w": "Room",
+       "start": 154.319,
+       "end": 154.628
+      },
+      {
+       "w": "1046",
+       "start": 154.628,
+       "end": 155.331
+      },
+      {
+       "w": "short.",
+       "start": 155.331,
+       "end": 155.697
+      }
+     ]
+    },
+    {
+     "text": "A mystery that's still unsolved.",
+     "start": 156.007,
+     "end": 158.043,
+     "words": [
+      {
+       "w": "A",
+       "start": 156.007,
+       "end": 156.159
+      },
+      {
+       "w": "mystery",
+       "start": 156.159,
+       "end": 156.675
+      },
+      {
+       "w": "that's",
+       "start": 156.675,
+       "end": 157.07
+      },
+      {
+       "w": "still",
+       "start": 157.07,
+       "end": 157.465
+      },
+      {
+       "w": "unsolved.",
+       "start": 157.465,
+       "end": 158.043
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

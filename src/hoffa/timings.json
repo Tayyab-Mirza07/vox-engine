@@ -1,0 +1,2697 @@
+{
+ "total": 176.034,
+ "lines": [
+  {
+   "index": 0,
+   "file": "hoffa/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 11.938,
+   "sentences": [
+    {
+     "text": "The most powerful union boss in America walked into a restaurant parking lot near Detroit, and vanished.",
+     "start": 0.25,
+     "end": 6.252,
+     "words": [
+      {
+       "w": "The",
+       "start": 0.25,
+       "end": 0.469
+      },
+      {
+       "w": "most",
+       "start": 0.469,
+       "end": 0.736
+      },
+      {
+       "w": "powerful",
+       "start": 0.736,
+       "end": 1.198
+      },
+      {
+       "w": "union",
+       "start": 1.198,
+       "end": 1.514
+      },
+      {
+       "w": "boss",
+       "start": 1.514,
+       "end": 1.781
+      },
+      {
+       "w": "in",
+       "start": 1.781,
+       "end": 1.951
+      },
+      {
+       "w": "America",
+       "start": 1.951,
+       "end": 2.365
+      },
+      {
+       "w": "walked",
+       "start": 2.365,
+       "end": 2.729
+      },
+      {
+       "w": "into",
+       "start": 2.729,
+       "end": 2.996
+      },
+      {
+       "w": "a",
+       "start": 2.996,
+       "end": 3.118
+      },
+      {
+       "w": "restaurant",
+       "start": 3.118,
+       "end": 3.677
+      },
+      {
+       "w": "parking",
+       "start": 3.677,
+       "end": 4.09
+      },
+      {
+       "w": "lot",
+       "start": 4.09,
+       "end": 4.309
+      },
+      {
+       "w": "near",
+       "start": 4.309,
+       "end": 4.576
+      },
+      {
+       "w": "Detroit,",
+       "start": 4.576,
+       "end": 4.99
+      },
+      {
+       "w": "and",
+       "start": 5.478,
+       "end": 5.727
+      },
+      {
+       "w": "vanished.",
+       "start": 5.727,
+       "end": 6.252
+      }
+     ]
+    },
+    {
+     "text": "No body.",
+     "start": 6.682,
+     "end": 7.364,
+     "words": [
+      {
+       "w": "No",
+       "start": 6.682,
+       "end": 6.947
+      },
+      {
+       "w": "body.",
+       "start": 6.947,
+       "end": 7.364
+      }
+     ]
+    },
+    {
+     "text": "No witness.",
+     "start": 7.693,
+     "end": 8.53,
+     "words": [
+      {
+       "w": "No",
+       "start": 7.693,
+       "end": 7.937
+      },
+      {
+       "w": "witness.",
+       "start": 7.937,
+       "end": 8.53
+      }
+     ]
+    },
+    {
+     "text": "Fifty years later, the FBI is still digging.",
+     "start": 8.945,
+     "end": 11.882,
+     "words": [
+      {
+       "w": "Fifty",
+       "start": 8.945,
+       "end": 9.281
+      },
+      {
+       "w": "years",
+       "start": 9.281,
+       "end": 9.617
+      },
+      {
+       "w": "later,",
+       "start": 9.617,
+       "end": 9.953
+      },
+      {
+       "w": "the",
+       "start": 10.106,
+       "end": 10.396
+      },
+      {
+       "w": "FBI",
+       "start": 10.396,
+       "end": 10.687
+      },
+      {
+       "w": "is",
+       "start": 10.687,
+       "end": 10.913
+      },
+      {
+       "w": "still",
+       "start": 10.913,
+       "end": 11.333
+      },
+      {
+       "w": "digging.",
+       "start": 11.333,
+       "end": 11.882
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "hoffa/vo/line1.mp3",
+   "start": 12.338,
+   "dur": 10.214,
+   "sentences": [
+    {
+     "text": "His name was Jimmy Hoffa.",
+     "start": 12.338,
+     "end": 14.088,
+     "words": [
+      {
+       "w": "His",
+       "start": 12.338,
+       "end": 12.624
+      },
+      {
+       "w": "name",
+       "start": 12.624,
+       "end": 12.974
+      },
+      {
+       "w": "was",
+       "start": 12.974,
+       "end": 13.261
+      },
+      {
+       "w": "Jimmy",
+       "start": 13.261,
+       "end": 13.674
+      },
+      {
+       "w": "Hoffa.",
+       "start": 13.674,
+       "end": 14.088
+      }
+     ]
+    },
+    {
+     "text": "He ran the Teamsters, a union of more than a million truck drivers.",
+     "start": 14.567,
+     "end": 18.415,
+     "words": [
+      {
+       "w": "He",
+       "start": 14.567,
+       "end": 14.749
+      },
+      {
+       "w": "ran",
+       "start": 14.749,
+       "end": 14.984
+      },
+      {
+       "w": "the",
+       "start": 14.984,
+       "end": 15.218
+      },
+      {
+       "w": "Teamsters,",
+       "start": 15.218,
+       "end": 15.765
+      },
+      {
+       "w": "a",
+       "start": 15.996,
+       "end": 16.118
+      },
+      {
+       "w": "union",
+       "start": 16.118,
+       "end": 16.436
+      },
+      {
+       "w": "of",
+       "start": 16.436,
+       "end": 16.607
+      },
+      {
+       "w": "more",
+       "start": 16.607,
+       "end": 16.876
+      },
+      {
+       "w": "than",
+       "start": 16.876,
+       "end": 17.144
+      },
+      {
+       "w": "a",
+       "start": 17.144,
+       "end": 17.267
+      },
+      {
+       "w": "million",
+       "start": 17.267,
+       "end": 17.682
+      },
+      {
+       "w": "truck",
+       "start": 17.682,
+       "end": 18
+      },
+      {
+       "w": "drivers.",
+       "start": 18,
+       "end": 18.415
+      }
+     ]
+    },
+    {
+     "text": "When Hoffa said stop, America's trucks stopped.",
+     "start": 18.828,
+     "end": 22.354,
+     "words": [
+      {
+       "w": "When",
+       "start": 18.828,
+       "end": 19.16
+      },
+      {
+       "w": "Hoffa",
+       "start": 19.16,
+       "end": 19.552
+      },
+      {
+       "w": "said",
+       "start": 19.552,
+       "end": 19.884
+      },
+      {
+       "w": "stop,",
+       "start": 19.884,
+       "end": 20.215
+      },
+      {
+       "w": "America's",
+       "start": 20.603,
+       "end": 21.255
+      },
+      {
+       "w": "trucks",
+       "start": 21.255,
+       "end": 21.77
+      },
+      {
+       "w": "stopped.",
+       "start": 21.77,
+       "end": 22.354
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "hoffa/vo/line2.mp3",
+   "start": 22.702,
+   "dur": 9.378,
+   "sentences": [
+    {
+     "text": "But that power came with friends in very dark places.",
+     "start": 22.702,
+     "end": 26.233,
+     "words": [
+      {
+       "w": "But",
+       "start": 22.702,
+       "end": 22.976
+      },
+      {
+       "w": "that",
+       "start": 22.976,
+       "end": 23.311
+      },
+      {
+       "w": "power",
+       "start": 23.311,
+       "end": 23.707
+      },
+      {
+       "w": "came",
+       "start": 23.707,
+       "end": 24.041
+      },
+      {
+       "w": "with",
+       "start": 24.041,
+       "end": 24.376
+      },
+      {
+       "w": "friends",
+       "start": 24.376,
+       "end": 24.894
+      },
+      {
+       "w": "in",
+       "start": 24.894,
+       "end": 25.107
+      },
+      {
+       "w": "very",
+       "start": 25.107,
+       "end": 25.442
+      },
+      {
+       "w": "dark",
+       "start": 25.442,
+       "end": 25.777
+      },
+      {
+       "w": "places.",
+       "start": 25.777,
+       "end": 26.233
+      }
+     ]
+    },
+    {
+     "text": "The mob borrowed millions from the union's pension fund, and Hoffa kept the money flowing.",
+     "start": 26.727,
+     "end": 31.861,
+     "words": [
+      {
+       "w": "The",
+       "start": 26.727,
+       "end": 26.94
+      },
+      {
+       "w": "mob",
+       "start": 26.94,
+       "end": 27.154
+      },
+      {
+       "w": "borrowed",
+       "start": 27.154,
+       "end": 27.605
+      },
+      {
+       "w": "millions",
+       "start": 27.605,
+       "end": 28.056
+      },
+      {
+       "w": "from",
+       "start": 28.056,
+       "end": 28.317
+      },
+      {
+       "w": "the",
+       "start": 28.317,
+       "end": 28.53
+      },
+      {
+       "w": "union's",
+       "start": 28.53,
+       "end": 28.886
+      },
+      {
+       "w": "pension",
+       "start": 28.886,
+       "end": 29.289
+      },
+      {
+       "w": "fund,",
+       "start": 29.289,
+       "end": 29.55
+      },
+      {
+       "w": "and",
+       "start": 29.947,
+       "end": 30.187
+      },
+      {
+       "w": "Hoffa",
+       "start": 30.187,
+       "end": 30.532
+      },
+      {
+       "w": "kept",
+       "start": 30.532,
+       "end": 30.825
+      },
+      {
+       "w": "the",
+       "start": 30.825,
+       "end": 31.064
+      },
+      {
+       "w": "money",
+       "start": 31.064,
+       "end": 31.409
+      },
+      {
+       "w": "flowing.",
+       "start": 31.409,
+       "end": 31.861
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "hoffa/vo/line3.mp3",
+   "start": 32.23,
+   "dur": 8.464,
+   "sentences": [
+    {
+     "text": "One man swore to bring him down.",
+     "start": 32.23,
+     "end": 34.457,
+     "words": [
+      {
+       "w": "One",
+       "start": 32.23,
+       "end": 32.512
+      },
+      {
+       "w": "man",
+       "start": 32.512,
+       "end": 32.794
+      },
+      {
+       "w": "swore",
+       "start": 32.794,
+       "end": 33.202
+      },
+      {
+       "w": "to",
+       "start": 33.202,
+       "end": 33.422
+      },
+      {
+       "w": "bring",
+       "start": 33.422,
+       "end": 33.83
+      },
+      {
+       "w": "him",
+       "start": 33.83,
+       "end": 34.112
+      },
+      {
+       "w": "down.",
+       "start": 34.112,
+       "end": 34.457
+      }
+     ]
+    },
+    {
+     "text": "A young Senate lawyer named Robert Kennedy.",
+     "start": 34.974,
+     "end": 37.303,
+     "words": [
+      {
+       "w": "A",
+       "start": 34.974,
+       "end": 35.099
+      },
+      {
+       "w": "young",
+       "start": 35.099,
+       "end": 35.425
+      },
+      {
+       "w": "Senate",
+       "start": 35.425,
+       "end": 35.801
+      },
+      {
+       "w": "lawyer",
+       "start": 35.801,
+       "end": 36.176
+      },
+      {
+       "w": "named",
+       "start": 36.176,
+       "end": 36.502
+      },
+      {
+       "w": "Robert",
+       "start": 36.502,
+       "end": 36.877
+      },
+      {
+       "w": "Kennedy.",
+       "start": 36.877,
+       "end": 37.303
+      }
+     ]
+    },
+    {
+     "text": "Their war played out on national television.",
+     "start": 37.755,
+     "end": 40.454,
+     "words": [
+      {
+       "w": "Their",
+       "start": 37.755,
+       "end": 38.125
+      },
+      {
+       "w": "war",
+       "start": 38.125,
+       "end": 38.38
+      },
+      {
+       "w": "played",
+       "start": 38.38,
+       "end": 38.806
+      },
+      {
+       "w": "out",
+       "start": 38.806,
+       "end": 39.062
+      },
+      {
+       "w": "on",
+       "start": 39.062,
+       "end": 39.261
+      },
+      {
+       "w": "national",
+       "start": 39.261,
+       "end": 39.801
+      },
+      {
+       "w": "television.",
+       "start": 39.801,
+       "end": 40.454
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "hoffa/vo/line4.mp3",
+   "start": 40.843,
+   "dur": 8.751,
+   "sentences": [
+    {
+     "text": "Kennedy won.",
+     "start": 40.843,
+     "end": 41.689,
+     "words": [
+      {
+       "w": "Kennedy",
+       "start": 40.843,
+       "end": 41.396
+      },
+      {
+       "w": "won.",
+       "start": 41.396,
+       "end": 41.689
+      }
+     ]
+    },
+    {
+     "text": "In 1967, Hoffa walked into federal prison for jury tampering and fraud.",
+     "start": 42.228,
+     "end": 47.195,
+     "words": [
+      {
+       "w": "In",
+       "start": 42.228,
+       "end": 42.741
+      },
+      {
+       "w": "1967,",
+       "start": 42.741,
+       "end": 43.549
+      },
+      {
+       "w": "Hoffa",
+       "start": 43.753,
+       "end": 44.086
+      },
+      {
+       "w": "walked",
+       "start": 44.086,
+       "end": 44.472
+      },
+      {
+       "w": "into",
+       "start": 44.472,
+       "end": 44.754
+      },
+      {
+       "w": "federal",
+       "start": 44.754,
+       "end": 45.191
+      },
+      {
+       "w": "prison",
+       "start": 45.191,
+       "end": 45.576
+      },
+      {
+       "w": "for",
+       "start": 45.576,
+       "end": 45.808
+      },
+      {
+       "w": "jury",
+       "start": 45.808,
+       "end": 46.09
+      },
+      {
+       "w": "tampering",
+       "start": 46.09,
+       "end": 46.63
+      },
+      {
+       "w": "and",
+       "start": 46.63,
+       "end": 46.861
+      },
+      {
+       "w": "fraud.",
+       "start": 46.861,
+       "end": 47.195
+      }
+     ]
+    },
+    {
+     "text": "A thirteen-year sentence.",
+     "start": 47.65,
+     "end": 49.304,
+     "words": [
+      {
+       "w": "A",
+       "start": 47.65,
+       "end": 47.812
+      },
+      {
+       "w": "thirteen-year",
+       "start": 47.812,
+       "end": 48.688
+      },
+      {
+       "w": "sentence.",
+       "start": 48.688,
+       "end": 49.304
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "hoffa/vo/line5.mp3",
+   "start": 49.744,
+   "dur": 7.811,
+   "sentences": [
+    {
+     "text": "Four years later, President Nixon set him free.",
+     "start": 49.744,
+     "end": 52.657,
+     "words": [
+      {
+       "w": "Four",
+       "start": 49.744,
+       "end": 50.026
+      },
+      {
+       "w": "years",
+       "start": 50.026,
+       "end": 50.358
+      },
+      {
+       "w": "later,",
+       "start": 50.358,
+       "end": 50.69
+      },
+      {
+       "w": "President",
+       "start": 51.049,
+       "end": 51.585
+      },
+      {
+       "w": "Nixon",
+       "start": 51.585,
+       "end": 51.917
+      },
+      {
+       "w": "set",
+       "start": 51.917,
+       "end": 52.147
+      },
+      {
+       "w": "him",
+       "start": 52.147,
+       "end": 52.377
+      },
+      {
+       "w": "free.",
+       "start": 52.377,
+       "end": 52.657
+      }
+     ]
+    },
+    {
+     "text": "With one condition.",
+     "start": 53.172,
+     "end": 54.312,
+     "words": [
+      {
+       "w": "With",
+       "start": 53.172,
+       "end": 53.478
+      },
+      {
+       "w": "one",
+       "start": 53.478,
+       "end": 53.728
+      },
+      {
+       "w": "condition.",
+       "start": 53.728,
+       "end": 54.312
+      }
+     ]
+    },
+    {
+     "text": "No union business until 1980.",
+     "start": 54.757,
+     "end": 57.315,
+     "words": [
+      {
+       "w": "No",
+       "start": 54.757,
+       "end": 55.041
+      },
+      {
+       "w": "union",
+       "start": 55.041,
+       "end": 55.569
+      },
+      {
+       "w": "business",
+       "start": 55.569,
+       "end": 56.34
+      },
+      {
+       "w": "until",
+       "start": 56.34,
+       "end": 56.868
+      },
+      {
+       "w": "1980.",
+       "start": 56.868,
+       "end": 57.315
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "hoffa/vo/line6.mp3",
+   "start": 57.705,
+   "dur": 9.665,
+   "sentences": [
+    {
+     "text": "Hoffa didn't care.",
+     "start": 57.705,
+     "end": 58.873,
+     "words": [
+      {
+       "w": "Hoffa",
+       "start": 57.705,
+       "end": 58.115
+      },
+      {
+       "w": "didn't",
+       "start": 58.115,
+       "end": 58.525
+      },
+      {
+       "w": "care.",
+       "start": 58.525,
+       "end": 58.873
+      }
+     ]
+    },
+    {
+     "text": "He wanted his throne back.",
+     "start": 59.377,
+     "end": 60.804,
+     "words": [
+      {
+       "w": "He",
+       "start": 59.377,
+       "end": 59.552
+      },
+      {
+       "w": "wanted",
+       "start": 59.552,
+       "end": 59.928
+      },
+      {
+       "w": "his",
+       "start": 59.928,
+       "end": 60.153
+      },
+      {
+       "w": "throne",
+       "start": 60.153,
+       "end": 60.529
+      },
+      {
+       "w": "back.",
+       "start": 60.529,
+       "end": 60.804
+      }
+     ]
+    },
+    {
+     "text": "But the men who had taken his place, and their friends in the mob, did not want him back.",
+     "start": 61.261,
+     "end": 67.03,
+     "words": [
+      {
+       "w": "But",
+       "start": 61.261,
+       "end": 61.498
+      },
+      {
+       "w": "the",
+       "start": 61.498,
+       "end": 61.735
+      },
+      {
+       "w": "men",
+       "start": 61.735,
+       "end": 61.971
+      },
+      {
+       "w": "who",
+       "start": 61.971,
+       "end": 62.208
+      },
+      {
+       "w": "had",
+       "start": 62.208,
+       "end": 62.445
+      },
+      {
+       "w": "taken",
+       "start": 62.445,
+       "end": 62.786
+      },
+      {
+       "w": "his",
+       "start": 62.786,
+       "end": 63.023
+      },
+      {
+       "w": "place,",
+       "start": 63.023,
+       "end": 63.365
+      },
+      {
+       "w": "and",
+       "start": 63.79,
+       "end": 63.979
+      },
+      {
+       "w": "their",
+       "start": 63.979,
+       "end": 64.253
+      },
+      {
+       "w": "friends",
+       "start": 64.253,
+       "end": 64.611
+      },
+      {
+       "w": "in",
+       "start": 64.611,
+       "end": 64.759
+      },
+      {
+       "w": "the",
+       "start": 64.759,
+       "end": 64.948
+      },
+      {
+       "w": "mob,",
+       "start": 64.948,
+       "end": 65.138
+      },
+      {
+       "w": "did",
+       "start": 65.639,
+       "end": 65.895
+      },
+      {
+       "w": "not",
+       "start": 65.895,
+       "end": 66.15
+      },
+      {
+       "w": "want",
+       "start": 66.15,
+       "end": 66.462
+      },
+      {
+       "w": "him",
+       "start": 66.462,
+       "end": 66.718
+      },
+      {
+       "w": "back.",
+       "start": 66.718,
+       "end": 67.03
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "hoffa/vo/line7.mp3",
+   "start": 67.52,
+   "dur": 11.807,
+   "sentences": [
+    {
+     "text": "July 30th, 1975.",
+     "start": 67.52,
+     "end": 69.879,
+     "words": [
+      {
+       "w": "July",
+       "start": 67.52,
+       "end": 68.307
+      },
+      {
+       "w": "30th,",
+       "start": 68.307,
+       "end": 69.093
+      },
+      {
+       "w": "1975.",
+       "start": 69.093,
+       "end": 69.879
+      }
+     ]
+    },
+    {
+     "text": "Hoffa told his family he was meeting two men at the Machus Red Fox restaurant.",
+     "start": 70.335,
+     "end": 74.685,
+     "words": [
+      {
+       "w": "Hoffa",
+       "start": 70.335,
+       "end": 70.665
+      },
+      {
+       "w": "told",
+       "start": 70.665,
+       "end": 70.945
+      },
+      {
+       "w": "his",
+       "start": 70.945,
+       "end": 71.174
+      },
+      {
+       "w": "family",
+       "start": 71.174,
+       "end": 71.556
+      },
+      {
+       "w": "he",
+       "start": 71.556,
+       "end": 71.734
+      },
+      {
+       "w": "was",
+       "start": 71.734,
+       "end": 71.963
+      },
+      {
+       "w": "meeting",
+       "start": 71.963,
+       "end": 72.395
+      },
+      {
+       "w": "two",
+       "start": 72.395,
+       "end": 72.624
+      },
+      {
+       "w": "men",
+       "start": 72.624,
+       "end": 72.853
+      },
+      {
+       "w": "at",
+       "start": 72.853,
+       "end": 73.031
+      },
+      {
+       "w": "the",
+       "start": 73.031,
+       "end": 73.26
+      },
+      {
+       "w": "Machus",
+       "start": 73.26,
+       "end": 73.642
+      },
+      {
+       "w": "Red",
+       "start": 73.642,
+       "end": 73.871
+      },
+      {
+       "w": "Fox",
+       "start": 73.871,
+       "end": 74.1
+      },
+      {
+       "w": "restaurant.",
+       "start": 74.1,
+       "end": 74.685
+      }
+     ]
+    },
+    {
+     "text": "A Detroit mobster, and a New Jersey union boss with mob ties.",
+     "start": 75.158,
+     "end": 79.132,
+     "words": [
+      {
+       "w": "A",
+       "start": 75.158,
+       "end": 75.295
+      },
+      {
+       "w": "Detroit",
+       "start": 75.295,
+       "end": 75.759
+      },
+      {
+       "w": "mobster,",
+       "start": 75.759,
+       "end": 76.224
+      },
+      {
+       "w": "and",
+       "start": 76.538,
+       "end": 76.789
+      },
+      {
+       "w": "a",
+       "start": 76.789,
+       "end": 76.929
+      },
+      {
+       "w": "New",
+       "start": 76.929,
+       "end": 77.18
+      },
+      {
+       "w": "Jersey",
+       "start": 77.18,
+       "end": 77.598
+      },
+      {
+       "w": "union",
+       "start": 77.598,
+       "end": 77.961
+      },
+      {
+       "w": "boss",
+       "start": 77.961,
+       "end": 78.268
+      },
+      {
+       "w": "with",
+       "start": 78.268,
+       "end": 78.575
+      },
+      {
+       "w": "mob",
+       "start": 78.575,
+       "end": 78.826
+      },
+      {
+       "w": "ties.",
+       "start": 78.826,
+       "end": 79.132
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "hoffa/vo/line8.mp3",
+   "start": 79.478,
+   "dur": 8.046,
+   "sentences": [
+    {
+     "text": "He got there at two o'clock.",
+     "start": 79.478,
+     "end": 80.996,
+     "words": [
+      {
+       "w": "He",
+       "start": 79.478,
+       "end": 79.655
+      },
+      {
+       "w": "got",
+       "start": 79.655,
+       "end": 79.883
+      },
+      {
+       "w": "there",
+       "start": 79.883,
+       "end": 80.212
+      },
+      {
+       "w": "at",
+       "start": 80.212,
+       "end": 80.389
+      },
+      {
+       "w": "two",
+       "start": 80.389,
+       "end": 80.617
+      },
+      {
+       "w": "o'clock.",
+       "start": 80.617,
+       "end": 80.996
+      }
+     ]
+    },
+    {
+     "text": "Nobody showed up.",
+     "start": 81.384,
+     "end": 82.387,
+     "words": [
+      {
+       "w": "Nobody",
+       "start": 81.384,
+       "end": 81.791
+      },
+      {
+       "w": "showed",
+       "start": 81.791,
+       "end": 82.197
+      },
+      {
+       "w": "up.",
+       "start": 82.197,
+       "end": 82.387
+      }
+     ]
+    },
+    {
+     "text": "He called his wife from a pay phone, annoyed.",
+     "start": 82.888,
+     "end": 85.37,
+     "words": [
+      {
+       "w": "He",
+       "start": 82.888,
+       "end": 83.067
+      },
+      {
+       "w": "called",
+       "start": 83.067,
+       "end": 83.451
+      },
+      {
+       "w": "his",
+       "start": 83.451,
+       "end": 83.681
+      },
+      {
+       "w": "wife",
+       "start": 83.681,
+       "end": 83.963
+      },
+      {
+       "w": "from",
+       "start": 83.963,
+       "end": 84.244
+      },
+      {
+       "w": "a",
+       "start": 84.244,
+       "end": 84.372
+      },
+      {
+       "w": "pay",
+       "start": 84.372,
+       "end": 84.603
+      },
+      {
+       "w": "phone,",
+       "start": 84.603,
+       "end": 84.935
+      },
+      {
+       "w": "annoyed.",
+       "start": 84.935,
+       "end": 85.37
+      }
+     ]
+    },
+    {
+     "text": "He was being stood up.",
+     "start": 85.787,
+     "end": 87.195,
+     "words": [
+      {
+       "w": "He",
+       "start": 85.787,
+       "end": 85.988
+      },
+      {
+       "w": "was",
+       "start": 85.988,
+       "end": 86.247
+      },
+      {
+       "w": "being",
+       "start": 86.247,
+       "end": 86.62
+      },
+      {
+       "w": "stood",
+       "start": 86.62,
+       "end": 86.993
+      },
+      {
+       "w": "up.",
+       "start": 86.993,
+       "end": 87.195
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "hoffa/vo/line9.mp3",
+   "start": 87.673,
+   "dur": 6.531,
+   "sentences": [
+    {
+     "text": "Around a quarter to three, Jimmy Hoffa was last seen in that parking lot.",
+     "start": 87.673,
+     "end": 92.643,
+     "words": [
+      {
+       "w": "Around",
+       "start": 87.673,
+       "end": 88.128
+      },
+      {
+       "w": "a",
+       "start": 88.128,
+       "end": 88.28
+      },
+      {
+       "w": "quarter",
+       "start": 88.28,
+       "end": 88.795
+      },
+      {
+       "w": "to",
+       "start": 88.795,
+       "end": 89.007
+      },
+      {
+       "w": "three,",
+       "start": 89.007,
+       "end": 89.401
+      },
+      {
+       "w": "Jimmy",
+       "start": 89.843,
+       "end": 90.203
+      },
+      {
+       "w": "Hoffa",
+       "start": 90.203,
+       "end": 90.563
+      },
+      {
+       "w": "was",
+       "start": 90.563,
+       "end": 90.813
+      },
+      {
+       "w": "last",
+       "start": 90.813,
+       "end": 91.118
+      },
+      {
+       "w": "seen",
+       "start": 91.118,
+       "end": 91.423
+      },
+      {
+       "w": "in",
+       "start": 91.423,
+       "end": 91.617
+      },
+      {
+       "w": "that",
+       "start": 91.617,
+       "end": 91.922
+      },
+      {
+       "w": "parking",
+       "start": 91.922,
+       "end": 92.393
+      },
+      {
+       "w": "lot.",
+       "start": 92.393,
+       "end": 92.643
+      }
+     ]
+    },
+    {
+     "text": "Then he was gone.",
+     "start": 93.16,
+     "end": 93.967,
+     "words": [
+      {
+       "w": "Then",
+       "start": 93.16,
+       "end": 93.393
+      },
+      {
+       "w": "he",
+       "start": 93.393,
+       "end": 93.542
+      },
+      {
+       "w": "was",
+       "start": 93.542,
+       "end": 93.733
+      },
+      {
+       "w": "gone.",
+       "start": 93.733,
+       "end": 93.967
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "hoffa/vo/line10.mp3",
+   "start": 94.354,
+   "dur": 5.669,
+   "sentences": [
+    {
+     "text": "His green Pontiac was found right there.",
+     "start": 94.354,
+     "end": 96.532,
+     "words": [
+      {
+       "w": "His",
+       "start": 94.354,
+       "end": 94.579
+      },
+      {
+       "w": "green",
+       "start": 94.579,
+       "end": 94.905
+      },
+      {
+       "w": "Pontiac",
+       "start": 94.905,
+       "end": 95.331
+      },
+      {
+       "w": "was",
+       "start": 95.331,
+       "end": 95.556
+      },
+      {
+       "w": "found",
+       "start": 95.556,
+       "end": 95.881
+      },
+      {
+       "w": "right",
+       "start": 95.881,
+       "end": 96.207
+      },
+      {
+       "w": "there.",
+       "start": 96.207,
+       "end": 96.532
+      }
+     ]
+    },
+    {
+     "text": "Unlocked.",
+     "start": 97.043,
+     "end": 97.59,
+     "words": [
+      {
+       "w": "Unlocked.",
+       "start": 97.043,
+       "end": 97.59
+      }
+     ]
+    },
+    {
+     "text": "No struggle.",
+     "start": 97.958,
+     "end": 98.651,
+     "words": [
+      {
+       "w": "No",
+       "start": 97.958,
+       "end": 98.144
+      },
+      {
+       "w": "struggle.",
+       "start": 98.144,
+       "end": 98.651
+      }
+     ]
+    },
+    {
+     "text": "No Hoffa.",
+     "start": 99.052,
+     "end": 99.722,
+     "words": [
+      {
+       "w": "No",
+       "start": 99.052,
+       "end": 99.286
+      },
+      {
+       "w": "Hoffa.",
+       "start": 99.286,
+       "end": 99.722
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "hoffa/vo/line11.mp3",
+   "start": 100.173,
+   "dur": 4.075,
+   "sentences": [
+    {
+     "text": "And then the FBI found something in a different car.",
+     "start": 100.173,
+     "end": 104.248,
+     "words": [
+      {
+       "w": "And",
+       "start": 100.173,
+       "end": 100.494
+      },
+      {
+       "w": "then",
+       "start": 100.494,
+       "end": 100.888
+      },
+      {
+       "w": "the",
+       "start": 100.888,
+       "end": 101.209
+      },
+      {
+       "w": "FBI",
+       "start": 101.209,
+       "end": 101.531
+      },
+      {
+       "w": "found",
+       "start": 101.531,
+       "end": 101.996
+      },
+      {
+       "w": "something",
+       "start": 101.996,
+       "end": 102.746
+      },
+      {
+       "w": "in",
+       "start": 102.746,
+       "end": 102.997
+      },
+      {
+       "w": "a",
+       "start": 102.997,
+       "end": 103.175
+      },
+      {
+       "w": "different",
+       "start": 103.175,
+       "end": 103.926
+      },
+      {
+       "w": "car.",
+       "start": 103.926,
+       "end": 104.248
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "hoffa/vo/line12.mp3",
+   "start": 104.398,
+   "dur": 12.669,
+   "sentences": [
+    {
+     "text": "A maroon Mercury, borrowed that day by Hoffa's own foster son, Chuckie O'Brien.",
+     "start": 104.398,
+     "end": 109.455,
+     "words": [
+      {
+       "w": "A",
+       "start": 104.398,
+       "end": 104.545
+      },
+      {
+       "w": "maroon",
+       "start": 104.545,
+       "end": 104.987
+      },
+      {
+       "w": "Mercury,",
+       "start": 104.987,
+       "end": 105.487
+      },
+      {
+       "w": "borrowed",
+       "start": 105.814,
+       "end": 106.349
+      },
+      {
+       "w": "that",
+       "start": 106.349,
+       "end": 106.659
+      },
+      {
+       "w": "day",
+       "start": 106.659,
+       "end": 106.913
+      },
+      {
+       "w": "by",
+       "start": 106.913,
+       "end": 107.11
+      },
+      {
+       "w": "Hoffa's",
+       "start": 107.11,
+       "end": 107.532
+      },
+      {
+       "w": "own",
+       "start": 107.532,
+       "end": 107.786
+      },
+      {
+       "w": "foster",
+       "start": 107.786,
+       "end": 108.208
+      },
+      {
+       "w": "son,",
+       "start": 108.208,
+       "end": 108.462
+      },
+      {
+       "w": "Chuckie",
+       "start": 108.462,
+       "end": 108.989
+      },
+      {
+       "w": "O'Brien.",
+       "start": 108.989,
+       "end": 109.455
+      }
+     ]
+    },
+    {
+     "text": "Police dogs picked up Hoffa's scent in the back seat.",
+     "start": 109.979,
+     "end": 112.696,
+     "words": [
+      {
+       "w": "Police",
+       "start": 109.979,
+       "end": 110.337
+      },
+      {
+       "w": "dogs",
+       "start": 110.337,
+       "end": 110.599
+      },
+      {
+       "w": "picked",
+       "start": 110.599,
+       "end": 110.956
+      },
+      {
+       "w": "up",
+       "start": 110.956,
+       "end": 111.123
+      },
+      {
+       "w": "Hoffa's",
+       "start": 111.123,
+       "end": 111.481
+      },
+      {
+       "w": "scent",
+       "start": 111.481,
+       "end": 111.79
+      },
+      {
+       "w": "in",
+       "start": 111.79,
+       "end": 111.957
+      },
+      {
+       "w": "the",
+       "start": 111.957,
+       "end": 112.172
+      },
+      {
+       "w": "back",
+       "start": 112.172,
+       "end": 112.434
+      },
+      {
+       "w": "seat.",
+       "start": 112.434,
+       "end": 112.696
+      }
+     ]
+    },
+    {
+     "text": "Years later, a hair from that car matched Hoffa's DNA.",
+     "start": 113.07,
+     "end": 117.067,
+     "words": [
+      {
+       "w": "Years",
+       "start": 113.07,
+       "end": 113.471
+      },
+      {
+       "w": "later,",
+       "start": 113.471,
+       "end": 113.872
+      },
+      {
+       "w": "a",
+       "start": 114.093,
+       "end": 114.262
+      },
+      {
+       "w": "hair",
+       "start": 114.262,
+       "end": 114.634
+      },
+      {
+       "w": "from",
+       "start": 114.634,
+       "end": 115.006
+      },
+      {
+       "w": "that",
+       "start": 115.006,
+       "end": 115.377
+      },
+      {
+       "w": "car",
+       "start": 115.377,
+       "end": 115.681
+      },
+      {
+       "w": "matched",
+       "start": 115.681,
+       "end": 116.256
+      },
+      {
+       "w": "Hoffa's",
+       "start": 116.256,
+       "end": 116.763
+      },
+      {
+       "w": "DNA.",
+       "start": 116.763,
+       "end": 117.067
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "hoffa/vo/line13.mp3",
+   "start": 117.217,
+   "dur": 5.224,
+   "sentences": [
+    {
+     "text": "O'Brien swore he was innocent until the day he died.",
+     "start": 117.217,
+     "end": 120.502,
+     "words": [
+      {
+       "w": "O'Brien",
+       "start": 117.217,
+       "end": 117.657
+      },
+      {
+       "w": "swore",
+       "start": 117.657,
+       "end": 118.038
+      },
+      {
+       "w": "he",
+       "start": 118.038,
+       "end": 118.244
+      },
+      {
+       "w": "was",
+       "start": 118.244,
+       "end": 118.508
+      },
+      {
+       "w": "innocent",
+       "start": 118.508,
+       "end": 119.065
+      },
+      {
+       "w": "until",
+       "start": 119.065,
+       "end": 119.446
+      },
+      {
+       "w": "the",
+       "start": 119.446,
+       "end": 119.71
+      },
+      {
+       "w": "day",
+       "start": 119.71,
+       "end": 119.974
+      },
+      {
+       "w": "he",
+       "start": 119.974,
+       "end": 120.18
+      },
+      {
+       "w": "died.",
+       "start": 120.18,
+       "end": 120.502
+      }
+     ]
+    },
+    {
+     "text": "He was never charged.",
+     "start": 121.012,
+     "end": 122.167,
+     "words": [
+      {
+       "w": "He",
+       "start": 121.012,
+       "end": 121.188
+      },
+      {
+       "w": "was",
+       "start": 121.188,
+       "end": 121.414
+      },
+      {
+       "w": "never",
+       "start": 121.414,
+       "end": 121.74
+      },
+      {
+       "w": "charged.",
+       "start": 121.74,
+       "end": 122.167
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "hoffa/vo/line14.mp3",
+   "start": 122.592,
+   "dur": 14.733,
+   "sentences": [
+    {
+     "text": "So where is the body?",
+     "start": 122.592,
+     "end": 124.187,
+     "words": [
+      {
+       "w": "So",
+       "start": 122.592,
+       "end": 122.829
+      },
+      {
+       "w": "where",
+       "start": 122.829,
+       "end": 123.27
+      },
+      {
+       "w": "is",
+       "start": 123.27,
+       "end": 123.508
+      },
+      {
+       "w": "the",
+       "start": 123.508,
+       "end": 123.813
+      },
+      {
+       "w": "body?",
+       "start": 123.813,
+       "end": 124.187
+      }
+     ]
+    },
+    {
+     "text": "Rumors said Giants Stadium.",
+     "start": 124.7,
+     "end": 126.462,
+     "words": [
+      {
+       "w": "Rumors",
+       "start": 124.7,
+       "end": 125.156
+      },
+      {
+       "w": "said",
+       "start": 125.156,
+       "end": 125.49
+      },
+      {
+       "w": "Giants",
+       "start": 125.49,
+       "end": 125.946
+      },
+      {
+       "w": "Stadium.",
+       "start": 125.946,
+       "end": 126.462
+      }
+     ]
+    },
+    {
+     "text": "A car crusher.",
+     "start": 126.978,
+     "end": 127.848,
+     "words": [
+      {
+       "w": "A",
+       "start": 126.978,
+       "end": 127.119
+      },
+      {
+       "w": "car",
+       "start": 127.119,
+       "end": 127.371
+      },
+      {
+       "w": "crusher.",
+       "start": 127.371,
+       "end": 127.848
+      }
+     ]
+    },
+    {
+     "text": "A furnace.",
+     "start": 128.291,
+     "end": 129.026,
+     "words": [
+      {
+       "w": "A",
+       "start": 128.291,
+       "end": 128.458
+      },
+      {
+       "w": "furnace.",
+       "start": 128.458,
+       "end": 129.026
+      }
+     ]
+    },
+    {
+     "text": "A hitman named Frank Sheeran even confessed he shot Hoffa himself.",
+     "start": 129.497,
+     "end": 133.682,
+     "words": [
+      {
+       "w": "A",
+       "start": 129.497,
+       "end": 129.643
+      },
+      {
+       "w": "hitman",
+       "start": 129.643,
+       "end": 130.082
+      },
+      {
+       "w": "named",
+       "start": 130.082,
+       "end": 130.463
+      },
+      {
+       "w": "Frank",
+       "start": 130.463,
+       "end": 130.843
+      },
+      {
+       "w": "Sheeran",
+       "start": 130.843,
+       "end": 131.341
+      },
+      {
+       "w": "even",
+       "start": 131.341,
+       "end": 131.662
+      },
+      {
+       "w": "confessed",
+       "start": 131.662,
+       "end": 132.277
+      },
+      {
+       "w": "he",
+       "start": 132.277,
+       "end": 132.482
+      },
+      {
+       "w": "shot",
+       "start": 132.482,
+       "end": 132.804
+      },
+      {
+       "w": "Hoffa",
+       "start": 132.804,
+       "end": 133.184
+      },
+      {
+       "w": "himself.",
+       "start": 133.184,
+       "end": 133.682
+      }
+     ]
+    },
+    {
+     "text": "But the blood in that house wasn't Hoffa's.",
+     "start": 134.028,
+     "end": 137.079,
+     "words": [
+      {
+       "w": "But",
+       "start": 134.028,
+       "end": 134.333
+      },
+      {
+       "w": "the",
+       "start": 134.333,
+       "end": 134.638
+      },
+      {
+       "w": "blood",
+       "start": 134.638,
+       "end": 135.079
+      },
+      {
+       "w": "in",
+       "start": 135.079,
+       "end": 135.316
+      },
+      {
+       "w": "that",
+       "start": 135.316,
+       "end": 135.689
+      },
+      {
+       "w": "house",
+       "start": 135.689,
+       "end": 136.13
+      },
+      {
+       "w": "wasn't",
+       "start": 136.13,
+       "end": 136.571
+      },
+      {
+       "w": "Hoffa's.",
+       "start": 136.571,
+       "end": 137.079
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "hoffa/vo/line15.mp3",
+   "start": 137.475,
+   "dur": 11.598,
+   "sentences": [
+    {
+     "text": "The FBI dug up a horse farm, a driveway and a field in Michigan, and in 2022, the ground under a New Jersey bridge.",
+     "start": 137.475,
+     "end": 147.772,
+     "words": [
+      {
+       "w": "The",
+       "start": 137.475,
+       "end": 137.745
+      },
+      {
+       "w": "FBI",
+       "start": 137.745,
+       "end": 138.015
+      },
+      {
+       "w": "dug",
+       "start": 138.015,
+       "end": 138.286
+      },
+      {
+       "w": "up",
+       "start": 138.286,
+       "end": 138.496
+      },
+      {
+       "w": "a",
+       "start": 138.496,
+       "end": 138.646
+      },
+      {
+       "w": "horse",
+       "start": 138.646,
+       "end": 139.036
+      },
+      {
+       "w": "farm,",
+       "start": 139.036,
+       "end": 139.367
+      },
+      {
+       "w": "a",
+       "start": 139.523,
+       "end": 139.672
+      },
+      {
+       "w": "driveway",
+       "start": 139.672,
+       "end": 140.235
+      },
+      {
+       "w": "and",
+       "start": 140.235,
+       "end": 140.501
+      },
+      {
+       "w": "a",
+       "start": 140.501,
+       "end": 140.649
+      },
+      {
+       "w": "field",
+       "start": 140.649,
+       "end": 141.035
+      },
+      {
+       "w": "in",
+       "start": 141.035,
+       "end": 141.242
+      },
+      {
+       "w": "Michigan,",
+       "start": 141.242,
+       "end": 141.805
+      },
+      {
+       "w": "and",
+       "start": 142.128,
+       "end": 142.594
+      },
+      {
+       "w": "in",
+       "start": 142.594,
+       "end": 142.957
+      },
+      {
+       "w": "2022,",
+       "start": 142.957,
+       "end": 143.527
+      },
+      {
+       "w": "the",
+       "start": 143.755,
+       "end": 144.201
+      },
+      {
+       "w": "ground",
+       "start": 144.201,
+       "end": 144.945
+      },
+      {
+       "w": "under",
+       "start": 144.945,
+       "end": 145.59
+      },
+      {
+       "w": "a",
+       "start": 145.59,
+       "end": 145.838
+      },
+      {
+       "w": "New",
+       "start": 145.838,
+       "end": 146.284
+      },
+      {
+       "w": "Jersey",
+       "start": 146.284,
+       "end": 147.028
+      },
+      {
+       "w": "bridge.",
+       "start": 147.028,
+       "end": 147.772
+      }
+     ]
+    },
+    {
+     "text": "Every time, nothing.",
+     "start": 148.266,
+     "end": 148.808,
+     "words": [
+      {
+       "w": "Every",
+       "start": 148.266,
+       "end": 148.438
+      },
+      {
+       "w": "time,",
+       "start": 148.438,
+       "end": 148.584
+      },
+      {
+       "w": "nothing.",
+       "start": 148.584,
+       "end": 148.808
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "hoffa/vo/line16.mp3",
+   "start": 149.223,
+   "dur": 12.016,
+   "sentences": [
+    {
+     "text": "In 1982, Jimmy Hoffa was declared legally dead.",
+     "start": 149.223,
+     "end": 153.002,
+     "words": [
+      {
+       "w": "In",
+       "start": 149.223,
+       "end": 149.691
+      },
+      {
+       "w": "1982,",
+       "start": 149.691,
+       "end": 150.427
+      },
+      {
+       "w": "Jimmy",
+       "start": 150.693,
+       "end": 151.059
+      },
+      {
+       "w": "Hoffa",
+       "start": 151.059,
+       "end": 151.425
+      },
+      {
+       "w": "was",
+       "start": 151.425,
+       "end": 151.679
+      },
+      {
+       "w": "declared",
+       "start": 151.679,
+       "end": 152.213
+      },
+      {
+       "w": "legally",
+       "start": 152.213,
+       "end": 152.692
+      },
+      {
+       "w": "dead.",
+       "start": 152.692,
+       "end": 153.002
+      }
+     ]
+    },
+    {
+     "text": "The FBI believes the mob killed him, and the men who knew took the secret to their graves.",
+     "start": 153.504,
+     "end": 158.9,
+     "words": [
+      {
+       "w": "The",
+       "start": 153.504,
+       "end": 153.739
+      },
+      {
+       "w": "FBI",
+       "start": 153.739,
+       "end": 153.973
+      },
+      {
+       "w": "believes",
+       "start": 153.973,
+       "end": 154.468
+      },
+      {
+       "w": "the",
+       "start": 154.468,
+       "end": 154.703
+      },
+      {
+       "w": "mob",
+       "start": 154.703,
+       "end": 154.938
+      },
+      {
+       "w": "killed",
+       "start": 154.938,
+       "end": 155.329
+      },
+      {
+       "w": "him,",
+       "start": 155.329,
+       "end": 155.563
+      },
+      {
+       "w": "and",
+       "start": 156.071,
+       "end": 156.289
+      },
+      {
+       "w": "the",
+       "start": 156.289,
+       "end": 156.507
+      },
+      {
+       "w": "men",
+       "start": 156.507,
+       "end": 156.724
+      },
+      {
+       "w": "who",
+       "start": 156.724,
+       "end": 156.942
+      },
+      {
+       "w": "knew",
+       "start": 156.942,
+       "end": 157.208
+      },
+      {
+       "w": "took",
+       "start": 157.208,
+       "end": 157.474
+      },
+      {
+       "w": "the",
+       "start": 157.474,
+       "end": 157.691
+      },
+      {
+       "w": "secret",
+       "start": 157.691,
+       "end": 158.054
+      },
+      {
+       "w": "to",
+       "start": 158.054,
+       "end": 158.223
+      },
+      {
+       "w": "their",
+       "start": 158.223,
+       "end": 158.537
+      },
+      {
+       "w": "graves.",
+       "start": 158.537,
+       "end": 158.9
+      }
+     ]
+    },
+    {
+     "text": "The case is still open.",
+     "start": 159.404,
+     "end": 161.239,
+     "words": [
+      {
+       "w": "The",
+       "start": 159.404,
+       "end": 159.728
+      },
+      {
+       "w": "case",
+       "start": 159.728,
+       "end": 160.124
+      },
+      {
+       "w": "is",
+       "start": 160.124,
+       "end": 160.376
+      },
+      {
+       "w": "still",
+       "start": 160.376,
+       "end": 160.843
+      },
+      {
+       "w": "open.",
+       "start": 160.843,
+       "end": 161.239
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "hoffa/vo/line17.mp3",
+   "start": 161.389,
+   "dur": 13.845,
+   "sentences": [
+    {
+     "text": "So where do you think Jimmy Hoffa is?",
+     "start": 161.389,
+     "end": 163.505,
+     "words": [
+      {
+       "w": "So",
+       "start": 161.389,
+       "end": 161.57
+      },
+      {
+       "w": "where",
+       "start": 161.57,
+       "end": 161.905
+      },
+      {
+       "w": "do",
+       "start": 161.905,
+       "end": 162.086
+      },
+      {
+       "w": "you",
+       "start": 162.086,
+       "end": 162.318
+      },
+      {
+       "w": "think",
+       "start": 162.318,
+       "end": 162.654
+      },
+      {
+       "w": "Jimmy",
+       "start": 162.654,
+       "end": 162.989
+      },
+      {
+       "w": "Hoffa",
+       "start": 162.989,
+       "end": 163.325
+      },
+      {
+       "w": "is?",
+       "start": 163.325,
+       "end": 163.505
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 163.916,
+     "end": 164.872,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 163.916,
+       "end": 164.114
+      },
+      {
+       "w": "me",
+       "start": 164.114,
+       "end": 164.24
+      },
+      {
+       "w": "in",
+       "start": 164.24,
+       "end": 164.367
+      },
+      {
+       "w": "the",
+       "start": 164.367,
+       "end": 164.529
+      },
+      {
+       "w": "comments.",
+       "start": 164.529,
+       "end": 164.872
+      }
+     ]
+    },
+    {
+     "text": "And if you love a good vanishing, watch the story of DB Cooper, the man who jumped from a plane with two hundred thousand dollars and was never seen again.",
+     "start": 165.297,
+     "end": 175.017,
+     "words": [
+      {
+       "w": "And",
+       "start": 165.297,
+       "end": 165.498
+      },
+      {
+       "w": "if",
+       "start": 165.498,
+       "end": 165.655
+      },
+      {
+       "w": "you",
+       "start": 165.655,
+       "end": 165.856
+      },
+      {
+       "w": "love",
+       "start": 165.856,
+       "end": 166.102
+      },
+      {
+       "w": "a",
+       "start": 166.102,
+       "end": 166.213
+      },
+      {
+       "w": "good",
+       "start": 166.213,
+       "end": 166.459
+      },
+      {
+       "w": "vanishing,",
+       "start": 166.459,
+       "end": 166.929
+      },
+      {
+       "w": "watch",
+       "start": 167.219,
+       "end": 167.616
+      },
+      {
+       "w": "the",
+       "start": 167.616,
+       "end": 167.891
+      },
+      {
+       "w": "story",
+       "start": 167.891,
+       "end": 168.288
+      },
+      {
+       "w": "of",
+       "start": 168.288,
+       "end": 168.502
+      },
+      {
+       "w": "DB",
+       "start": 168.502,
+       "end": 168.716
+      },
+      {
+       "w": "Cooper,",
+       "start": 168.716,
+       "end": 169.175
+      },
+      {
+       "w": "the",
+       "start": 169.481,
+       "end": 169.732
+      },
+      {
+       "w": "man",
+       "start": 169.732,
+       "end": 169.982
+      },
+      {
+       "w": "who",
+       "start": 169.982,
+       "end": 170.232
+      },
+      {
+       "w": "jumped",
+       "start": 170.232,
+       "end": 170.65
+      },
+      {
+       "w": "from",
+       "start": 170.65,
+       "end": 170.956
+      },
+      {
+       "w": "a",
+       "start": 170.956,
+       "end": 171.095
+      },
+      {
+       "w": "plane",
+       "start": 171.095,
+       "end": 171.456
+      },
+      {
+       "w": "with",
+       "start": 171.456,
+       "end": 171.762
+      },
+      {
+       "w": "two",
+       "start": 171.762,
+       "end": 172.013
+      },
+      {
+       "w": "hundred",
+       "start": 172.013,
+       "end": 172.485
+      },
+      {
+       "w": "thousand",
+       "start": 172.485,
+       "end": 173.014
+      },
+      {
+       "w": "dollars",
+       "start": 173.014,
+       "end": 173.487
+      },
+      {
+       "w": "and",
+       "start": 173.487,
+       "end": 173.737
+      },
+      {
+       "w": "was",
+       "start": 173.737,
+       "end": 173.987
+      },
+      {
+       "w": "never",
+       "start": 173.987,
+       "end": 174.349
+      },
+      {
+       "w": "seen",
+       "start": 174.349,
+       "end": 174.655
+      },
+      {
+       "w": "again.",
+       "start": 174.655,
+       "end": 175.017
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

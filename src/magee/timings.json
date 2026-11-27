@@ -1,0 +1,1068 @@
+{
+ "total": 68.207,
+ "lines": [
+  {
+   "index": 0,
+   "file": "magee/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 4.937,
+   "sentences": [
+    {
+     "text": "Twenty two thousand feet.",
+     "start": 0.25,
+     "end": 1.787,
+     "words": [
+      {
+       "w": "Twenty",
+       "start": 0.25,
+       "end": 0.677
+      },
+      {
+       "w": "two",
+       "start": 0.677,
+       "end": 0.933
+      },
+      {
+       "w": "thousand",
+       "start": 0.933,
+       "end": 1.474
+      },
+      {
+       "w": "feet.",
+       "start": 1.474,
+       "end": 1.787
+      }
+     ]
+    },
+    {
+     "text": "No parachute.",
+     "start": 2.086,
+     "end": 3.083,
+     "words": [
+      {
+       "w": "No",
+       "start": 2.086,
+       "end": 2.335
+      },
+      {
+       "w": "parachute.",
+       "start": 2.335,
+       "end": 3.083
+      }
+     ]
+    },
+    {
+     "text": "And this man lived.",
+     "start": 3.47,
+     "end": 4.853,
+     "words": [
+      {
+       "w": "And",
+       "start": 3.47,
+       "end": 3.767
+      },
+      {
+       "w": "this",
+       "start": 3.767,
+       "end": 4.129
+      },
+      {
+       "w": "man",
+       "start": 4.129,
+       "end": 4.425
+      },
+      {
+       "w": "lived.",
+       "start": 4.425,
+       "end": 4.853
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "magee/vo/line1.mp3",
+   "start": 5.437,
+   "dur": 9.326,
+   "sentences": [
+    {
+     "text": "January 3rd, 1943.",
+     "start": 5.437,
+     "end": 7.803,
+     "words": [
+      {
+       "w": "January",
+       "start": 5.437,
+       "end": 6.098
+      },
+      {
+       "w": "3rd,",
+       "start": 6.098,
+       "end": 6.449
+      },
+      {
+       "w": "1943.",
+       "start": 6.649,
+       "end": 7.803
+      }
+     ]
+    },
+    {
+     "text": "Alan Magee was a ball turret gunner on a B-17 bomber, over Saint-Nazaire, in occupied France.",
+     "start": 8.268,
+     "end": 14.763,
+     "words": [
+      {
+       "w": "Alan",
+       "start": 8.268,
+       "end": 8.62
+      },
+      {
+       "w": "Magee",
+       "start": 8.62,
+       "end": 9.037
+      },
+      {
+       "w": "was",
+       "start": 9.037,
+       "end": 9.325
+      },
+      {
+       "w": "a",
+       "start": 9.325,
+       "end": 9.485
+      },
+      {
+       "w": "ball",
+       "start": 9.485,
+       "end": 9.837
+      },
+      {
+       "w": "turret",
+       "start": 9.837,
+       "end": 10.318
+      },
+      {
+       "w": "gunner",
+       "start": 10.318,
+       "end": 10.798
+      },
+      {
+       "w": "on",
+       "start": 10.798,
+       "end": 11.022
+      },
+      {
+       "w": "a",
+       "start": 11.022,
+       "end": 11.183
+      },
+      {
+       "w": "B-17",
+       "start": 11.183,
+       "end": 11.471
+      },
+      {
+       "w": "bomber,",
+       "start": 11.471,
+       "end": 11.951
+      },
+      {
+       "w": "over",
+       "start": 12.164,
+       "end": 12.846
+      },
+      {
+       "w": "Saint-Nazaire,",
+       "start": 12.846,
+       "end": 14.519
+      },
+      {
+       "w": "in",
+       "start": 14.711,
+       "end": 14.72
+      },
+      {
+       "w": "occupied",
+       "start": 14.72,
+       "end": 14.744
+      },
+      {
+       "w": "France.",
+       "start": 14.744,
+       "end": 14.763
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "magee/vo/line2.mp3",
+   "start": 15.013,
+   "dur": 3.918,
+   "sentences": [
+    {
+     "text": "German flak tore into the plane, and it started to spin.",
+     "start": 15.013,
+     "end": 18.696,
+     "words": [
+      {
+       "w": "German",
+       "start": 15.013,
+       "end": 15.47
+      },
+      {
+       "w": "flak",
+       "start": 15.47,
+       "end": 15.806
+      },
+      {
+       "w": "tore",
+       "start": 15.806,
+       "end": 16.141
+      },
+      {
+       "w": "into",
+       "start": 16.141,
+       "end": 16.476
+      },
+      {
+       "w": "the",
+       "start": 16.476,
+       "end": 16.751
+      },
+      {
+       "w": "plane,",
+       "start": 16.751,
+       "end": 17.147
+      },
+      {
+       "w": "and",
+       "start": 17.408,
+       "end": 17.635
+      },
+      {
+       "w": "it",
+       "start": 17.635,
+       "end": 17.812
+      },
+      {
+       "w": "started",
+       "start": 17.812,
+       "end": 18.242
+      },
+      {
+       "w": "to",
+       "start": 18.242,
+       "end": 18.418
+      },
+      {
+       "w": "spin.",
+       "start": 18.418,
+       "end": 18.696
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "magee/vo/line3.mp3",
+   "start": 19.181,
+   "dur": 4.545,
+   "sentences": [
+    {
+     "text": "Magee climbed out of his turret, and found his parachute ripped to shreds.",
+     "start": 19.181,
+     "end": 23.496,
+     "words": [
+      {
+       "w": "Magee",
+       "start": 19.181,
+       "end": 19.534
+      },
+      {
+       "w": "climbed",
+       "start": 19.534,
+       "end": 19.995
+      },
+      {
+       "w": "out",
+       "start": 19.995,
+       "end": 20.24
+      },
+      {
+       "w": "of",
+       "start": 20.24,
+       "end": 20.43
+      },
+      {
+       "w": "his",
+       "start": 20.43,
+       "end": 20.674
+      },
+      {
+       "w": "turret,",
+       "start": 20.674,
+       "end": 21.081
+      },
+      {
+       "w": "and",
+       "start": 21.081,
+       "end": 21.325
+      },
+      {
+       "w": "found",
+       "start": 21.325,
+       "end": 21.678
+      },
+      {
+       "w": "his",
+       "start": 21.678,
+       "end": 21.922
+      },
+      {
+       "w": "parachute",
+       "start": 21.922,
+       "end": 22.492
+      },
+      {
+       "w": "ripped",
+       "start": 22.492,
+       "end": 22.899
+      },
+      {
+       "w": "to",
+       "start": 22.899,
+       "end": 23.089
+      },
+      {
+       "w": "shreds.",
+       "start": 23.089,
+       "end": 23.496
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "magee/vo/line4.mp3",
+   "start": 23.977,
+   "dur": 5.46,
+   "sentences": [
+    {
+     "text": "So he jumped anyway.",
+     "start": 23.977,
+     "end": 25.457,
+     "words": [
+      {
+       "w": "So",
+       "start": 23.977,
+       "end": 24.212
+      },
+      {
+       "w": "he",
+       "start": 24.212,
+       "end": 24.447
+      },
+      {
+       "w": "jumped",
+       "start": 24.447,
+       "end": 24.952
+      },
+      {
+       "w": "anyway.",
+       "start": 24.952,
+       "end": 25.457
+      }
+     ]
+    },
+    {
+     "text": "At that height there's barely any air.",
+     "start": 25.916,
+     "end": 27.966,
+     "words": [
+      {
+       "w": "At",
+       "start": 25.916,
+       "end": 26.093
+      },
+      {
+       "w": "that",
+       "start": 26.093,
+       "end": 26.371
+      },
+      {
+       "w": "height",
+       "start": 26.371,
+       "end": 26.751
+      },
+      {
+       "w": "there's",
+       "start": 26.751,
+       "end": 27.131
+      },
+      {
+       "w": "barely",
+       "start": 27.131,
+       "end": 27.511
+      },
+      {
+       "w": "any",
+       "start": 27.511,
+       "end": 27.739
+      },
+      {
+       "w": "air.",
+       "start": 27.739,
+       "end": 27.966
+      }
+     ]
+    },
+    {
+     "text": "He blacked out.",
+     "start": 28.421,
+     "end": 29.177,
+     "words": [
+      {
+       "w": "He",
+       "start": 28.421,
+       "end": 28.581
+      },
+      {
+       "w": "blacked",
+       "start": 28.581,
+       "end": 28.97
+      },
+      {
+       "w": "out.",
+       "start": 28.97,
+       "end": 29.177
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "magee/vo/line5.mp3",
+   "start": 29.686,
+   "dur": 2.273,
+   "sentences": [
+    {
+     "text": "He fell more than four miles.",
+     "start": 29.686,
+     "end": 31.727,
+     "words": [
+      {
+       "w": "He",
+       "start": 29.686,
+       "end": 29.909
+      },
+      {
+       "w": "fell",
+       "start": 29.909,
+       "end": 30.26
+      },
+      {
+       "w": "more",
+       "start": 30.26,
+       "end": 30.611
+      },
+      {
+       "w": "than",
+       "start": 30.611,
+       "end": 30.961
+      },
+      {
+       "w": "four",
+       "start": 30.961,
+       "end": 31.312
+      },
+      {
+       "w": "miles.",
+       "start": 31.312,
+       "end": 31.727
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "magee/vo/line6.mp3",
+   "start": 32.209,
+   "dur": 3.239,
+   "sentences": [
+    {
+     "text": "And then something impossible happened.",
+     "start": 32.209,
+     "end": 35.097,
+     "words": [
+      {
+       "w": "And",
+       "start": 32.209,
+       "end": 32.522
+      },
+      {
+       "w": "then",
+       "start": 32.522,
+       "end": 32.905
+      },
+      {
+       "w": "something",
+       "start": 32.905,
+       "end": 33.635
+      },
+      {
+       "w": "impossible",
+       "start": 33.635,
+       "end": 34.436
+      },
+      {
+       "w": "happened.",
+       "start": 34.436,
+       "end": 35.097
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "magee/vo/line7.mp3",
+   "start": 35.698,
+   "dur": 6.609,
+   "sentences": [
+    {
+     "text": "He smashed through the glass roof of the Saint-Nazaire railway station.",
+     "start": 35.698,
+     "end": 39.304,
+     "words": [
+      {
+       "w": "He",
+       "start": 35.698,
+       "end": 35.865
+      },
+      {
+       "w": "smashed",
+       "start": 35.865,
+       "end": 36.271
+      },
+      {
+       "w": "through",
+       "start": 36.271,
+       "end": 36.677
+      },
+      {
+       "w": "the",
+       "start": 36.677,
+       "end": 36.892
+      },
+      {
+       "w": "glass",
+       "start": 36.892,
+       "end": 37.202
+      },
+      {
+       "w": "roof",
+       "start": 37.202,
+       "end": 37.465
+      },
+      {
+       "w": "of",
+       "start": 37.465,
+       "end": 37.632
+      },
+      {
+       "w": "the",
+       "start": 37.632,
+       "end": 37.847
+      },
+      {
+       "w": "Saint-Nazaire",
+       "start": 37.847,
+       "end": 38.492
+      },
+      {
+       "w": "railway",
+       "start": 38.492,
+       "end": 38.898
+      },
+      {
+       "w": "station.",
+       "start": 38.898,
+       "end": 39.304
+      }
+     ]
+    },
+    {
+     "text": "The glass slowed him down, just enough.",
+     "start": 39.763,
+     "end": 42.097,
+     "words": [
+      {
+       "w": "The",
+       "start": 39.763,
+       "end": 39.962
+      },
+      {
+       "w": "glass",
+       "start": 39.962,
+       "end": 40.25
+      },
+      {
+       "w": "slowed",
+       "start": 40.25,
+       "end": 40.581
+      },
+      {
+       "w": "him",
+       "start": 40.581,
+       "end": 40.78
+      },
+      {
+       "w": "down,",
+       "start": 40.78,
+       "end": 41.023
+      },
+      {
+       "w": "just",
+       "start": 41.333,
+       "end": 41.656
+      },
+      {
+       "w": "enough.",
+       "start": 41.656,
+       "end": 42.097
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "magee/vo/line8.mp3",
+   "start": 42.557,
+   "dur": 7.21,
+   "sentences": [
+    {
+     "text": "Twenty eight wounds.",
+     "start": 42.557,
+     "end": 43.996,
+     "words": [
+      {
+       "w": "Twenty",
+       "start": 42.557,
+       "end": 43.059
+      },
+      {
+       "w": "eight",
+       "start": 43.059,
+       "end": 43.494
+      },
+      {
+       "w": "wounds.",
+       "start": 43.494,
+       "end": 43.996
+      }
+     ]
+    },
+    {
+     "text": "A broken leg.",
+     "start": 44.429,
+     "end": 45.409,
+     "words": [
+      {
+       "w": "A",
+       "start": 44.429,
+       "end": 44.598
+      },
+      {
+       "w": "broken",
+       "start": 44.598,
+       "end": 45.105
+      },
+      {
+       "w": "leg.",
+       "start": 45.105,
+       "end": 45.409
+      }
+     ]
+    },
+    {
+     "text": "His arm nearly torn off.",
+     "start": 45.854,
+     "end": 47.697,
+     "words": [
+      {
+       "w": "His",
+       "start": 45.854,
+       "end": 46.167
+      },
+      {
+       "w": "arm",
+       "start": 46.167,
+       "end": 46.48
+      },
+      {
+       "w": "nearly",
+       "start": 46.48,
+       "end": 47.001
+      },
+      {
+       "w": "torn",
+       "start": 47.001,
+       "end": 47.384
+      },
+      {
+       "w": "off.",
+       "start": 47.384,
+       "end": 47.697
+      }
+     ]
+    },
+    {
+     "text": "But he was alive.",
+     "start": 48.161,
+     "end": 49.508,
+     "words": [
+      {
+       "w": "But",
+       "start": 48.161,
+       "end": 48.48
+      },
+      {
+       "w": "he",
+       "start": 48.48,
+       "end": 48.728
+      },
+      {
+       "w": "was",
+       "start": 48.728,
+       "end": 49.047
+      },
+      {
+       "w": "alive.",
+       "start": 49.047,
+       "end": 49.508
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "magee/vo/line9.mp3",
+   "start": 50.017,
+   "dur": 4.885,
+   "sentences": [
+    {
+     "text": "German soldiers found him on the station floor, and their doctors saved his life.",
+     "start": 50.017,
+     "end": 54.902,
+     "words": [
+      {
+       "w": "German",
+       "start": 50.017,
+       "end": 50.393
+      },
+      {
+       "w": "soldiers",
+       "start": 50.393,
+       "end": 50.869
+      },
+      {
+       "w": "found",
+       "start": 50.869,
+       "end": 51.195
+      },
+      {
+       "w": "him",
+       "start": 51.195,
+       "end": 51.421
+      },
+      {
+       "w": "on",
+       "start": 51.421,
+       "end": 51.596
+      },
+      {
+       "w": "the",
+       "start": 51.596,
+       "end": 51.822
+      },
+      {
+       "w": "station",
+       "start": 51.822,
+       "end": 52.248
+      },
+      {
+       "w": "floor,",
+       "start": 52.248,
+       "end": 52.574
+      },
+      {
+       "w": "and",
+       "start": 52.839,
+       "end": 53.097
+      },
+      {
+       "w": "their",
+       "start": 53.097,
+       "end": 53.469
+      },
+      {
+       "w": "doctors",
+       "start": 53.469,
+       "end": 53.956
+      },
+      {
+       "w": "saved",
+       "start": 53.956,
+       "end": 54.329
+      },
+      {
+       "w": "his",
+       "start": 54.329,
+       "end": 54.587
+      },
+      {
+       "w": "life.",
+       "start": 54.587,
+       "end": 54.902
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "magee/vo/line10.mp3",
+   "start": 55.152,
+   "dur": 4.702,
+   "sentences": [
+    {
+     "text": "He spent the rest of the war as a prisoner, and went home in 1945.",
+     "start": 55.152,
+     "end": 59.854,
+     "words": [
+      {
+       "w": "He",
+       "start": 55.152,
+       "end": 55.306
+      },
+      {
+       "w": "spent",
+       "start": 55.306,
+       "end": 55.592
+      },
+      {
+       "w": "the",
+       "start": 55.592,
+       "end": 55.79
+      },
+      {
+       "w": "rest",
+       "start": 55.79,
+       "end": 56.032
+      },
+      {
+       "w": "of",
+       "start": 56.032,
+       "end": 56.186
+      },
+      {
+       "w": "the",
+       "start": 56.186,
+       "end": 56.385
+      },
+      {
+       "w": "war",
+       "start": 56.385,
+       "end": 56.583
+      },
+      {
+       "w": "as",
+       "start": 56.583,
+       "end": 56.737
+      },
+      {
+       "w": "a",
+       "start": 56.737,
+       "end": 56.847
+      },
+      {
+       "w": "prisoner,",
+       "start": 56.847,
+       "end": 57.265
+      },
+      {
+       "w": "and",
+       "start": 57.553,
+       "end": 57.976
+      },
+      {
+       "w": "went",
+       "start": 57.976,
+       "end": 58.492
+      },
+      {
+       "w": "home",
+       "start": 58.492,
+       "end": 59.009
+      },
+      {
+       "w": "in",
+       "start": 59.009,
+       "end": 59.337
+      },
+      {
+       "w": "1945.",
+       "start": 59.337,
+       "end": 59.854
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "magee/vo/line11.mp3",
+   "start": 60.104,
+   "dur": 5.146,
+   "sentences": [
+    {
+     "text": "Fifty years later, the people of Saint-Nazaire built a memorial to him and his crew.",
+     "start": 60.104,
+     "end": 64.995,
+     "words": [
+      {
+       "w": "Fifty",
+       "start": 60.104,
+       "end": 60.456
+      },
+      {
+       "w": "years",
+       "start": 60.456,
+       "end": 60.808
+      },
+      {
+       "w": "later,",
+       "start": 60.808,
+       "end": 61.16
+      },
+      {
+       "w": "the",
+       "start": 61.436,
+       "end": 61.665
+      },
+      {
+       "w": "people",
+       "start": 61.665,
+       "end": 62.047
+      },
+      {
+       "w": "of",
+       "start": 62.047,
+       "end": 62.224
+      },
+      {
+       "w": "Saint-Nazaire",
+       "start": 62.224,
+       "end": 62.911
+      },
+      {
+       "w": "built",
+       "start": 62.911,
+       "end": 63.241
+      },
+      {
+       "w": "a",
+       "start": 63.241,
+       "end": 63.368
+      },
+      {
+       "w": "memorial",
+       "start": 63.368,
+       "end": 63.851
+      },
+      {
+       "w": "to",
+       "start": 63.851,
+       "end": 64.029
+      },
+      {
+       "w": "him",
+       "start": 64.029,
+       "end": 64.258
+      },
+      {
+       "w": "and",
+       "start": 64.258,
+       "end": 64.487
+      },
+      {
+       "w": "his",
+       "start": 64.487,
+       "end": 64.716
+      },
+      {
+       "w": "crew.",
+       "start": 64.716,
+       "end": 64.995
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "magee/vo/line12.mp3",
+   "start": 65.5,
+   "dur": 1.907,
+   "sentences": [
+    {
+     "text": "He lived to be eighty four.",
+     "start": 65.5,
+     "end": 67.048,
+     "words": [
+      {
+       "w": "He",
+       "start": 65.5,
+       "end": 65.68
+      },
+      {
+       "w": "lived",
+       "start": 65.68,
+       "end": 66.016
+      },
+      {
+       "w": "to",
+       "start": 66.016,
+       "end": 66.196
+      },
+      {
+       "w": "be",
+       "start": 66.196,
+       "end": 66.377
+      },
+      {
+       "w": "eighty",
+       "start": 66.377,
+       "end": 66.764
+      },
+      {
+       "w": "four.",
+       "start": 66.764,
+       "end": 67.048
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

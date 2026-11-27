@@ -1,0 +1,49 @@
+{
+  "title": "5 Bombers Vanished… Then the Rescue Plane Vanished Too",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.15,
+  "tail": 0.8,
+  "spoken": {
+    "1945,": "nineteen forty five",
+    "1945.": "nineteen forty five",
+    "5th,": "fifth",
+    "19.": "nineteen",
+    "19": "nineteen",
+    "7:27": "seven twenty seven",
+    "1991,": "nineteen ninety one"
+  },
+  "lines": [
+    "In 1945, five Navy bombers vanished over the Atlantic. Then the plane sent to rescue them vanished too. Twenty-seven men. Not one body was ever found.",
+    "December 5th, 1945. Naval Air Station Fort Lauderdale, Florida. Five Avenger torpedo bombers take off on a routine training flight. Its name: Flight 19.",
+    "Fourteen men. Their leader, Lieutenant Charles Taylor, was an experienced combat pilot. The route was a simple triangle over the sea.",
+    "About ninety minutes in, a radio operator heard Taylor's voice. Both my compasses are out.",
+    "He was sure they were over the Florida Keys. Investigators later believed they were far to the east, near the Bahamas. So every time he turned for home, he may have been flying further out to sea.",
+    "The people on the ground could hear them. But they couldn't find them.",
+    "The sun went down. The sea got rough. And the fuel kept dropping.",
+    "Around seven PM, one of the last messages was heard. All planes close up tight. When the first plane drops below ten gallons, we all go down together.",
+    "Then, silence.",
+    "But the story wasn't over. Because that night, the Navy sent a rescue plane.",
+    "A huge Mariner flying boat, with thirteen men on board. It took off at 7:27 PM. It was never heard from again.",
+    "A passing tanker reported flames on the horizon, and an oil slick on the water. Mariners had a nickname. Flying gas tanks. A single spark could do it.",
+    "Twenty-seven men. Six aircraft. Gone in a single night. Hundreds of ships and planes searched for five days. They found nothing.",
+    "Years later, Flight 19 became the story that created the Bermuda Triangle. Books claimed Taylor said the ocean didn't look right. That everything looked strange.",
+    "But those creepy lines aren't in the Navy's radio logs. The real record is far more human. A lost leader. Compasses he didn't trust. And fuel running out.",
+    "The Navy first blamed Taylor. His mother fought back. In the end, the official cause was changed to: causes or reasons unknown.",
+    "In 1991, divers found five Avengers on the seafloor off Florida. For a moment, the world thought it was solved. It wasn't. They were the wrong planes.",
+    "Somewhere out there, Flight 19 is still waiting to be found. What do you think happened? Tell me in the comments. And watch our MH370 short. Another flight that vanished without a trace."
+  ],
+  "structure": {
+    "hook": "line 0: five bombers vanished, then the rescue plane too; 27 men, no bodies (cold open, not whispered)",
+    "5W1H": "who (Flight 19, Lt Charles Taylor, 14 airmen; PBM Mariner crew of 13), what (6 aircraft lost), when (5 Dec 1945), where (off Florida / Bahamas), how (lines 3-7, 10-11), why (lines 14-15)",
+    "rehooks": ["line 5: they could hear them but couldn't find them", "line 9: the story wasn't over", "line 13: the Bermuda Triangle legend", "line 16: 1991 wreck"],
+    "tension": "lines 3-12",
+    "release": "lines 14-15 (real records, causes unknown)",
+    "payoff": "line 16: the 1991 'discovery' were the wrong planes; still waiting to be found",
+    "cta": "line 17: comment question + MH370 Short (thumbnail)"
+  },
+  "notes": "Sources: Wikipedia 'Flight 19'; US Navy / Naval History and Heritage Command. Taylor's quotes are as commonly reported from radio logs. The 'ocean doesn't look right' lines are from later popular books, not the logs. Navy changed the finding to 'causes or reasons unknown' (1947). 1991 Scientific Search Project wreck: five Avengers, not Flight 19. PBM Mariner (Training 49) took off 7:27 PM; SS Gaines Mills reported flames."
+}

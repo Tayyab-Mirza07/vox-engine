@@ -1,0 +1,1028 @@
+{
+ "total": 67.247,
+ "lines": [
+  {
+   "index": 0,
+   "file": "dunbar/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 8.098,
+   "sentences": [
+    {
+     "text": "In 1913, a family got their missing little boy back.",
+     "start": 0.25,
+     "end": 3.839,
+     "words": [
+      {
+       "w": "In",
+       "start": 0.25,
+       "end": 0.474
+      },
+      {
+       "w": "1913,",
+       "start": 0.474,
+       "end": 0.827
+      },
+      {
+       "w": "a",
+       "start": 0.827,
+       "end": 0.987
+      },
+      {
+       "w": "family",
+       "start": 0.987,
+       "end": 1.468
+      },
+      {
+       "w": "got",
+       "start": 1.468,
+       "end": 1.756
+      },
+      {
+       "w": "their",
+       "start": 1.756,
+       "end": 2.173
+      },
+      {
+       "w": "missing",
+       "start": 2.173,
+       "end": 2.717
+      },
+      {
+       "w": "little",
+       "start": 2.717,
+       "end": 3.198
+      },
+      {
+       "w": "boy",
+       "start": 3.198,
+       "end": 3.486
+      },
+      {
+       "w": "back.",
+       "start": 3.486,
+       "end": 3.839
+      }
+     ]
+    },
+    {
+     "text": "Ninety years later, a DNA test proved he was never their son.",
+     "start": 4.257,
+     "end": 8.133,
+     "words": [
+      {
+       "w": "Ninety",
+       "start": 4.257,
+       "end": 4.665
+      },
+      {
+       "w": "years",
+       "start": 4.665,
+       "end": 5.018
+      },
+      {
+       "w": "later,",
+       "start": 5.018,
+       "end": 5.372
+      },
+      {
+       "w": "a",
+       "start": 5.534,
+       "end": 5.677
+      },
+      {
+       "w": "DNA",
+       "start": 5.677,
+       "end": 5.934
+      },
+      {
+       "w": "test",
+       "start": 5.934,
+       "end": 6.248
+      },
+      {
+       "w": "proved",
+       "start": 6.248,
+       "end": 6.676
+      },
+      {
+       "w": "he",
+       "start": 6.676,
+       "end": 6.876
+      },
+      {
+       "w": "was",
+       "start": 6.876,
+       "end": 7.133
+      },
+      {
+       "w": "never",
+       "start": 7.133,
+       "end": 7.504
+      },
+      {
+       "w": "their",
+       "start": 7.504,
+       "end": 7.876
+      },
+      {
+       "w": "son.",
+       "start": 7.876,
+       "end": 8.133
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "dunbar/vo/line1.mp3",
+   "start": 8.468,
+   "dur": 10.762,
+   "sentences": [
+    {
+     "text": "August 1912, Louisiana.",
+     "start": 8.468,
+     "end": 10.984,
+     "words": [
+      {
+       "w": "August",
+       "start": 8.468,
+       "end": 9.319
+      },
+      {
+       "w": "1912,",
+       "start": 9.319,
+       "end": 9.943
+      },
+      {
+       "w": "Louisiana.",
+       "start": 10.261,
+       "end": 10.984
+      }
+     ]
+    },
+    {
+     "text": "Four year old Bobby Dunbar vanished on a family fishing trip at a swamp lake.",
+     "start": 11.449,
+     "end": 15.791,
+     "words": [
+      {
+       "w": "Four",
+       "start": 11.449,
+       "end": 11.732
+      },
+      {
+       "w": "year",
+       "start": 11.732,
+       "end": 12.014
+      },
+      {
+       "w": "old",
+       "start": 12.014,
+       "end": 12.245
+      },
+      {
+       "w": "Bobby",
+       "start": 12.245,
+       "end": 12.579
+      },
+      {
+       "w": "Dunbar",
+       "start": 12.579,
+       "end": 12.965
+      },
+      {
+       "w": "vanished",
+       "start": 12.965,
+       "end": 13.453
+      },
+      {
+       "w": "on",
+       "start": 13.453,
+       "end": 13.633
+      },
+      {
+       "w": "a",
+       "start": 13.633,
+       "end": 13.761
+      },
+      {
+       "w": "family",
+       "start": 13.761,
+       "end": 14.147
+      },
+      {
+       "w": "fishing",
+       "start": 14.147,
+       "end": 14.584
+      },
+      {
+       "w": "trip",
+       "start": 14.584,
+       "end": 14.866
+      },
+      {
+       "w": "at",
+       "start": 14.866,
+       "end": 15.046
+      },
+      {
+       "w": "a",
+       "start": 15.046,
+       "end": 15.175
+      },
+      {
+       "w": "swamp",
+       "start": 15.175,
+       "end": 15.509
+      },
+      {
+       "w": "lake.",
+       "start": 15.509,
+       "end": 15.791
+      }
+     ]
+    },
+    {
+     "text": "For eight months, the whole country searched.",
+     "start": 16.234,
+     "end": 19.004,
+     "words": [
+      {
+       "w": "For",
+       "start": 16.234,
+       "end": 16.489
+      },
+      {
+       "w": "eight",
+       "start": 16.489,
+       "end": 16.858
+      },
+      {
+       "w": "months,",
+       "start": 16.858,
+       "end": 17.283
+      },
+      {
+       "w": "the",
+       "start": 17.461,
+       "end": 17.7
+      },
+      {
+       "w": "whole",
+       "start": 17.7,
+       "end": 18.046
+      },
+      {
+       "w": "country",
+       "start": 18.046,
+       "end": 18.499
+      },
+      {
+       "w": "searched.",
+       "start": 18.499,
+       "end": 19.004
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "dunbar/vo/line2.mp3",
+   "start": 19.35,
+   "dur": 7.549,
+   "sentences": [
+    {
+     "text": "Then, in Mississippi, police found a boy traveling with a wandering handyman.",
+     "start": 19.35,
+     "end": 24.112,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 19.35,
+       "end": 19.674
+      },
+      {
+       "w": "in",
+       "start": 19.674,
+       "end": 19.924
+      },
+      {
+       "w": "Mississippi,",
+       "start": 19.924,
+       "end": 20.817
+      },
+      {
+       "w": "police",
+       "start": 21.065,
+       "end": 21.449
+      },
+      {
+       "w": "found",
+       "start": 21.449,
+       "end": 21.782
+      },
+      {
+       "w": "a",
+       "start": 21.782,
+       "end": 21.91
+      },
+      {
+       "w": "boy",
+       "start": 21.91,
+       "end": 22.141
+      },
+      {
+       "w": "traveling",
+       "start": 22.141,
+       "end": 22.678
+      },
+      {
+       "w": "with",
+       "start": 22.678,
+       "end": 22.96
+      },
+      {
+       "w": "a",
+       "start": 22.96,
+       "end": 23.088
+      },
+      {
+       "w": "wandering",
+       "start": 23.088,
+       "end": 23.626
+      },
+      {
+       "w": "handyman.",
+       "start": 23.626,
+       "end": 24.112
+      }
+     ]
+    },
+    {
+     "text": "The Dunbars said, that's our Bobby.",
+     "start": 24.569,
+     "end": 26.635,
+     "words": [
+      {
+       "w": "The",
+       "start": 24.569,
+       "end": 24.786
+      },
+      {
+       "w": "Dunbars",
+       "start": 24.786,
+       "end": 25.194
+      },
+      {
+       "w": "said,",
+       "start": 25.194,
+       "end": 25.459
+      },
+      {
+       "w": "that's",
+       "start": 25.703,
+       "end": 26.049
+      },
+      {
+       "w": "our",
+       "start": 26.049,
+       "end": 26.288
+      },
+      {
+       "w": "Bobby.",
+       "start": 26.288,
+       "end": 26.635
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "dunbar/vo/line3.mp3",
+   "start": 27.02,
+   "dur": 7.732,
+   "sentences": [
+    {
+     "text": "But a poor single mother from North Carolina came forward.",
+     "start": 27.02,
+     "end": 30.177,
+     "words": [
+      {
+       "w": "But",
+       "start": 27.02,
+       "end": 27.245
+      },
+      {
+       "w": "a",
+       "start": 27.245,
+       "end": 27.371
+      },
+      {
+       "w": "poor",
+       "start": 27.371,
+       "end": 27.646
+      },
+      {
+       "w": "single",
+       "start": 27.646,
+       "end": 28.022
+      },
+      {
+       "w": "mother",
+       "start": 28.022,
+       "end": 28.398
+      },
+      {
+       "w": "from",
+       "start": 28.398,
+       "end": 28.674
+      },
+      {
+       "w": "North",
+       "start": 28.674,
+       "end": 28.999
+      },
+      {
+       "w": "Carolina",
+       "start": 28.999,
+       "end": 29.475
+      },
+      {
+       "w": "came",
+       "start": 29.475,
+       "end": 29.751
+      },
+      {
+       "w": "forward.",
+       "start": 29.751,
+       "end": 30.177
+      }
+     ]
+    },
+    {
+     "text": "Julia Anderson.",
+     "start": 30.645,
+     "end": 31.715,
+     "words": [
+      {
+       "w": "Julia",
+       "start": 30.645,
+       "end": 31.079
+      },
+      {
+       "w": "Anderson.",
+       "start": 31.079,
+       "end": 31.715
+      }
+     ]
+    },
+    {
+     "text": "She said, that's my son, Bruce.",
+     "start": 32.176,
+     "end": 34.499,
+     "words": [
+      {
+       "w": "She",
+       "start": 32.176,
+       "end": 32.393
+      },
+      {
+       "w": "said,",
+       "start": 32.393,
+       "end": 32.657
+      },
+      {
+       "w": "that's",
+       "start": 33.026,
+       "end": 33.468
+      },
+      {
+       "w": "my",
+       "start": 33.468,
+       "end": 33.706
+      },
+      {
+       "w": "son,",
+       "start": 33.706,
+       "end": 34.012
+      },
+      {
+       "w": "Bruce.",
+       "start": 34.012,
+       "end": 34.499
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "dunbar/vo/line4.mp3",
+   "start": 34.872,
+   "dur": 4.441,
+   "sentences": [
+    {
+     "text": "Two mothers.",
+     "start": 34.872,
+     "end": 35.697,
+     "words": [
+      {
+       "w": "Two",
+       "start": 34.872,
+       "end": 35.158
+      },
+      {
+       "w": "mothers.",
+       "start": 35.158,
+       "end": 35.697
+      }
+     ]
+    },
+    {
+     "text": "One little boy.",
+     "start": 36.15,
+     "end": 37.102,
+     "words": [
+      {
+       "w": "One",
+       "start": 36.15,
+       "end": 36.41
+      },
+      {
+       "w": "little",
+       "start": 36.41,
+       "end": 36.843
+      },
+      {
+       "w": "boy.",
+       "start": 36.843,
+       "end": 37.102
+      }
+     ]
+    },
+    {
+     "text": "And a court had to choose.",
+     "start": 37.555,
+     "end": 39.118,
+     "words": [
+      {
+       "w": "And",
+       "start": 37.555,
+       "end": 37.798
+      },
+      {
+       "w": "a",
+       "start": 37.798,
+       "end": 37.933
+      },
+      {
+       "w": "court",
+       "start": 37.933,
+       "end": 38.283
+      },
+      {
+       "w": "had",
+       "start": 38.283,
+       "end": 38.525
+      },
+      {
+       "w": "to",
+       "start": 38.525,
+       "end": 38.714
+      },
+      {
+       "w": "choose.",
+       "start": 38.714,
+       "end": 39.118
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "dunbar/vo/line5.mp3",
+   "start": 39.433,
+   "dur": 7.131,
+   "sentences": [
+    {
+     "text": "The judge gave him to the Dunbars.",
+     "start": 39.433,
+     "end": 41.368,
+     "words": [
+      {
+       "w": "The",
+       "start": 39.433,
+       "end": 39.665
+      },
+      {
+       "w": "judge",
+       "start": 39.665,
+       "end": 40
+      },
+      {
+       "w": "gave",
+       "start": 40,
+       "end": 40.284
+      },
+      {
+       "w": "him",
+       "start": 40.284,
+       "end": 40.516
+      },
+      {
+       "w": "to",
+       "start": 40.516,
+       "end": 40.697
+      },
+      {
+       "w": "the",
+       "start": 40.697,
+       "end": 40.929
+      },
+      {
+       "w": "Dunbars.",
+       "start": 40.929,
+       "end": 41.368
+      }
+     ]
+    },
+    {
+     "text": "The handyman was convicted of kidnapping.",
+     "start": 41.828,
+     "end": 44.209,
+     "words": [
+      {
+       "w": "The",
+       "start": 41.828,
+       "end": 42.072
+      },
+      {
+       "w": "handyman",
+       "start": 42.072,
+       "end": 42.585
+      },
+      {
+       "w": "was",
+       "start": 42.585,
+       "end": 42.829
+      },
+      {
+       "w": "convicted",
+       "start": 42.829,
+       "end": 43.397
+      },
+      {
+       "w": "of",
+       "start": 43.397,
+       "end": 43.586
+      },
+      {
+       "w": "kidnapping.",
+       "start": 43.586,
+       "end": 44.209
+      }
+     ]
+    },
+    {
+     "text": "Julia went home alone.",
+     "start": 44.665,
+     "end": 46.34,
+     "words": [
+      {
+       "w": "Julia",
+       "start": 44.665,
+       "end": 45.119
+      },
+      {
+       "w": "went",
+       "start": 45.119,
+       "end": 45.503
+      },
+      {
+       "w": "home",
+       "start": 45.503,
+       "end": 45.886
+      },
+      {
+       "w": "alone.",
+       "start": 45.886,
+       "end": 46.34
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "dunbar/vo/line6.mp3",
+   "start": 46.684,
+   "dur": 6.374,
+   "sentences": [
+    {
+     "text": "The boy grew up as Bobby Dunbar.",
+     "start": 46.684,
+     "end": 48.711,
+     "words": [
+      {
+       "w": "The",
+       "start": 46.684,
+       "end": 46.941
+      },
+      {
+       "w": "boy",
+       "start": 46.941,
+       "end": 47.198
+      },
+      {
+       "w": "grew",
+       "start": 47.198,
+       "end": 47.512
+      },
+      {
+       "w": "up",
+       "start": 47.512,
+       "end": 47.712
+      },
+      {
+       "w": "as",
+       "start": 47.712,
+       "end": 47.912
+      },
+      {
+       "w": "Bobby",
+       "start": 47.912,
+       "end": 48.283
+      },
+      {
+       "w": "Dunbar.",
+       "start": 48.283,
+       "end": 48.711
+      }
+     ]
+    },
+    {
+     "text": "He married, had children, and died in 1966.",
+     "start": 49.178,
+     "end": 52.858,
+     "words": [
+      {
+       "w": "He",
+       "start": 49.178,
+       "end": 49.336
+      },
+      {
+       "w": "married,",
+       "start": 49.336,
+       "end": 49.719
+      },
+      {
+       "w": "had",
+       "start": 49.94,
+       "end": 50.172
+      },
+      {
+       "w": "children,",
+       "start": 50.172,
+       "end": 50.663
+      },
+      {
+       "w": "and",
+       "start": 50.841,
+       "end": 51.319
+      },
+      {
+       "w": "died",
+       "start": 51.319,
+       "end": 51.902
+      },
+      {
+       "w": "in",
+       "start": 51.902,
+       "end": 52.274
+      },
+      {
+       "w": "1966.",
+       "start": 52.274,
+       "end": 52.858
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "dunbar/vo/line7.mp3",
+   "start": 53.178,
+   "dur": 7.236,
+   "sentences": [
+    {
+     "text": "Then in 2004, his granddaughter asked for a DNA test.",
+     "start": 53.178,
+     "end": 57.416,
+     "words": [
+      {
+       "w": "Then",
+       "start": 53.178,
+       "end": 53.835
+      },
+      {
+       "w": "in",
+       "start": 53.835,
+       "end": 54.253
+      },
+      {
+       "w": "2004,",
+       "start": 54.253,
+       "end": 54.91
+      },
+      {
+       "w": "his",
+       "start": 55.189,
+       "end": 55.424
+      },
+      {
+       "w": "granddaughter",
+       "start": 55.424,
+       "end": 56.184
+      },
+      {
+       "w": "asked",
+       "start": 56.184,
+       "end": 56.525
+      },
+      {
+       "w": "for",
+       "start": 56.525,
+       "end": 56.761
+      },
+      {
+       "w": "a",
+       "start": 56.761,
+       "end": 56.892
+      },
+      {
+       "w": "DNA",
+       "start": 56.892,
+       "end": 57.127
+      },
+      {
+       "w": "test.",
+       "start": 57.127,
+       "end": 57.416
+      }
+     ]
+    },
+    {
+     "text": "The result?",
+     "start": 57.867,
+     "end": 58.372,
+     "words": [
+      {
+       "w": "The",
+       "start": 57.867,
+       "end": 58.056
+      },
+      {
+       "w": "result?",
+       "start": 58.056,
+       "end": 58.372
+      }
+     ]
+    },
+    {
+     "text": "He was not a Dunbar.",
+     "start": 58.822,
+     "end": 60.161,
+     "words": [
+      {
+       "w": "He",
+       "start": 58.822,
+       "end": 59.031
+      },
+      {
+       "w": "was",
+       "start": 59.031,
+       "end": 59.298
+      },
+      {
+       "w": "not",
+       "start": 59.298,
+       "end": 59.566
+      },
+      {
+       "w": "a",
+       "start": 59.566,
+       "end": 59.715
+      },
+      {
+       "w": "Dunbar.",
+       "start": 59.715,
+       "end": 60.161
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "dunbar/vo/line8.mp3",
+   "start": 60.534,
+   "dur": 6.113,
+   "sentences": [
+    {
+     "text": "He was almost certainly Bruce Anderson.",
+     "start": 60.534,
+     "end": 63.151,
+     "words": [
+      {
+       "w": "He",
+       "start": 60.534,
+       "end": 60.752
+      },
+      {
+       "w": "was",
+       "start": 60.752,
+       "end": 61.033
+      },
+      {
+       "w": "almost",
+       "start": 61.033,
+       "end": 61.5
+      },
+      {
+       "w": "certainly",
+       "start": 61.5,
+       "end": 62.154
+      },
+      {
+       "w": "Bruce",
+       "start": 62.154,
+       "end": 62.559
+      },
+      {
+       "w": "Anderson.",
+       "start": 62.559,
+       "end": 63.151
+      }
+     ]
+    },
+    {
+     "text": "Which means the real Bobby Dunbar was never found.",
+     "start": 63.509,
+     "end": 66.647,
+     "words": [
+      {
+       "w": "Which",
+       "start": 63.509,
+       "end": 63.883
+      },
+      {
+       "w": "means",
+       "start": 63.883,
+       "end": 64.257
+      },
+      {
+       "w": "the",
+       "start": 64.257,
+       "end": 64.516
+      },
+      {
+       "w": "real",
+       "start": 64.516,
+       "end": 64.833
+      },
+      {
+       "w": "Bobby",
+       "start": 64.833,
+       "end": 65.207
+      },
+      {
+       "w": "Dunbar",
+       "start": 65.207,
+       "end": 65.639
+      },
+      {
+       "w": "was",
+       "start": 65.639,
+       "end": 65.898
+      },
+      {
+       "w": "never",
+       "start": 65.898,
+       "end": 66.272
+      },
+      {
+       "w": "found.",
+       "start": 66.272,
+       "end": 66.647
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

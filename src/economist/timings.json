@@ -1,0 +1,2610 @@
+{
+ "total": 173.679,
+ "lines": [
+  {
+   "index": 0,
+   "file": "economist/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 6.87,
+   "sentences": [
+    {
+     "text": "Every year, one magazine cover claims to show the future.",
+     "start": 0.25,
+     "end": 4.029,
+     "words": [
+      {
+       "w": "Every",
+       "start": 0.25,
+       "end": 0.694
+      },
+      {
+       "w": "year,",
+       "start": 0.694,
+       "end": 1.07
+      },
+      {
+       "w": "one",
+       "start": 1.328,
+       "end": 1.576
+      },
+      {
+       "w": "magazine",
+       "start": 1.576,
+       "end": 2.1
+      },
+      {
+       "w": "cover",
+       "start": 2.1,
+       "end": 2.458
+      },
+      {
+       "w": "claims",
+       "start": 2.458,
+       "end": 2.871
+      },
+      {
+       "w": "to",
+       "start": 2.871,
+       "end": 3.064
+      },
+      {
+       "w": "show",
+       "start": 3.064,
+       "end": 3.367
+      },
+      {
+       "w": "the",
+       "start": 3.367,
+       "end": 3.615
+      },
+      {
+       "w": "future.",
+       "start": 3.615,
+       "end": 4.029
+      }
+     ]
+    },
+    {
+     "text": "This year, it looks like a warning.",
+     "start": 4.475,
+     "end": 6.742,
+     "words": [
+      {
+       "w": "This",
+       "start": 4.475,
+       "end": 4.795
+      },
+      {
+       "w": "year,",
+       "start": 4.795,
+       "end": 5.115
+      },
+      {
+       "w": "it",
+       "start": 5.585,
+       "end": 5.738
+      },
+      {
+       "w": "looks",
+       "start": 5.738,
+       "end": 6.022
+      },
+      {
+       "w": "like",
+       "start": 6.022,
+       "end": 6.262
+      },
+      {
+       "w": "a",
+       "start": 6.262,
+       "end": 6.371
+      },
+      {
+       "w": "warning.",
+       "start": 6.371,
+       "end": 6.742
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "economist/vo/line1.mp3",
+   "start": 7.32,
+   "dur": 11.912,
+   "sentences": [
+    {
+     "text": "On November 16th, The Economist released its yearly forecast issue, The World Ahead 2027.",
+     "start": 7.32,
+     "end": 13.626,
+     "words": [
+      {
+       "w": "On",
+       "start": 7.32,
+       "end": 7.554
+      },
+      {
+       "w": "November",
+       "start": 7.554,
+       "end": 8.187
+      },
+      {
+       "w": "16th,",
+       "start": 8.187,
+       "end": 8.554
+      },
+      {
+       "w": "The",
+       "start": 8.756,
+       "end": 8.982
+      },
+      {
+       "w": "Economist",
+       "start": 8.982,
+       "end": 9.511
+      },
+      {
+       "w": "released",
+       "start": 9.511,
+       "end": 9.989
+      },
+      {
+       "w": "its",
+       "start": 9.989,
+       "end": 10.216
+      },
+      {
+       "w": "yearly",
+       "start": 10.216,
+       "end": 10.594
+      },
+      {
+       "w": "forecast",
+       "start": 10.594,
+       "end": 11.072
+      },
+      {
+       "w": "issue,",
+       "start": 11.072,
+       "end": 11.399
+      },
+      {
+       "w": "The",
+       "start": 11.699,
+       "end": 11.94
+      },
+      {
+       "w": "World",
+       "start": 11.94,
+       "end": 12.288
+      },
+      {
+       "w": "Ahead",
+       "start": 12.288,
+       "end": 12.636
+      },
+      {
+       "w": "2027.",
+       "start": 12.636,
+       "end": 13.626
+      }
+     ]
+    },
+    {
+     "text": "The cover is by American artist Cleon Peterson, drawn in red, black and white.",
+     "start": 14.072,
+     "end": 19.009,
+     "words": [
+      {
+       "w": "The",
+       "start": 14.072,
+       "end": 14.314
+      },
+      {
+       "w": "cover",
+       "start": 14.314,
+       "end": 14.663
+      },
+      {
+       "w": "is",
+       "start": 14.663,
+       "end": 14.851
+      },
+      {
+       "w": "by",
+       "start": 14.851,
+       "end": 15.039
+      },
+      {
+       "w": "American",
+       "start": 15.039,
+       "end": 15.549
+      },
+      {
+       "w": "artist",
+       "start": 15.549,
+       "end": 15.951
+      },
+      {
+       "w": "Cleon",
+       "start": 15.951,
+       "end": 16.3
+      },
+      {
+       "w": "Peterson,",
+       "start": 16.3,
+       "end": 16.81
+      },
+      {
+       "w": "drawn",
+       "start": 17.048,
+       "end": 17.425
+      },
+      {
+       "w": "in",
+       "start": 17.425,
+       "end": 17.628
+      },
+      {
+       "w": "red,",
+       "start": 17.628,
+       "end": 17.89
+      },
+      {
+       "w": "black",
+       "start": 18.09,
+       "end": 18.431
+      },
+      {
+       "w": "and",
+       "start": 18.431,
+       "end": 18.668
+      },
+      {
+       "w": "white.",
+       "start": 18.668,
+       "end": 19.009
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "economist/vo/line2.mp3",
+   "start": 19.432,
+   "dur": 7.314,
+   "sentences": [
+    {
+     "text": "Tanks.",
+     "start": 19.432,
+     "end": 19.991,
+     "words": [
+      {
+       "w": "Tanks.",
+       "start": 19.432,
+       "end": 19.991
+      }
+     ]
+    },
+    {
+     "text": "Missiles.",
+     "start": 20.404,
+     "end": 21.096,
+     "words": [
+      {
+       "w": "Missiles.",
+       "start": 20.404,
+       "end": 21.096
+      }
+     ]
+    },
+    {
+     "text": "Crowds in the streets.",
+     "start": 21.541,
+     "end": 22.775,
+     "words": [
+      {
+       "w": "Crowds",
+       "start": 21.541,
+       "end": 21.927
+      },
+      {
+       "w": "in",
+       "start": 21.927,
+       "end": 22.107
+      },
+      {
+       "w": "the",
+       "start": 22.107,
+       "end": 22.338
+      },
+      {
+       "w": "streets.",
+       "start": 22.338,
+       "end": 22.775
+      }
+     ]
+    },
+    {
+     "text": "Surveillance cameras.",
+     "start": 23.177,
+     "end": 24.322,
+     "words": [
+      {
+       "w": "Surveillance",
+       "start": 23.177,
+       "end": 23.879
+      },
+      {
+       "w": "cameras.",
+       "start": 23.879,
+       "end": 24.322
+      }
+     ]
+    },
+    {
+     "text": "And markets in free fall.",
+     "start": 24.764,
+     "end": 26.746,
+     "words": [
+      {
+       "w": "And",
+       "start": 24.764,
+       "end": 25.088
+      },
+      {
+       "w": "markets",
+       "start": 25.088,
+       "end": 25.701
+      },
+      {
+       "w": "in",
+       "start": 25.701,
+       "end": 25.953
+      },
+      {
+       "w": "free",
+       "start": 25.953,
+       "end": 26.35
+      },
+      {
+       "w": "fall.",
+       "start": 26.35,
+       "end": 26.746
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "economist/vo/line3.mp3",
+   "start": 26.946,
+   "dur": 7.758,
+   "sentences": [
+    {
+     "text": "Every year, readers around the world zoom in on these covers, hunting for hidden meanings.",
+     "start": 26.946,
+     "end": 32.079,
+     "words": [
+      {
+       "w": "Every",
+       "start": 26.946,
+       "end": 27.306
+      },
+      {
+       "w": "year,",
+       "start": 27.306,
+       "end": 27.61
+      },
+      {
+       "w": "readers",
+       "start": 27.841,
+       "end": 28.259
+      },
+      {
+       "w": "around",
+       "start": 28.259,
+       "end": 28.627
+      },
+      {
+       "w": "the",
+       "start": 28.627,
+       "end": 28.848
+      },
+      {
+       "w": "world",
+       "start": 28.848,
+       "end": 29.168
+      },
+      {
+       "w": "zoom",
+       "start": 29.168,
+       "end": 29.438
+      },
+      {
+       "w": "in",
+       "start": 29.438,
+       "end": 29.61
+      },
+      {
+       "w": "on",
+       "start": 29.61,
+       "end": 29.782
+      },
+      {
+       "w": "these",
+       "start": 29.782,
+       "end": 30.101
+      },
+      {
+       "w": "covers,",
+       "start": 30.101,
+       "end": 30.469
+      },
+      {
+       "w": "hunting",
+       "start": 30.666,
+       "end": 31.066
+      },
+      {
+       "w": "for",
+       "start": 31.066,
+       "end": 31.278
+      },
+      {
+       "w": "hidden",
+       "start": 31.278,
+       "end": 31.631
+      },
+      {
+       "w": "meanings.",
+       "start": 31.631,
+       "end": 32.079
+      }
+     ]
+    },
+    {
+     "text": "So what is this one telling us?",
+     "start": 32.518,
+     "end": 34.487,
+     "words": [
+      {
+       "w": "So",
+       "start": 32.518,
+       "end": 32.718
+      },
+      {
+       "w": "what",
+       "start": 32.718,
+       "end": 33.032
+      },
+      {
+       "w": "is",
+       "start": 33.032,
+       "end": 33.231
+      },
+      {
+       "w": "this",
+       "start": 33.231,
+       "end": 33.545
+      },
+      {
+       "w": "one",
+       "start": 33.545,
+       "end": 33.802
+      },
+      {
+       "w": "telling",
+       "start": 33.802,
+       "end": 34.287
+      },
+      {
+       "w": "us?",
+       "start": 34.287,
+       "end": 34.487
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "economist/vo/line4.mp3",
+   "start": 34.905,
+   "dur": 11.05,
+   "sentences": [
+    {
+     "text": "Start with the weapons.",
+     "start": 34.905,
+     "end": 36.094,
+     "words": [
+      {
+       "w": "Start",
+       "start": 34.905,
+       "end": 35.214
+      },
+      {
+       "w": "with",
+       "start": 35.214,
+       "end": 35.475
+      },
+      {
+       "w": "the",
+       "start": 35.475,
+       "end": 35.689
+      },
+      {
+       "w": "weapons.",
+       "start": 35.689,
+       "end": 36.094
+      }
+     ]
+    },
+    {
+     "text": "One of the year's ten big themes is China and Taiwan.",
+     "start": 36.52,
+     "end": 39.871,
+     "words": [
+      {
+       "w": "One",
+       "start": 36.52,
+       "end": 36.783
+      },
+      {
+       "w": "of",
+       "start": 36.783,
+       "end": 36.987
+      },
+      {
+       "w": "the",
+       "start": 36.987,
+       "end": 37.249
+      },
+      {
+       "w": "year's",
+       "start": 37.249,
+       "end": 37.628
+      },
+      {
+       "w": "ten",
+       "start": 37.628,
+       "end": 37.89
+      },
+      {
+       "w": "big",
+       "start": 37.89,
+       "end": 38.152
+      },
+      {
+       "w": "themes",
+       "start": 38.152,
+       "end": 38.589
+      },
+      {
+       "w": "is",
+       "start": 38.589,
+       "end": 38.793
+      },
+      {
+       "w": "China",
+       "start": 38.793,
+       "end": 39.172
+      },
+      {
+       "w": "and",
+       "start": 39.172,
+       "end": 39.434
+      },
+      {
+       "w": "Taiwan.",
+       "start": 39.434,
+       "end": 39.871
+      }
+     ]
+    },
+    {
+     "text": "Xi Jinping has reportedly told his military to be ready to take the island by 2027.",
+     "start": 40.313,
+     "end": 45.749,
+     "words": [
+      {
+       "w": "Xi",
+       "start": 40.313,
+       "end": 40.496
+      },
+      {
+       "w": "Jinping",
+       "start": 40.496,
+       "end": 40.94
+      },
+      {
+       "w": "has",
+       "start": 40.94,
+       "end": 41.175
+      },
+      {
+       "w": "reportedly",
+       "start": 41.175,
+       "end": 41.776
+      },
+      {
+       "w": "told",
+       "start": 41.776,
+       "end": 42.064
+      },
+      {
+       "w": "his",
+       "start": 42.064,
+       "end": 42.299
+      },
+      {
+       "w": "military",
+       "start": 42.299,
+       "end": 42.796
+      },
+      {
+       "w": "to",
+       "start": 42.796,
+       "end": 42.979
+      },
+      {
+       "w": "be",
+       "start": 42.979,
+       "end": 43.162
+      },
+      {
+       "w": "ready",
+       "start": 43.162,
+       "end": 43.501
+      },
+      {
+       "w": "to",
+       "start": 43.501,
+       "end": 43.684
+      },
+      {
+       "w": "take",
+       "start": 43.684,
+       "end": 43.972
+      },
+      {
+       "w": "the",
+       "start": 43.972,
+       "end": 44.207
+      },
+      {
+       "w": "island",
+       "start": 44.207,
+       "end": 44.599
+      },
+      {
+       "w": "by",
+       "start": 44.599,
+       "end": 44.782
+      },
+      {
+       "w": "2027.",
+       "start": 44.782,
+       "end": 45.749
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "economist/vo/line5.mp3",
+   "start": 46.154,
+   "dur": 4.963,
+   "sentences": [
+    {
+     "text": "Ready does not mean it will happen.",
+     "start": 46.154,
+     "end": 48.213,
+     "words": [
+      {
+       "w": "Ready",
+       "start": 46.154,
+       "end": 46.502
+      },
+      {
+       "w": "does",
+       "start": 46.502,
+       "end": 46.796
+      },
+      {
+       "w": "not",
+       "start": 46.796,
+       "end": 47.037
+      },
+      {
+       "w": "mean",
+       "start": 47.037,
+       "end": 47.331
+      },
+      {
+       "w": "it",
+       "start": 47.331,
+       "end": 47.518
+      },
+      {
+       "w": "will",
+       "start": 47.518,
+       "end": 47.812
+      },
+      {
+       "w": "happen.",
+       "start": 47.812,
+       "end": 48.213
+      }
+     ]
+    },
+    {
+     "text": "But the deadline itself has now arrived.",
+     "start": 48.656,
+     "end": 50.869,
+     "words": [
+      {
+       "w": "But",
+       "start": 48.656,
+       "end": 48.885
+      },
+      {
+       "w": "the",
+       "start": 48.885,
+       "end": 49.114
+      },
+      {
+       "w": "deadline",
+       "start": 49.114,
+       "end": 49.598
+      },
+      {
+       "w": "itself",
+       "start": 49.598,
+       "end": 49.979
+      },
+      {
+       "w": "has",
+       "start": 49.979,
+       "end": 50.208
+      },
+      {
+       "w": "now",
+       "start": 50.208,
+       "end": 50.437
+      },
+      {
+       "w": "arrived.",
+       "start": 50.437,
+       "end": 50.869
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "economist/vo/line6.mp3",
+   "start": 51.318,
+   "dur": 11.285,
+   "sentences": [
+    {
+     "text": "Then there is the fire in the Middle East.",
+     "start": 51.318,
+     "end": 53.35,
+     "words": [
+      {
+       "w": "Then",
+       "start": 51.318,
+       "end": 51.558
+      },
+      {
+       "w": "there",
+       "start": 51.558,
+       "end": 51.842
+      },
+      {
+       "w": "is",
+       "start": 51.842,
+       "end": 51.995
+      },
+      {
+       "w": "the",
+       "start": 51.995,
+       "end": 52.192
+      },
+      {
+       "w": "fire",
+       "start": 52.192,
+       "end": 52.432
+      },
+      {
+       "w": "in",
+       "start": 52.432,
+       "end": 52.585
+      },
+      {
+       "w": "the",
+       "start": 52.585,
+       "end": 52.782
+      },
+      {
+       "w": "Middle",
+       "start": 52.782,
+       "end": 53.11
+      },
+      {
+       "w": "East.",
+       "start": 53.11,
+       "end": 53.35
+      }
+     ]
+    },
+    {
+     "text": "The magazine expects the aftershocks of the Iran war to keep spreading: rerouted oil and gas, and food under pressure as fertilizer runs short.",
+     "start": 53.773,
+     "end": 62.395,
+     "words": [
+      {
+       "w": "The",
+       "start": 53.773,
+       "end": 53.994
+      },
+      {
+       "w": "magazine",
+       "start": 53.994,
+       "end": 54.458
+      },
+      {
+       "w": "expects",
+       "start": 54.458,
+       "end": 54.874
+      },
+      {
+       "w": "the",
+       "start": 54.874,
+       "end": 55.094
+      },
+      {
+       "w": "aftershocks",
+       "start": 55.094,
+       "end": 55.706
+      },
+      {
+       "w": "of",
+       "start": 55.706,
+       "end": 55.877
+      },
+      {
+       "w": "the",
+       "start": 55.877,
+       "end": 56.097
+      },
+      {
+       "w": "Iran",
+       "start": 56.097,
+       "end": 56.366
+      },
+      {
+       "w": "war",
+       "start": 56.366,
+       "end": 56.587
+      },
+      {
+       "w": "to",
+       "start": 56.587,
+       "end": 56.758
+      },
+      {
+       "w": "keep",
+       "start": 56.758,
+       "end": 57.027
+      },
+      {
+       "w": "spreading:",
+       "start": 57.027,
+       "end": 57.541
+      },
+      {
+       "w": "rerouted",
+       "start": 57.911,
+       "end": 58.529
+      },
+      {
+       "w": "oil",
+       "start": 58.529,
+       "end": 58.822
+      },
+      {
+       "w": "and",
+       "start": 58.822,
+       "end": 59.115
+      },
+      {
+       "w": "gas,",
+       "start": 59.115,
+       "end": 59.408
+      },
+      {
+       "w": "and",
+       "start": 59.408,
+       "end": 59.662
+      },
+      {
+       "w": "food",
+       "start": 59.662,
+       "end": 59.972
+      },
+      {
+       "w": "under",
+       "start": 59.972,
+       "end": 60.338
+      },
+      {
+       "w": "pressure",
+       "start": 60.338,
+       "end": 60.874
+      },
+      {
+       "w": "as",
+       "start": 60.874,
+       "end": 61.071
+      },
+      {
+       "w": "fertilizer",
+       "start": 61.071,
+       "end": 61.719
+      },
+      {
+       "w": "runs",
+       "start": 61.719,
+       "end": 62.029
+      },
+      {
+       "w": "short.",
+       "start": 62.029,
+       "end": 62.395
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "economist/vo/line7.mp3",
+   "start": 62.803,
+   "dur": 4.65,
+   "sentences": [
+    {
+     "text": "But the strangest part of this cover isn't the war.",
+     "start": 62.803,
+     "end": 65.706,
+     "words": [
+      {
+       "w": "But",
+       "start": 62.803,
+       "end": 63.04
+      },
+      {
+       "w": "the",
+       "start": 63.04,
+       "end": 63.278
+      },
+      {
+       "w": "strangest",
+       "start": 63.278,
+       "end": 63.832
+      },
+      {
+       "w": "part",
+       "start": 63.832,
+       "end": 64.122
+      },
+      {
+       "w": "of",
+       "start": 64.122,
+       "end": 64.307
+      },
+      {
+       "w": "this",
+       "start": 64.307,
+       "end": 64.597
+      },
+      {
+       "w": "cover",
+       "start": 64.597,
+       "end": 64.941
+      },
+      {
+       "w": "isn't",
+       "start": 64.941,
+       "end": 65.231
+      },
+      {
+       "w": "the",
+       "start": 65.231,
+       "end": 65.468
+      },
+      {
+       "w": "war.",
+       "start": 65.468,
+       "end": 65.706
+      }
+     ]
+    },
+    {
+     "text": "It's the machines.",
+     "start": 66.165,
+     "end": 67.199,
+     "words": [
+      {
+       "w": "It's",
+       "start": 66.165,
+       "end": 66.416
+      },
+      {
+       "w": "the",
+       "start": 66.416,
+       "end": 66.668
+      },
+      {
+       "w": "machines.",
+       "start": 66.668,
+       "end": 67.199
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "economist/vo/line8.mp3",
+   "start": 67.652,
+   "dur": 15.047,
+   "sentences": [
+    {
+     "text": "Look closely and there are screens and cameras everywhere.",
+     "start": 67.652,
+     "end": 71.03,
+     "words": [
+      {
+       "w": "Look",
+       "start": 67.652,
+       "end": 67.95
+      },
+      {
+       "w": "closely",
+       "start": 67.95,
+       "end": 68.409
+      },
+      {
+       "w": "and",
+       "start": 68.409,
+       "end": 68.652
+      },
+      {
+       "w": "there",
+       "start": 68.652,
+       "end": 69.003
+      },
+      {
+       "w": "are",
+       "start": 69.003,
+       "end": 69.247
+      },
+      {
+       "w": "screens",
+       "start": 69.247,
+       "end": 69.706
+      },
+      {
+       "w": "and",
+       "start": 69.706,
+       "end": 69.949
+      },
+      {
+       "w": "cameras",
+       "start": 69.949,
+       "end": 70.408
+      },
+      {
+       "w": "everywhere.",
+       "start": 70.408,
+       "end": 71.03
+      }
+     ]
+    },
+    {
+     "text": "The issue predicts a backlash against artificial intelligence: data centers built on borrowed money, sky-high valuations, AI-powered cyberattacks, and growing fear for jobs.",
+     "start": 71.474,
+     "end": 82.478,
+     "words": [
+      {
+       "w": "The",
+       "start": 71.474,
+       "end": 71.682
+      },
+      {
+       "w": "issue",
+       "start": 71.682,
+       "end": 71.984
+      },
+      {
+       "w": "predicts",
+       "start": 71.984,
+       "end": 72.424
+      },
+      {
+       "w": "a",
+       "start": 72.424,
+       "end": 72.54
+      },
+      {
+       "w": "backlash",
+       "start": 72.54,
+       "end": 72.98
+      },
+      {
+       "w": "against",
+       "start": 72.98,
+       "end": 73.374
+      },
+      {
+       "w": "artificial",
+       "start": 73.374,
+       "end": 73.907
+      },
+      {
+       "w": "intelligence:",
+       "start": 73.907,
+       "end": 74.533
+      },
+      {
+       "w": "data",
+       "start": 74.83,
+       "end": 75.1
+      },
+      {
+       "w": "centers",
+       "start": 75.1,
+       "end": 75.517
+      },
+      {
+       "w": "built",
+       "start": 75.517,
+       "end": 75.836
+      },
+      {
+       "w": "on",
+       "start": 75.836,
+       "end": 76.008
+      },
+      {
+       "w": "borrowed",
+       "start": 76.008,
+       "end": 76.474
+      },
+      {
+       "w": "money,",
+       "start": 76.474,
+       "end": 76.793
+      },
+      {
+       "w": "sky-high",
+       "start": 77.035,
+       "end": 77.693
+      },
+      {
+       "w": "valuations,",
+       "start": 77.693,
+       "end": 78.583
+      },
+      {
+       "w": "AI-powered",
+       "start": 78.905,
+       "end": 79.656
+      },
+      {
+       "w": "cyberattacks,",
+       "start": 79.656,
+       "end": 80.621
+      },
+      {
+       "w": "and",
+       "start": 80.794,
+       "end": 81.06
+      },
+      {
+       "w": "growing",
+       "start": 81.06,
+       "end": 81.562
+      },
+      {
+       "w": "fear",
+       "start": 81.562,
+       "end": 81.887
+      },
+      {
+       "w": "for",
+       "start": 81.887,
+       "end": 82.153
+      },
+      {
+       "w": "jobs.",
+       "start": 82.153,
+       "end": 82.478
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "economist/vo/line9.mp3",
+   "start": 82.899,
+   "dur": 13.74,
+   "sentences": [
+    {
+     "text": "That borrowed money leads to the falling charts.",
+     "start": 82.899,
+     "end": 85.408,
+     "words": [
+      {
+       "w": "That",
+       "start": 82.899,
+       "end": 83.164
+      },
+      {
+       "w": "borrowed",
+       "start": 83.164,
+       "end": 83.623
+      },
+      {
+       "w": "money",
+       "start": 83.623,
+       "end": 83.936
+      },
+      {
+       "w": "leads",
+       "start": 83.936,
+       "end": 84.25
+      },
+      {
+       "w": "to",
+       "start": 84.25,
+       "end": 84.419
+      },
+      {
+       "w": "the",
+       "start": 84.419,
+       "end": 84.636
+      },
+      {
+       "w": "falling",
+       "start": 84.636,
+       "end": 85.046
+      },
+      {
+       "w": "charts.",
+       "start": 85.046,
+       "end": 85.408
+      }
+     ]
+    },
+    {
+     "text": "Rich-country governments owe more than ever, and bond markets are getting nervous.",
+     "start": 85.841,
+     "end": 90.273,
+     "words": [
+      {
+       "w": "Rich-country",
+       "start": 85.841,
+       "end": 86.49
+      },
+      {
+       "w": "governments",
+       "start": 86.49,
+       "end": 87.138
+      },
+      {
+       "w": "owe",
+       "start": 87.138,
+       "end": 87.372
+      },
+      {
+       "w": "more",
+       "start": 87.372,
+       "end": 87.657
+      },
+      {
+       "w": "than",
+       "start": 87.657,
+       "end": 87.942
+      },
+      {
+       "w": "ever,",
+       "start": 87.942,
+       "end": 88.227
+      },
+      {
+       "w": "and",
+       "start": 88.51,
+       "end": 88.708
+      },
+      {
+       "w": "bond",
+       "start": 88.708,
+       "end": 88.951
+      },
+      {
+       "w": "markets",
+       "start": 88.951,
+       "end": 89.325
+      },
+      {
+       "w": "are",
+       "start": 89.325,
+       "end": 89.524
+      },
+      {
+       "w": "getting",
+       "start": 89.524,
+       "end": 89.898
+      },
+      {
+       "w": "nervous.",
+       "start": 89.898,
+       "end": 90.273
+      }
+     ]
+    },
+    {
+     "text": "If borrowing costs jump, the magazine warns, a market accident becomes a real possibility.",
+     "start": 90.7,
+     "end": 96.369,
+     "words": [
+      {
+       "w": "If",
+       "start": 90.7,
+       "end": 90.907
+      },
+      {
+       "w": "borrowing",
+       "start": 90.907,
+       "end": 91.527
+      },
+      {
+       "w": "costs",
+       "start": 91.527,
+       "end": 91.91
+      },
+      {
+       "w": "jump,",
+       "start": 91.91,
+       "end": 92.235
+      },
+      {
+       "w": "the",
+       "start": 92.433,
+       "end": 92.644
+      },
+      {
+       "w": "magazine",
+       "start": 92.644,
+       "end": 93.089
+      },
+      {
+       "w": "warns,",
+       "start": 93.089,
+       "end": 93.394
+      },
+      {
+       "w": "a",
+       "start": 93.708,
+       "end": 93.845
+      },
+      {
+       "w": "market",
+       "start": 93.845,
+       "end": 94.257
+      },
+      {
+       "w": "accident",
+       "start": 94.257,
+       "end": 94.778
+      },
+      {
+       "w": "becomes",
+       "start": 94.778,
+       "end": 95.245
+      },
+      {
+       "w": "a",
+       "start": 95.245,
+       "end": 95.382
+      },
+      {
+       "w": "real",
+       "start": 95.382,
+       "end": 95.683
+      },
+      {
+       "w": "possibility.",
+       "start": 95.683,
+       "end": 96.369
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "economist/vo/line10.mp3",
+   "start": 96.839,
+   "dur": 2.142,
+   "sentences": [
+    {
+     "text": "And the warnings don't stop at money.",
+     "start": 96.839,
+     "end": 98.722,
+     "words": [
+      {
+       "w": "And",
+       "start": 96.839,
+       "end": 97.054
+      },
+      {
+       "w": "the",
+       "start": 97.054,
+       "end": 97.268
+      },
+      {
+       "w": "warnings",
+       "start": 97.268,
+       "end": 97.721
+      },
+      {
+       "w": "don't",
+       "start": 97.721,
+       "end": 97.983
+      },
+      {
+       "w": "stop",
+       "start": 97.983,
+       "end": 98.246
+      },
+      {
+       "w": "at",
+       "start": 98.246,
+       "end": 98.412
+      },
+      {
+       "w": "money.",
+       "start": 98.412,
+       "end": 98.722
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "economist/vo/line11.mp3",
+   "start": 99.181,
+   "dur": 12.957,
+   "sentences": [
+    {
+     "text": "In France, the 2027 election could hand the presidency to Marine Le Pen's far right, a result that would shake Europe.",
+     "start": 99.181,
+     "end": 106.701,
+     "words": [
+      {
+       "w": "In",
+       "start": 99.181,
+       "end": 99.406
+      },
+      {
+       "w": "France,",
+       "start": 99.406,
+       "end": 99.886
+      },
+      {
+       "w": "the",
+       "start": 100.101,
+       "end": 100.324
+      },
+      {
+       "w": "2027",
+       "start": 100.324,
+       "end": 101.24
+      },
+      {
+       "w": "election",
+       "start": 101.24,
+       "end": 101.71
+      },
+      {
+       "w": "could",
+       "start": 101.71,
+       "end": 102.032
+      },
+      {
+       "w": "hand",
+       "start": 102.032,
+       "end": 102.304
+      },
+      {
+       "w": "the",
+       "start": 102.304,
+       "end": 102.527
+      },
+      {
+       "w": "presidency",
+       "start": 102.527,
+       "end": 103.096
+      },
+      {
+       "w": "to",
+       "start": 103.096,
+       "end": 103.269
+      },
+      {
+       "w": "Marine",
+       "start": 103.269,
+       "end": 103.64
+      },
+      {
+       "w": "Le",
+       "start": 103.64,
+       "end": 103.814
+      },
+      {
+       "w": "Pen's",
+       "start": 103.814,
+       "end": 104.086
+      },
+      {
+       "w": "far",
+       "start": 104.086,
+       "end": 104.309
+      },
+      {
+       "w": "right,",
+       "start": 104.309,
+       "end": 104.63
+      },
+      {
+       "w": "a",
+       "start": 105.021,
+       "end": 105.138
+      },
+      {
+       "w": "result",
+       "start": 105.138,
+       "end": 105.488
+      },
+      {
+       "w": "that",
+       "start": 105.488,
+       "end": 105.745
+      },
+      {
+       "w": "would",
+       "start": 105.745,
+       "end": 106.048
+      },
+      {
+       "w": "shake",
+       "start": 106.048,
+       "end": 106.351
+      },
+      {
+       "w": "Europe.",
+       "start": 106.351,
+       "end": 106.701
+      }
+     ]
+    },
+    {
+     "text": "And the planet itself may run a fever, with another record-hot year on the watch list.",
+     "start": 107.137,
+     "end": 111.954,
+     "words": [
+      {
+       "w": "And",
+       "start": 107.137,
+       "end": 107.364
+      },
+      {
+       "w": "the",
+       "start": 107.364,
+       "end": 107.59
+      },
+      {
+       "w": "planet",
+       "start": 107.59,
+       "end": 107.967
+      },
+      {
+       "w": "itself",
+       "start": 107.967,
+       "end": 108.345
+      },
+      {
+       "w": "may",
+       "start": 108.345,
+       "end": 108.571
+      },
+      {
+       "w": "run",
+       "start": 108.571,
+       "end": 108.798
+      },
+      {
+       "w": "a",
+       "start": 108.798,
+       "end": 108.923
+      },
+      {
+       "w": "fever,",
+       "start": 108.923,
+       "end": 109.25
+      },
+      {
+       "w": "with",
+       "start": 109.462,
+       "end": 109.736
+      },
+      {
+       "w": "another",
+       "start": 109.736,
+       "end": 110.159
+      },
+      {
+       "w": "record-hot",
+       "start": 110.159,
+       "end": 110.683
+      },
+      {
+       "w": "year",
+       "start": 110.683,
+       "end": 110.957
+      },
+      {
+       "w": "on",
+       "start": 110.957,
+       "end": 111.131
+      },
+      {
+       "w": "the",
+       "start": 111.131,
+       "end": 111.355
+      },
+      {
+       "w": "watch",
+       "start": 111.355,
+       "end": 111.679
+      },
+      {
+       "w": "list.",
+       "start": 111.679,
+       "end": 111.954
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "economist/vo/line12.mp3",
+   "start": 112.338,
+   "dur": 8.124,
+   "sentences": [
+    {
+     "text": "Not every theme is dark: a booming market for weight-loss drugs, cheap rockets and private space stations, and Hollywood reboots.",
+     "start": 112.338,
+     "end": 120.263,
+     "words": [
+      {
+       "w": "Not",
+       "start": 112.338,
+       "end": 112.579
+      },
+      {
+       "w": "every",
+       "start": 112.579,
+       "end": 112.926
+      },
+      {
+       "w": "theme",
+       "start": 112.926,
+       "end": 113.273
+      },
+      {
+       "w": "is",
+       "start": 113.273,
+       "end": 113.46
+      },
+      {
+       "w": "dark:",
+       "start": 113.46,
+       "end": 113.754
+      },
+      {
+       "w": "a",
+       "start": 114.189,
+       "end": 114.314
+      },
+      {
+       "w": "booming",
+       "start": 114.314,
+       "end": 114.739
+      },
+      {
+       "w": "market",
+       "start": 114.739,
+       "end": 115.113
+      },
+      {
+       "w": "for",
+       "start": 115.113,
+       "end": 115.338
+      },
+      {
+       "w": "weight-loss",
+       "start": 115.338,
+       "end": 115.913
+      },
+      {
+       "w": "drugs,",
+       "start": 115.913,
+       "end": 116.237
+      },
+      {
+       "w": "cheap",
+       "start": 116.44,
+       "end": 116.75
+      },
+      {
+       "w": "rockets",
+       "start": 116.75,
+       "end": 117.155
+      },
+      {
+       "w": "and",
+       "start": 117.155,
+       "end": 117.37
+      },
+      {
+       "w": "private",
+       "start": 117.37,
+       "end": 117.775
+      },
+      {
+       "w": "space",
+       "start": 117.775,
+       "end": 118.085
+      },
+      {
+       "w": "stations,",
+       "start": 118.085,
+       "end": 118.538
+      },
+      {
+       "w": "and",
+       "start": 118.815,
+       "end": 119.092
+      },
+      {
+       "w": "Hollywood",
+       "start": 119.092,
+       "end": 119.74
+      },
+      {
+       "w": "reboots.",
+       "start": 119.74,
+       "end": 120.263
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "economist/vo/line13.mp3",
+   "start": 120.662,
+   "dur": 3.997,
+   "sentences": [
+    {
+     "text": "So is this cover a secret prophecy?",
+     "start": 120.662,
+     "end": 123.106,
+     "words": [
+      {
+       "w": "So",
+       "start": 120.662,
+       "end": 120.884
+      },
+      {
+       "w": "is",
+       "start": 120.884,
+       "end": 121.106
+      },
+      {
+       "w": "this",
+       "start": 121.106,
+       "end": 121.456
+      },
+      {
+       "w": "cover",
+       "start": 121.456,
+       "end": 121.868
+      },
+      {
+       "w": "a",
+       "start": 121.868,
+       "end": 122.027
+      },
+      {
+       "w": "secret",
+       "start": 122.027,
+       "end": 122.503
+      },
+      {
+       "w": "prophecy?",
+       "start": 122.503,
+       "end": 123.106
+      }
+     ]
+    },
+    {
+     "text": "Here's the twist.",
+     "start": 123.564,
+     "end": 124.659,
+     "words": [
+      {
+       "w": "Here's",
+       "start": 123.564,
+       "end": 123.971
+      },
+      {
+       "w": "the",
+       "start": 123.971,
+       "end": 124.252
+      },
+      {
+       "w": "twist.",
+       "start": 124.252,
+       "end": 124.659
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "economist/vo/line14.mp3",
+   "start": 124.859,
+   "dur": 7.314,
+   "sentences": [
+    {
+     "text": "These are forecasts from journalists and experts, published openly every year.",
+     "start": 124.859,
+     "end": 129.536,
+     "words": [
+      {
+       "w": "These",
+       "start": 124.859,
+       "end": 125.201
+      },
+      {
+       "w": "are",
+       "start": 125.201,
+       "end": 125.438
+      },
+      {
+       "w": "forecasts",
+       "start": 125.438,
+       "end": 125.99
+      },
+      {
+       "w": "from",
+       "start": 125.99,
+       "end": 126.279
+      },
+      {
+       "w": "journalists",
+       "start": 126.279,
+       "end": 126.937
+      },
+      {
+       "w": "and",
+       "start": 126.937,
+       "end": 127.174
+      },
+      {
+       "w": "experts,",
+       "start": 127.174,
+       "end": 127.621
+      },
+      {
+       "w": "published",
+       "start": 127.841,
+       "end": 128.435
+      },
+      {
+       "w": "openly",
+       "start": 128.435,
+       "end": 128.858
+      },
+      {
+       "w": "every",
+       "start": 128.858,
+       "end": 129.226
+      },
+      {
+       "w": "year.",
+       "start": 129.226,
+       "end": 129.536
+      }
+     ]
+    },
+    {
+     "text": "And their track record is mixed.",
+     "start": 129.986,
+     "end": 131.936,
+     "words": [
+      {
+       "w": "And",
+       "start": 129.986,
+       "end": 130.237
+      },
+      {
+       "w": "their",
+       "start": 130.237,
+       "end": 130.599
+      },
+      {
+       "w": "track",
+       "start": 130.599,
+       "end": 130.961
+      },
+      {
+       "w": "record",
+       "start": 130.961,
+       "end": 131.379
+      },
+      {
+       "w": "is",
+       "start": 131.379,
+       "end": 131.574
+      },
+      {
+       "w": "mixed.",
+       "start": 131.574,
+       "end": 131.936
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "economist/vo/line15.mp3",
+   "start": 132.373,
+   "dur": 7.576,
+   "sentences": [
+    {
+     "text": "In its 2022 edition, the magazine said Emmanuel Macron would probably win re-election in France.",
+     "start": 132.373,
+     "end": 138.685,
+     "words": [
+      {
+       "w": "In",
+       "start": 132.373,
+       "end": 132.544
+      },
+      {
+       "w": "its",
+       "start": 132.544,
+       "end": 132.765
+      },
+      {
+       "w": "2022",
+       "start": 132.765,
+       "end": 133.572
+      },
+      {
+       "w": "edition,",
+       "start": 133.572,
+       "end": 133.987
+      },
+      {
+       "w": "the",
+       "start": 134.249,
+       "end": 134.5
+      },
+      {
+       "w": "magazine",
+       "start": 134.5,
+       "end": 135.03
+      },
+      {
+       "w": "said",
+       "start": 135.03,
+       "end": 135.337
+      },
+      {
+       "w": "Emmanuel",
+       "start": 135.337,
+       "end": 135.867
+      },
+      {
+       "w": "Macron",
+       "start": 135.867,
+       "end": 136.286
+      },
+      {
+       "w": "would",
+       "start": 136.286,
+       "end": 136.648
+      },
+      {
+       "w": "probably",
+       "start": 136.648,
+       "end": 137.178
+      },
+      {
+       "w": "win",
+       "start": 137.178,
+       "end": 137.43
+      },
+      {
+       "w": "re-election",
+       "start": 137.43,
+       "end": 138.071
+      },
+      {
+       "w": "in",
+       "start": 138.071,
+       "end": 138.267
+      },
+      {
+       "w": "France.",
+       "start": 138.267,
+       "end": 138.685
+      }
+     ]
+    },
+    {
+     "text": "He did.",
+     "start": 139.1,
+     "end": 139.562,
+     "words": [
+      {
+       "w": "He",
+       "start": 139.1,
+       "end": 139.302
+      },
+      {
+       "w": "did.",
+       "start": 139.302,
+       "end": 139.562
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "economist/vo/line16.mp3",
+   "start": 140.149,
+   "dur": 12.852,
+   "sentences": [
+    {
+     "text": "But the 2020 edition missed the biggest story of the century, a pandemic, and the magazine admitted it.",
+     "start": 140.149,
+     "end": 146.647,
+     "words": [
+      {
+       "w": "But",
+       "start": 140.149,
+       "end": 140.361
+      },
+      {
+       "w": "the",
+       "start": 140.361,
+       "end": 140.573
+      },
+      {
+       "w": "2020",
+       "start": 140.573,
+       "end": 141.209
+      },
+      {
+       "w": "edition",
+       "start": 141.209,
+       "end": 141.61
+      },
+      {
+       "w": "missed",
+       "start": 141.61,
+       "end": 141.964
+      },
+      {
+       "w": "the",
+       "start": 141.964,
+       "end": 142.176
+      },
+      {
+       "w": "biggest",
+       "start": 142.176,
+       "end": 142.576
+      },
+      {
+       "w": "story",
+       "start": 142.576,
+       "end": 142.883
+      },
+      {
+       "w": "of",
+       "start": 142.883,
+       "end": 143.048
+      },
+      {
+       "w": "the",
+       "start": 143.048,
+       "end": 143.26
+      },
+      {
+       "w": "century,",
+       "start": 143.26,
+       "end": 143.66
+      },
+      {
+       "w": "a",
+       "start": 144.131,
+       "end": 144.304
+      },
+      {
+       "w": "pandemic,",
+       "start": 144.304,
+       "end": 144.962
+      },
+      {
+       "w": "and",
+       "start": 145.3,
+       "end": 145.492
+      },
+      {
+       "w": "the",
+       "start": 145.492,
+       "end": 145.685
+      },
+      {
+       "w": "magazine",
+       "start": 145.685,
+       "end": 146.091
+      },
+      {
+       "w": "admitted",
+       "start": 146.091,
+       "end": 146.497
+      },
+      {
+       "w": "it.",
+       "start": 146.497,
+       "end": 146.647
+      }
+     ]
+    },
+    {
+     "text": "Its 2023 edition called a global recession inevitable.",
+     "start": 147.084,
+     "end": 150.85,
+     "words": [
+      {
+       "w": "Its",
+       "start": 147.084,
+       "end": 147.323
+      },
+      {
+       "w": "2023",
+       "start": 147.323,
+       "end": 148.304
+      },
+      {
+       "w": "edition",
+       "start": 148.304,
+       "end": 148.755
+      },
+      {
+       "w": "called",
+       "start": 148.755,
+       "end": 149.153
+      },
+      {
+       "w": "a",
+       "start": 149.153,
+       "end": 149.285
+      },
+      {
+       "w": "global",
+       "start": 149.285,
+       "end": 149.683
+      },
+      {
+       "w": "recession",
+       "start": 149.683,
+       "end": 150.24
+      },
+      {
+       "w": "inevitable.",
+       "start": 150.24,
+       "end": 150.85
+      }
+     ]
+    },
+    {
+     "text": "America avoided one.",
+     "start": 151.311,
+     "end": 152.724,
+     "words": [
+      {
+       "w": "America",
+       "start": 151.311,
+       "end": 151.87
+      },
+      {
+       "w": "avoided",
+       "start": 151.87,
+       "end": 152.429
+      },
+      {
+       "w": "one.",
+       "start": 152.429,
+       "end": 152.724
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "economist/vo/line17.mp3",
+   "start": 153.201,
+   "dur": 6.452,
+   "sentences": [
+    {
+     "text": "So the cover is not a plan.",
+     "start": 153.201,
+     "end": 155.43,
+     "words": [
+      {
+       "w": "So",
+       "start": 153.201,
+       "end": 153.457
+      },
+      {
+       "w": "the",
+       "start": 153.457,
+       "end": 153.786
+      },
+      {
+       "w": "cover",
+       "start": 153.786,
+       "end": 154.261
+      },
+      {
+       "w": "is",
+       "start": 154.261,
+       "end": 154.517
+      },
+      {
+       "w": "not",
+       "start": 154.517,
+       "end": 154.846
+      },
+      {
+       "w": "a",
+       "start": 154.846,
+       "end": 155.028
+      },
+      {
+       "w": "plan.",
+       "start": 155.028,
+       "end": 155.43
+      }
+     ]
+    },
+    {
+     "text": "It's a list of risks.",
+     "start": 155.838,
+     "end": 157.182,
+     "words": [
+      {
+       "w": "It's",
+       "start": 155.838,
+       "end": 156.107
+      },
+      {
+       "w": "a",
+       "start": 156.107,
+       "end": 156.256
+      },
+      {
+       "w": "list",
+       "start": 156.256,
+       "end": 156.584
+      },
+      {
+       "w": "of",
+       "start": 156.584,
+       "end": 156.793
+      },
+      {
+       "w": "risks.",
+       "start": 156.793,
+       "end": 157.182
+      }
+     ]
+    },
+    {
+     "text": "And risks can still be stopped.",
+     "start": 157.588,
+     "end": 159.653,
+     "words": [
+      {
+       "w": "And",
+       "start": 157.588,
+       "end": 157.861
+      },
+      {
+       "w": "risks",
+       "start": 157.861,
+       "end": 158.256
+      },
+      {
+       "w": "can",
+       "start": 158.256,
+       "end": 158.529
+      },
+      {
+       "w": "still",
+       "start": 158.529,
+       "end": 158.924
+      },
+      {
+       "w": "be",
+       "start": 158.924,
+       "end": 159.137
+      },
+      {
+       "w": "stopped.",
+       "start": 159.137,
+       "end": 159.653
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "file": "economist/vo/line18.mp3",
+   "start": 159.853,
+   "dur": 12.826,
+   "sentences": [
+    {
+     "text": "Which of these do you think will actually happen in 2027?",
+     "start": 159.853,
+     "end": 163.083,
+     "words": [
+      {
+       "w": "Which",
+       "start": 159.853,
+       "end": 160.131
+      },
+      {
+       "w": "of",
+       "start": 160.131,
+       "end": 160.281
+      },
+      {
+       "w": "these",
+       "start": 160.281,
+       "end": 160.559
+      },
+      {
+       "w": "do",
+       "start": 160.559,
+       "end": 160.709
+      },
+      {
+       "w": "you",
+       "start": 160.709,
+       "end": 160.901
+      },
+      {
+       "w": "think",
+       "start": 160.901,
+       "end": 161.179
+      },
+      {
+       "w": "will",
+       "start": 161.179,
+       "end": 161.415
+      },
+      {
+       "w": "actually",
+       "start": 161.415,
+       "end": 161.821
+      },
+      {
+       "w": "happen",
+       "start": 161.821,
+       "end": 162.142
+      },
+      {
+       "w": "in",
+       "start": 162.142,
+       "end": 162.292
+      },
+      {
+       "w": "2027?",
+       "start": 162.292,
+       "end": 163.083
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 163.514,
+     "end": 164.439,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 163.514,
+       "end": 163.706
+      },
+      {
+       "w": "me",
+       "start": 163.706,
+       "end": 163.828
+      },
+      {
+       "w": "in",
+       "start": 163.828,
+       "end": 163.95
+      },
+      {
+       "w": "the",
+       "start": 163.95,
+       "end": 164.107
+      },
+      {
+       "w": "comments.",
+       "start": 164.107,
+       "end": 164.439
+      }
+     ]
+    },
+    {
+     "text": "And for real mysteries, watch the men who escaped Alcatraz, and the hikers on Dead Mountain, right here on Chronos Galaxy.",
+     "start": 164.813,
+     "end": 172.448,
+     "words": [
+      {
+       "w": "And",
+       "start": 164.813,
+       "end": 165.052
+      },
+      {
+       "w": "for",
+       "start": 165.052,
+       "end": 165.291
+      },
+      {
+       "w": "real",
+       "start": 165.291,
+       "end": 165.584
+      },
+      {
+       "w": "mysteries,",
+       "start": 165.584,
+       "end": 166.141
+      },
+      {
+       "w": "watch",
+       "start": 166.393,
+       "end": 166.758
+      },
+      {
+       "w": "the",
+       "start": 166.758,
+       "end": 167.011
+      },
+      {
+       "w": "men",
+       "start": 167.011,
+       "end": 167.264
+      },
+      {
+       "w": "who",
+       "start": 167.264,
+       "end": 167.517
+      },
+      {
+       "w": "escaped",
+       "start": 167.517,
+       "end": 167.994
+      },
+      {
+       "w": "Alcatraz,",
+       "start": 167.994,
+       "end": 168.528
+      },
+      {
+       "w": "and",
+       "start": 168.528,
+       "end": 168.756
+      },
+      {
+       "w": "the",
+       "start": 168.756,
+       "end": 168.985
+      },
+      {
+       "w": "hikers",
+       "start": 168.985,
+       "end": 169.366
+      },
+      {
+       "w": "on",
+       "start": 169.366,
+       "end": 169.544
+      },
+      {
+       "w": "Dead",
+       "start": 169.544,
+       "end": 169.824
+      },
+      {
+       "w": "Mountain,",
+       "start": 169.824,
+       "end": 170.306
+      },
+      {
+       "w": "right",
+       "start": 170.602,
+       "end": 170.983
+      },
+      {
+       "w": "here",
+       "start": 170.983,
+       "end": 171.305
+      },
+      {
+       "w": "on",
+       "start": 171.305,
+       "end": 171.511
+      },
+      {
+       "w": "Chronos",
+       "start": 171.511,
+       "end": 172.009
+      },
+      {
+       "w": "Galaxy.",
+       "start": 172.009,
+       "end": 172.448
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

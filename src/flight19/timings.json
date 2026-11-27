@@ -1,0 +1,2557 @@
+{
+ "total": 163.104,
+ "lines": [
+  {
+   "index": 0,
+   "file": "flight19/vo/line0.mp3",
+   "start": 0.25,
+   "dur": 12.069,
+   "sentences": [
+    {
+     "text": "In 1945, five Navy bombers vanished over the Atlantic.",
+     "start": 0.25,
+     "end": 4.322,
+     "words": [
+      {
+       "w": "In",
+       "start": 0.25,
+       "end": 0.498
+      },
+      {
+       "w": "1945,",
+       "start": 0.498,
+       "end": 0.887
+      },
+      {
+       "w": "five",
+       "start": 0.887,
+       "end": 1.277
+      },
+      {
+       "w": "Navy",
+       "start": 1.277,
+       "end": 1.667
+      },
+      {
+       "w": "bombers",
+       "start": 1.667,
+       "end": 2.269
+      },
+      {
+       "w": "vanished",
+       "start": 2.269,
+       "end": 2.941
+      },
+      {
+       "w": "over",
+       "start": 2.941,
+       "end": 3.331
+      },
+      {
+       "w": "the",
+       "start": 3.331,
+       "end": 3.65
+      },
+      {
+       "w": "Atlantic.",
+       "start": 3.65,
+       "end": 4.322
+      }
+     ]
+    },
+    {
+     "text": "Then the plane sent to rescue them vanished too.",
+     "start": 4.78,
+     "end": 7.857,
+     "words": [
+      {
+       "w": "Then",
+       "start": 4.78,
+       "end": 5.103
+      },
+      {
+       "w": "the",
+       "start": 5.103,
+       "end": 5.366
+      },
+      {
+       "w": "plane",
+       "start": 5.366,
+       "end": 5.747
+      },
+      {
+       "w": "sent",
+       "start": 5.747,
+       "end": 6.069
+      },
+      {
+       "w": "to",
+       "start": 6.069,
+       "end": 6.274
+      },
+      {
+       "w": "rescue",
+       "start": 6.274,
+       "end": 6.714
+      },
+      {
+       "w": "them",
+       "start": 6.714,
+       "end": 7.036
+      },
+      {
+       "w": "vanished",
+       "start": 7.036,
+       "end": 7.593
+      },
+      {
+       "w": "too.",
+       "start": 7.593,
+       "end": 7.857
+      }
+     ]
+    },
+    {
+     "text": "Twenty-seven men.",
+     "start": 8.326,
+     "end": 9.486,
+     "words": [
+      {
+       "w": "Twenty-seven",
+       "start": 8.326,
+       "end": 9.179
+      },
+      {
+       "w": "men.",
+       "start": 9.179,
+       "end": 9.486
+      }
+     ]
+    },
+    {
+     "text": "Not one body was ever found.",
+     "start": 9.919,
+     "end": 12.319,
+     "words": [
+      {
+       "w": "Not",
+       "start": 9.919,
+       "end": 10.267
+      },
+      {
+       "w": "one",
+       "start": 10.267,
+       "end": 10.616
+      },
+      {
+       "w": "body",
+       "start": 10.616,
+       "end": 11.041
+      },
+      {
+       "w": "was",
+       "start": 11.041,
+       "end": 11.39
+      },
+      {
+       "w": "ever",
+       "start": 11.39,
+       "end": 11.815
+      },
+      {
+       "w": "found.",
+       "start": 11.815,
+       "end": 12.319
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "file": "flight19/vo/line1.mp3",
+   "start": 12.469,
+   "dur": 11.99,
+   "sentences": [
+    {
+     "text": "December 5th, 1945.",
+     "start": 12.469,
+     "end": 14.739,
+     "words": [
+      {
+       "w": "December",
+       "start": 12.469,
+       "end": 13.085
+      },
+      {
+       "w": "5th,",
+       "start": 13.085,
+       "end": 13.377
+      },
+      {
+       "w": "1945.",
+       "start": 13.555,
+       "end": 14.739
+      }
+     ]
+    },
+    {
+     "text": "Naval Air Station Fort Lauderdale, Florida.",
+     "start": 15.145,
+     "end": 17.561,
+     "words": [
+      {
+       "w": "Naval",
+       "start": 15.145,
+       "end": 15.494
+      },
+      {
+       "w": "Air",
+       "start": 15.494,
+       "end": 15.735
+      },
+      {
+       "w": "Station",
+       "start": 15.735,
+       "end": 16.192
+      },
+      {
+       "w": "Fort",
+       "start": 16.192,
+       "end": 16.487
+      },
+      {
+       "w": "Lauderdale,",
+       "start": 16.487,
+       "end": 17.105
+      },
+      {
+       "w": "Florida.",
+       "start": 17.105,
+       "end": 17.561
+      }
+     ]
+    },
+    {
+     "text": "Five Avenger torpedo bombers take off on a routine training flight.",
+     "start": 18.03,
+     "end": 21.904,
+     "words": [
+      {
+       "w": "Five",
+       "start": 18.03,
+       "end": 18.324
+      },
+      {
+       "w": "Avenger",
+       "start": 18.324,
+       "end": 18.778
+      },
+      {
+       "w": "torpedo",
+       "start": 18.778,
+       "end": 19.232
+      },
+      {
+       "w": "bombers",
+       "start": 19.232,
+       "end": 19.686
+      },
+      {
+       "w": "take",
+       "start": 19.686,
+       "end": 19.98
+      },
+      {
+       "w": "off",
+       "start": 19.98,
+       "end": 20.221
+      },
+      {
+       "w": "on",
+       "start": 20.221,
+       "end": 20.408
+      },
+      {
+       "w": "a",
+       "start": 20.408,
+       "end": 20.541
+      },
+      {
+       "w": "routine",
+       "start": 20.541,
+       "end": 20.995
+      },
+      {
+       "w": "training",
+       "start": 20.995,
+       "end": 21.503
+      },
+      {
+       "w": "flight.",
+       "start": 21.503,
+       "end": 21.904
+      }
+     ]
+    },
+    {
+     "text": "Its name: Flight 19.",
+     "start": 22.354,
+     "end": 24.218,
+     "words": [
+      {
+       "w": "Its",
+       "start": 22.354,
+       "end": 22.585
+      },
+      {
+       "w": "name:",
+       "start": 22.585,
+       "end": 22.866
+      },
+      {
+       "w": "Flight",
+       "start": 23.26,
+       "end": 23.683
+      },
+      {
+       "w": "19.",
+       "start": 23.683,
+       "end": 24.218
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "file": "flight19/vo/line2.mp3",
+   "start": 24.609,
+   "dur": 8.725,
+   "sentences": [
+    {
+     "text": "Fourteen men.",
+     "start": 24.609,
+     "end": 25.588,
+     "words": [
+      {
+       "w": "Fourteen",
+       "start": 24.609,
+       "end": 25.273
+      },
+      {
+       "w": "men.",
+       "start": 25.273,
+       "end": 25.588
+      }
+     ]
+    },
+    {
+     "text": "Their leader, Lieutenant Charles Taylor, was an experienced combat pilot.",
+     "start": 26.056,
+     "end": 30.181,
+     "words": [
+      {
+       "w": "Their",
+       "start": 26.056,
+       "end": 26.408
+      },
+      {
+       "w": "leader,",
+       "start": 26.408,
+       "end": 26.815
+      },
+      {
+       "w": "Lieutenant",
+       "start": 26.815,
+       "end": 27.44
+      },
+      {
+       "w": "Charles",
+       "start": 27.44,
+       "end": 27.901
+      },
+      {
+       "w": "Taylor,",
+       "start": 27.901,
+       "end": 28.308
+      },
+      {
+       "w": "was",
+       "start": 28.308,
+       "end": 28.552
+      },
+      {
+       "w": "an",
+       "start": 28.552,
+       "end": 28.742
+      },
+      {
+       "w": "experienced",
+       "start": 28.742,
+       "end": 29.421
+      },
+      {
+       "w": "combat",
+       "start": 29.421,
+       "end": 29.828
+      },
+      {
+       "w": "pilot.",
+       "start": 29.828,
+       "end": 30.181
+      }
+     ]
+    },
+    {
+     "text": "The route was a simple triangle over the sea.",
+     "start": 30.644,
+     "end": 33.102,
+     "words": [
+      {
+       "w": "The",
+       "start": 30.644,
+       "end": 30.867
+      },
+      {
+       "w": "route",
+       "start": 30.867,
+       "end": 31.19
+      },
+      {
+       "w": "was",
+       "start": 31.19,
+       "end": 31.414
+      },
+      {
+       "w": "a",
+       "start": 31.414,
+       "end": 31.538
+      },
+      {
+       "w": "simple",
+       "start": 31.538,
+       "end": 31.91
+      },
+      {
+       "w": "triangle",
+       "start": 31.91,
+       "end": 32.382
+      },
+      {
+       "w": "over",
+       "start": 32.382,
+       "end": 32.655
+      },
+      {
+       "w": "the",
+       "start": 32.655,
+       "end": 32.879
+      },
+      {
+       "w": "sea.",
+       "start": 32.879,
+       "end": 33.102
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "file": "flight19/vo/line3.mp3",
+   "start": 33.484,
+   "dur": 6.217,
+   "sentences": [
+    {
+     "text": "About ninety minutes in, a radio operator heard Taylor's voice.",
+     "start": 33.484,
+     "end": 37.462,
+     "words": [
+      {
+       "w": "About",
+       "start": 33.484,
+       "end": 33.824
+      },
+      {
+       "w": "ninety",
+       "start": 33.824,
+       "end": 34.216
+      },
+      {
+       "w": "minutes",
+       "start": 34.216,
+       "end": 34.661
+      },
+      {
+       "w": "in,",
+       "start": 34.661,
+       "end": 34.844
+      },
+      {
+       "w": "a",
+       "start": 35.094,
+       "end": 35.242
+      },
+      {
+       "w": "radio",
+       "start": 35.242,
+       "end": 35.627
+      },
+      {
+       "w": "operator",
+       "start": 35.627,
+       "end": 36.189
+      },
+      {
+       "w": "heard",
+       "start": 36.189,
+       "end": 36.574
+      },
+      {
+       "w": "Taylor's",
+       "start": 36.574,
+       "end": 37.077
+      },
+      {
+       "w": "voice.",
+       "start": 37.077,
+       "end": 37.462
+      }
+     ]
+    },
+    {
+     "text": "Both my compasses are out.",
+     "start": 37.873,
+     "end": 39.345,
+     "words": [
+      {
+       "w": "Both",
+       "start": 37.873,
+       "end": 38.157
+      },
+      {
+       "w": "my",
+       "start": 38.157,
+       "end": 38.338
+      },
+      {
+       "w": "compasses",
+       "start": 38.338,
+       "end": 38.88
+      },
+      {
+       "w": "are",
+       "start": 38.88,
+       "end": 39.112
+      },
+      {
+       "w": "out.",
+       "start": 39.112,
+       "end": 39.345
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "file": "flight19/vo/line4.mp3",
+   "start": 39.851,
+   "dur": 12.278,
+   "sentences": [
+    {
+     "text": "He was sure they were over the Florida Keys.",
+     "start": 39.851,
+     "end": 42.312,
+     "words": [
+      {
+       "w": "He",
+       "start": 39.851,
+       "end": 40.028
+      },
+      {
+       "w": "was",
+       "start": 40.028,
+       "end": 40.257
+      },
+      {
+       "w": "sure",
+       "start": 40.257,
+       "end": 40.536
+      },
+      {
+       "w": "they",
+       "start": 40.536,
+       "end": 40.815
+      },
+      {
+       "w": "were",
+       "start": 40.815,
+       "end": 41.094
+      },
+      {
+       "w": "over",
+       "start": 41.094,
+       "end": 41.373
+      },
+      {
+       "w": "the",
+       "start": 41.373,
+       "end": 41.601
+      },
+      {
+       "w": "Florida",
+       "start": 41.601,
+       "end": 42.033
+      },
+      {
+       "w": "Keys.",
+       "start": 42.033,
+       "end": 42.312
+      }
+     ]
+    },
+    {
+     "text": "Investigators later believed they were far to the east, near the Bahamas.",
+     "start": 42.767,
+     "end": 46.898,
+     "words": [
+      {
+       "w": "Investigators",
+       "start": 42.767,
+       "end": 43.498
+      },
+      {
+       "w": "later",
+       "start": 43.498,
+       "end": 43.826
+      },
+      {
+       "w": "believed",
+       "start": 43.826,
+       "end": 44.305
+      },
+      {
+       "w": "they",
+       "start": 44.305,
+       "end": 44.582
+      },
+      {
+       "w": "were",
+       "start": 44.582,
+       "end": 44.859
+      },
+      {
+       "w": "far",
+       "start": 44.859,
+       "end": 45.086
+      },
+      {
+       "w": "to",
+       "start": 45.086,
+       "end": 45.263
+      },
+      {
+       "w": "the",
+       "start": 45.263,
+       "end": 45.49
+      },
+      {
+       "w": "east,",
+       "start": 45.49,
+       "end": 45.767
+      },
+      {
+       "w": "near",
+       "start": 45.965,
+       "end": 46.242
+      },
+      {
+       "w": "the",
+       "start": 46.242,
+       "end": 46.469
+      },
+      {
+       "w": "Bahamas.",
+       "start": 46.469,
+       "end": 46.898
+      }
+     ]
+    },
+    {
+     "text": "So every time he turned for home, he may have been flying further out to sea.",
+     "start": 47.253,
+     "end": 51.89,
+     "words": [
+      {
+       "w": "So",
+       "start": 47.253,
+       "end": 47.442
+      },
+      {
+       "w": "every",
+       "start": 47.442,
+       "end": 47.792
+      },
+      {
+       "w": "time",
+       "start": 47.792,
+       "end": 48.088
+      },
+      {
+       "w": "he",
+       "start": 48.088,
+       "end": 48.277
+      },
+      {
+       "w": "turned",
+       "start": 48.277,
+       "end": 48.681
+      },
+      {
+       "w": "for",
+       "start": 48.681,
+       "end": 48.924
+      },
+      {
+       "w": "home,",
+       "start": 48.924,
+       "end": 49.22
+      },
+      {
+       "w": "he",
+       "start": 49.593,
+       "end": 49.762
+      },
+      {
+       "w": "may",
+       "start": 49.762,
+       "end": 49.98
+      },
+      {
+       "w": "have",
+       "start": 49.98,
+       "end": 50.246
+      },
+      {
+       "w": "been",
+       "start": 50.246,
+       "end": 50.512
+      },
+      {
+       "w": "flying",
+       "start": 50.512,
+       "end": 50.874
+      },
+      {
+       "w": "further",
+       "start": 50.874,
+       "end": 51.285
+      },
+      {
+       "w": "out",
+       "start": 51.285,
+       "end": 51.503
+      },
+      {
+       "w": "to",
+       "start": 51.503,
+       "end": 51.672
+      },
+      {
+       "w": "sea.",
+       "start": 51.672,
+       "end": 51.89
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "file": "flight19/vo/line5.mp3",
+   "start": 52.278,
+   "dur": 3.788,
+   "sentences": [
+    {
+     "text": "The people on the ground could hear them.",
+     "start": 52.278,
+     "end": 54.272,
+     "words": [
+      {
+       "w": "The",
+       "start": 52.278,
+       "end": 52.478
+      },
+      {
+       "w": "people",
+       "start": 52.478,
+       "end": 52.81
+      },
+      {
+       "w": "on",
+       "start": 52.81,
+       "end": 52.965
+      },
+      {
+       "w": "the",
+       "start": 52.965,
+       "end": 53.164
+      },
+      {
+       "w": "ground",
+       "start": 53.164,
+       "end": 53.497
+      },
+      {
+       "w": "could",
+       "start": 53.497,
+       "end": 53.785
+      },
+      {
+       "w": "hear",
+       "start": 53.785,
+       "end": 54.028
+      },
+      {
+       "w": "them.",
+       "start": 54.028,
+       "end": 54.272
+      }
+     ]
+    },
+    {
+     "text": "But they couldn't find them.",
+     "start": 54.677,
+     "end": 55.819,
+     "words": [
+      {
+       "w": "But",
+       "start": 54.677,
+       "end": 54.851
+      },
+      {
+       "w": "they",
+       "start": 54.851,
+       "end": 55.064
+      },
+      {
+       "w": "couldn't",
+       "start": 55.064,
+       "end": 55.393
+      },
+      {
+       "w": "find",
+       "start": 55.393,
+       "end": 55.606
+      },
+      {
+       "w": "them.",
+       "start": 55.606,
+       "end": 55.819
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "file": "flight19/vo/line6.mp3",
+   "start": 56.216,
+   "dur": 5.407,
+   "sentences": [
+    {
+     "text": "The sun went down.",
+     "start": 56.216,
+     "end": 57.355,
+     "words": [
+      {
+       "w": "The",
+       "start": 56.216,
+       "end": 56.472
+      },
+      {
+       "w": "sun",
+       "start": 56.472,
+       "end": 56.728
+      },
+      {
+       "w": "went",
+       "start": 56.728,
+       "end": 57.041
+      },
+      {
+       "w": "down.",
+       "start": 57.041,
+       "end": 57.355
+      }
+     ]
+    },
+    {
+     "text": "The sea got rough.",
+     "start": 57.784,
+     "end": 58.962,
+     "words": [
+      {
+       "w": "The",
+       "start": 57.784,
+       "end": 58.049
+      },
+      {
+       "w": "sea",
+       "start": 58.049,
+       "end": 58.314
+      },
+      {
+       "w": "got",
+       "start": 58.314,
+       "end": 58.579
+      },
+      {
+       "w": "rough.",
+       "start": 58.579,
+       "end": 58.962
+      }
+     ]
+    },
+    {
+     "text": "And the fuel kept dropping.",
+     "start": 59.409,
+     "end": 61.364,
+     "words": [
+      {
+       "w": "And",
+       "start": 59.409,
+       "end": 59.707
+      },
+      {
+       "w": "the",
+       "start": 59.707,
+       "end": 60.005
+      },
+      {
+       "w": "fuel",
+       "start": 60.005,
+       "end": 60.369
+      },
+      {
+       "w": "kept",
+       "start": 60.369,
+       "end": 60.734
+      },
+      {
+       "w": "dropping.",
+       "start": 60.734,
+       "end": 61.364
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "file": "flight19/vo/line7.mp3",
+   "start": 61.773,
+   "dur": 9.77,
+   "sentences": [
+    {
+     "text": "Around seven PM, one of the last messages was heard.",
+     "start": 61.773,
+     "end": 65.119,
+     "words": [
+      {
+       "w": "Around",
+       "start": 61.773,
+       "end": 62.284
+      },
+      {
+       "w": "seven",
+       "start": 62.284,
+       "end": 62.726
+      },
+      {
+       "w": "PM,",
+       "start": 62.726,
+       "end": 62.964
+      },
+      {
+       "w": "one",
+       "start": 63.21,
+       "end": 63.433
+      },
+      {
+       "w": "of",
+       "start": 63.433,
+       "end": 63.607
+      },
+      {
+       "w": "the",
+       "start": 63.607,
+       "end": 63.83
+      },
+      {
+       "w": "last",
+       "start": 63.83,
+       "end": 64.103
+      },
+      {
+       "w": "messages",
+       "start": 64.103,
+       "end": 64.574
+      },
+      {
+       "w": "was",
+       "start": 64.574,
+       "end": 64.797
+      },
+      {
+       "w": "heard.",
+       "start": 64.797,
+       "end": 65.119
+      }
+     ]
+    },
+    {
+     "text": "All planes close up tight.",
+     "start": 65.565,
+     "end": 67.044,
+     "words": [
+      {
+       "w": "All",
+       "start": 65.565,
+       "end": 65.799
+      },
+      {
+       "w": "planes",
+       "start": 65.799,
+       "end": 66.188
+      },
+      {
+       "w": "close",
+       "start": 66.188,
+       "end": 66.525
+      },
+      {
+       "w": "up",
+       "start": 66.525,
+       "end": 66.707
+      },
+      {
+       "w": "tight.",
+       "start": 66.707,
+       "end": 67.044
+      }
+     ]
+    },
+    {
+     "text": "When the first plane drops below ten gallons, we all go down together.",
+     "start": 67.451,
+     "end": 71.318,
+     "words": [
+      {
+       "w": "When",
+       "start": 67.451,
+       "end": 67.708
+      },
+      {
+       "w": "the",
+       "start": 67.708,
+       "end": 67.918
+      },
+      {
+       "w": "first",
+       "start": 67.918,
+       "end": 68.222
+      },
+      {
+       "w": "plane",
+       "start": 68.222,
+       "end": 68.526
+      },
+      {
+       "w": "drops",
+       "start": 68.526,
+       "end": 68.829
+      },
+      {
+       "w": "below",
+       "start": 68.829,
+       "end": 69.133
+      },
+      {
+       "w": "ten",
+       "start": 69.133,
+       "end": 69.343
+      },
+      {
+       "w": "gallons,",
+       "start": 69.343,
+       "end": 69.74
+      },
+      {
+       "w": "we",
+       "start": 69.932,
+       "end": 70.115
+      },
+      {
+       "w": "all",
+       "start": 70.115,
+       "end": 70.351
+      },
+      {
+       "w": "go",
+       "start": 70.351,
+       "end": 70.534
+      },
+      {
+       "w": "down",
+       "start": 70.534,
+       "end": 70.822
+      },
+      {
+       "w": "together.",
+       "start": 70.822,
+       "end": 71.318
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "file": "flight19/vo/line8.mp3",
+   "start": 71.693,
+   "dur": 1.724,
+   "sentences": [
+    {
+     "text": "Then, silence.",
+     "start": 71.693,
+     "end": 73.215,
+     "words": [
+      {
+       "w": "Then,",
+       "start": 71.693,
+       "end": 72.102
+      },
+      {
+       "w": "silence.",
+       "start": 72.485,
+       "end": 73.215
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "file": "flight19/vo/line9.mp3",
+   "start": 73.567,
+   "dur": 5.355,
+   "sentences": [
+    {
+     "text": "But the story wasn't over.",
+     "start": 73.567,
+     "end": 75.276,
+     "words": [
+      {
+       "w": "But",
+       "start": 73.567,
+       "end": 73.847
+      },
+      {
+       "w": "the",
+       "start": 73.847,
+       "end": 74.127
+      },
+      {
+       "w": "story",
+       "start": 74.127,
+       "end": 74.53
+      },
+      {
+       "w": "wasn't",
+       "start": 74.53,
+       "end": 74.934
+      },
+      {
+       "w": "over.",
+       "start": 74.934,
+       "end": 75.276
+      }
+     ]
+    },
+    {
+     "text": "Because that night, the Navy sent a rescue plane.",
+     "start": 75.71,
+     "end": 78.922,
+     "words": [
+      {
+       "w": "Because",
+       "start": 75.71,
+       "end": 76.094
+      },
+      {
+       "w": "that",
+       "start": 76.094,
+       "end": 76.342
+      },
+      {
+       "w": "night,",
+       "start": 76.342,
+       "end": 76.635
+      },
+      {
+       "w": "the",
+       "start": 76.915,
+       "end": 77.197
+      },
+      {
+       "w": "Navy",
+       "start": 77.197,
+       "end": 77.542
+      },
+      {
+       "w": "sent",
+       "start": 77.542,
+       "end": 77.887
+      },
+      {
+       "w": "a",
+       "start": 77.887,
+       "end": 78.044
+      },
+      {
+       "w": "rescue",
+       "start": 78.044,
+       "end": 78.515
+      },
+      {
+       "w": "plane.",
+       "start": 78.515,
+       "end": 78.922
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "file": "flight19/vo/line10.mp3",
+   "start": 79.072,
+   "dur": 8.647,
+   "sentences": [
+    {
+     "text": "A huge Mariner flying boat, with thirteen men on board.",
+     "start": 79.072,
+     "end": 82.506,
+     "words": [
+      {
+       "w": "A",
+       "start": 79.072,
+       "end": 79.228
+      },
+      {
+       "w": "huge",
+       "start": 79.228,
+       "end": 79.571
+      },
+      {
+       "w": "Mariner",
+       "start": 79.571,
+       "end": 80.1
+      },
+      {
+       "w": "flying",
+       "start": 80.1,
+       "end": 80.567
+      },
+      {
+       "w": "boat,",
+       "start": 80.567,
+       "end": 80.91
+      },
+      {
+       "w": "with",
+       "start": 81.103,
+       "end": 81.364
+      },
+      {
+       "w": "thirteen",
+       "start": 81.364,
+       "end": 81.816
+      },
+      {
+       "w": "men",
+       "start": 81.816,
+       "end": 82.03
+      },
+      {
+       "w": "on",
+       "start": 82.03,
+       "end": 82.197
+      },
+      {
+       "w": "board.",
+       "start": 82.197,
+       "end": 82.506
+      }
+     ]
+    },
+    {
+     "text": "It took off at 7:27 PM.",
+     "start": 83.05,
+     "end": 85.286,
+     "words": [
+      {
+       "w": "It",
+       "start": 83.05,
+       "end": 83.256
+      },
+      {
+       "w": "took",
+       "start": 83.256,
+       "end": 83.58
+      },
+      {
+       "w": "off",
+       "start": 83.58,
+       "end": 83.845
+      },
+      {
+       "w": "at",
+       "start": 83.845,
+       "end": 84.05
+      },
+      {
+       "w": "7:27",
+       "start": 84.05,
+       "end": 85.08
+      },
+      {
+       "w": "PM.",
+       "start": 85.08,
+       "end": 85.286
+      }
+     ]
+    },
+    {
+     "text": "It was never heard from again.",
+     "start": 85.748,
+     "end": 87.5,
+     "words": [
+      {
+       "w": "It",
+       "start": 85.748,
+       "end": 85.934
+      },
+      {
+       "w": "was",
+       "start": 85.934,
+       "end": 86.172
+      },
+      {
+       "w": "never",
+       "start": 86.172,
+       "end": 86.518
+      },
+      {
+       "w": "heard",
+       "start": 86.518,
+       "end": 86.863
+      },
+      {
+       "w": "from",
+       "start": 86.863,
+       "end": 87.155
+      },
+      {
+       "w": "again.",
+       "start": 87.155,
+       "end": 87.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "file": "flight19/vo/line11.mp3",
+   "start": 87.869,
+   "dur": 10.501,
+   "sentences": [
+    {
+     "text": "A passing tanker reported flames on the horizon, and an oil slick on the water.",
+     "start": 87.869,
+     "end": 92.471,
+     "words": [
+      {
+       "w": "A",
+       "start": 87.869,
+       "end": 88.004
+      },
+      {
+       "w": "passing",
+       "start": 88.004,
+       "end": 88.463
+      },
+      {
+       "w": "tanker",
+       "start": 88.463,
+       "end": 88.869
+      },
+      {
+       "w": "reported",
+       "start": 88.869,
+       "end": 89.382
+      },
+      {
+       "w": "flames",
+       "start": 89.382,
+       "end": 89.787
+      },
+      {
+       "w": "on",
+       "start": 89.787,
+       "end": 89.977
+      },
+      {
+       "w": "the",
+       "start": 89.977,
+       "end": 90.22
+      },
+      {
+       "w": "horizon,",
+       "start": 90.22,
+       "end": 90.679
+      },
+      {
+       "w": "and",
+       "start": 90.879,
+       "end": 91.093
+      },
+      {
+       "w": "an",
+       "start": 91.093,
+       "end": 91.259
+      },
+      {
+       "w": "oil",
+       "start": 91.259,
+       "end": 91.473
+      },
+      {
+       "w": "slick",
+       "start": 91.473,
+       "end": 91.782
+      },
+      {
+       "w": "on",
+       "start": 91.782,
+       "end": 91.948
+      },
+      {
+       "w": "the",
+       "start": 91.948,
+       "end": 92.162
+      },
+      {
+       "w": "water.",
+       "start": 92.162,
+       "end": 92.471
+      }
+     ]
+    },
+    {
+     "text": "Mariners had a nickname.",
+     "start": 92.926,
+     "end": 94.275,
+     "words": [
+      {
+       "w": "Mariners",
+       "start": 92.926,
+       "end": 93.419
+      },
+      {
+       "w": "had",
+       "start": 93.419,
+       "end": 93.652
+      },
+      {
+       "w": "a",
+       "start": 93.652,
+       "end": 93.782
+      },
+      {
+       "w": "nickname.",
+       "start": 93.782,
+       "end": 94.275
+      }
+     ]
+    },
+    {
+     "text": "Flying gas tanks.",
+     "start": 94.692,
+     "end": 96.016,
+     "words": [
+      {
+       "w": "Flying",
+       "start": 94.692,
+       "end": 95.229
+      },
+      {
+       "w": "gas",
+       "start": 95.229,
+       "end": 95.551
+      },
+      {
+       "w": "tanks.",
+       "start": 95.551,
+       "end": 96.016
+      }
+     ]
+    },
+    {
+     "text": "A single spark could do it.",
+     "start": 96.432,
+     "end": 98.12,
+     "words": [
+      {
+       "w": "A",
+       "start": 96.432,
+       "end": 96.573
+      },
+      {
+       "w": "single",
+       "start": 96.573,
+       "end": 96.995
+      },
+      {
+       "w": "spark",
+       "start": 96.995,
+       "end": 97.36
+      },
+      {
+       "w": "could",
+       "start": 97.36,
+       "end": 97.726
+      },
+      {
+       "w": "do",
+       "start": 97.726,
+       "end": 97.923
+      },
+      {
+       "w": "it.",
+       "start": 97.923,
+       "end": 98.12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "file": "flight19/vo/line12.mp3",
+   "start": 98.52,
+   "dur": 9.639,
+   "sentences": [
+    {
+     "text": "Twenty-seven men.",
+     "start": 98.52,
+     "end": 99.617,
+     "words": [
+      {
+       "w": "Twenty-seven",
+       "start": 98.52,
+       "end": 99.327
+      },
+      {
+       "w": "men.",
+       "start": 99.327,
+       "end": 99.617
+      }
+     ]
+    },
+    {
+     "text": "Six aircraft.",
+     "start": 100.069,
+     "end": 101.106,
+     "words": [
+      {
+       "w": "Six",
+       "start": 100.069,
+       "end": 100.402
+      },
+      {
+       "w": "aircraft.",
+       "start": 100.402,
+       "end": 101.106
+      }
+     ]
+    },
+    {
+     "text": "Gone in a single night.",
+     "start": 101.551,
+     "end": 103.023,
+     "words": [
+      {
+       "w": "Gone",
+       "start": 101.551,
+       "end": 101.869
+      },
+      {
+       "w": "in",
+       "start": 101.869,
+       "end": 102.071
+      },
+      {
+       "w": "a",
+       "start": 102.071,
+       "end": 102.215
+      },
+      {
+       "w": "single",
+       "start": 102.215,
+       "end": 102.648
+      },
+      {
+       "w": "night.",
+       "start": 102.648,
+       "end": 103.023
+      }
+     ]
+    },
+    {
+     "text": "Hundreds of ships and planes searched for five days.",
+     "start": 103.475,
+     "end": 106.518,
+     "words": [
+      {
+       "w": "Hundreds",
+       "start": 103.475,
+       "end": 103.987
+      },
+      {
+       "w": "of",
+       "start": 103.987,
+       "end": 104.175
+      },
+      {
+       "w": "ships",
+       "start": 104.175,
+       "end": 104.525
+      },
+      {
+       "w": "and",
+       "start": 104.525,
+       "end": 104.767
+      },
+      {
+       "w": "planes",
+       "start": 104.767,
+       "end": 105.171
+      },
+      {
+       "w": "searched",
+       "start": 105.171,
+       "end": 105.683
+      },
+      {
+       "w": "for",
+       "start": 105.683,
+       "end": 105.925
+      },
+      {
+       "w": "five",
+       "start": 105.925,
+       "end": 106.222
+      },
+      {
+       "w": "days.",
+       "start": 106.222,
+       "end": 106.518
+      }
+     ]
+    },
+    {
+     "text": "They found nothing.",
+     "start": 106.973,
+     "end": 107.966,
+     "words": [
+      {
+       "w": "They",
+       "start": 106.973,
+       "end": 107.239
+      },
+      {
+       "w": "found",
+       "start": 107.239,
+       "end": 107.554
+      },
+      {
+       "w": "nothing.",
+       "start": 107.554,
+       "end": 107.966
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "file": "flight19/vo/line13.mp3",
+   "start": 108.309,
+   "dur": 10.71,
+   "sentences": [
+    {
+     "text": "Years later, Flight 19 became the story that created the Bermuda Triangle.",
+     "start": 108.309,
+     "end": 113.037,
+     "words": [
+      {
+       "w": "Years",
+       "start": 108.309,
+       "end": 108.689
+      },
+      {
+       "w": "later,",
+       "start": 108.689,
+       "end": 109.068
+      },
+      {
+       "w": "Flight",
+       "start": 109.323,
+       "end": 109.71
+      },
+      {
+       "w": "19",
+       "start": 109.71,
+       "end": 110.2
+      },
+      {
+       "w": "became",
+       "start": 110.2,
+       "end": 110.587
+      },
+      {
+       "w": "the",
+       "start": 110.587,
+       "end": 110.819
+      },
+      {
+       "w": "story",
+       "start": 110.819,
+       "end": 111.154
+      },
+      {
+       "w": "that",
+       "start": 111.154,
+       "end": 111.438
+      },
+      {
+       "w": "created",
+       "start": 111.438,
+       "end": 111.876
+      },
+      {
+       "w": "the",
+       "start": 111.876,
+       "end": 112.108
+      },
+      {
+       "w": "Bermuda",
+       "start": 112.108,
+       "end": 112.547
+      },
+      {
+       "w": "Triangle.",
+       "start": 112.547,
+       "end": 113.037
+      }
+     ]
+    },
+    {
+     "text": "Books claimed Taylor said the ocean didn't look right.",
+     "start": 113.499,
+     "end": 116.53,
+     "words": [
+      {
+       "w": "Books",
+       "start": 113.499,
+       "end": 113.842
+      },
+      {
+       "w": "claimed",
+       "start": 113.842,
+       "end": 114.29
+      },
+      {
+       "w": "Taylor",
+       "start": 114.29,
+       "end": 114.685
+      },
+      {
+       "w": "said",
+       "start": 114.685,
+       "end": 114.975
+      },
+      {
+       "w": "the",
+       "start": 114.975,
+       "end": 115.212
+      },
+      {
+       "w": "ocean",
+       "start": 115.212,
+       "end": 115.555
+      },
+      {
+       "w": "didn't",
+       "start": 115.555,
+       "end": 115.897
+      },
+      {
+       "w": "look",
+       "start": 115.897,
+       "end": 116.187
+      },
+      {
+       "w": "right.",
+       "start": 116.187,
+       "end": 116.53
+      }
+     ]
+    },
+    {
+     "text": "That everything looked strange.",
+     "start": 116.99,
+     "end": 118.774,
+     "words": [
+      {
+       "w": "That",
+       "start": 116.99,
+       "end": 117.288
+      },
+      {
+       "w": "everything",
+       "start": 117.288,
+       "end": 117.909
+      },
+      {
+       "w": "looked",
+       "start": 117.909,
+       "end": 118.315
+      },
+      {
+       "w": "strange.",
+       "start": 118.315,
+       "end": 118.774
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "file": "flight19/vo/line14.mp3",
+   "start": 119.17,
+   "dur": 10.292,
+   "sentences": [
+    {
+     "text": "But those creepy lines aren't in the Navy's radio logs.",
+     "start": 119.17,
+     "end": 122.222,
+     "words": [
+      {
+       "w": "But",
+       "start": 119.17,
+       "end": 119.406
+      },
+      {
+       "w": "those",
+       "start": 119.406,
+       "end": 119.749
+      },
+      {
+       "w": "creepy",
+       "start": 119.749,
+       "end": 120.143
+      },
+      {
+       "w": "lines",
+       "start": 120.143,
+       "end": 120.485
+      },
+      {
+       "w": "aren't",
+       "start": 120.485,
+       "end": 120.828
+      },
+      {
+       "w": "in",
+       "start": 120.828,
+       "end": 121.012
+      },
+      {
+       "w": "the",
+       "start": 121.012,
+       "end": 121.249
+      },
+      {
+       "w": "Navy's",
+       "start": 121.249,
+       "end": 121.591
+      },
+      {
+       "w": "radio",
+       "start": 121.591,
+       "end": 121.933
+      },
+      {
+       "w": "logs.",
+       "start": 121.933,
+       "end": 122.222
+      }
+     ]
+    },
+    {
+     "text": "The real record is far more human.",
+     "start": 122.607,
+     "end": 124.572,
+     "words": [
+      {
+       "w": "The",
+       "start": 122.607,
+       "end": 122.843
+      },
+      {
+       "w": "real",
+       "start": 122.843,
+       "end": 123.131
+      },
+      {
+       "w": "record",
+       "start": 123.131,
+       "end": 123.524
+      },
+      {
+       "w": "is",
+       "start": 123.524,
+       "end": 123.707
+      },
+      {
+       "w": "far",
+       "start": 123.707,
+       "end": 123.943
+      },
+      {
+       "w": "more",
+       "start": 123.943,
+       "end": 124.231
+      },
+      {
+       "w": "human.",
+       "start": 124.231,
+       "end": 124.572
+      }
+     ]
+    },
+    {
+     "text": "A lost leader.",
+     "start": 125.057,
+     "end": 125.901,
+     "words": [
+      {
+       "w": "A",
+       "start": 125.057,
+       "end": 125.193
+      },
+      {
+       "w": "lost",
+       "start": 125.193,
+       "end": 125.493
+      },
+      {
+       "w": "leader.",
+       "start": 125.493,
+       "end": 125.901
+      }
+     ]
+    },
+    {
+     "text": "Compasses he didn't trust.",
+     "start": 126.253,
+     "end": 127.684,
+     "words": [
+      {
+       "w": "Compasses",
+       "start": 126.253,
+       "end": 126.809
+      },
+      {
+       "w": "he",
+       "start": 126.809,
+       "end": 126.995
+      },
+      {
+       "w": "didn't",
+       "start": 126.995,
+       "end": 127.339
+      },
+      {
+       "w": "trust.",
+       "start": 127.339,
+       "end": 127.684
+      }
+     ]
+    },
+    {
+     "text": "And fuel running out.",
+     "start": 128.041,
+     "end": 129.247,
+     "words": [
+      {
+       "w": "And",
+       "start": 128.041,
+       "end": 128.277
+      },
+      {
+       "w": "fuel",
+       "start": 128.277,
+       "end": 128.566
+      },
+      {
+       "w": "running",
+       "start": 128.566,
+       "end": 129.011
+      },
+      {
+       "w": "out.",
+       "start": 129.011,
+       "end": 129.247
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "file": "flight19/vo/line15.mp3",
+   "start": 129.612,
+   "dur": 9.3,
+   "sentences": [
+    {
+     "text": "The Navy first blamed Taylor.",
+     "start": 129.612,
+     "end": 131.403,
+     "words": [
+      {
+       "w": "The",
+       "start": 129.612,
+       "end": 129.868
+      },
+      {
+       "w": "Navy",
+       "start": 129.868,
+       "end": 130.18
+      },
+      {
+       "w": "first",
+       "start": 130.18,
+       "end": 130.55
+      },
+      {
+       "w": "blamed",
+       "start": 130.55,
+       "end": 130.976
+      },
+      {
+       "w": "Taylor.",
+       "start": 130.976,
+       "end": 131.403
+      }
+     ]
+    },
+    {
+     "text": "His mother fought back.",
+     "start": 131.867,
+     "end": 133.149,
+     "words": [
+      {
+       "w": "His",
+       "start": 131.867,
+       "end": 132.098
+      },
+      {
+       "w": "mother",
+       "start": 132.098,
+       "end": 132.482
+      },
+      {
+       "w": "fought",
+       "start": 132.482,
+       "end": 132.867
+      },
+      {
+       "w": "back.",
+       "start": 132.867,
+       "end": 133.149
+      }
+     ]
+    },
+    {
+     "text": "In the end, the official cause was changed to: causes or reasons unknown.",
+     "start": 133.594,
+     "end": 138.655,
+     "words": [
+      {
+       "w": "In",
+       "start": 133.594,
+       "end": 133.756
+      },
+      {
+       "w": "the",
+       "start": 133.756,
+       "end": 133.964
+      },
+      {
+       "w": "end,",
+       "start": 133.964,
+       "end": 134.171
+      },
+      {
+       "w": "the",
+       "start": 134.406,
+       "end": 134.641
+      },
+      {
+       "w": "official",
+       "start": 134.641,
+       "end": 135.139
+      },
+      {
+       "w": "cause",
+       "start": 135.139,
+       "end": 135.479
+      },
+      {
+       "w": "was",
+       "start": 135.479,
+       "end": 135.715
+      },
+      {
+       "w": "changed",
+       "start": 135.715,
+       "end": 136.16
+      },
+      {
+       "w": "to:",
+       "start": 136.16,
+       "end": 136.343
+      },
+      {
+       "w": "causes",
+       "start": 136.686,
+       "end": 137.214
+      },
+      {
+       "w": "or",
+       "start": 137.214,
+       "end": 137.46
+      },
+      {
+       "w": "reasons",
+       "start": 137.46,
+       "end": 138.057
+      },
+      {
+       "w": "unknown.",
+       "start": 138.057,
+       "end": 138.655
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "file": "flight19/vo/line16.mp3",
+   "start": 139.061,
+   "dur": 10.841,
+   "sentences": [
+    {
+     "text": "In 1991, divers found five Avengers on the seafloor off Florida.",
+     "start": 139.061,
+     "end": 144.067,
+     "words": [
+      {
+       "w": "In",
+       "start": 139.061,
+       "end": 139.563
+      },
+      {
+       "w": "1991,",
+       "start": 139.563,
+       "end": 140.35
+      },
+      {
+       "w": "divers",
+       "start": 140.613,
+       "end": 141.048
+      },
+      {
+       "w": "found",
+       "start": 141.048,
+       "end": 141.426
+      },
+      {
+       "w": "five",
+       "start": 141.426,
+       "end": 141.745
+      },
+      {
+       "w": "Avengers",
+       "start": 141.745,
+       "end": 142.296
+      },
+      {
+       "w": "on",
+       "start": 142.296,
+       "end": 142.5
+      },
+      {
+       "w": "the",
+       "start": 142.5,
+       "end": 142.761
+      },
+      {
+       "w": "seafloor",
+       "start": 142.761,
+       "end": 143.312
+      },
+      {
+       "w": "off",
+       "start": 143.312,
+       "end": 143.574
+      },
+      {
+       "w": "Florida.",
+       "start": 143.574,
+       "end": 144.067
+      }
+     ]
+    },
+    {
+     "text": "For a moment, the world thought it was solved.",
+     "start": 144.532,
+     "end": 146.904,
+     "words": [
+      {
+       "w": "For",
+       "start": 144.532,
+       "end": 144.731
+      },
+      {
+       "w": "a",
+       "start": 144.731,
+       "end": 144.841
+      },
+      {
+       "w": "moment,",
+       "start": 144.841,
+       "end": 145.173
+      },
+      {
+       "w": "the",
+       "start": 145.441,
+       "end": 145.629
+      },
+      {
+       "w": "world",
+       "start": 145.629,
+       "end": 145.901
+      },
+      {
+       "w": "thought",
+       "start": 145.901,
+       "end": 146.256
+      },
+      {
+       "w": "it",
+       "start": 146.256,
+       "end": 146.402
+      },
+      {
+       "w": "was",
+       "start": 146.402,
+       "end": 146.591
+      },
+      {
+       "w": "solved.",
+       "start": 146.591,
+       "end": 146.904
+      }
+     ]
+    },
+    {
+     "text": "It wasn't.",
+     "start": 147.356,
+     "end": 147.963,
+     "words": [
+      {
+       "w": "It",
+       "start": 147.356,
+       "end": 147.568
+      },
+      {
+       "w": "wasn't.",
+       "start": 147.568,
+       "end": 147.963
+      }
+     ]
+    },
+    {
+     "text": "They were the wrong planes.",
+     "start": 148.393,
+     "end": 149.662,
+     "words": [
+      {
+       "w": "They",
+       "start": 148.393,
+       "end": 148.63
+      },
+      {
+       "w": "were",
+       "start": 148.63,
+       "end": 148.866
+      },
+      {
+       "w": "the",
+       "start": 148.866,
+       "end": 149.06
+      },
+      {
+       "w": "wrong",
+       "start": 149.06,
+       "end": 149.34
+      },
+      {
+       "w": "planes.",
+       "start": 149.34,
+       "end": 149.662
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "file": "flight19/vo/line17.mp3",
+   "start": 150.052,
+   "dur": 12.251,
+   "sentences": [
+    {
+     "text": "Somewhere out there, Flight 19 is still waiting to be found.",
+     "start": 150.052,
+     "end": 153.95,
+     "words": [
+      {
+       "w": "Somewhere",
+       "start": 150.052,
+       "end": 150.543
+      },
+      {
+       "w": "out",
+       "start": 150.543,
+       "end": 150.753
+      },
+      {
+       "w": "there,",
+       "start": 150.753,
+       "end": 151.057
+      },
+      {
+       "w": "Flight",
+       "start": 151.349,
+       "end": 151.747
+      },
+      {
+       "w": "19",
+       "start": 151.747,
+       "end": 152.251
+      },
+      {
+       "w": "is",
+       "start": 152.251,
+       "end": 152.437
+      },
+      {
+       "w": "still",
+       "start": 152.437,
+       "end": 152.782
+      },
+      {
+       "w": "waiting",
+       "start": 152.782,
+       "end": 153.234
+      },
+      {
+       "w": "to",
+       "start": 153.234,
+       "end": 153.419
+      },
+      {
+       "w": "be",
+       "start": 153.419,
+       "end": 153.605
+      },
+      {
+       "w": "found.",
+       "start": 153.605,
+       "end": 153.95
+      }
+     ]
+    },
+    {
+     "text": "What do you think happened?",
+     "start": 154.405,
+     "end": 155.385,
+     "words": [
+      {
+       "w": "What",
+       "start": 154.405,
+       "end": 154.587
+      },
+      {
+       "w": "do",
+       "start": 154.587,
+       "end": 154.704
+      },
+      {
+       "w": "you",
+       "start": 154.704,
+       "end": 154.853
+      },
+      {
+       "w": "think",
+       "start": 154.853,
+       "end": 155.069
+      },
+      {
+       "w": "happened?",
+       "start": 155.069,
+       "end": 155.385
+      }
+     ]
+    },
+    {
+     "text": "Tell me in the comments.",
+     "start": 155.844,
+     "end": 156.788,
+     "words": [
+      {
+       "w": "Tell",
+       "start": 155.844,
+       "end": 156.04
+      },
+      {
+       "w": "me",
+       "start": 156.04,
+       "end": 156.165
+      },
+      {
+       "w": "in",
+       "start": 156.165,
+       "end": 156.289
+      },
+      {
+       "w": "the",
+       "start": 156.289,
+       "end": 156.45
+      },
+      {
+       "w": "comments.",
+       "start": 156.45,
+       "end": 156.788
+      }
+     ]
+    },
+    {
+     "text": "And watch our MH370 short.",
+     "start": 157.243,
+     "end": 159.413,
+     "words": [
+      {
+       "w": "And",
+       "start": 157.243,
+       "end": 157.586
+      },
+      {
+       "w": "watch",
+       "start": 157.586,
+       "end": 158.08
+      },
+      {
+       "w": "our",
+       "start": 158.08,
+       "end": 158.423
+      },
+      {
+       "w": "MH370",
+       "start": 158.423,
+       "end": 158.918
+      },
+      {
+       "w": "short.",
+       "start": 158.918,
+       "end": 159.413
+      }
+     ]
+    },
+    {
+     "text": "Another flight that vanished without a trace.",
+     "start": 159.799,
+     "end": 162.304,
+     "words": [
+      {
+       "w": "Another",
+       "start": 159.799,
+       "end": 160.238
+      },
+      {
+       "w": "flight",
+       "start": 160.238,
+       "end": 160.625
+      },
+      {
+       "w": "that",
+       "start": 160.625,
+       "end": 160.909
+      },
+      {
+       "w": "vanished",
+       "start": 160.909,
+       "end": 161.4
+      },
+      {
+       "w": "without",
+       "start": 161.4,
+       "end": 161.839
+      },
+      {
+       "w": "a",
+       "start": 161.839,
+       "end": 161.968
+      },
+      {
+       "w": "trace.",
+       "start": 161.968,
+       "end": 162.304
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

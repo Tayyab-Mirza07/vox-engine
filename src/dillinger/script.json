@@ -1,0 +1,54 @@
+{
+  "title": "He Escaped an 'Escape-Proof' Jail With a Wooden Gun",
+  "style": "flat cartoon silhouettes, 1930s noir palette, cuts locked to the music's beat; a few real PD photos as evidence inserts",
+  "voice": {
+    "provider": "elevenlabs",
+    "voice_id": "uFIXVu9mmnDZ7dTKCBTX",
+    "model": "eleven_v4"
+  },
+  "gap": 0.7,
+  "tail": 1.6,
+  "spoken": {
+    "1934.": "nineteen thirty four",
+    "1934,": "nineteen thirty four",
+    "1933,": "nineteen thirty three",
+    "2019,": "twenty nineteen"
+  },
+  "lines": [
+    "In 1934, America's most wanted man broke out of an escape proof jail. His weapon? A gun carved out of wood. And blackened with shoe polish.",
+    "His name was John Dillinger. An Indiana farm boy who robbed a grocer at twenty one, and got ten years in prison.",
+    "Prison didn't fix him. It trained him. Inside, he met the bank robbers who would become his gang.",
+    "Paroled in 1933, he went on a bank robbing spree across the Midwest. Fast. Polite. Almost theatrical. He would vault right over the counter.",
+    "Then he did something nobody saw coming. He smuggled guns into his old prison, and ten of his friends broke out.",
+    "Weeks later, they returned the favor, and broke him out of a jail in Ohio. A sheriff was killed that night.",
+    "January 1934. A hotel fire in Tucson, Arizona. Firemen recognized the gang from a detective magazine. Dillinger was arrested without a shot.",
+    "They sent him to Crown Point, Indiana. A jail the newspapers called escape proof.",
+    "There, he posed for a famous photo, his arm around the prosecutor's shoulder. Smiling.",
+    "Five weeks later, on March 3rd, he made his move.",
+    "He pulled out a pistol carved from wood, blackened with shoe polish. And the guards believed it.",
+    "He locked the guards in a cell, grabbed two real machine guns, and walked out the front.",
+    "Then he stole the sheriff's own car, and drove it across the state line. That was his biggest mistake.",
+    "A stolen car across a state line was a federal crime. Now J. Edgar Hoover's agents were coming for him.",
+    "He became Public Enemy Number One. He burned off his fingerprints with acid, and had surgery to change his face.",
+    "July 22nd, 1934. Chicago. A woman in an orange dress walked out of a movie theater beside him. She had sold him out.",
+    "Federal agents were waiting. Dillinger ran for an alley. He was shot dead. He was thirty one.",
+    "But here's the twist. Did he really carve that gun himself? Many believe it was smuggled in, with a bribe.",
+    "And some still think the man in that alley wasn't Dillinger at all. In 2019, his family tried to dig him up to find out. A court said no.",
+    "What do you think? Was it him? Tell me in the comments. Then watch our Alcatraz short, three men who escaped and were never found. And follow for a new mystery every day."
+  ],
+  "structure": {
+    "hook": "line 0: escaped an 'escape-proof' jail with a wooden gun blackened with shoe polish (cold open, intense)",
+    "5W1H": "who (John Dillinger, Sheriff Lillian Holley's jail, J. Edgar Hoover's Bureau, Anna Sage), what (bank robberies, jail breaks, wooden-gun escape), when (1924-1934; 3 Mar 1934; 22 Jul 1934; 2019 exhumation bid), where (Indiana, Ohio, Tucson, Crown Point, Chicago), how (wooden gun, stolen sheriff's car), why (state-line crossing made it federal)",
+    "rehooks": [
+      "line 4: he did something nobody saw coming",
+      "line 9: five weeks later, he made his move",
+      "line 12: his biggest mistake",
+      "line 17: the twist — did he carve it himself?"
+    ],
+    "tension": "lines 3-16",
+    "release": "line 16: shot dead at 31",
+    "payoff": "lines 17-18: wooden gun legend vs bribery; was it even him? exhumation blocked",
+    "cta": "line 19: comment question + Alcatraz Short (thumbnail) + follow line"
+  },
+  "notes": "Sources: FBI History 'John Dillinger' (fbi.gov/history/famous-cases/john-dillinger); Wikipedia 'John Dillinger'; Indiana Historical Bureau; AP 2019-2020 coverage of the exhumation request (Crown Hill Cemetery; Marion County judge blocked it). Born 1903 Indianapolis, family moved to a farm near Mooresville. 1924 robbed a Mooresville grocer, sentenced 10-20 years; met Harry Pierpont and others in prison. Paroled May 1933; bank robberies; known for vaulting counters. Sept 1933: guns smuggled into Indiana State Prison, 10 inmates escaped. Oct 1933: gang broke him out of Allen County jail, Lima, Ohio; Sheriff Jess Sarber killed. 22-25 Jan 1934: Hotel Congress fire, Tucson; firemen recognized gang members from True Detective; arrested. Sent to Lake County jail, Crown Point, called escape-proof; famous photo with prosecutor Robert Estill. 3 Mar 1934: wooden gun escape, took two machine guns, stole Sheriff Lillian Holley's car, crossed into Illinois -> federal Dyer Act, Bureau of Investigation pursuit. Public Enemy No. 1; acid on fingertips and facial surgery (May 1934). 22 Jul 1934: Biograph Theater, Chicago; Ana Cumpănaș (Anna Sage, 'woman in red', dress was orange) tipped the Bureau; shot in alley; age 31. Wooden gun: Dillinger claimed he whittled it; many investigators/historians believe it was smuggled in via bribery. 2019 family exhumation plan; court blocked it (Dec 2020 ruling)."
+}
